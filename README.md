@@ -6,6 +6,6 @@ Conteúdo
     Índice dos notebooks no Colab
 
     Trabalho de Pre-processamento de Database e Visualização da Informação , Global Aquaculture Imports and Exports
-    Pré Visualização | [Abrir no Kaggle] url (https://www.kaggle.com/datasets/zhengtzer/global-fisheries-aquaculture-department)]| Abrir no Colab 
+    Pré Visualização | [Abrir no Kaggle](https://www.kaggle.com/datasets/zhengtzer/global-fisheries-aquaculture-department) | Abrir no Colab 
 
     
