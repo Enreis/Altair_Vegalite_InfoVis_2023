@@ -1,5 +1,5 @@
 # Altair_Vegalite_InfoVis_2023
-Avaliação da ferramenta Altair na disciplina InfoVis PPGCC Mestrado UFPA 2023
+Avaliação de trabalho prático utilizando a ferramenta Altair na disciplina InfoVis PPGCC Mestrado UFPA 2023
 
 ## Conteúdo ##
 
