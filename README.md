@@ -3,9 +3,10 @@ Avaliação de Altair InfoVis PPGCC UFPA 2023
 
 Conteúdo
 
-    Índice dos notebooks no Colab
-
+    Índice dos notebooks no Colab <br/>
+<small>
     Trabalho de Pre-processamento de Database e Visualização da Informação , Global Aquaculture Imports and Exports
-    Pré Visualização | [Abrir no Kaggle](https://www.kaggle.com/datasets/zhengtzer/global-fisheries-aquaculture-department) | Abrir no Colab 
+    [Visualização no Kaggle](https://www.kaggle.com/datasets/zhengtzer/global-fisheries-aquaculture-department) | [Visualização no Colab] (https://colab.research.google.com/drive/1fRVW-jmoFbuM8uQ3yPExrO81CeWNYVTn?authuser=0#scrollTo=BU5Ndslf64ZA) 
+</small>
 
     
