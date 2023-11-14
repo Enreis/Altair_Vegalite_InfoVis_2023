@@ -1,0 +1,3505 @@
+Continent,Land Area,Trade flow,Commodity,Year,Quantity
+Africa,Algeria,Export,Crustaceans,2000,854
+Africa,Algeria,Export,Fish,2000,187
+Africa,Algeria,Import,Crustaceans,2000,23
+Africa,Algeria,Import,Fish,2000,7434
+Africa,Angola,Export,Crustaceans,2000,630
+Africa,Angola,Export,Fish,2000,2896
+Africa,Angola,Import,Crustaceans,2000,6
+Africa,Angola,Import,Fish,2000,7981
+Africa,Benin,Export,Crustaceans,2000,423
+Africa,Benin,Export,Fish,2000,64
+Africa,Benin,Import,Crustaceans,2000,19
+Africa,Benin,Import,Fish,2000,20888
+Africa,Botswana,Export,Crustaceans,2000,4
+Africa,Botswana,Export,Fish,2000,13
+Africa,Botswana,Import,Crustaceans,2000,314
+Africa,Botswana,Import,Fish,2000,3574
+Africa,Burkina Faso,Export,Fish,2000,9
+Africa,Burkina Faso,Import,Crustaceans,2000,59
+Africa,Burkina Faso,Import,Fish,2000,12250
+Africa,Burundi,Export,Fish,2000,2
+Africa,Burundi,Import,Crustaceans,2000,0
+Africa,Burundi,Import,Fish,2000,63
+Africa,Cabo Verde,Export,Crustaceans,2000,12
+Africa,Cabo Verde,Export,Fish,2000,322
+Africa,Cabo Verde,Import,Crustaceans,2000,12
+Africa,Cabo Verde,Import,Fish,2000,61
+Africa,Cameroon,Export,Crustaceans,2000,375
+Africa,Cameroon,Export,Fish,2000,62
+Africa,Cameroon,Import,Crustaceans,2000,5
+Africa,Cameroon,Import,Fish,2000,81469
+Africa,Central African Republic,Export,Fish,2000,22
+Africa,Central African Republic,Import,Crustaceans,2000,2
+Africa,Central African Republic,Import,Fish,2000,580
+Africa,Chad,Export,Fish,2000,4
+Africa,Chad,Import,Crustaceans,2000,0
+Africa,Chad,Import,Fish,2000,1
+Africa,Comoros,Export,Fish,2000,0
+Africa,Comoros,Import,Crustaceans,2000,7
+Africa,Comoros,Import,Fish,2000,445
+Africa,Congo,Export,Crustaceans,2000,13
+Africa,Congo,Export,Fish,2000,31
+Africa,Congo,Import,Crustaceans,2000,0
+Africa,Congo,Import,Fish,2000,10730
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2000,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2000,19
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2000,0
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2000,61508
+Africa,Côte d'Ivoire,Export,Crustaceans,2000,911
+Africa,Côte d'Ivoire,Export,Fish,2000,63504
+Africa,Côte d'Ivoire,Import,Crustaceans,2000,323
+Africa,Côte d'Ivoire,Import,Fish,2000,235242
+Africa,Djibouti,Export,Crustaceans,2000,0
+Africa,Djibouti,Export,Fish,2000,6
+Africa,Djibouti,Import,Crustaceans,2000,8
+Africa,Djibouti,Import,Fish,2000,492
+Africa,Egypt,Export,Crustaceans,2000,45
+Africa,Egypt,Export,Fish,2000,636
+Africa,Egypt,Import,Crustaceans,2000,46
+Africa,Egypt,Import,Fish,2000,208963
+Africa,Equatorial Guinea,Export,Crustaceans,2000,0
+Africa,Equatorial Guinea,Export,Fish,2000,395
+Africa,Equatorial Guinea,Import,Crustaceans,2000,0
+Africa,Equatorial Guinea,Import,Fish,2000,2476
+Africa,Eritrea,Export,Crustaceans,2000,73
+Africa,Eritrea,Export,Fish,2000,442
+Africa,Eritrea,Import,Crustaceans,2000,0
+Africa,Eritrea,Import,Fish,2000,46
+Africa,Ethiopia,Export,Fish,2000,8
+Africa,Ethiopia,Import,Crustaceans,2000,0
+Africa,Ethiopia,Import,Fish,2000,53
+Africa,Gabon,Export,Crustaceans,2000,1990
+Africa,Gabon,Export,Fish,2000,1305
+Africa,Gabon,Import,Crustaceans,2000,30
+Africa,Gabon,Import,Fish,2000,11012
+Africa,Gambia,Export,Crustaceans,2000,779
+Africa,Gambia,Export,Fish,2000,584
+Africa,Gambia,Import,Crustaceans,2000,8
+Africa,Gambia,Import,Fish,2000,826
+Africa,Ghana,Export,Crustaceans,2000,355
+Africa,Ghana,Export,Fish,2000,53786
+Africa,Ghana,Import,Crustaceans,2000,12
+Africa,Ghana,Import,Fish,2000,169302
+Africa,Guinea,Export,Crustaceans,2000,175
+Africa,Guinea,Export,Fish,2000,2142
+Africa,Guinea,Import,Crustaceans,2000,0
+Africa,Guinea,Import,Fish,2000,898
+Africa,Guinea-Bissau,Export,Crustaceans,2000,77
+Africa,Guinea-Bissau,Export,Fish,2000,1698
+Africa,Guinea-Bissau,Import,Crustaceans,2000,0
+Africa,Guinea-Bissau,Import,Fish,2000,147
+Africa,Kenya,Export,Crustaceans,2000,412
+Africa,Kenya,Export,Fish,2000,16242
+Africa,Kenya,Import,Crustaceans,2000,4
+Africa,Kenya,Import,Fish,2000,11273
+Africa,Lesotho,Export,Crustaceans,2000,0
+Africa,Lesotho,Export,Fish,2000,0
+Africa,Lesotho,Import,Crustaceans,2000,8
+Africa,Lesotho,Import,Fish,2000,991
+Africa,Liberia,Export,Crustaceans,2000,0
+Africa,Liberia,Export,Fish,2000,32
+Africa,Liberia,Import,Crustaceans,2000,24
+Africa,Liberia,Import,Fish,2000,3746
+Africa,Libya,Export,Crustaceans,2000,0
+Africa,Libya,Export,Fish,2000,1868
+Africa,Libya,Import,Crustaceans,2000,6
+Africa,Libya,Import,Fish,2000,4442
+Africa,Madagascar,Export,Crustaceans,2000,2156
+Africa,Madagascar,Export,Fish,2000,10621
+Africa,Madagascar,Import,Crustaceans,2000,9
+Africa,Madagascar,Import,Fish,2000,13521
+Africa,Malawi,Export,Fish,2000,42
+Africa,Malawi,Import,Crustaceans,2000,0
+Africa,Malawi,Import,Fish,2000,1485
+Africa,Mali,Export,Crustaceans,2000,0
+Africa,Mali,Export,Fish,2000,761
+Africa,Mali,Import,Crustaceans,2000,41
+Africa,Mali,Import,Fish,2000,2696
+Africa,Mauritania,Export,Crustaceans,2000,781
+Africa,Mauritania,Export,Fish,2000,66340
+Africa,Mauritania,Import,Crustaceans,2000,0
+Africa,Mauritania,Import,Fish,2000,120
+Africa,Mauritius,Export,Crustaceans,2000,0
+Africa,Mauritius,Export,Fish,2000,18152
+Africa,Mauritius,Import,Crustaceans,2000,1243
+Africa,Mauritius,Import,Fish,2000,39835
+Africa,Mayotte,Export,Crustaceans,2000,0
+Africa,Mayotte,Export,Fish,2000,4
+Africa,Mayotte,Import,Crustaceans,2000,9
+Africa,Mayotte,Import,Fish,2000,591
+Africa,Morocco,Export,Crustaceans,2000,12959
+Africa,Morocco,Export,Fish,2000,129286
+Africa,Morocco,Import,Crustaceans,2000,8351
+Africa,Morocco,Import,Fish,2000,3939
+Africa,Mozambique,Export,Crustaceans,2000,7265
+Africa,Mozambique,Export,Fish,2000,3244
+Africa,Mozambique,Import,Crustaceans,2000,80
+Africa,Mozambique,Import,Fish,2000,5820
+Africa,Namibia,Export,Crustaceans,2000,1346
+Africa,Namibia,Export,Fish,2000,384992
+Africa,Namibia,Import,Crustaceans,2000,47
+Africa,Namibia,Import,Fish,2000,89079
+Africa,Niger,Export,Crustaceans,2000,0
+Africa,Niger,Export,Fish,2000,1618
+Africa,Niger,Import,Crustaceans,2000,2
+Africa,Niger,Import,Fish,2000,895
+Africa,Nigeria,Export,Crustaceans,2000,2195
+Africa,Nigeria,Export,Fish,2000,224
+Africa,Nigeria,Import,Crustaceans,2000,12
+Africa,Nigeria,Import,Fish,2000,311871
+Africa,Rwanda,Export,Crustaceans,2000,0
+Africa,Rwanda,Export,Fish,2000,0
+Africa,Rwanda,Import,Crustaceans,2000,5
+Africa,Rwanda,Import,Fish,2000,130
+Africa,Saint Helena,Export,Crustaceans,2000,145
+Africa,Saint Helena,Export,Fish,2000,160
+Africa,Saint Helena,Import,Crustaceans,2000,0
+Africa,Saint Helena,Import,Fish,2000,57
+Africa,Sao Tome and Principe,Export,Crustaceans,2000,0
+Africa,Sao Tome and Principe,Export,Fish,2000,53
+Africa,Sao Tome and Principe,Import,Crustaceans,2000,0
+Africa,Sao Tome and Principe,Import,Fish,2000,19
+Africa,Senegal,Export,Crustaceans,2000,6909
+Africa,Senegal,Export,Fish,2000,66526
+Africa,Senegal,Import,Crustaceans,2000,66
+Africa,Senegal,Import,Fish,2000,606
+Africa,Seychelles,Export,Crustaceans,2000,331
+Africa,Seychelles,Export,Fish,2000,42096
+Africa,Seychelles,Import,Crustaceans,2000,39
+Africa,Seychelles,Import,Fish,2000,19003
+Africa,Sierra Leone,Export,Crustaceans,2000,1082
+Africa,Sierra Leone,Export,Fish,2000,5496
+Africa,Sierra Leone,Import,Crustaceans,2000,14
+Africa,Sierra Leone,Import,Fish,2000,726
+Africa,Somalia,Export,Crustaceans,2000,18
+Africa,Somalia,Export,Fish,2000,1101
+Africa,Somalia,Import,Crustaceans,2000,0
+Africa,Somalia,Import,Fish,2000,71
+Africa,South Africa,Export,Crustaceans,2000,2271
+Africa,South Africa,Export,Fish,2000,127000
+Africa,South Africa,Import,Crustaceans,2000,2870
+Africa,South Africa,Import,Fish,2000,16798
+Africa,South Sudan,Export,Fish,2000,0
+Africa,South Sudan,Import,Crustaceans,2000,0
+Africa,South Sudan,Import,Fish,2000,0
+Africa,Sudan,Export,Fish,2000,0
+Africa,Sudan,Import,Crustaceans,2000,0
+Africa,Sudan,Import,Fish,2000,0
+Africa,Sudan (former),Export,Crustaceans,2000,0
+Africa,Sudan (former),Export,Fish,2000,99
+Africa,Sudan (former),Import,Crustaceans,2000,0
+Africa,Sudan (former),Import,Fish,2000,240
+Africa,Swaziland,Export,Crustaceans,2000,453
+Africa,Swaziland,Export,Fish,2000,1110
+Africa,Swaziland,Import,Crustaceans,2000,558
+Africa,Swaziland,Import,Fish,2000,5169
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2000,1767
+Africa,"Tanzania, United Rep. of",Export,Fish,2000,40529
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2000,21
+Africa,"Tanzania, United Rep. of",Import,Fish,2000,297
+Africa,Togo,Export,Crustaceans,2000,215
+Africa,Togo,Export,Fish,2000,6181
+Africa,Togo,Import,Crustaceans,2000,3
+Africa,Togo,Import,Fish,2000,29880
+Africa,Tunisia,Export,Crustaceans,2000,7058
+Africa,Tunisia,Export,Fish,2000,2297
+Africa,Tunisia,Import,Crustaceans,2000,143
+Africa,Tunisia,Import,Fish,2000,11232
+Africa,Uganda,Export,Crustaceans,2000,0
+Africa,Uganda,Export,Fish,2000,14499
+Africa,Uganda,Import,Crustaceans,2000,6
+Africa,Uganda,Import,Fish,2000,64
+Africa,Zambia,Export,Crustaceans,2000,0
+Africa,Zambia,Export,Fish,2000,710
+Africa,Zambia,Import,Crustaceans,2000,7
+Africa,Zambia,Import,Fish,2000,1327
+Africa,Zimbabwe,Export,Crustaceans,2000,1
+Africa,Zimbabwe,Export,Fish,2000,816
+Africa,Zimbabwe,Import,Crustaceans,2000,79
+Africa,Zimbabwe,Import,Fish,2000,7453
+Africa,Algeria,Export,Crustaceans,2001,819
+Africa,Algeria,Export,Fish,2001,259
+Africa,Algeria,Import,Crustaceans,2001,21
+Africa,Algeria,Import,Fish,2001,7426
+Africa,Angola,Export,Crustaceans,2001,834
+Africa,Angola,Export,Fish,2001,9746
+Africa,Angola,Import,Crustaceans,2001,12
+Africa,Angola,Import,Fish,2001,7800
+Africa,Benin,Export,Crustaceans,2001,609
+Africa,Benin,Export,Fish,2001,3
+Africa,Benin,Import,Crustaceans,2001,1
+Africa,Benin,Import,Fish,2001,10974
+Africa,Botswana,Export,Crustaceans,2001,13
+Africa,Botswana,Export,Fish,2001,33
+Africa,Botswana,Import,Crustaceans,2001,501
+Africa,Botswana,Import,Fish,2001,2669
+Africa,Burkina Faso,Export,Fish,2001,15
+Africa,Burkina Faso,Import,Crustaceans,2001,42
+Africa,Burkina Faso,Import,Fish,2001,7551
+Africa,Burundi,Export,Fish,2001,4
+Africa,Burundi,Import,Crustaceans,2001,0
+Africa,Burundi,Import,Fish,2001,79
+Africa,Cabo Verde,Export,Crustaceans,2001,0
+Africa,Cabo Verde,Export,Fish,2001,246
+Africa,Cabo Verde,Import,Crustaceans,2001,10
+Africa,Cabo Verde,Import,Fish,2001,173
+Africa,Cameroon,Export,Crustaceans,2001,110
+Africa,Cameroon,Export,Fish,2001,217
+Africa,Cameroon,Import,Crustaceans,2001,4
+Africa,Cameroon,Import,Fish,2001,97843
+Africa,Central African Republic,Export,Fish,2001,0
+Africa,Central African Republic,Import,Crustaceans,2001,0
+Africa,Central African Republic,Import,Fish,2001,568
+Africa,Chad,Export,Fish,2001,2
+Africa,Chad,Import,Crustaceans,2001,0
+Africa,Chad,Import,Fish,2001,32
+Africa,Comoros,Export,Fish,2001,0
+Africa,Comoros,Import,Crustaceans,2001,7
+Africa,Comoros,Import,Fish,2001,256
+Africa,Congo,Export,Crustaceans,2001,227
+Africa,Congo,Export,Fish,2001,40
+Africa,Congo,Import,Crustaceans,2001,1
+Africa,Congo,Import,Fish,2001,17615
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2001,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2001,18
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2001,1
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2001,70323
+Africa,Côte d'Ivoire,Export,Crustaceans,2001,861
+Africa,Côte d'Ivoire,Export,Fish,2001,49877
+Africa,Côte d'Ivoire,Import,Crustaceans,2001,464
+Africa,Côte d'Ivoire,Import,Fish,2001,239505
+Africa,Djibouti,Export,Crustaceans,2001,0
+Africa,Djibouti,Export,Fish,2001,30
+Africa,Djibouti,Import,Crustaceans,2001,2
+Africa,Djibouti,Import,Fish,2001,285
+Africa,Egypt,Export,Crustaceans,2001,8
+Africa,Egypt,Export,Fish,2001,668
+Africa,Egypt,Import,Crustaceans,2001,576
+Africa,Egypt,Import,Fish,2001,206315
+Africa,Equatorial Guinea,Export,Crustaceans,2001,0
+Africa,Equatorial Guinea,Export,Fish,2001,144
+Africa,Equatorial Guinea,Import,Crustaceans,2001,0
+Africa,Equatorial Guinea,Import,Fish,2001,4312
+Africa,Eritrea,Export,Crustaceans,2001,28
+Africa,Eritrea,Export,Fish,2001,134
+Africa,Eritrea,Import,Crustaceans,2001,9
+Africa,Eritrea,Import,Fish,2001,76
+Africa,Ethiopia,Export,Fish,2001,11
+Africa,Ethiopia,Import,Crustaceans,2001,0
+Africa,Ethiopia,Import,Fish,2001,24
+Africa,Gabon,Export,Crustaceans,2001,2245
+Africa,Gabon,Export,Fish,2001,622
+Africa,Gabon,Import,Crustaceans,2001,5
+Africa,Gabon,Import,Fish,2001,11556
+Africa,Gambia,Export,Crustaceans,2001,272
+Africa,Gambia,Export,Fish,2001,364
+Africa,Gambia,Import,Crustaceans,2001,61
+Africa,Gambia,Import,Fish,2001,650
+Africa,Ghana,Export,Crustaceans,2001,321
+Africa,Ghana,Export,Fish,2001,59712
+Africa,Ghana,Import,Crustaceans,2001,3
+Africa,Ghana,Import,Fish,2001,170533
+Africa,Guinea,Export,Crustaceans,2001,96
+Africa,Guinea,Export,Fish,2001,3161
+Africa,Guinea,Import,Crustaceans,2001,3
+Africa,Guinea,Import,Fish,2001,1187
+Africa,Guinea-Bissau,Export,Crustaceans,2001,159
+Africa,Guinea-Bissau,Export,Fish,2001,2301
+Africa,Guinea-Bissau,Import,Crustaceans,2001,0
+Africa,Guinea-Bissau,Import,Fish,2001,167
+Africa,Kenya,Export,Crustaceans,2001,570
+Africa,Kenya,Export,Fish,2001,17785
+Africa,Kenya,Import,Crustaceans,2001,4
+Africa,Kenya,Import,Fish,2001,17077
+Africa,Lesotho,Export,Crustaceans,2001,0
+Africa,Lesotho,Export,Fish,2001,0
+Africa,Lesotho,Import,Crustaceans,2001,14
+Africa,Lesotho,Import,Fish,2001,1231
+Africa,Liberia,Export,Crustaceans,2001,18
+Africa,Liberia,Export,Fish,2001,47
+Africa,Liberia,Import,Crustaceans,2001,1
+Africa,Liberia,Import,Fish,2001,1903
+Africa,Libya,Export,Crustaceans,2001,0
+Africa,Libya,Export,Fish,2001,1375
+Africa,Libya,Import,Crustaceans,2001,11
+Africa,Libya,Import,Fish,2001,4587
+Africa,Madagascar,Export,Crustaceans,2001,12538
+Africa,Madagascar,Export,Fish,2001,16809
+Africa,Madagascar,Import,Crustaceans,2001,38
+Africa,Madagascar,Import,Fish,2001,12637
+Africa,Malawi,Export,Fish,2001,34
+Africa,Malawi,Import,Crustaceans,2001,3
+Africa,Malawi,Import,Fish,2001,345
+Africa,Mali,Export,Crustaceans,2001,0
+Africa,Mali,Export,Fish,2001,950
+Africa,Mali,Import,Crustaceans,2001,37
+Africa,Mali,Import,Fish,2001,2923
+Africa,Mauritania,Export,Crustaceans,2001,1657
+Africa,Mauritania,Export,Fish,2001,65376
+Africa,Mauritania,Import,Crustaceans,2001,0
+Africa,Mauritania,Import,Fish,2001,173
+Africa,Mauritius,Export,Crustaceans,2001,0
+Africa,Mauritius,Export,Fish,2001,27380
+Africa,Mauritius,Import,Crustaceans,2001,1440
+Africa,Mauritius,Import,Fish,2001,49428
+Africa,Mayotte,Export,Crustaceans,2001,0
+Africa,Mayotte,Export,Fish,2001,28
+Africa,Mayotte,Import,Crustaceans,2001,23
+Africa,Mayotte,Import,Fish,2001,797
+Africa,Morocco,Export,Crustaceans,2001,11420
+Africa,Morocco,Export,Fish,2001,163860
+Africa,Morocco,Import,Crustaceans,2001,5997
+Africa,Morocco,Import,Fish,2001,5407
+Africa,Mozambique,Export,Crustaceans,2001,6450
+Africa,Mozambique,Export,Fish,2001,1946
+Africa,Mozambique,Import,Crustaceans,2001,1
+Africa,Mozambique,Import,Fish,2001,4274
+Africa,Namibia,Export,Crustaceans,2001,1545
+Africa,Namibia,Export,Fish,2001,311379
+Africa,Namibia,Import,Crustaceans,2001,43
+Africa,Namibia,Import,Fish,2001,33530
+Africa,Niger,Export,Crustaceans,2001,0
+Africa,Niger,Export,Fish,2001,6676
+Africa,Niger,Import,Crustaceans,2001,1
+Africa,Niger,Import,Fish,2001,676
+Africa,Nigeria,Export,Crustaceans,2001,2340
+Africa,Nigeria,Export,Fish,2001,628
+Africa,Nigeria,Import,Crustaceans,2001,0
+Africa,Nigeria,Import,Fish,2001,633387
+Africa,Rwanda,Export,Crustaceans,2001,0
+Africa,Rwanda,Export,Fish,2001,0
+Africa,Rwanda,Import,Crustaceans,2001,0
+Africa,Rwanda,Import,Fish,2001,102
+Africa,Saint Helena,Export,Crustaceans,2001,192
+Africa,Saint Helena,Export,Fish,2001,355
+Africa,Saint Helena,Import,Crustaceans,2001,4
+Africa,Saint Helena,Import,Fish,2001,55
+Africa,Sao Tome and Principe,Export,Crustaceans,2001,0
+Africa,Sao Tome and Principe,Export,Fish,2001,300
+Africa,Sao Tome and Principe,Import,Crustaceans,2001,0
+Africa,Sao Tome and Principe,Import,Fish,2001,0
+Africa,Senegal,Export,Crustaceans,2001,7687
+Africa,Senegal,Export,Fish,2001,63266
+Africa,Senegal,Import,Crustaceans,2001,49
+Africa,Senegal,Import,Fish,2001,392
+Africa,Seychelles,Export,Crustaceans,2001,316
+Africa,Seychelles,Export,Fish,2001,62891
+Africa,Seychelles,Import,Crustaceans,2001,16
+Africa,Seychelles,Import,Fish,2001,18770
+Africa,Sierra Leone,Export,Crustaceans,2001,1154
+Africa,Sierra Leone,Export,Fish,2001,5031
+Africa,Sierra Leone,Import,Crustaceans,2001,83
+Africa,Sierra Leone,Import,Fish,2001,955
+Africa,Somalia,Export,Crustaceans,2001,2
+Africa,Somalia,Export,Fish,2001,1642
+Africa,Somalia,Import,Crustaceans,2001,0
+Africa,Somalia,Import,Fish,2001,15
+Africa,South Africa,Export,Crustaceans,2001,2155
+Africa,South Africa,Export,Fish,2001,136172
+Africa,South Africa,Import,Crustaceans,2001,2990
+Africa,South Africa,Import,Fish,2001,22255
+Africa,South Sudan,Export,Fish,2001,0
+Africa,South Sudan,Import,Crustaceans,2001,0
+Africa,South Sudan,Import,Fish,2001,0
+Africa,Sudan,Export,Fish,2001,0
+Africa,Sudan,Import,Crustaceans,2001,0
+Africa,Sudan,Import,Fish,2001,0
+Africa,Sudan (former),Export,Crustaceans,2001,0
+Africa,Sudan (former),Export,Fish,2001,132
+Africa,Sudan (former),Import,Crustaceans,2001,0
+Africa,Sudan (former),Import,Fish,2001,169
+Africa,Swaziland,Export,Crustaceans,2001,400
+Africa,Swaziland,Export,Fish,2001,724
+Africa,Swaziland,Import,Crustaceans,2001,306
+Africa,Swaziland,Import,Fish,2001,3390
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2001,2067
+Africa,"Tanzania, United Rep. of",Export,Fish,2001,41531
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2001,54
+Africa,"Tanzania, United Rep. of",Import,Fish,2001,221
+Africa,Togo,Export,Crustaceans,2001,230
+Africa,Togo,Export,Fish,2001,9038
+Africa,Togo,Import,Crustaceans,2001,35
+Africa,Togo,Import,Fish,2001,27893
+Africa,Tunisia,Export,Crustaceans,2001,4448
+Africa,Tunisia,Export,Fish,2001,3498
+Africa,Tunisia,Import,Crustaceans,2001,38
+Africa,Tunisia,Import,Fish,2001,16982
+Africa,Uganda,Export,Crustaceans,2001,9
+Africa,Uganda,Export,Fish,2001,17013
+Africa,Uganda,Import,Crustaceans,2001,6
+Africa,Uganda,Import,Fish,2001,10
+Africa,Zambia,Export,Crustaceans,2001,0
+Africa,Zambia,Export,Fish,2001,980
+Africa,Zambia,Import,Crustaceans,2001,10
+Africa,Zambia,Import,Fish,2001,906
+Africa,Zimbabwe,Export,Crustaceans,2001,2
+Africa,Zimbabwe,Export,Fish,2001,936
+Africa,Zimbabwe,Import,Crustaceans,2001,41
+Africa,Zimbabwe,Import,Fish,2001,3062
+Africa,Algeria,Export,Crustaceans,2002,916
+Africa,Algeria,Export,Fish,2002,977
+Africa,Algeria,Import,Crustaceans,2002,128
+Africa,Algeria,Import,Fish,2002,10389
+Africa,Angola,Export,Crustaceans,2002,1951
+Africa,Angola,Export,Fish,2002,6272
+Africa,Angola,Import,Crustaceans,2002,31
+Africa,Angola,Import,Fish,2002,8778
+Africa,Benin,Export,Crustaceans,2002,703
+Africa,Benin,Export,Fish,2002,3
+Africa,Benin,Import,Crustaceans,2002,69
+Africa,Benin,Import,Fish,2002,20267
+Africa,Botswana,Export,Crustaceans,2002,1
+Africa,Botswana,Export,Fish,2002,35
+Africa,Botswana,Import,Crustaceans,2002,236
+Africa,Botswana,Import,Fish,2002,2397
+Africa,Burkina Faso,Export,Fish,2002,0
+Africa,Burkina Faso,Import,Crustaceans,2002,21
+Africa,Burkina Faso,Import,Fish,2002,8143
+Africa,Burundi,Export,Fish,2002,6
+Africa,Burundi,Import,Crustaceans,2002,1
+Africa,Burundi,Import,Fish,2002,52
+Africa,Cabo Verde,Export,Crustaceans,2002,23
+Africa,Cabo Verde,Export,Fish,2002,238
+Africa,Cabo Verde,Import,Crustaceans,2002,12
+Africa,Cabo Verde,Import,Fish,2002,79
+Africa,Cameroon,Export,Crustaceans,2002,94
+Africa,Cameroon,Export,Fish,2002,12
+Africa,Cameroon,Import,Crustaceans,2002,9
+Africa,Cameroon,Import,Fish,2002,78800
+Africa,Central African Republic,Export,Fish,2002,0
+Africa,Central African Republic,Import,Crustaceans,2002,0
+Africa,Central African Republic,Import,Fish,2002,501
+Africa,Chad,Export,Fish,2002,0
+Africa,Chad,Import,Crustaceans,2002,1
+Africa,Chad,Import,Fish,2002,466
+Africa,Comoros,Export,Fish,2002,0
+Africa,Comoros,Import,Crustaceans,2002,0
+Africa,Comoros,Import,Fish,2002,283
+Africa,Congo,Export,Crustaceans,2002,565
+Africa,Congo,Export,Fish,2002,52
+Africa,Congo,Import,Crustaceans,2002,0
+Africa,Congo,Import,Fish,2002,9914
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2002,1
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2002,2
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2002,2
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2002,66842
+Africa,Côte d'Ivoire,Export,Crustaceans,2002,422
+Africa,Côte d'Ivoire,Export,Fish,2002,54945
+Africa,Côte d'Ivoire,Import,Crustaceans,2002,759
+Africa,Côte d'Ivoire,Import,Fish,2002,255956
+Africa,Djibouti,Export,Crustaceans,2002,0
+Africa,Djibouti,Export,Fish,2002,18
+Africa,Djibouti,Import,Crustaceans,2002,2
+Africa,Djibouti,Import,Fish,2002,395
+Africa,Egypt,Export,Crustaceans,2002,2
+Africa,Egypt,Export,Fish,2002,1630
+Africa,Egypt,Import,Crustaceans,2002,235
+Africa,Egypt,Import,Fish,2002,153250
+Africa,Equatorial Guinea,Export,Crustaceans,2002,0
+Africa,Equatorial Guinea,Export,Fish,2002,29
+Africa,Equatorial Guinea,Import,Crustaceans,2002,7
+Africa,Equatorial Guinea,Import,Fish,2002,3295
+Africa,Eritrea,Export,Crustaceans,2002,69
+Africa,Eritrea,Export,Fish,2002,121
+Africa,Eritrea,Import,Crustaceans,2002,5
+Africa,Eritrea,Import,Fish,2002,99
+Africa,Ethiopia,Export,Fish,2002,32
+Africa,Ethiopia,Import,Crustaceans,2002,0
+Africa,Ethiopia,Import,Fish,2002,273
+Africa,Gabon,Export,Crustaceans,2002,2132
+Africa,Gabon,Export,Fish,2002,1619
+Africa,Gabon,Import,Crustaceans,2002,7
+Africa,Gabon,Import,Fish,2002,1831
+Africa,Gambia,Export,Crustaceans,2002,141
+Africa,Gambia,Export,Fish,2002,606
+Africa,Gambia,Import,Crustaceans,2002,38
+Africa,Gambia,Import,Fish,2002,1559
+Africa,Ghana,Export,Crustaceans,2002,105
+Africa,Ghana,Export,Fish,2002,45057
+Africa,Ghana,Import,Crustaceans,2002,24
+Africa,Ghana,Import,Fish,2002,222028
+Africa,Guinea,Export,Crustaceans,2002,71
+Africa,Guinea,Export,Fish,2002,4001
+Africa,Guinea,Import,Crustaceans,2002,0
+Africa,Guinea,Import,Fish,2002,830
+Africa,Guinea-Bissau,Export,Crustaceans,2002,141
+Africa,Guinea-Bissau,Export,Fish,2002,3817
+Africa,Guinea-Bissau,Import,Crustaceans,2002,0
+Africa,Guinea-Bissau,Import,Fish,2002,199
+Africa,Kenya,Export,Crustaceans,2002,329
+Africa,Kenya,Export,Fish,2002,23643
+Africa,Kenya,Import,Crustaceans,2002,19
+Africa,Kenya,Import,Fish,2002,8980
+Africa,Lesotho,Export,Crustaceans,2002,0
+Africa,Lesotho,Export,Fish,2002,7
+Africa,Lesotho,Import,Crustaceans,2002,4
+Africa,Lesotho,Import,Fish,2002,2290
+Africa,Liberia,Export,Crustaceans,2002,0
+Africa,Liberia,Export,Fish,2002,151
+Africa,Liberia,Import,Crustaceans,2002,18
+Africa,Liberia,Import,Fish,2002,1132
+Africa,Libya,Export,Crustaceans,2002,0
+Africa,Libya,Export,Fish,2002,1695
+Africa,Libya,Import,Crustaceans,2002,21
+Africa,Libya,Import,Fish,2002,4119
+Africa,Madagascar,Export,Crustaceans,2002,15282
+Africa,Madagascar,Export,Fish,2002,15581
+Africa,Madagascar,Import,Crustaceans,2002,1
+Africa,Madagascar,Import,Fish,2002,17641
+Africa,Malawi,Export,Fish,2002,26
+Africa,Malawi,Import,Crustaceans,2002,2
+Africa,Malawi,Import,Fish,2002,244
+Africa,Mali,Export,Crustaceans,2002,0
+Africa,Mali,Export,Fish,2002,1136
+Africa,Mali,Import,Crustaceans,2002,19
+Africa,Mali,Import,Fish,2002,2704
+Africa,Mauritania,Export,Crustaceans,2002,1286
+Africa,Mauritania,Export,Fish,2002,79185
+Africa,Mauritania,Import,Crustaceans,2002,0
+Africa,Mauritania,Import,Fish,2002,414
+Africa,Mauritius,Export,Crustaceans,2002,0
+Africa,Mauritius,Export,Fish,2002,28940
+Africa,Mauritius,Import,Crustaceans,2002,1190
+Africa,Mauritius,Import,Fish,2002,81312
+Africa,Mayotte,Export,Crustaceans,2002,0
+Africa,Mayotte,Export,Fish,2002,127
+Africa,Mayotte,Import,Crustaceans,2002,18
+Africa,Mayotte,Import,Fish,2002,1063
+Africa,Morocco,Export,Crustaceans,2002,10959
+Africa,Morocco,Export,Fish,2002,193397
+Africa,Morocco,Import,Crustaceans,2002,7079
+Africa,Morocco,Import,Fish,2002,9888
+Africa,Mozambique,Export,Crustaceans,2002,8835
+Africa,Mozambique,Export,Fish,2002,2532
+Africa,Mozambique,Import,Crustaceans,2002,1
+Africa,Mozambique,Import,Fish,2002,6242
+Africa,Namibia,Export,Crustaceans,2002,1389
+Africa,Namibia,Export,Fish,2002,312572
+Africa,Namibia,Import,Crustaceans,2002,65
+Africa,Namibia,Import,Fish,2002,12854
+Africa,Niger,Export,Crustaceans,2002,0
+Africa,Niger,Export,Fish,2002,8025
+Africa,Niger,Import,Crustaceans,2002,0
+Africa,Niger,Import,Fish,2002,586
+Africa,Nigeria,Export,Crustaceans,2002,2496
+Africa,Nigeria,Export,Fish,2002,597
+Africa,Nigeria,Import,Crustaceans,2002,18
+Africa,Nigeria,Import,Fish,2002,543822
+Africa,Rwanda,Export,Crustaceans,2002,0
+Africa,Rwanda,Export,Fish,2002,0
+Africa,Rwanda,Import,Crustaceans,2002,1
+Africa,Rwanda,Import,Fish,2002,197
+Africa,Saint Helena,Export,Crustaceans,2002,196
+Africa,Saint Helena,Export,Fish,2002,309
+Africa,Saint Helena,Import,Crustaceans,2002,0
+Africa,Saint Helena,Import,Fish,2002,46
+Africa,Sao Tome and Principe,Export,Crustaceans,2002,0
+Africa,Sao Tome and Principe,Export,Fish,2002,82
+Africa,Sao Tome and Principe,Import,Crustaceans,2002,0
+Africa,Sao Tome and Principe,Import,Fish,2002,3
+Africa,Senegal,Export,Crustaceans,2002,5970
+Africa,Senegal,Export,Fish,2002,60109
+Africa,Senegal,Import,Crustaceans,2002,120
+Africa,Senegal,Import,Fish,2002,158
+Africa,Seychelles,Export,Crustaceans,2002,213
+Africa,Seychelles,Export,Fish,2002,65520
+Africa,Seychelles,Import,Crustaceans,2002,12
+Africa,Seychelles,Import,Fish,2002,32020
+Africa,Sierra Leone,Export,Crustaceans,2002,2515
+Africa,Sierra Leone,Export,Fish,2002,5080
+Africa,Sierra Leone,Import,Crustaceans,2002,29
+Africa,Sierra Leone,Import,Fish,2002,645
+Africa,Somalia,Export,Crustaceans,2002,19
+Africa,Somalia,Export,Fish,2002,2867
+Africa,Somalia,Import,Crustaceans,2002,0
+Africa,Somalia,Import,Fish,2002,111
+Africa,South Africa,Export,Crustaceans,2002,2611
+Africa,South Africa,Export,Fish,2002,130521
+Africa,South Africa,Import,Crustaceans,2002,2987
+Africa,South Africa,Import,Fish,2002,21619
+Africa,South Sudan,Export,Fish,2002,0
+Africa,South Sudan,Import,Crustaceans,2002,0
+Africa,South Sudan,Import,Fish,2002,0
+Africa,Sudan,Export,Fish,2002,0
+Africa,Sudan,Import,Crustaceans,2002,0
+Africa,Sudan,Import,Fish,2002,0
+Africa,Sudan (former),Export,Crustaceans,2002,1
+Africa,Sudan (former),Export,Fish,2002,1159
+Africa,Sudan (former),Import,Crustaceans,2002,0
+Africa,Sudan (former),Import,Fish,2002,446
+Africa,Swaziland,Export,Crustaceans,2002,438
+Africa,Swaziland,Export,Fish,2002,731
+Africa,Swaziland,Import,Crustaceans,2002,415
+Africa,Swaziland,Import,Fish,2002,3040
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2002,2432
+Africa,"Tanzania, United Rep. of",Export,Fish,2002,38546
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2002,5
+Africa,"Tanzania, United Rep. of",Import,Fish,2002,150
+Africa,Togo,Export,Crustaceans,2002,0
+Africa,Togo,Export,Fish,2002,8968
+Africa,Togo,Import,Crustaceans,2002,146
+Africa,Togo,Import,Fish,2002,17672
+Africa,Tunisia,Export,Crustaceans,2002,3649
+Africa,Tunisia,Export,Fish,2002,5144
+Africa,Tunisia,Import,Crustaceans,2002,80
+Africa,Tunisia,Import,Fish,2002,17379
+Africa,Uganda,Export,Crustaceans,2002,0
+Africa,Uganda,Export,Fish,2002,25125
+Africa,Uganda,Import,Crustaceans,2002,7
+Africa,Uganda,Import,Fish,2002,89
+Africa,Zambia,Export,Crustaceans,2002,0
+Africa,Zambia,Export,Fish,2002,765
+Africa,Zambia,Import,Crustaceans,2002,7
+Africa,Zambia,Import,Fish,2002,2120
+Africa,Zimbabwe,Export,Crustaceans,2002,2
+Africa,Zimbabwe,Export,Fish,2002,712
+Africa,Zimbabwe,Import,Crustaceans,2002,61
+Africa,Zimbabwe,Import,Fish,2002,1494
+Africa,Algeria,Export,Crustaceans,2003,871
+Africa,Algeria,Export,Fish,2003,307
+Africa,Algeria,Import,Crustaceans,2003,176
+Africa,Algeria,Import,Fish,2003,20923
+Africa,Angola,Export,Crustaceans,2003,346
+Africa,Angola,Export,Fish,2003,4149
+Africa,Angola,Import,Crustaceans,2003,18
+Africa,Angola,Import,Fish,2003,11888
+Africa,Benin,Export,Crustaceans,2003,408
+Africa,Benin,Export,Fish,2003,9
+Africa,Benin,Import,Crustaceans,2003,3
+Africa,Benin,Import,Fish,2003,27393
+Africa,Botswana,Export,Crustaceans,2003,2
+Africa,Botswana,Export,Fish,2003,39
+Africa,Botswana,Import,Crustaceans,2003,48
+Africa,Botswana,Import,Fish,2003,2485
+Africa,Burkina Faso,Export,Fish,2003,0
+Africa,Burkina Faso,Import,Crustaceans,2003,27
+Africa,Burkina Faso,Import,Fish,2003,8405
+Africa,Burundi,Export,Fish,2003,13
+Africa,Burundi,Import,Crustaceans,2003,1
+Africa,Burundi,Import,Fish,2003,111
+Africa,Cabo Verde,Export,Crustaceans,2003,18
+Africa,Cabo Verde,Export,Fish,2003,44
+Africa,Cabo Verde,Import,Crustaceans,2003,21
+Africa,Cabo Verde,Import,Fish,2003,88
+Africa,Cameroon,Export,Crustaceans,2003,77
+Africa,Cameroon,Export,Fish,2003,71
+Africa,Cameroon,Import,Crustaceans,2003,22
+Africa,Cameroon,Import,Fish,2003,125394
+Africa,Central African Republic,Export,Fish,2003,0
+Africa,Central African Republic,Import,Crustaceans,2003,44
+Africa,Central African Republic,Import,Fish,2003,1416
+Africa,Chad,Export,Fish,2003,0
+Africa,Chad,Import,Crustaceans,2003,1
+Africa,Chad,Import,Fish,2003,560
+Africa,Comoros,Export,Fish,2003,1
+Africa,Comoros,Import,Crustaceans,2003,0
+Africa,Comoros,Import,Fish,2003,357
+Africa,Congo,Export,Crustaceans,2003,698
+Africa,Congo,Export,Fish,2003,35
+Africa,Congo,Import,Crustaceans,2003,0
+Africa,Congo,Import,Fish,2003,7635
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2003,1
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2003,8
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2003,5
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2003,63896
+Africa,Côte d'Ivoire,Export,Crustaceans,2003,313
+Africa,Côte d'Ivoire,Export,Fish,2003,47410
+Africa,Côte d'Ivoire,Import,Crustaceans,2003,567
+Africa,Côte d'Ivoire,Import,Fish,2003,272620
+Africa,Djibouti,Export,Crustaceans,2003,0
+Africa,Djibouti,Export,Fish,2003,20
+Africa,Djibouti,Import,Crustaceans,2003,3
+Africa,Djibouti,Import,Fish,2003,262
+Africa,Egypt,Export,Crustaceans,2003,9
+Africa,Egypt,Export,Fish,2003,2414
+Africa,Egypt,Import,Crustaceans,2003,196
+Africa,Egypt,Import,Fish,2003,162674
+Africa,Equatorial Guinea,Export,Crustaceans,2003,2
+Africa,Equatorial Guinea,Export,Fish,2003,18
+Africa,Equatorial Guinea,Import,Crustaceans,2003,8
+Africa,Equatorial Guinea,Import,Fish,2003,4438
+Africa,Eritrea,Export,Crustaceans,2003,3
+Africa,Eritrea,Export,Fish,2003,425
+Africa,Eritrea,Import,Crustaceans,2003,0
+Africa,Eritrea,Import,Fish,2003,987
+Africa,Ethiopia,Export,Fish,2003,32
+Africa,Ethiopia,Import,Crustaceans,2003,0
+Africa,Ethiopia,Import,Fish,2003,330
+Africa,Gabon,Export,Crustaceans,2003,1589
+Africa,Gabon,Export,Fish,2003,438
+Africa,Gabon,Import,Crustaceans,2003,12
+Africa,Gabon,Import,Fish,2003,3880
+Africa,Gambia,Export,Crustaceans,2003,134
+Africa,Gambia,Export,Fish,2003,440
+Africa,Gambia,Import,Crustaceans,2003,1
+Africa,Gambia,Import,Fish,2003,2050
+Africa,Ghana,Export,Crustaceans,2003,234
+Africa,Ghana,Export,Fish,2003,45629
+Africa,Ghana,Import,Crustaceans,2003,59
+Africa,Ghana,Import,Fish,2003,104590
+Africa,Guinea,Export,Crustaceans,2003,131
+Africa,Guinea,Export,Fish,2003,4953
+Africa,Guinea,Import,Crustaceans,2003,0
+Africa,Guinea,Import,Fish,2003,1213
+Africa,Guinea-Bissau,Export,Crustaceans,2003,203
+Africa,Guinea-Bissau,Export,Fish,2003,1628
+Africa,Guinea-Bissau,Import,Crustaceans,2003,0
+Africa,Guinea-Bissau,Import,Fish,2003,276
+Africa,Kenya,Export,Crustaceans,2003,534
+Africa,Kenya,Export,Fish,2003,18414
+Africa,Kenya,Import,Crustaceans,2003,26
+Africa,Kenya,Import,Fish,2003,7301
+Africa,Lesotho,Export,Crustaceans,2003,0
+Africa,Lesotho,Export,Fish,2003,4
+Africa,Lesotho,Import,Crustaceans,2003,7
+Africa,Lesotho,Import,Fish,2003,1668
+Africa,Liberia,Export,Crustaceans,2003,28
+Africa,Liberia,Export,Fish,2003,55
+Africa,Liberia,Import,Crustaceans,2003,1
+Africa,Liberia,Import,Fish,2003,2623
+Africa,Libya,Export,Crustaceans,2003,0
+Africa,Libya,Export,Fish,2003,2216
+Africa,Libya,Import,Crustaceans,2003,38
+Africa,Libya,Import,Fish,2003,4346
+Africa,Madagascar,Export,Crustaceans,2003,6358
+Africa,Madagascar,Export,Fish,2003,23645
+Africa,Madagascar,Import,Crustaceans,2003,1
+Africa,Madagascar,Import,Fish,2003,22733
+Africa,Malawi,Export,Fish,2003,43
+Africa,Malawi,Import,Crustaceans,2003,1
+Africa,Malawi,Import,Fish,2003,583
+Africa,Mali,Export,Crustaceans,2003,0
+Africa,Mali,Export,Fish,2003,425
+Africa,Mali,Import,Crustaceans,2003,60
+Africa,Mali,Import,Fish,2003,5500
+Africa,Mauritania,Export,Crustaceans,2003,1417
+Africa,Mauritania,Export,Fish,2003,73287
+Africa,Mauritania,Import,Crustaceans,2003,0
+Africa,Mauritania,Import,Fish,2003,457
+Africa,Mauritius,Export,Crustaceans,2003,210
+Africa,Mauritius,Export,Fish,2003,32021
+Africa,Mauritius,Import,Crustaceans,2003,1465
+Africa,Mauritius,Import,Fish,2003,61120
+Africa,Mayotte,Export,Crustaceans,2003,0
+Africa,Mayotte,Export,Fish,2003,201
+Africa,Mayotte,Import,Crustaceans,2003,30
+Africa,Mayotte,Import,Fish,2003,1088
+Africa,Morocco,Export,Crustaceans,2003,9639
+Africa,Morocco,Export,Fish,2003,191453
+Africa,Morocco,Import,Crustaceans,2003,8180
+Africa,Morocco,Import,Fish,2003,11782
+Africa,Mozambique,Export,Crustaceans,2003,6444
+Africa,Mozambique,Export,Fish,2003,4265
+Africa,Mozambique,Import,Crustaceans,2003,1808
+Africa,Mozambique,Import,Fish,2003,9220
+Africa,Namibia,Export,Crustaceans,2003,1389
+Africa,Namibia,Export,Fish,2003,308263
+Africa,Namibia,Import,Crustaceans,2003,42
+Africa,Namibia,Import,Fish,2003,15532
+Africa,Niger,Export,Crustaceans,2003,0
+Africa,Niger,Export,Fish,2003,5905
+Africa,Niger,Import,Crustaceans,2003,5
+Africa,Niger,Import,Fish,2003,514
+Africa,Nigeria,Export,Crustaceans,2003,2114
+Africa,Nigeria,Export,Fish,2003,246
+Africa,Nigeria,Import,Crustaceans,2003,3
+Africa,Nigeria,Import,Fish,2003,622965
+Africa,Rwanda,Export,Crustaceans,2003,0
+Africa,Rwanda,Export,Fish,2003,0
+Africa,Rwanda,Import,Crustaceans,2003,3
+Africa,Rwanda,Import,Fish,2003,109
+Africa,Saint Helena,Export,Crustaceans,2003,97
+Africa,Saint Helena,Export,Fish,2003,229
+Africa,Saint Helena,Import,Crustaceans,2003,25
+Africa,Saint Helena,Import,Fish,2003,31
+Africa,Sao Tome and Principe,Export,Crustaceans,2003,3
+Africa,Sao Tome and Principe,Export,Fish,2003,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2003,0
+Africa,Sao Tome and Principe,Import,Fish,2003,7
+Africa,Senegal,Export,Crustaceans,2003,5480
+Africa,Senegal,Export,Fish,2003,68138
+Africa,Senegal,Import,Crustaceans,2003,24
+Africa,Senegal,Import,Fish,2003,265
+Africa,Seychelles,Export,Crustaceans,2003,901
+Africa,Seychelles,Export,Fish,2003,128334
+Africa,Seychelles,Import,Crustaceans,2003,44
+Africa,Seychelles,Import,Fish,2003,85882
+Africa,Sierra Leone,Export,Crustaceans,2003,3299
+Africa,Sierra Leone,Export,Fish,2003,3008
+Africa,Sierra Leone,Import,Crustaceans,2003,29
+Africa,Sierra Leone,Import,Fish,2003,1679
+Africa,Somalia,Export,Crustaceans,2003,0
+Africa,Somalia,Export,Fish,2003,1378
+Africa,Somalia,Import,Crustaceans,2003,0
+Africa,Somalia,Import,Fish,2003,142
+Africa,South Africa,Export,Crustaceans,2003,2359
+Africa,South Africa,Export,Fish,2003,118739
+Africa,South Africa,Import,Crustaceans,2003,3157
+Africa,South Africa,Import,Fish,2003,27254
+Africa,South Sudan,Export,Fish,2003,0
+Africa,South Sudan,Import,Crustaceans,2003,0
+Africa,South Sudan,Import,Fish,2003,0
+Africa,Sudan,Export,Fish,2003,0
+Africa,Sudan,Import,Crustaceans,2003,0
+Africa,Sudan,Import,Fish,2003,0
+Africa,Sudan (former),Export,Crustaceans,2003,1
+Africa,Sudan (former),Export,Fish,2003,1595
+Africa,Sudan (former),Import,Crustaceans,2003,0
+Africa,Sudan (former),Import,Fish,2003,266
+Africa,Swaziland,Export,Crustaceans,2003,512
+Africa,Swaziland,Export,Fish,2003,492
+Africa,Swaziland,Import,Crustaceans,2003,624
+Africa,Swaziland,Import,Fish,2003,4812
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2003,2874
+Africa,"Tanzania, United Rep. of",Export,Fish,2003,44173
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2003,8
+Africa,"Tanzania, United Rep. of",Import,Fish,2003,291
+Africa,Togo,Export,Crustaceans,2003,0
+Africa,Togo,Export,Fish,2003,7051
+Africa,Togo,Import,Crustaceans,2003,317
+Africa,Togo,Import,Fish,2003,19769
+Africa,Tunisia,Export,Crustaceans,2003,3683
+Africa,Tunisia,Export,Fish,2003,3199
+Africa,Tunisia,Import,Crustaceans,2003,83
+Africa,Tunisia,Import,Fish,2003,27722
+Africa,Uganda,Export,Crustaceans,2003,12
+Africa,Uganda,Export,Fish,2003,25406
+Africa,Uganda,Import,Crustaceans,2003,9
+Africa,Uganda,Import,Fish,2003,639
+Africa,Zambia,Export,Crustaceans,2003,0
+Africa,Zambia,Export,Fish,2003,613
+Africa,Zambia,Import,Crustaceans,2003,2
+Africa,Zambia,Import,Fish,2003,3407
+Africa,Zimbabwe,Export,Crustaceans,2003,0
+Africa,Zimbabwe,Export,Fish,2003,520
+Africa,Zimbabwe,Import,Crustaceans,2003,28
+Africa,Zimbabwe,Import,Fish,2003,952
+Africa,Algeria,Export,Crustaceans,2004,862
+Africa,Algeria,Export,Fish,2004,215
+Africa,Algeria,Import,Crustaceans,2004,415
+Africa,Algeria,Import,Fish,2004,22053
+Africa,Angola,Export,Crustaceans,2004,363
+Africa,Angola,Export,Fish,2004,3223
+Africa,Angola,Import,Crustaceans,2004,23
+Africa,Angola,Import,Fish,2004,19988
+Africa,Benin,Export,Crustaceans,2004,151
+Africa,Benin,Export,Fish,2004,29
+Africa,Benin,Import,Crustaceans,2004,0
+Africa,Benin,Import,Fish,2004,26857
+Africa,Botswana,Export,Crustaceans,2004,1
+Africa,Botswana,Export,Fish,2004,24
+Africa,Botswana,Import,Crustaceans,2004,73
+Africa,Botswana,Import,Fish,2004,2445
+Africa,Burkina Faso,Export,Fish,2004,0
+Africa,Burkina Faso,Import,Crustaceans,2004,48
+Africa,Burkina Faso,Import,Fish,2004,11398
+Africa,Burundi,Export,Fish,2004,6
+Africa,Burundi,Import,Crustaceans,2004,0
+Africa,Burundi,Import,Fish,2004,57
+Africa,Cabo Verde,Export,Crustaceans,2004,26
+Africa,Cabo Verde,Export,Fish,2004,324
+Africa,Cabo Verde,Import,Crustaceans,2004,21
+Africa,Cabo Verde,Import,Fish,2004,93
+Africa,Cameroon,Export,Crustaceans,2004,2
+Africa,Cameroon,Export,Fish,2004,70
+Africa,Cameroon,Import,Crustaceans,2004,14
+Africa,Cameroon,Import,Fish,2004,120277
+Africa,Central African Republic,Export,Fish,2004,0
+Africa,Central African Republic,Import,Crustaceans,2004,0
+Africa,Central African Republic,Import,Fish,2004,1580
+Africa,Chad,Export,Fish,2004,0
+Africa,Chad,Import,Crustaceans,2004,8
+Africa,Chad,Import,Fish,2004,75
+Africa,Comoros,Export,Fish,2004,0
+Africa,Comoros,Import,Crustaceans,2004,0
+Africa,Comoros,Import,Fish,2004,300
+Africa,Congo,Export,Crustaceans,2004,835
+Africa,Congo,Export,Fish,2004,29
+Africa,Congo,Import,Crustaceans,2004,12
+Africa,Congo,Import,Fish,2004,13023
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2004,5
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2004,1
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2004,514
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2004,65824
+Africa,Côte d'Ivoire,Export,Crustaceans,2004,227
+Africa,Côte d'Ivoire,Export,Fish,2004,52834
+Africa,Côte d'Ivoire,Import,Crustaceans,2004,835
+Africa,Côte d'Ivoire,Import,Fish,2004,245561
+Africa,Djibouti,Export,Crustaceans,2004,0
+Africa,Djibouti,Export,Fish,2004,0
+Africa,Djibouti,Import,Crustaceans,2004,3
+Africa,Djibouti,Import,Fish,2004,505
+Africa,Egypt,Export,Crustaceans,2004,16
+Africa,Egypt,Export,Fish,2004,3209
+Africa,Egypt,Import,Crustaceans,2004,925
+Africa,Egypt,Import,Fish,2004,223095
+Africa,Equatorial Guinea,Export,Crustaceans,2004,12
+Africa,Equatorial Guinea,Export,Fish,2004,16
+Africa,Equatorial Guinea,Import,Crustaceans,2004,7
+Africa,Equatorial Guinea,Import,Fish,2004,6138
+Africa,Eritrea,Export,Crustaceans,2004,65
+Africa,Eritrea,Export,Fish,2004,53
+Africa,Eritrea,Import,Crustaceans,2004,3
+Africa,Eritrea,Import,Fish,2004,153
+Africa,Ethiopia,Export,Fish,2004,6
+Africa,Ethiopia,Import,Crustaceans,2004,5
+Africa,Ethiopia,Import,Fish,2004,202
+Africa,Gabon,Export,Crustaceans,2004,2252
+Africa,Gabon,Export,Fish,2004,2621
+Africa,Gabon,Import,Crustaceans,2004,91
+Africa,Gabon,Import,Fish,2004,7634
+Africa,Gambia,Export,Crustaceans,2004,60
+Africa,Gambia,Export,Fish,2004,207
+Africa,Gambia,Import,Crustaceans,2004,3
+Africa,Gambia,Import,Fish,2004,1882
+Africa,Ghana,Export,Crustaceans,2004,948
+Africa,Ghana,Export,Fish,2004,43797
+Africa,Ghana,Import,Crustaceans,2004,18
+Africa,Ghana,Import,Fish,2004,279438
+Africa,Guinea,Export,Crustaceans,2004,13
+Africa,Guinea,Export,Fish,2004,7840
+Africa,Guinea,Import,Crustaceans,2004,0
+Africa,Guinea,Import,Fish,2004,634
+Africa,Guinea-Bissau,Export,Crustaceans,2004,107
+Africa,Guinea-Bissau,Export,Fish,2004,3855
+Africa,Guinea-Bissau,Import,Crustaceans,2004,0
+Africa,Guinea-Bissau,Import,Fish,2004,338
+Africa,Kenya,Export,Crustaceans,2004,584
+Africa,Kenya,Export,Fish,2004,16688
+Africa,Kenya,Import,Crustaceans,2004,31
+Africa,Kenya,Import,Fish,2004,13572
+Africa,Lesotho,Export,Crustaceans,2004,0
+Africa,Lesotho,Export,Fish,2004,3
+Africa,Lesotho,Import,Crustaceans,2004,0
+Africa,Lesotho,Import,Fish,2004,1013
+Africa,Liberia,Export,Crustaceans,2004,42
+Africa,Liberia,Export,Fish,2004,9
+Africa,Liberia,Import,Crustaceans,2004,5
+Africa,Liberia,Import,Fish,2004,1163
+Africa,Libya,Export,Crustaceans,2004,0
+Africa,Libya,Export,Fish,2004,3120
+Africa,Libya,Import,Crustaceans,2004,73
+Africa,Libya,Import,Fish,2004,4617
+Africa,Madagascar,Export,Crustaceans,2004,7333
+Africa,Madagascar,Export,Fish,2004,19252
+Africa,Madagascar,Import,Crustaceans,2004,1
+Africa,Madagascar,Import,Fish,2004,16160
+Africa,Malawi,Export,Fish,2004,42
+Africa,Malawi,Import,Crustaceans,2004,0
+Africa,Malawi,Import,Fish,2004,703
+Africa,Mali,Export,Crustaceans,2004,0
+Africa,Mali,Export,Fish,2004,456
+Africa,Mali,Import,Crustaceans,2004,34
+Africa,Mali,Import,Fish,2004,6989
+Africa,Mauritania,Export,Crustaceans,2004,1041
+Africa,Mauritania,Export,Fish,2004,53860
+Africa,Mauritania,Import,Crustaceans,2004,0
+Africa,Mauritania,Import,Fish,2004,78
+Africa,Mauritius,Export,Crustaceans,2004,1
+Africa,Mauritius,Export,Fish,2004,33266
+Africa,Mauritius,Import,Crustaceans,2004,1450
+Africa,Mauritius,Import,Fish,2004,78317
+Africa,Mayotte,Export,Crustaceans,2004,0
+Africa,Mayotte,Export,Fish,2004,125
+Africa,Mayotte,Import,Crustaceans,2004,21
+Africa,Mayotte,Import,Fish,2004,956
+Africa,Morocco,Export,Crustaceans,2004,7147
+Africa,Morocco,Export,Fish,2004,174105
+Africa,Morocco,Import,Crustaceans,2004,7358
+Africa,Morocco,Import,Fish,2004,23499
+Africa,Mozambique,Export,Crustaceans,2004,6205
+Africa,Mozambique,Export,Fish,2004,6648
+Africa,Mozambique,Import,Crustaceans,2004,7
+Africa,Mozambique,Import,Fish,2004,12969
+Africa,Namibia,Export,Crustaceans,2004,1645
+Africa,Namibia,Export,Fish,2004,291353
+Africa,Namibia,Import,Crustaceans,2004,64
+Africa,Namibia,Import,Fish,2004,18025
+Africa,Niger,Export,Crustaceans,2004,0
+Africa,Niger,Export,Fish,2004,3684
+Africa,Niger,Import,Crustaceans,2004,0
+Africa,Niger,Import,Fish,2004,564
+Africa,Nigeria,Export,Crustaceans,2004,3631
+Africa,Nigeria,Export,Fish,2004,605
+Africa,Nigeria,Import,Crustaceans,2004,14
+Africa,Nigeria,Import,Fish,2004,778731
+Africa,Rwanda,Export,Crustaceans,2004,0
+Africa,Rwanda,Export,Fish,2004,0
+Africa,Rwanda,Import,Crustaceans,2004,0
+Africa,Rwanda,Import,Fish,2004,7
+Africa,Saint Helena,Export,Crustaceans,2004,144
+Africa,Saint Helena,Export,Fish,2004,336
+Africa,Saint Helena,Import,Crustaceans,2004,4
+Africa,Saint Helena,Import,Fish,2004,19
+Africa,Sao Tome and Principe,Export,Crustaceans,2004,0
+Africa,Sao Tome and Principe,Export,Fish,2004,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2004,0
+Africa,Sao Tome and Principe,Import,Fish,2004,5
+Africa,Senegal,Export,Crustaceans,2004,10684
+Africa,Senegal,Export,Fish,2004,95012
+Africa,Senegal,Import,Crustaceans,2004,35
+Africa,Senegal,Import,Fish,2004,447
+Africa,Seychelles,Export,Crustaceans,2004,1111
+Africa,Seychelles,Export,Fish,2004,102306
+Africa,Seychelles,Import,Crustaceans,2004,47
+Africa,Seychelles,Import,Fish,2004,81573
+Africa,Sierra Leone,Export,Crustaceans,2004,2429
+Africa,Sierra Leone,Export,Fish,2004,3080
+Africa,Sierra Leone,Import,Crustaceans,2004,11
+Africa,Sierra Leone,Import,Fish,2004,1249
+Africa,Somalia,Export,Crustaceans,2004,9
+Africa,Somalia,Export,Fish,2004,2243
+Africa,Somalia,Import,Crustaceans,2004,0
+Africa,Somalia,Import,Fish,2004,225
+Africa,South Africa,Export,Crustaceans,2004,3351
+Africa,South Africa,Export,Fish,2004,106464
+Africa,South Africa,Import,Crustaceans,2004,5568
+Africa,South Africa,Import,Fish,2004,35379
+Africa,South Sudan,Export,Fish,2004,0
+Africa,South Sudan,Import,Crustaceans,2004,0
+Africa,South Sudan,Import,Fish,2004,0
+Africa,Sudan,Export,Fish,2004,0
+Africa,Sudan,Import,Crustaceans,2004,0
+Africa,Sudan,Import,Fish,2004,0
+Africa,Sudan (former),Export,Crustaceans,2004,2
+Africa,Sudan (former),Export,Fish,2004,2556
+Africa,Sudan (former),Import,Crustaceans,2004,0
+Africa,Sudan (former),Import,Fish,2004,46
+Africa,Swaziland,Export,Crustaceans,2004,919
+Africa,Swaziland,Export,Fish,2004,908
+Africa,Swaziland,Import,Crustaceans,2004,712
+Africa,Swaziland,Import,Fish,2004,5887
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2004,2787
+Africa,"Tanzania, United Rep. of",Export,Fish,2004,49217
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2004,16
+Africa,"Tanzania, United Rep. of",Import,Fish,2004,370
+Africa,Togo,Export,Crustaceans,2004,16
+Africa,Togo,Export,Fish,2004,6948
+Africa,Togo,Import,Crustaceans,2004,111
+Africa,Togo,Import,Fish,2004,12845
+Africa,Tunisia,Export,Crustaceans,2004,3885
+Africa,Tunisia,Export,Fish,2004,5183
+Africa,Tunisia,Import,Crustaceans,2004,34
+Africa,Tunisia,Import,Fish,2004,25611
+Africa,Uganda,Export,Crustaceans,2004,0
+Africa,Uganda,Export,Fish,2004,31327
+Africa,Uganda,Import,Crustaceans,2004,14
+Africa,Uganda,Import,Fish,2004,167
+Africa,Zambia,Export,Crustaceans,2004,1
+Africa,Zambia,Export,Fish,2004,582
+Africa,Zambia,Import,Crustaceans,2004,4
+Africa,Zambia,Import,Fish,2004,3961
+Africa,Zimbabwe,Export,Crustaceans,2004,2
+Africa,Zimbabwe,Export,Fish,2004,708
+Africa,Zimbabwe,Import,Crustaceans,2004,53
+Africa,Zimbabwe,Import,Fish,2004,2636
+Africa,Algeria,Export,Crustaceans,2005,1057
+Africa,Algeria,Export,Fish,2005,223
+Africa,Algeria,Import,Crustaceans,2005,448
+Africa,Algeria,Import,Fish,2005,19481
+Africa,Angola,Export,Crustaceans,2005,1189
+Africa,Angola,Export,Fish,2005,1818
+Africa,Angola,Import,Crustaceans,2005,65
+Africa,Angola,Import,Fish,2005,14490
+Africa,Benin,Export,Crustaceans,2005,128
+Africa,Benin,Export,Fish,2005,0
+Africa,Benin,Import,Crustaceans,2005,44
+Africa,Benin,Import,Fish,2005,44286
+Africa,Botswana,Export,Crustaceans,2005,0
+Africa,Botswana,Export,Fish,2005,27
+Africa,Botswana,Import,Crustaceans,2005,19
+Africa,Botswana,Import,Fish,2005,3318
+Africa,Burkina Faso,Export,Fish,2005,688
+Africa,Burkina Faso,Import,Crustaceans,2005,37
+Africa,Burkina Faso,Import,Fish,2005,22282
+Africa,Burundi,Export,Fish,2005,8
+Africa,Burundi,Import,Crustaceans,2005,0
+Africa,Burundi,Import,Fish,2005,24
+Africa,Cabo Verde,Export,Crustaceans,2005,12
+Africa,Cabo Verde,Export,Fish,2005,9111
+Africa,Cabo Verde,Import,Crustaceans,2005,36
+Africa,Cabo Verde,Import,Fish,2005,106
+Africa,Cameroon,Export,Crustaceans,2005,3
+Africa,Cameroon,Export,Fish,2005,87
+Africa,Cameroon,Import,Crustaceans,2005,11
+Africa,Cameroon,Import,Fish,2005,106740
+Africa,Central African Republic,Export,Fish,2005,0
+Africa,Central African Republic,Import,Crustaceans,2005,0
+Africa,Central African Republic,Import,Fish,2005,1741
+Africa,Chad,Export,Fish,2005,13
+Africa,Chad,Import,Crustaceans,2005,11
+Africa,Chad,Import,Fish,2005,98
+Africa,Comoros,Export,Fish,2005,0
+Africa,Comoros,Import,Crustaceans,2005,0
+Africa,Comoros,Import,Fish,2005,259
+Africa,Congo,Export,Crustaceans,2005,24
+Africa,Congo,Export,Fish,2005,266
+Africa,Congo,Import,Crustaceans,2005,2
+Africa,Congo,Import,Fish,2005,11941
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2005,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2005,1
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2005,23
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2005,66936
+Africa,Côte d'Ivoire,Export,Crustaceans,2005,119
+Africa,Côte d'Ivoire,Export,Fish,2005,32970
+Africa,Côte d'Ivoire,Import,Crustaceans,2005,473
+Africa,Côte d'Ivoire,Import,Fish,2005,267840
+Africa,Djibouti,Export,Crustaceans,2005,0
+Africa,Djibouti,Export,Fish,2005,7
+Africa,Djibouti,Import,Crustaceans,2005,19
+Africa,Djibouti,Import,Fish,2005,299
+Africa,Egypt,Export,Crustaceans,2005,4
+Africa,Egypt,Export,Fish,2005,4431
+Africa,Egypt,Import,Crustaceans,2005,1639
+Africa,Egypt,Import,Fish,2005,221703
+Africa,Equatorial Guinea,Export,Crustaceans,2005,3
+Africa,Equatorial Guinea,Export,Fish,2005,3
+Africa,Equatorial Guinea,Import,Crustaceans,2005,11
+Africa,Equatorial Guinea,Import,Fish,2005,5884
+Africa,Eritrea,Export,Crustaceans,2005,0
+Africa,Eritrea,Export,Fish,2005,53
+Africa,Eritrea,Import,Crustaceans,2005,6
+Africa,Eritrea,Import,Fish,2005,66
+Africa,Ethiopia,Export,Fish,2005,1
+Africa,Ethiopia,Import,Crustaceans,2005,3
+Africa,Ethiopia,Import,Fish,2005,329
+Africa,Gabon,Export,Crustaceans,2005,2050
+Africa,Gabon,Export,Fish,2005,2772
+Africa,Gabon,Import,Crustaceans,2005,20
+Africa,Gabon,Import,Fish,2005,7913
+Africa,Gambia,Export,Crustaceans,2005,260
+Africa,Gambia,Export,Fish,2005,565
+Africa,Gambia,Import,Crustaceans,2005,1
+Africa,Gambia,Import,Fish,2005,1158
+Africa,Ghana,Export,Crustaceans,2005,129
+Africa,Ghana,Export,Fish,2005,35482
+Africa,Ghana,Import,Crustaceans,2005,31
+Africa,Ghana,Import,Fish,2005,260149
+Africa,Guinea,Export,Crustaceans,2005,35
+Africa,Guinea,Export,Fish,2005,17009
+Africa,Guinea,Import,Crustaceans,2005,0
+Africa,Guinea,Import,Fish,2005,979
+Africa,Guinea-Bissau,Export,Crustaceans,2005,152
+Africa,Guinea-Bissau,Export,Fish,2005,4021
+Africa,Guinea-Bissau,Import,Crustaceans,2005,0
+Africa,Guinea-Bissau,Import,Fish,2005,366
+Africa,Kenya,Export,Crustaceans,2005,530
+Africa,Kenya,Export,Fish,2005,17190
+Africa,Kenya,Import,Crustaceans,2005,15
+Africa,Kenya,Import,Fish,2005,21026
+Africa,Lesotho,Export,Crustaceans,2005,0
+Africa,Lesotho,Export,Fish,2005,0
+Africa,Lesotho,Import,Crustaceans,2005,0
+Africa,Lesotho,Import,Fish,2005,744
+Africa,Liberia,Export,Crustaceans,2005,3
+Africa,Liberia,Export,Fish,2005,75
+Africa,Liberia,Import,Crustaceans,2005,20
+Africa,Liberia,Import,Fish,2005,1412
+Africa,Libya,Export,Crustaceans,2005,0
+Africa,Libya,Export,Fish,2005,3836
+Africa,Libya,Import,Crustaceans,2005,22
+Africa,Libya,Import,Fish,2005,9197
+Africa,Madagascar,Export,Crustaceans,2005,11941
+Africa,Madagascar,Export,Fish,2005,10154
+Africa,Madagascar,Import,Crustaceans,2005,881
+Africa,Madagascar,Import,Fish,2005,14728
+Africa,Malawi,Export,Fish,2005,128
+Africa,Malawi,Import,Crustaceans,2005,0
+Africa,Malawi,Import,Fish,2005,426
+Africa,Mali,Export,Crustaceans,2005,0
+Africa,Mali,Export,Fish,2005,371
+Africa,Mali,Import,Crustaceans,2005,38
+Africa,Mali,Import,Fish,2005,11014
+Africa,Mauritania,Export,Crustaceans,2005,1212
+Africa,Mauritania,Export,Fish,2005,80540
+Africa,Mauritania,Import,Crustaceans,2005,0
+Africa,Mauritania,Import,Fish,2005,543
+Africa,Mauritius,Export,Crustaceans,2005,0
+Africa,Mauritius,Export,Fish,2005,36763
+Africa,Mauritius,Import,Crustaceans,2005,1487
+Africa,Mauritius,Import,Fish,2005,101705
+Africa,Mayotte,Export,Crustaceans,2005,0
+Africa,Mayotte,Export,Fish,2005,124
+Africa,Mayotte,Import,Crustaceans,2005,46
+Africa,Mayotte,Import,Fish,2005,1151
+Africa,Morocco,Export,Crustaceans,2005,9279
+Africa,Morocco,Export,Fish,2005,197415
+Africa,Morocco,Import,Crustaceans,2005,8011
+Africa,Morocco,Import,Fish,2005,22460
+Africa,Mozambique,Export,Crustaceans,2005,7361
+Africa,Mozambique,Export,Fish,2005,6669
+Africa,Mozambique,Import,Crustaceans,2005,2
+Africa,Mozambique,Import,Fish,2005,18721
+Africa,Namibia,Export,Crustaceans,2005,1546
+Africa,Namibia,Export,Fish,2005,253834
+Africa,Namibia,Import,Crustaceans,2005,187
+Africa,Namibia,Import,Fish,2005,14445
+Africa,Niger,Export,Crustaceans,2005,0
+Africa,Niger,Export,Fish,2005,2260
+Africa,Niger,Import,Crustaceans,2005,1
+Africa,Niger,Import,Fish,2005,1244
+Africa,Nigeria,Export,Crustaceans,2005,6902
+Africa,Nigeria,Export,Fish,2005,754
+Africa,Nigeria,Import,Crustaceans,2005,1
+Africa,Nigeria,Import,Fish,2005,841741
+Africa,Rwanda,Export,Crustaceans,2005,0
+Africa,Rwanda,Export,Fish,2005,38
+Africa,Rwanda,Import,Crustaceans,2005,0
+Africa,Rwanda,Import,Fish,2005,58
+Africa,Saint Helena,Export,Crustaceans,2005,160
+Africa,Saint Helena,Export,Fish,2005,572
+Africa,Saint Helena,Import,Crustaceans,2005,0
+Africa,Saint Helena,Import,Fish,2005,101
+Africa,Sao Tome and Principe,Export,Crustaceans,2005,0
+Africa,Sao Tome and Principe,Export,Fish,2005,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2005,1
+Africa,Sao Tome and Principe,Import,Fish,2005,3
+Africa,Senegal,Export,Crustaceans,2005,9790
+Africa,Senegal,Export,Fish,2005,74208
+Africa,Senegal,Import,Crustaceans,2005,69
+Africa,Senegal,Import,Fish,2005,438
+Africa,Seychelles,Export,Crustaceans,2005,786
+Africa,Seychelles,Export,Fish,2005,114356
+Africa,Seychelles,Import,Crustaceans,2005,40
+Africa,Seychelles,Import,Fish,2005,87331
+Africa,Sierra Leone,Export,Crustaceans,2005,2536
+Africa,Sierra Leone,Export,Fish,2005,3404
+Africa,Sierra Leone,Import,Crustaceans,2005,1
+Africa,Sierra Leone,Import,Fish,2005,1162
+Africa,Somalia,Export,Crustaceans,2005,69
+Africa,Somalia,Export,Fish,2005,2692
+Africa,Somalia,Import,Crustaceans,2005,0
+Africa,Somalia,Import,Fish,2005,283
+Africa,South Africa,Export,Crustaceans,2005,4397
+Africa,South Africa,Export,Fish,2005,123422
+Africa,South Africa,Import,Crustaceans,2005,7941
+Africa,South Africa,Import,Fish,2005,33663
+Africa,South Sudan,Export,Fish,2005,0
+Africa,South Sudan,Import,Crustaceans,2005,0
+Africa,South Sudan,Import,Fish,2005,0
+Africa,Sudan,Export,Fish,2005,0
+Africa,Sudan,Import,Crustaceans,2005,0
+Africa,Sudan,Import,Fish,2005,0
+Africa,Sudan (former),Export,Crustaceans,2005,0
+Africa,Sudan (former),Export,Fish,2005,2345
+Africa,Sudan (former),Import,Crustaceans,2005,1
+Africa,Sudan (former),Import,Fish,2005,125
+Africa,Swaziland,Export,Crustaceans,2005,536
+Africa,Swaziland,Export,Fish,2005,457
+Africa,Swaziland,Import,Crustaceans,2005,375
+Africa,Swaziland,Import,Fish,2005,3812
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2005,4004
+Africa,"Tanzania, United Rep. of",Export,Fish,2005,42896
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2005,44
+Africa,"Tanzania, United Rep. of",Import,Fish,2005,450
+Africa,Togo,Export,Crustaceans,2005,0
+Africa,Togo,Export,Fish,2005,6121
+Africa,Togo,Import,Crustaceans,2005,1
+Africa,Togo,Import,Fish,2005,21541
+Africa,Tunisia,Export,Crustaceans,2005,4531
+Africa,Tunisia,Export,Fish,2005,8395
+Africa,Tunisia,Import,Crustaceans,2005,185
+Africa,Tunisia,Import,Fish,2005,36368
+Africa,Uganda,Export,Crustaceans,2005,25
+Africa,Uganda,Export,Fish,2005,38371
+Africa,Uganda,Import,Crustaceans,2005,10
+Africa,Uganda,Import,Fish,2005,310
+Africa,Zambia,Export,Crustaceans,2005,0
+Africa,Zambia,Export,Fish,2005,1032
+Africa,Zambia,Import,Crustaceans,2005,0
+Africa,Zambia,Import,Fish,2005,5796
+Africa,Zimbabwe,Export,Crustaceans,2005,0
+Africa,Zimbabwe,Export,Fish,2005,563
+Africa,Zimbabwe,Import,Crustaceans,2005,171
+Africa,Zimbabwe,Import,Fish,2005,825
+Africa,Algeria,Export,Crustaceans,2006,922
+Africa,Algeria,Export,Fish,2006,500
+Africa,Algeria,Import,Crustaceans,2006,304
+Africa,Algeria,Import,Fish,2006,22280
+Africa,Angola,Export,Crustaceans,2006,1562
+Africa,Angola,Export,Fish,2006,1786
+Africa,Angola,Import,Crustaceans,2006,84
+Africa,Angola,Import,Fish,2006,24566
+Africa,Benin,Export,Crustaceans,2006,82
+Africa,Benin,Export,Fish,2006,247
+Africa,Benin,Import,Crustaceans,2006,42
+Africa,Benin,Import,Fish,2006,56019
+Africa,Botswana,Export,Crustaceans,2006,0
+Africa,Botswana,Export,Fish,2006,42
+Africa,Botswana,Import,Crustaceans,2006,40
+Africa,Botswana,Import,Fish,2006,2582
+Africa,Burkina Faso,Export,Fish,2006,1500
+Africa,Burkina Faso,Import,Crustaceans,2006,1
+Africa,Burkina Faso,Import,Fish,2006,25146
+Africa,Burundi,Export,Fish,2006,13
+Africa,Burundi,Import,Crustaceans,2006,0
+Africa,Burundi,Import,Fish,2006,84
+Africa,Cabo Verde,Export,Crustaceans,2006,10
+Africa,Cabo Verde,Export,Fish,2006,18172
+Africa,Cabo Verde,Import,Crustaceans,2006,56
+Africa,Cabo Verde,Import,Fish,2006,232
+Africa,Cameroon,Export,Crustaceans,2006,1
+Africa,Cameroon,Export,Fish,2006,1419
+Africa,Cameroon,Import,Crustaceans,2006,29
+Africa,Cameroon,Import,Fish,2006,101375
+Africa,Central African Republic,Export,Fish,2006,0
+Africa,Central African Republic,Import,Crustaceans,2006,0
+Africa,Central African Republic,Import,Fish,2006,1625
+Africa,Chad,Export,Fish,2006,0
+Africa,Chad,Import,Crustaceans,2006,13
+Africa,Chad,Import,Fish,2006,1188
+Africa,Comoros,Export,Fish,2006,0
+Africa,Comoros,Import,Crustaceans,2006,0
+Africa,Comoros,Import,Fish,2006,293
+Africa,Congo,Export,Crustaceans,2006,550
+Africa,Congo,Export,Fish,2006,24
+Africa,Congo,Import,Crustaceans,2006,6
+Africa,Congo,Import,Fish,2006,9304
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2006,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2006,0
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2006,22
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2006,71648
+Africa,Côte d'Ivoire,Export,Crustaceans,2006,233
+Africa,Côte d'Ivoire,Export,Fish,2006,36941
+Africa,Côte d'Ivoire,Import,Crustaceans,2006,593
+Africa,Côte d'Ivoire,Import,Fish,2006,261001
+Africa,Djibouti,Export,Crustaceans,2006,0
+Africa,Djibouti,Export,Fish,2006,8
+Africa,Djibouti,Import,Crustaceans,2006,5
+Africa,Djibouti,Import,Fish,2006,652
+Africa,Egypt,Export,Crustaceans,2006,19
+Africa,Egypt,Export,Fish,2006,3333
+Africa,Egypt,Import,Crustaceans,2006,3092
+Africa,Egypt,Import,Fish,2006,244448
+Africa,Equatorial Guinea,Export,Crustaceans,2006,0
+Africa,Equatorial Guinea,Export,Fish,2006,26
+Africa,Equatorial Guinea,Import,Crustaceans,2006,30
+Africa,Equatorial Guinea,Import,Fish,2006,7735
+Africa,Eritrea,Export,Crustaceans,2006,2
+Africa,Eritrea,Export,Fish,2006,24
+Africa,Eritrea,Import,Crustaceans,2006,4
+Africa,Eritrea,Import,Fish,2006,201
+Africa,Ethiopia,Export,Fish,2006,337
+Africa,Ethiopia,Import,Crustaceans,2006,0
+Africa,Ethiopia,Import,Fish,2006,779
+Africa,Gabon,Export,Crustaceans,2006,1531
+Africa,Gabon,Export,Fish,2006,2852
+Africa,Gabon,Import,Crustaceans,2006,21
+Africa,Gabon,Import,Fish,2006,10430
+Africa,Gambia,Export,Crustaceans,2006,7
+Africa,Gambia,Export,Fish,2006,67
+Africa,Gambia,Import,Crustaceans,2006,0
+Africa,Gambia,Import,Fish,2006,1937
+Africa,Ghana,Export,Crustaceans,2006,300
+Africa,Ghana,Export,Fish,2006,23422
+Africa,Ghana,Import,Crustaceans,2006,26
+Africa,Ghana,Import,Fish,2006,290273
+Africa,Guinea,Export,Crustaceans,2006,0
+Africa,Guinea,Export,Fish,2006,14334
+Africa,Guinea,Import,Crustaceans,2006,0
+Africa,Guinea,Import,Fish,2006,428
+Africa,Guinea-Bissau,Export,Crustaceans,2006,61
+Africa,Guinea-Bissau,Export,Fish,2006,5373
+Africa,Guinea-Bissau,Import,Crustaceans,2006,20
+Africa,Guinea-Bissau,Import,Fish,2006,331
+Africa,Kenya,Export,Crustaceans,2006,536
+Africa,Kenya,Export,Fish,2006,14098
+Africa,Kenya,Import,Crustaceans,2006,6
+Africa,Kenya,Import,Fish,2006,27112
+Africa,Lesotho,Export,Crustaceans,2006,0
+Africa,Lesotho,Export,Fish,2006,0
+Africa,Lesotho,Import,Crustaceans,2006,0
+Africa,Lesotho,Import,Fish,2006,721
+Africa,Liberia,Export,Crustaceans,2006,7
+Africa,Liberia,Export,Fish,2006,229
+Africa,Liberia,Import,Crustaceans,2006,13
+Africa,Liberia,Import,Fish,2006,2275
+Africa,Libya,Export,Crustaceans,2006,0
+Africa,Libya,Export,Fish,2006,2000
+Africa,Libya,Import,Crustaceans,2006,3
+Africa,Libya,Import,Fish,2006,13575
+Africa,Madagascar,Export,Crustaceans,2006,12013
+Africa,Madagascar,Export,Fish,2006,17804
+Africa,Madagascar,Import,Crustaceans,2006,138
+Africa,Madagascar,Import,Fish,2006,29963
+Africa,Malawi,Export,Fish,2006,585
+Africa,Malawi,Import,Crustaceans,2006,0
+Africa,Malawi,Import,Fish,2006,1740
+Africa,Mali,Export,Crustaceans,2006,0
+Africa,Mali,Export,Fish,2006,337
+Africa,Mali,Import,Crustaceans,2006,37
+Africa,Mali,Import,Fish,2006,12912
+Africa,Mauritania,Export,Crustaceans,2006,1201
+Africa,Mauritania,Export,Fish,2006,72419
+Africa,Mauritania,Import,Crustaceans,2006,11
+Africa,Mauritania,Import,Fish,2006,296
+Africa,Mauritius,Export,Crustaceans,2006,8
+Africa,Mauritius,Export,Fish,2006,50027
+Africa,Mauritius,Import,Crustaceans,2006,1341
+Africa,Mauritius,Import,Fish,2006,148735
+Africa,Mayotte,Export,Crustaceans,2006,0
+Africa,Mayotte,Export,Fish,2006,122
+Africa,Mayotte,Import,Crustaceans,2006,29
+Africa,Mayotte,Import,Fish,2006,1227
+Africa,Morocco,Export,Crustaceans,2006,9756
+Africa,Morocco,Export,Fish,2006,270967
+Africa,Morocco,Import,Crustaceans,2006,10641
+Africa,Morocco,Import,Fish,2006,30808
+Africa,Mozambique,Export,Crustaceans,2006,14617
+Africa,Mozambique,Export,Fish,2006,1814
+Africa,Mozambique,Import,Crustaceans,2006,11
+Africa,Mozambique,Import,Fish,2006,16638
+Africa,Namibia,Export,Crustaceans,2006,1306
+Africa,Namibia,Export,Fish,2006,396990
+Africa,Namibia,Import,Crustaceans,2006,378
+Africa,Namibia,Import,Fish,2006,13937
+Africa,Niger,Export,Crustaceans,2006,0
+Africa,Niger,Export,Fish,2006,681
+Africa,Niger,Import,Crustaceans,2006,0
+Africa,Niger,Import,Fish,2006,2237
+Africa,Nigeria,Export,Crustaceans,2006,15730
+Africa,Nigeria,Export,Fish,2006,813
+Africa,Nigeria,Import,Crustaceans,2006,22
+Africa,Nigeria,Import,Fish,2006,1247871
+Africa,Rwanda,Export,Crustaceans,2006,0
+Africa,Rwanda,Export,Fish,2006,0
+Africa,Rwanda,Import,Crustaceans,2006,0
+Africa,Rwanda,Import,Fish,2006,1342
+Africa,Saint Helena,Export,Crustaceans,2006,150
+Africa,Saint Helena,Export,Fish,2006,478
+Africa,Saint Helena,Import,Crustaceans,2006,21
+Africa,Saint Helena,Import,Fish,2006,166
+Africa,Sao Tome and Principe,Export,Crustaceans,2006,0
+Africa,Sao Tome and Principe,Export,Fish,2006,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2006,2
+Africa,Sao Tome and Principe,Import,Fish,2006,29
+Africa,Senegal,Export,Crustaceans,2006,8695
+Africa,Senegal,Export,Fish,2006,65782
+Africa,Senegal,Import,Crustaceans,2006,21
+Africa,Senegal,Import,Fish,2006,375
+Africa,Seychelles,Export,Crustaceans,2006,619
+Africa,Seychelles,Export,Fish,2006,99635
+Africa,Seychelles,Import,Crustaceans,2006,54
+Africa,Seychelles,Import,Fish,2006,91984
+Africa,Sierra Leone,Export,Crustaceans,2006,1916
+Africa,Sierra Leone,Export,Fish,2006,3552
+Africa,Sierra Leone,Import,Crustaceans,2006,3
+Africa,Sierra Leone,Import,Fish,2006,918
+Africa,Somalia,Export,Crustaceans,2006,15
+Africa,Somalia,Export,Fish,2006,2010
+Africa,Somalia,Import,Crustaceans,2006,18
+Africa,Somalia,Import,Fish,2006,1117
+Africa,South Africa,Export,Crustaceans,2006,4204
+Africa,South Africa,Export,Fish,2006,98084
+Africa,South Africa,Import,Crustaceans,2006,8685
+Africa,South Africa,Import,Fish,2006,38357
+Africa,South Sudan,Export,Fish,2006,0
+Africa,South Sudan,Import,Crustaceans,2006,0
+Africa,South Sudan,Import,Fish,2006,0
+Africa,Sudan,Export,Fish,2006,0
+Africa,Sudan,Import,Crustaceans,2006,0
+Africa,Sudan,Import,Fish,2006,0
+Africa,Sudan (former),Export,Crustaceans,2006,0
+Africa,Sudan (former),Export,Fish,2006,59
+Africa,Sudan (former),Import,Crustaceans,2006,19
+Africa,Sudan (former),Import,Fish,2006,1906
+Africa,Swaziland,Export,Crustaceans,2006,36
+Africa,Swaziland,Export,Fish,2006,96
+Africa,Swaziland,Import,Crustaceans,2006,236
+Africa,Swaziland,Import,Fish,2006,2287
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2006,1261
+Africa,"Tanzania, United Rep. of",Export,Fish,2006,37216
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2006,11
+Africa,"Tanzania, United Rep. of",Import,Fish,2006,2919
+Africa,Togo,Export,Crustaceans,2006,0
+Africa,Togo,Export,Fish,2006,5018
+Africa,Togo,Import,Crustaceans,2006,3
+Africa,Togo,Import,Fish,2006,15357
+Africa,Tunisia,Export,Crustaceans,2006,3706
+Africa,Tunisia,Export,Fish,2006,9692
+Africa,Tunisia,Import,Crustaceans,2006,174
+Africa,Tunisia,Import,Fish,2006,37972
+Africa,Uganda,Export,Crustaceans,2006,0
+Africa,Uganda,Export,Fish,2006,36120
+Africa,Uganda,Import,Crustaceans,2006,11
+Africa,Uganda,Import,Fish,2006,261
+Africa,Zambia,Export,Crustaceans,2006,0
+Africa,Zambia,Export,Fish,2006,254
+Africa,Zambia,Import,Crustaceans,2006,5
+Africa,Zambia,Import,Fish,2006,3867
+Africa,Zimbabwe,Export,Crustaceans,2006,0
+Africa,Zimbabwe,Export,Fish,2006,805
+Africa,Zimbabwe,Import,Crustaceans,2006,48
+Africa,Zimbabwe,Import,Fish,2006,3472
+Africa,Algeria,Export,Crustaceans,2007,709
+Africa,Algeria,Export,Fish,2007,618
+Africa,Algeria,Import,Crustaceans,2007,612
+Africa,Algeria,Import,Fish,2007,19508
+Africa,Angola,Export,Crustaceans,2007,1405
+Africa,Angola,Export,Fish,2007,2742
+Africa,Angola,Import,Crustaceans,2007,151
+Africa,Angola,Import,Fish,2007,27974
+Africa,Benin,Export,Crustaceans,2007,12
+Africa,Benin,Export,Fish,2007,630
+Africa,Benin,Import,Crustaceans,2007,1
+Africa,Benin,Import,Fish,2007,65853
+Africa,Botswana,Export,Crustaceans,2007,4
+Africa,Botswana,Export,Fish,2007,32
+Africa,Botswana,Import,Crustaceans,2007,60
+Africa,Botswana,Import,Fish,2007,2919
+Africa,Burkina Faso,Export,Fish,2007,2507
+Africa,Burkina Faso,Import,Crustaceans,2007,292
+Africa,Burkina Faso,Import,Fish,2007,26891
+Africa,Burundi,Export,Fish,2007,13
+Africa,Burundi,Import,Crustaceans,2007,1
+Africa,Burundi,Import,Fish,2007,35
+Africa,Cabo Verde,Export,Crustaceans,2007,8
+Africa,Cabo Verde,Export,Fish,2007,9807
+Africa,Cabo Verde,Import,Crustaceans,2007,67
+Africa,Cabo Verde,Import,Fish,2007,258
+Africa,Cameroon,Export,Crustaceans,2007,2
+Africa,Cameroon,Export,Fish,2007,2013
+Africa,Cameroon,Import,Crustaceans,2007,21
+Africa,Cameroon,Import,Fish,2007,139323
+Africa,Central African Republic,Export,Fish,2007,0
+Africa,Central African Republic,Import,Crustaceans,2007,0
+Africa,Central African Republic,Import,Fish,2007,3010
+Africa,Chad,Export,Fish,2007,290
+Africa,Chad,Import,Crustaceans,2007,6
+Africa,Chad,Import,Fish,2007,367
+Africa,Comoros,Export,Fish,2007,0
+Africa,Comoros,Import,Crustaceans,2007,0
+Africa,Comoros,Import,Fish,2007,251
+Africa,Congo,Export,Crustaceans,2007,48
+Africa,Congo,Export,Fish,2007,125
+Africa,Congo,Import,Crustaceans,2007,9
+Africa,Congo,Import,Fish,2007,7094
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2007,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2007,0
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2007,11
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2007,74477
+Africa,Côte d'Ivoire,Export,Crustaceans,2007,91
+Africa,Côte d'Ivoire,Export,Fish,2007,47343
+Africa,Côte d'Ivoire,Import,Crustaceans,2007,716
+Africa,Côte d'Ivoire,Import,Fish,2007,280040
+Africa,Djibouti,Export,Crustaceans,2007,1
+Africa,Djibouti,Export,Fish,2007,2
+Africa,Djibouti,Import,Crustaceans,2007,10
+Africa,Djibouti,Import,Fish,2007,603
+Africa,Egypt,Export,Crustaceans,2007,87
+Africa,Egypt,Export,Fish,2007,3587
+Africa,Egypt,Import,Crustaceans,2007,7108
+Africa,Egypt,Import,Fish,2007,244222
+Africa,Equatorial Guinea,Export,Crustaceans,2007,0
+Africa,Equatorial Guinea,Export,Fish,2007,30
+Africa,Equatorial Guinea,Import,Crustaceans,2007,33
+Africa,Equatorial Guinea,Import,Fish,2007,7507
+Africa,Eritrea,Export,Crustaceans,2007,50
+Africa,Eritrea,Export,Fish,2007,134
+Africa,Eritrea,Import,Crustaceans,2007,0
+Africa,Eritrea,Import,Fish,2007,80
+Africa,Ethiopia,Export,Fish,2007,585
+Africa,Ethiopia,Import,Crustaceans,2007,2
+Africa,Ethiopia,Import,Fish,2007,369
+Africa,Gabon,Export,Crustaceans,2007,1145
+Africa,Gabon,Export,Fish,2007,1082
+Africa,Gabon,Import,Crustaceans,2007,44
+Africa,Gabon,Import,Fish,2007,8816
+Africa,Gambia,Export,Crustaceans,2007,117
+Africa,Gambia,Export,Fish,2007,1595
+Africa,Gambia,Import,Crustaceans,2007,0
+Africa,Gambia,Import,Fish,2007,2356
+Africa,Ghana,Export,Crustaceans,2007,504
+Africa,Ghana,Export,Fish,2007,24907
+Africa,Ghana,Import,Crustaceans,2007,127
+Africa,Ghana,Import,Fish,2007,362510
+Africa,Guinea,Export,Crustaceans,2007,0
+Africa,Guinea,Export,Fish,2007,7923
+Africa,Guinea,Import,Crustaceans,2007,0
+Africa,Guinea,Import,Fish,2007,772
+Africa,Guinea-Bissau,Export,Crustaceans,2007,0
+Africa,Guinea-Bissau,Export,Fish,2007,4976
+Africa,Guinea-Bissau,Import,Crustaceans,2007,55
+Africa,Guinea-Bissau,Import,Fish,2007,644
+Africa,Kenya,Export,Crustaceans,2007,325
+Africa,Kenya,Export,Fish,2007,15699
+Africa,Kenya,Import,Crustaceans,2007,1
+Africa,Kenya,Import,Fish,2007,23918
+Africa,Lesotho,Export,Crustaceans,2007,0
+Africa,Lesotho,Export,Fish,2007,0
+Africa,Lesotho,Import,Crustaceans,2007,0
+Africa,Lesotho,Import,Fish,2007,745
+Africa,Liberia,Export,Crustaceans,2007,2
+Africa,Liberia,Export,Fish,2007,125
+Africa,Liberia,Import,Crustaceans,2007,18
+Africa,Liberia,Import,Fish,2007,1130
+Africa,Libya,Export,Crustaceans,2007,0
+Africa,Libya,Export,Fish,2007,1137
+Africa,Libya,Import,Crustaceans,2007,6
+Africa,Libya,Import,Fish,2007,17058
+Africa,Madagascar,Export,Crustaceans,2007,13443
+Africa,Madagascar,Export,Fish,2007,13193
+Africa,Madagascar,Import,Crustaceans,2007,223
+Africa,Madagascar,Import,Fish,2007,22379
+Africa,Malawi,Export,Fish,2007,32
+Africa,Malawi,Import,Crustaceans,2007,0
+Africa,Malawi,Import,Fish,2007,1734
+Africa,Mali,Export,Crustaceans,2007,0
+Africa,Mali,Export,Fish,2007,634
+Africa,Mali,Import,Crustaceans,2007,7
+Africa,Mali,Import,Fish,2007,14606
+Africa,Mauritania,Export,Crustaceans,2007,1154
+Africa,Mauritania,Export,Fish,2007,89426
+Africa,Mauritania,Import,Crustaceans,2007,0
+Africa,Mauritania,Import,Fish,2007,569
+Africa,Mauritius,Export,Crustaceans,2007,5
+Africa,Mauritius,Export,Fish,2007,49809
+Africa,Mauritius,Import,Crustaceans,2007,1570
+Africa,Mauritius,Import,Fish,2007,126327
+Africa,Mayotte,Export,Crustaceans,2007,0
+Africa,Mayotte,Export,Fish,2007,122
+Africa,Mayotte,Import,Crustaceans,2007,42
+Africa,Mayotte,Import,Fish,2007,1040
+Africa,Morocco,Export,Crustaceans,2007,15876
+Africa,Morocco,Export,Fish,2007,256940
+Africa,Morocco,Import,Crustaceans,2007,22408
+Africa,Morocco,Import,Fish,2007,23077
+Africa,Mozambique,Export,Crustaceans,2007,10034
+Africa,Mozambique,Export,Fish,2007,2249
+Africa,Mozambique,Import,Crustaceans,2007,33
+Africa,Mozambique,Import,Fish,2007,14411
+Africa,Namibia,Export,Crustaceans,2007,1195
+Africa,Namibia,Export,Fish,2007,323827
+Africa,Namibia,Import,Crustaceans,2007,452
+Africa,Namibia,Import,Fish,2007,19393
+Africa,Niger,Export,Crustaceans,2007,0
+Africa,Niger,Export,Fish,2007,287
+Africa,Niger,Import,Crustaceans,2007,1
+Africa,Niger,Import,Fish,2007,1542
+Africa,Nigeria,Export,Crustaceans,2007,19956
+Africa,Nigeria,Export,Fish,2007,1169
+Africa,Nigeria,Import,Crustaceans,2007,24
+Africa,Nigeria,Import,Fish,2007,999824
+Africa,Rwanda,Export,Crustaceans,2007,0
+Africa,Rwanda,Export,Fish,2007,92
+Africa,Rwanda,Import,Crustaceans,2007,0
+Africa,Rwanda,Import,Fish,2007,2718
+Africa,Saint Helena,Export,Crustaceans,2007,131
+Africa,Saint Helena,Export,Fish,2007,596
+Africa,Saint Helena,Import,Crustaceans,2007,0
+Africa,Saint Helena,Import,Fish,2007,57
+Africa,Sao Tome and Principe,Export,Crustaceans,2007,0
+Africa,Sao Tome and Principe,Export,Fish,2007,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2007,1
+Africa,Sao Tome and Principe,Import,Fish,2007,19
+Africa,Senegal,Export,Crustaceans,2007,7809
+Africa,Senegal,Export,Fish,2007,87440
+Africa,Senegal,Import,Crustaceans,2007,6
+Africa,Senegal,Import,Fish,2007,880
+Africa,Seychelles,Export,Crustaceans,2007,364
+Africa,Seychelles,Export,Fish,2007,94997
+Africa,Seychelles,Import,Crustaceans,2007,130
+Africa,Seychelles,Import,Fish,2007,115920
+Africa,Sierra Leone,Export,Crustaceans,2007,1721
+Africa,Sierra Leone,Export,Fish,2007,3853
+Africa,Sierra Leone,Import,Crustaceans,2007,0
+Africa,Sierra Leone,Import,Fish,2007,1754
+Africa,Somalia,Export,Crustaceans,2007,0
+Africa,Somalia,Export,Fish,2007,2217
+Africa,Somalia,Import,Crustaceans,2007,0
+Africa,Somalia,Import,Fish,2007,684
+Africa,South Africa,Export,Crustaceans,2007,2857
+Africa,South Africa,Export,Fish,2007,94365
+Africa,South Africa,Import,Crustaceans,2007,9534
+Africa,South Africa,Import,Fish,2007,56368
+Africa,South Sudan,Export,Fish,2007,0
+Africa,South Sudan,Import,Crustaceans,2007,0
+Africa,South Sudan,Import,Fish,2007,0
+Africa,Sudan,Export,Fish,2007,0
+Africa,Sudan,Import,Crustaceans,2007,0
+Africa,Sudan,Import,Fish,2007,0
+Africa,Sudan (former),Export,Crustaceans,2007,0
+Africa,Sudan (former),Export,Fish,2007,74
+Africa,Sudan (former),Import,Crustaceans,2007,3
+Africa,Sudan (former),Import,Fish,2007,1676
+Africa,Swaziland,Export,Crustaceans,2007,0
+Africa,Swaziland,Export,Fish,2007,69
+Africa,Swaziland,Import,Crustaceans,2007,90
+Africa,Swaziland,Import,Fish,2007,1909
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2007,943
+Africa,"Tanzania, United Rep. of",Export,Fish,2007,47677
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2007,31
+Africa,"Tanzania, United Rep. of",Import,Fish,2007,6822
+Africa,Togo,Export,Crustaceans,2007,0
+Africa,Togo,Export,Fish,2007,259
+Africa,Togo,Import,Crustaceans,2007,79
+Africa,Togo,Import,Fish,2007,13934
+Africa,Tunisia,Export,Crustaceans,2007,3118
+Africa,Tunisia,Export,Fish,2007,11999
+Africa,Tunisia,Import,Crustaceans,2007,459
+Africa,Tunisia,Import,Fish,2007,37479
+Africa,Uganda,Export,Crustaceans,2007,0
+Africa,Uganda,Export,Fish,2007,30872
+Africa,Uganda,Import,Crustaceans,2007,15
+Africa,Uganda,Import,Fish,2007,322
+Africa,Zambia,Export,Crustaceans,2007,0
+Africa,Zambia,Export,Fish,2007,240
+Africa,Zambia,Import,Crustaceans,2007,9
+Africa,Zambia,Import,Fish,2007,4635
+Africa,Zimbabwe,Export,Crustaceans,2007,2
+Africa,Zimbabwe,Export,Fish,2007,1439
+Africa,Zimbabwe,Import,Crustaceans,2007,29
+Africa,Zimbabwe,Import,Fish,2007,1939
+Africa,Algeria,Export,Crustaceans,2008,643
+Africa,Algeria,Export,Fish,2008,994
+Africa,Algeria,Import,Crustaceans,2008,597
+Africa,Algeria,Import,Fish,2008,16719
+Africa,Angola,Export,Crustaceans,2008,899
+Africa,Angola,Export,Fish,2008,5019
+Africa,Angola,Import,Crustaceans,2008,113
+Africa,Angola,Import,Fish,2008,41103
+Africa,Benin,Export,Crustaceans,2008,0
+Africa,Benin,Export,Fish,2008,65
+Africa,Benin,Import,Crustaceans,2008,1
+Africa,Benin,Import,Fish,2008,79810
+Africa,Botswana,Export,Crustaceans,2008,1
+Africa,Botswana,Export,Fish,2008,7
+Africa,Botswana,Import,Crustaceans,2008,36
+Africa,Botswana,Import,Fish,2008,2987
+Africa,Burkina Faso,Export,Fish,2008,3387
+Africa,Burkina Faso,Import,Crustaceans,2008,6
+Africa,Burkina Faso,Import,Fish,2008,26914
+Africa,Burundi,Export,Fish,2008,12
+Africa,Burundi,Import,Crustaceans,2008,1
+Africa,Burundi,Import,Fish,2008,38
+Africa,Cabo Verde,Export,Crustaceans,2008,1
+Africa,Cabo Verde,Export,Fish,2008,10081
+Africa,Cabo Verde,Import,Crustaceans,2008,68
+Africa,Cabo Verde,Import,Fish,2008,335
+Africa,Cameroon,Export,Crustaceans,2008,1
+Africa,Cameroon,Export,Fish,2008,1659
+Africa,Cameroon,Import,Crustaceans,2008,1140
+Africa,Cameroon,Import,Fish,2008,150586
+Africa,Central African Republic,Export,Fish,2008,0
+Africa,Central African Republic,Import,Crustaceans,2008,0
+Africa,Central African Republic,Import,Fish,2008,2568
+Africa,Chad,Export,Fish,2008,45
+Africa,Chad,Import,Crustaceans,2008,33
+Africa,Chad,Import,Fish,2008,413
+Africa,Comoros,Export,Fish,2008,0
+Africa,Comoros,Import,Crustaceans,2008,0
+Africa,Comoros,Import,Fish,2008,2748
+Africa,Congo,Export,Crustaceans,2008,10
+Africa,Congo,Export,Fish,2008,324
+Africa,Congo,Import,Crustaceans,2008,7
+Africa,Congo,Import,Fish,2008,25234
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2008,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2008,0
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2008,12
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2008,71468
+Africa,Côte d'Ivoire,Export,Crustaceans,2008,128
+Africa,Côte d'Ivoire,Export,Fish,2008,46988
+Africa,Côte d'Ivoire,Import,Crustaceans,2008,843
+Africa,Côte d'Ivoire,Import,Fish,2008,327520
+Africa,Djibouti,Export,Crustaceans,2008,0
+Africa,Djibouti,Export,Fish,2008,0
+Africa,Djibouti,Import,Crustaceans,2008,20
+Africa,Djibouti,Import,Fish,2008,461
+Africa,Egypt,Export,Crustaceans,2008,6
+Africa,Egypt,Export,Fish,2008,5743
+Africa,Egypt,Import,Crustaceans,2008,10137
+Africa,Egypt,Import,Fish,2008,194125
+Africa,Equatorial Guinea,Export,Crustaceans,2008,0
+Africa,Equatorial Guinea,Export,Fish,2008,20
+Africa,Equatorial Guinea,Import,Crustaceans,2008,50
+Africa,Equatorial Guinea,Import,Fish,2008,6269
+Africa,Eritrea,Export,Crustaceans,2008,29
+Africa,Eritrea,Export,Fish,2008,34
+Africa,Eritrea,Import,Crustaceans,2008,0
+Africa,Eritrea,Import,Fish,2008,89
+Africa,Ethiopia,Export,Fish,2008,394
+Africa,Ethiopia,Import,Crustaceans,2008,10
+Africa,Ethiopia,Import,Fish,2008,713
+Africa,Gabon,Export,Crustaceans,2008,529
+Africa,Gabon,Export,Fish,2008,2342
+Africa,Gabon,Import,Crustaceans,2008,71
+Africa,Gabon,Import,Fish,2008,9758
+Africa,Gambia,Export,Crustaceans,2008,2
+Africa,Gambia,Export,Fish,2008,1743
+Africa,Gambia,Import,Crustaceans,2008,43
+Africa,Gambia,Import,Fish,2008,2712
+Africa,Ghana,Export,Crustaceans,2008,172
+Africa,Ghana,Export,Fish,2008,23442
+Africa,Ghana,Import,Crustaceans,2008,32
+Africa,Ghana,Import,Fish,2008,279387
+Africa,Guinea,Export,Crustaceans,2008,0
+Africa,Guinea,Export,Fish,2008,7964
+Africa,Guinea,Import,Crustaceans,2008,0
+Africa,Guinea,Import,Fish,2008,738
+Africa,Guinea-Bissau,Export,Crustaceans,2008,0
+Africa,Guinea-Bissau,Export,Fish,2008,3377
+Africa,Guinea-Bissau,Import,Crustaceans,2008,0
+Africa,Guinea-Bissau,Import,Fish,2008,913
+Africa,Kenya,Export,Crustaceans,2008,373
+Africa,Kenya,Export,Fish,2008,19719
+Africa,Kenya,Import,Crustaceans,2008,0
+Africa,Kenya,Import,Fish,2008,17696
+Africa,Lesotho,Export,Crustaceans,2008,1
+Africa,Lesotho,Export,Fish,2008,25
+Africa,Lesotho,Import,Crustaceans,2008,5
+Africa,Lesotho,Import,Fish,2008,846
+Africa,Liberia,Export,Crustaceans,2008,0
+Africa,Liberia,Export,Fish,2008,65
+Africa,Liberia,Import,Crustaceans,2008,17
+Africa,Liberia,Import,Fish,2008,4044
+Africa,Libya,Export,Crustaceans,2008,0
+Africa,Libya,Export,Fish,2008,959
+Africa,Libya,Import,Crustaceans,2008,0
+Africa,Libya,Import,Fish,2008,16768
+Africa,Madagascar,Export,Crustaceans,2008,11473
+Africa,Madagascar,Export,Fish,2008,8267
+Africa,Madagascar,Import,Crustaceans,2008,104
+Africa,Madagascar,Import,Fish,2008,14409
+Africa,Malawi,Export,Fish,2008,34
+Africa,Malawi,Import,Crustaceans,2008,0
+Africa,Malawi,Import,Fish,2008,3224
+Africa,Mali,Export,Crustaceans,2008,0
+Africa,Mali,Export,Fish,2008,496
+Africa,Mali,Import,Crustaceans,2008,45
+Africa,Mali,Import,Fish,2008,15378
+Africa,Mauritania,Export,Crustaceans,2008,788
+Africa,Mauritania,Export,Fish,2008,119491
+Africa,Mauritania,Import,Crustaceans,2008,3
+Africa,Mauritania,Import,Fish,2008,681
+Africa,Mauritius,Export,Crustaceans,2008,0
+Africa,Mauritius,Export,Fish,2008,49060
+Africa,Mauritius,Import,Crustaceans,2008,1593
+Africa,Mauritius,Import,Fish,2008,147537
+Africa,Mayotte,Export,Crustaceans,2008,0
+Africa,Mayotte,Export,Fish,2008,95
+Africa,Mayotte,Import,Crustaceans,2008,45
+Africa,Mayotte,Import,Fish,2008,1656
+Africa,Morocco,Export,Crustaceans,2008,14079
+Africa,Morocco,Export,Fish,2008,286893
+Africa,Morocco,Import,Crustaceans,2008,20240
+Africa,Morocco,Import,Fish,2008,44698
+Africa,Mozambique,Export,Crustaceans,2008,10041
+Africa,Mozambique,Export,Fish,2008,1212
+Africa,Mozambique,Import,Crustaceans,2008,2
+Africa,Mozambique,Import,Fish,2008,19118
+Africa,Namibia,Export,Crustaceans,2008,1503
+Africa,Namibia,Export,Fish,2008,319026
+Africa,Namibia,Import,Crustaceans,2008,428
+Africa,Namibia,Import,Fish,2008,20543
+Africa,Niger,Export,Crustaceans,2008,0
+Africa,Niger,Export,Fish,2008,449
+Africa,Niger,Import,Crustaceans,2008,1
+Africa,Niger,Import,Fish,2008,2664
+Africa,Nigeria,Export,Crustaceans,2008,10853
+Africa,Nigeria,Export,Fish,2008,688
+Africa,Nigeria,Import,Crustaceans,2008,0
+Africa,Nigeria,Import,Fish,2008,1042398
+Africa,Rwanda,Export,Crustaceans,2008,0
+Africa,Rwanda,Export,Fish,2008,310
+Africa,Rwanda,Import,Crustaceans,2008,1
+Africa,Rwanda,Import,Fish,2008,3599
+Africa,Saint Helena,Export,Crustaceans,2008,171
+Africa,Saint Helena,Export,Fish,2008,790
+Africa,Saint Helena,Import,Crustaceans,2008,0
+Africa,Saint Helena,Import,Fish,2008,16
+Africa,Sao Tome and Principe,Export,Crustaceans,2008,0
+Africa,Sao Tome and Principe,Export,Fish,2008,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2008,8
+Africa,Sao Tome and Principe,Import,Fish,2008,33
+Africa,Senegal,Export,Crustaceans,2008,4741
+Africa,Senegal,Export,Fish,2008,73125
+Africa,Senegal,Import,Crustaceans,2008,14
+Africa,Senegal,Import,Fish,2008,1120
+Africa,Seychelles,Export,Crustaceans,2008,331
+Africa,Seychelles,Export,Fish,2008,72241
+Africa,Seychelles,Import,Crustaceans,2008,273
+Africa,Seychelles,Import,Fish,2008,35709
+Africa,Sierra Leone,Export,Crustaceans,2008,1615
+Africa,Sierra Leone,Export,Fish,2008,3768
+Africa,Sierra Leone,Import,Crustaceans,2008,1
+Africa,Sierra Leone,Import,Fish,2008,1525
+Africa,Somalia,Export,Crustaceans,2008,231
+Africa,Somalia,Export,Fish,2008,3152
+Africa,Somalia,Import,Crustaceans,2008,0
+Africa,Somalia,Import,Fish,2008,907
+Africa,South Africa,Export,Crustaceans,2008,2412
+Africa,South Africa,Export,Fish,2008,93436
+Africa,South Africa,Import,Crustaceans,2008,8236
+Africa,South Africa,Import,Fish,2008,70673
+Africa,South Sudan,Export,Fish,2008,0
+Africa,South Sudan,Import,Crustaceans,2008,0
+Africa,South Sudan,Import,Fish,2008,0
+Africa,Sudan,Export,Fish,2008,0
+Africa,Sudan,Import,Crustaceans,2008,0
+Africa,Sudan,Import,Fish,2008,0
+Africa,Sudan (former),Export,Crustaceans,2008,5
+Africa,Sudan (former),Export,Fish,2008,563
+Africa,Sudan (former),Import,Crustaceans,2008,40
+Africa,Sudan (former),Import,Fish,2008,1327
+Africa,Swaziland,Export,Crustaceans,2008,0
+Africa,Swaziland,Export,Fish,2008,59
+Africa,Swaziland,Import,Crustaceans,2008,62
+Africa,Swaziland,Import,Fish,2008,1169
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2008,569
+Africa,"Tanzania, United Rep. of",Export,Fish,2008,54467
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2008,4
+Africa,"Tanzania, United Rep. of",Import,Fish,2008,6817
+Africa,Togo,Export,Crustaceans,2008,91
+Africa,Togo,Export,Fish,2008,2146
+Africa,Togo,Import,Crustaceans,2008,0
+Africa,Togo,Import,Fish,2008,10933
+Africa,Tunisia,Export,Crustaceans,2008,3540
+Africa,Tunisia,Export,Fish,2008,10709
+Africa,Tunisia,Import,Crustaceans,2008,431
+Africa,Tunisia,Import,Fish,2008,43732
+Africa,Uganda,Export,Crustaceans,2008,6
+Africa,Uganda,Export,Fish,2008,26552
+Africa,Uganda,Import,Crustaceans,2008,20
+Africa,Uganda,Import,Fish,2008,710
+Africa,Zambia,Export,Crustaceans,2008,0
+Africa,Zambia,Export,Fish,2008,1817
+Africa,Zambia,Import,Crustaceans,2008,4
+Africa,Zambia,Import,Fish,2008,3435
+Africa,Zimbabwe,Export,Crustaceans,2008,0
+Africa,Zimbabwe,Export,Fish,2008,1487
+Africa,Zimbabwe,Import,Crustaceans,2008,16
+Africa,Zimbabwe,Import,Fish,2008,2273
+Africa,Algeria,Export,Crustaceans,2009,525
+Africa,Algeria,Export,Fish,2009,793
+Africa,Algeria,Import,Crustaceans,2009,953
+Africa,Algeria,Import,Fish,2009,26442
+Africa,Angola,Export,Crustaceans,2009,916
+Africa,Angola,Export,Fish,2009,6005
+Africa,Angola,Import,Crustaceans,2009,518
+Africa,Angola,Import,Fish,2009,48844
+Africa,Benin,Export,Crustaceans,2009,3
+Africa,Benin,Export,Fish,2009,112
+Africa,Benin,Import,Crustaceans,2009,0
+Africa,Benin,Import,Fish,2009,74332
+Africa,Botswana,Export,Crustaceans,2009,1
+Africa,Botswana,Export,Fish,2009,112
+Africa,Botswana,Import,Crustaceans,2009,44
+Africa,Botswana,Import,Fish,2009,4063
+Africa,Burkina Faso,Export,Fish,2009,4384
+Africa,Burkina Faso,Import,Crustaceans,2009,91
+Africa,Burkina Faso,Import,Fish,2009,42973
+Africa,Burundi,Export,Fish,2009,11
+Africa,Burundi,Import,Crustaceans,2009,0
+Africa,Burundi,Import,Fish,2009,88
+Africa,Cabo Verde,Export,Crustaceans,2009,8
+Africa,Cabo Verde,Export,Fish,2009,13380
+Africa,Cabo Verde,Import,Crustaceans,2009,60
+Africa,Cabo Verde,Import,Fish,2009,423
+Africa,Cameroon,Export,Crustaceans,2009,10
+Africa,Cameroon,Export,Fish,2009,3016
+Africa,Cameroon,Import,Crustaceans,2009,2909
+Africa,Cameroon,Import,Fish,2009,201060
+Africa,Central African Republic,Export,Fish,2009,0
+Africa,Central African Republic,Import,Crustaceans,2009,0
+Africa,Central African Republic,Import,Fish,2009,3679
+Africa,Chad,Export,Fish,2009,40
+Africa,Chad,Import,Crustaceans,2009,22
+Africa,Chad,Import,Fish,2009,536
+Africa,Comoros,Export,Fish,2009,0
+Africa,Comoros,Import,Crustaceans,2009,0
+Africa,Comoros,Import,Fish,2009,519
+Africa,Congo,Export,Crustaceans,2009,0
+Africa,Congo,Export,Fish,2009,269
+Africa,Congo,Import,Crustaceans,2009,49
+Africa,Congo,Import,Fish,2009,22918
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2009,7
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2009,76
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2009,38
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2009,71747
+Africa,Côte d'Ivoire,Export,Crustaceans,2009,696
+Africa,Côte d'Ivoire,Export,Fish,2009,51261
+Africa,Côte d'Ivoire,Import,Crustaceans,2009,933
+Africa,Côte d'Ivoire,Import,Fish,2009,368198
+Africa,Djibouti,Export,Crustaceans,2009,0
+Africa,Djibouti,Export,Fish,2009,1
+Africa,Djibouti,Import,Crustaceans,2009,47
+Africa,Djibouti,Import,Fish,2009,375
+Africa,Egypt,Export,Crustaceans,2009,51
+Africa,Egypt,Export,Fish,2009,4381
+Africa,Egypt,Import,Crustaceans,2009,11416
+Africa,Egypt,Import,Fish,2009,223514
+Africa,Equatorial Guinea,Export,Crustaceans,2009,0
+Africa,Equatorial Guinea,Export,Fish,2009,30
+Africa,Equatorial Guinea,Import,Crustaceans,2009,35
+Africa,Equatorial Guinea,Import,Fish,2009,10385
+Africa,Eritrea,Export,Crustaceans,2009,0
+Africa,Eritrea,Export,Fish,2009,7
+Africa,Eritrea,Import,Crustaceans,2009,2
+Africa,Eritrea,Import,Fish,2009,10
+Africa,Ethiopia,Export,Fish,2009,489
+Africa,Ethiopia,Import,Crustaceans,2009,14
+Africa,Ethiopia,Import,Fish,2009,318
+Africa,Gabon,Export,Crustaceans,2009,56
+Africa,Gabon,Export,Fish,2009,1459
+Africa,Gabon,Import,Crustaceans,2009,80
+Africa,Gabon,Import,Fish,2009,11903
+Africa,Gambia,Export,Crustaceans,2009,5
+Africa,Gambia,Export,Fish,2009,3906
+Africa,Gambia,Import,Crustaceans,2009,0
+Africa,Gambia,Import,Fish,2009,3496
+Africa,Ghana,Export,Crustaceans,2009,46
+Africa,Ghana,Export,Fish,2009,19226
+Africa,Ghana,Import,Crustaceans,2009,50
+Africa,Ghana,Import,Fish,2009,248530
+Africa,Guinea,Export,Crustaceans,2009,417
+Africa,Guinea,Export,Fish,2009,6445
+Africa,Guinea,Import,Crustaceans,2009,3
+Africa,Guinea,Import,Fish,2009,1402
+Africa,Guinea-Bissau,Export,Crustaceans,2009,0
+Africa,Guinea-Bissau,Export,Fish,2009,3771
+Africa,Guinea-Bissau,Import,Crustaceans,2009,0
+Africa,Guinea-Bissau,Import,Fish,2009,771
+Africa,Kenya,Export,Crustaceans,2009,131
+Africa,Kenya,Export,Fish,2009,14431
+Africa,Kenya,Import,Crustaceans,2009,102
+Africa,Kenya,Import,Fish,2009,11432
+Africa,Lesotho,Export,Crustaceans,2009,0
+Africa,Lesotho,Export,Fish,2009,183
+Africa,Lesotho,Import,Crustaceans,2009,13
+Africa,Lesotho,Import,Fish,2009,1121
+Africa,Liberia,Export,Crustaceans,2009,0
+Africa,Liberia,Export,Fish,2009,91
+Africa,Liberia,Import,Crustaceans,2009,19
+Africa,Liberia,Import,Fish,2009,3320
+Africa,Libya,Export,Crustaceans,2009,17
+Africa,Libya,Export,Fish,2009,579
+Africa,Libya,Import,Crustaceans,2009,140
+Africa,Libya,Import,Fish,2009,27554
+Africa,Madagascar,Export,Crustaceans,2009,9479
+Africa,Madagascar,Export,Fish,2009,6688
+Africa,Madagascar,Import,Crustaceans,2009,3
+Africa,Madagascar,Import,Fish,2009,14752
+Africa,Malawi,Export,Fish,2009,15
+Africa,Malawi,Import,Crustaceans,2009,0
+Africa,Malawi,Import,Fish,2009,2103
+Africa,Mali,Export,Crustaceans,2009,0
+Africa,Mali,Export,Fish,2009,301
+Africa,Mali,Import,Crustaceans,2009,77
+Africa,Mali,Import,Fish,2009,16246
+Africa,Mauritania,Export,Crustaceans,2009,350
+Africa,Mauritania,Export,Fish,2009,55580
+Africa,Mauritania,Import,Crustaceans,2009,0
+Africa,Mauritania,Import,Fish,2009,1433
+Africa,Mauritius,Export,Crustaceans,2009,0
+Africa,Mauritius,Export,Fish,2009,50567
+Africa,Mauritius,Import,Crustaceans,2009,1449
+Africa,Mauritius,Import,Fish,2009,142573
+Africa,Mayotte,Export,Crustaceans,2009,0
+Africa,Mayotte,Export,Fish,2009,83
+Africa,Mayotte,Import,Crustaceans,2009,56
+Africa,Mayotte,Import,Fish,2009,1308
+Africa,Morocco,Export,Crustaceans,2009,14547
+Africa,Morocco,Export,Fish,2009,288770
+Africa,Morocco,Import,Crustaceans,2009,19095
+Africa,Morocco,Import,Fish,2009,24806
+Africa,Mozambique,Export,Crustaceans,2009,8520
+Africa,Mozambique,Export,Fish,2009,1033
+Africa,Mozambique,Import,Crustaceans,2009,2
+Africa,Mozambique,Import,Fish,2009,18394
+Africa,Namibia,Export,Crustaceans,2009,2234
+Africa,Namibia,Export,Fish,2009,337595
+Africa,Namibia,Import,Crustaceans,2009,1335
+Africa,Namibia,Import,Fish,2009,31389
+Africa,Niger,Export,Crustaceans,2009,1
+Africa,Niger,Export,Fish,2009,405
+Africa,Niger,Import,Crustaceans,2009,2
+Africa,Niger,Import,Fish,2009,3409
+Africa,Nigeria,Export,Crustaceans,2009,24690
+Africa,Nigeria,Export,Fish,2009,204
+Africa,Nigeria,Import,Crustaceans,2009,81
+Africa,Nigeria,Import,Fish,2009,1108631
+Africa,Rwanda,Export,Crustaceans,2009,0
+Africa,Rwanda,Export,Fish,2009,555
+Africa,Rwanda,Import,Crustaceans,2009,3
+Africa,Rwanda,Import,Fish,2009,4875
+Africa,Saint Helena,Export,Crustaceans,2009,264
+Africa,Saint Helena,Export,Fish,2009,510
+Africa,Saint Helena,Import,Crustaceans,2009,0
+Africa,Saint Helena,Import,Fish,2009,8
+Africa,Sao Tome and Principe,Export,Crustaceans,2009,0
+Africa,Sao Tome and Principe,Export,Fish,2009,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2009,4
+Africa,Sao Tome and Principe,Import,Fish,2009,27
+Africa,Senegal,Export,Crustaceans,2009,4284
+Africa,Senegal,Export,Fish,2009,78367
+Africa,Senegal,Import,Crustaceans,2009,80
+Africa,Senegal,Import,Fish,2009,304
+Africa,Seychelles,Export,Crustaceans,2009,23
+Africa,Seychelles,Export,Fish,2009,72560
+Africa,Seychelles,Import,Crustaceans,2009,51
+Africa,Seychelles,Import,Fish,2009,64103
+Africa,Sierra Leone,Export,Crustaceans,2009,1591
+Africa,Sierra Leone,Export,Fish,2009,3944
+Africa,Sierra Leone,Import,Crustaceans,2009,0
+Africa,Sierra Leone,Import,Fish,2009,2038
+Africa,Somalia,Export,Crustaceans,2009,0
+Africa,Somalia,Export,Fish,2009,4147
+Africa,Somalia,Import,Crustaceans,2009,1
+Africa,Somalia,Import,Fish,2009,1426
+Africa,South Africa,Export,Crustaceans,2009,3327
+Africa,South Africa,Export,Fish,2009,111280
+Africa,South Africa,Import,Crustaceans,2009,9472
+Africa,South Africa,Import,Fish,2009,87184
+Africa,South Sudan,Export,Fish,2009,0
+Africa,South Sudan,Import,Crustaceans,2009,0
+Africa,South Sudan,Import,Fish,2009,0
+Africa,Sudan,Export,Fish,2009,0
+Africa,Sudan,Import,Crustaceans,2009,0
+Africa,Sudan,Import,Fish,2009,0
+Africa,Sudan (former),Export,Crustaceans,2009,2
+Africa,Sudan (former),Export,Fish,2009,591
+Africa,Sudan (former),Import,Crustaceans,2009,76
+Africa,Sudan (former),Import,Fish,2009,2324
+Africa,Swaziland,Export,Crustaceans,2009,0
+Africa,Swaziland,Export,Fish,2009,24
+Africa,Swaziland,Import,Crustaceans,2009,0
+Africa,Swaziland,Import,Fish,2009,1139
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2009,494
+Africa,"Tanzania, United Rep. of",Export,Fish,2009,39465
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2009,4
+Africa,"Tanzania, United Rep. of",Import,Fish,2009,6243
+Africa,Togo,Export,Crustaceans,2009,0
+Africa,Togo,Export,Fish,2009,3603
+Africa,Togo,Import,Crustaceans,2009,38
+Africa,Togo,Import,Fish,2009,15524
+Africa,Tunisia,Export,Crustaceans,2009,2865
+Africa,Tunisia,Export,Fish,2009,9852
+Africa,Tunisia,Import,Crustaceans,2009,962
+Africa,Tunisia,Import,Fish,2009,44926
+Africa,Uganda,Export,Crustaceans,2009,0
+Africa,Uganda,Export,Fish,2009,22535
+Africa,Uganda,Import,Crustaceans,2009,17
+Africa,Uganda,Import,Fish,2009,474
+Africa,Zambia,Export,Crustaceans,2009,0
+Africa,Zambia,Export,Fish,2009,686
+Africa,Zambia,Import,Crustaceans,2009,18
+Africa,Zambia,Import,Fish,2009,3261
+Africa,Zimbabwe,Export,Crustaceans,2009,0
+Africa,Zimbabwe,Export,Fish,2009,966
+Africa,Zimbabwe,Import,Crustaceans,2009,11
+Africa,Zimbabwe,Import,Fish,2009,3379
+Africa,Algeria,Export,Crustaceans,2010,364
+Africa,Algeria,Export,Fish,2010,457
+Africa,Algeria,Import,Crustaceans,2010,1009
+Africa,Algeria,Import,Fish,2010,28127
+Africa,Angola,Export,Crustaceans,2010,1059
+Africa,Angola,Export,Fish,2010,4508
+Africa,Angola,Import,Crustaceans,2010,878
+Africa,Angola,Import,Fish,2010,64206
+Africa,Benin,Export,Crustaceans,2010,0
+Africa,Benin,Export,Fish,2010,1149
+Africa,Benin,Import,Crustaceans,2010,1
+Africa,Benin,Import,Fish,2010,77472
+Africa,Botswana,Export,Crustaceans,2010,0
+Africa,Botswana,Export,Fish,2010,36
+Africa,Botswana,Import,Crustaceans,2010,32
+Africa,Botswana,Import,Fish,2010,4105
+Africa,Burkina Faso,Export,Fish,2010,3260
+Africa,Burkina Faso,Import,Crustaceans,2010,173
+Africa,Burkina Faso,Import,Fish,2010,50805
+Africa,Burundi,Export,Fish,2010,9
+Africa,Burundi,Import,Crustaceans,2010,1
+Africa,Burundi,Import,Fish,2010,514
+Africa,Cabo Verde,Export,Crustaceans,2010,8
+Africa,Cabo Verde,Export,Fish,2010,15909
+Africa,Cabo Verde,Import,Crustaceans,2010,67
+Africa,Cabo Verde,Import,Fish,2010,328
+Africa,Cameroon,Export,Crustaceans,2010,4
+Africa,Cameroon,Export,Fish,2010,4237
+Africa,Cameroon,Import,Crustaceans,2010,3376
+Africa,Cameroon,Import,Fish,2010,163788
+Africa,Central African Republic,Export,Fish,2010,0
+Africa,Central African Republic,Import,Crustaceans,2010,0
+Africa,Central African Republic,Import,Fish,2010,5354
+Africa,Chad,Export,Fish,2010,51
+Africa,Chad,Import,Crustaceans,2010,8
+Africa,Chad,Import,Fish,2010,424
+Africa,Comoros,Export,Fish,2010,0
+Africa,Comoros,Import,Crustaceans,2010,1
+Africa,Comoros,Import,Fish,2010,803
+Africa,Congo,Export,Crustaceans,2010,0
+Africa,Congo,Export,Fish,2010,266
+Africa,Congo,Import,Crustaceans,2010,12
+Africa,Congo,Import,Fish,2010,9304
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2010,6
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2010,259
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2010,150
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2010,77218
+Africa,Côte d'Ivoire,Export,Crustaceans,2010,213
+Africa,Côte d'Ivoire,Export,Fish,2010,31637
+Africa,Côte d'Ivoire,Import,Crustaceans,2010,867
+Africa,Côte d'Ivoire,Import,Fish,2010,285267
+Africa,Djibouti,Export,Crustaceans,2010,0
+Africa,Djibouti,Export,Fish,2010,18
+Africa,Djibouti,Import,Crustaceans,2010,7
+Africa,Djibouti,Import,Fish,2010,324
+Africa,Egypt,Export,Crustaceans,2010,65
+Africa,Egypt,Export,Fish,2010,10071
+Africa,Egypt,Import,Crustaceans,2010,29816
+Africa,Egypt,Import,Fish,2010,281400
+Africa,Equatorial Guinea,Export,Crustaceans,2010,0
+Africa,Equatorial Guinea,Export,Fish,2010,10
+Africa,Equatorial Guinea,Import,Crustaceans,2010,84
+Africa,Equatorial Guinea,Import,Fish,2010,7740
+Africa,Eritrea,Export,Crustaceans,2010,0
+Africa,Eritrea,Export,Fish,2010,0
+Africa,Eritrea,Import,Crustaceans,2010,1
+Africa,Eritrea,Import,Fish,2010,47
+Africa,Ethiopia,Export,Fish,2010,850
+Africa,Ethiopia,Import,Crustaceans,2010,12
+Africa,Ethiopia,Import,Fish,2010,396
+Africa,Gabon,Export,Crustaceans,2010,21
+Africa,Gabon,Export,Fish,2010,1284
+Africa,Gabon,Import,Crustaceans,2010,19
+Africa,Gabon,Import,Fish,2010,11063
+Africa,Gambia,Export,Crustaceans,2010,26
+Africa,Gambia,Export,Fish,2010,5911
+Africa,Gambia,Import,Crustaceans,2010,0
+Africa,Gambia,Import,Fish,2010,5972
+Africa,Ghana,Export,Crustaceans,2010,18
+Africa,Ghana,Export,Fish,2010,21631
+Africa,Ghana,Import,Crustaceans,2010,22
+Africa,Ghana,Import,Fish,2010,211422
+Africa,Guinea,Export,Crustaceans,2010,220
+Africa,Guinea,Export,Fish,2010,7472
+Africa,Guinea,Import,Crustaceans,2010,1
+Africa,Guinea,Import,Fish,2010,1471
+Africa,Guinea-Bissau,Export,Crustaceans,2010,0
+Africa,Guinea-Bissau,Export,Fish,2010,5666
+Africa,Guinea-Bissau,Import,Crustaceans,2010,0
+Africa,Guinea-Bissau,Import,Fish,2010,305
+Africa,Kenya,Export,Crustaceans,2010,323
+Africa,Kenya,Export,Fish,2010,16757
+Africa,Kenya,Import,Crustaceans,2010,11
+Africa,Kenya,Import,Fish,2010,14399
+Africa,Lesotho,Export,Crustaceans,2010,0
+Africa,Lesotho,Export,Fish,2010,413
+Africa,Lesotho,Import,Crustaceans,2010,49
+Africa,Lesotho,Import,Fish,2010,1020
+Africa,Liberia,Export,Crustaceans,2010,0
+Africa,Liberia,Export,Fish,2010,96
+Africa,Liberia,Import,Crustaceans,2010,10
+Africa,Liberia,Import,Fish,2010,6076
+Africa,Libya,Export,Crustaceans,2010,8
+Africa,Libya,Export,Fish,2010,616
+Africa,Libya,Import,Crustaceans,2010,307
+Africa,Libya,Import,Fish,2010,43098
+Africa,Madagascar,Export,Crustaceans,2010,7715
+Africa,Madagascar,Export,Fish,2010,11201
+Africa,Madagascar,Import,Crustaceans,2010,18
+Africa,Madagascar,Import,Fish,2010,18038
+Africa,Malawi,Export,Fish,2010,21
+Africa,Malawi,Import,Crustaceans,2010,3
+Africa,Malawi,Import,Fish,2010,1916
+Africa,Mali,Export,Crustaceans,2010,0
+Africa,Mali,Export,Fish,2010,278
+Africa,Mali,Import,Crustaceans,2010,97
+Africa,Mali,Import,Fish,2010,23196
+Africa,Mauritania,Export,Crustaceans,2010,2955
+Africa,Mauritania,Export,Fish,2010,99624
+Africa,Mauritania,Import,Crustaceans,2010,0
+Africa,Mauritania,Import,Fish,2010,2332
+Africa,Mauritius,Export,Crustaceans,2010,0
+Africa,Mauritius,Export,Fish,2010,61195
+Africa,Mauritius,Import,Crustaceans,2010,1483
+Africa,Mauritius,Import,Fish,2010,139934
+Africa,Mayotte,Export,Crustaceans,2010,0
+Africa,Mayotte,Export,Fish,2010,80
+Africa,Mayotte,Import,Crustaceans,2010,22
+Africa,Mayotte,Import,Fish,2010,1209
+Africa,Morocco,Export,Crustaceans,2010,14156
+Africa,Morocco,Export,Fish,2010,279834
+Africa,Morocco,Import,Crustaceans,2010,28881
+Africa,Morocco,Import,Fish,2010,19397
+Africa,Mozambique,Export,Crustaceans,2010,8315
+Africa,Mozambique,Export,Fish,2010,1197
+Africa,Mozambique,Import,Crustaceans,2010,1
+Africa,Mozambique,Import,Fish,2010,16723
+Africa,Namibia,Export,Crustaceans,2010,2126
+Africa,Namibia,Export,Fish,2010,306847
+Africa,Namibia,Import,Crustaceans,2010,317
+Africa,Namibia,Import,Fish,2010,20641
+Africa,Niger,Export,Crustaceans,2010,0
+Africa,Niger,Export,Fish,2010,556
+Africa,Niger,Import,Crustaceans,2010,5
+Africa,Niger,Import,Fish,2010,3657
+Africa,Nigeria,Export,Crustaceans,2010,23725
+Africa,Nigeria,Export,Fish,2010,300
+Africa,Nigeria,Import,Crustaceans,2010,90
+Africa,Nigeria,Import,Fish,2010,1330691
+Africa,Rwanda,Export,Crustaceans,2010,0
+Africa,Rwanda,Export,Fish,2010,253
+Africa,Rwanda,Import,Crustaceans,2010,3
+Africa,Rwanda,Import,Fish,2010,6897
+Africa,Saint Helena,Export,Crustaceans,2010,339
+Africa,Saint Helena,Export,Fish,2010,372
+Africa,Saint Helena,Import,Crustaceans,2010,0
+Africa,Saint Helena,Import,Fish,2010,22
+Africa,Sao Tome and Principe,Export,Crustaceans,2010,0
+Africa,Sao Tome and Principe,Export,Fish,2010,1
+Africa,Sao Tome and Principe,Import,Crustaceans,2010,4
+Africa,Sao Tome and Principe,Import,Fish,2010,28
+Africa,Senegal,Export,Crustaceans,2010,3551
+Africa,Senegal,Export,Fish,2010,78034
+Africa,Senegal,Import,Crustaceans,2010,74
+Africa,Senegal,Import,Fish,2010,6354
+Africa,Seychelles,Export,Crustaceans,2010,1
+Africa,Seychelles,Export,Fish,2010,82478
+Africa,Seychelles,Import,Crustaceans,2010,511
+Africa,Seychelles,Import,Fish,2010,70006
+Africa,Sierra Leone,Export,Crustaceans,2010,1675
+Africa,Sierra Leone,Export,Fish,2010,3942
+Africa,Sierra Leone,Import,Crustaceans,2010,0
+Africa,Sierra Leone,Import,Fish,2010,972
+Africa,Somalia,Export,Crustaceans,2010,5
+Africa,Somalia,Export,Fish,2010,1133
+Africa,Somalia,Import,Crustaceans,2010,1
+Africa,Somalia,Import,Fish,2010,899
+Africa,South Africa,Export,Crustaceans,2010,2690
+Africa,South Africa,Export,Fish,2010,105576
+Africa,South Africa,Import,Crustaceans,2010,7764
+Africa,South Africa,Import,Fish,2010,75783
+Africa,South Sudan,Export,Fish,2010,0
+Africa,South Sudan,Import,Crustaceans,2010,0
+Africa,South Sudan,Import,Fish,2010,0
+Africa,Sudan,Export,Fish,2010,0
+Africa,Sudan,Import,Crustaceans,2010,0
+Africa,Sudan,Import,Fish,2010,0
+Africa,Sudan (former),Export,Crustaceans,2010,0
+Africa,Sudan (former),Export,Fish,2010,19
+Africa,Sudan (former),Import,Crustaceans,2010,129
+Africa,Sudan (former),Import,Fish,2010,2367
+Africa,Swaziland,Export,Crustaceans,2010,0
+Africa,Swaziland,Export,Fish,2010,20
+Africa,Swaziland,Import,Crustaceans,2010,1
+Africa,Swaziland,Import,Fish,2010,1114
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2010,639
+Africa,"Tanzania, United Rep. of",Export,Fish,2010,39611
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2010,3
+Africa,"Tanzania, United Rep. of",Import,Fish,2010,5913
+Africa,Togo,Export,Crustaceans,2010,0
+Africa,Togo,Export,Fish,2010,485
+Africa,Togo,Import,Crustaceans,2010,0
+Africa,Togo,Import,Fish,2010,39471
+Africa,Tunisia,Export,Crustaceans,2010,2941
+Africa,Tunisia,Export,Fish,2010,9732
+Africa,Tunisia,Import,Crustaceans,2010,1433
+Africa,Tunisia,Import,Fish,2010,43026
+Africa,Uganda,Export,Crustaceans,2010,18
+Africa,Uganda,Export,Fish,2010,22711
+Africa,Uganda,Import,Crustaceans,2010,12
+Africa,Uganda,Import,Fish,2010,780
+Africa,Zambia,Export,Crustaceans,2010,0
+Africa,Zambia,Export,Fish,2010,430
+Africa,Zambia,Import,Crustaceans,2010,33
+Africa,Zambia,Import,Fish,2010,4426
+Africa,Zimbabwe,Export,Crustaceans,2010,0
+Africa,Zimbabwe,Export,Fish,2010,1137
+Africa,Zimbabwe,Import,Crustaceans,2010,19
+Africa,Zimbabwe,Import,Fish,2010,9968
+Africa,Algeria,Export,Crustaceans,2011,411
+Africa,Algeria,Export,Fish,2011,109
+Africa,Algeria,Import,Crustaceans,2011,1269
+Africa,Algeria,Import,Fish,2011,27081
+Africa,Angola,Export,Crustaceans,2011,619
+Africa,Angola,Export,Fish,2011,2769
+Africa,Angola,Import,Crustaceans,2011,937
+Africa,Angola,Import,Fish,2011,96017
+Africa,Benin,Export,Crustaceans,2011,24
+Africa,Benin,Export,Fish,2011,1082
+Africa,Benin,Import,Crustaceans,2011,5
+Africa,Benin,Import,Fish,2011,80149
+Africa,Botswana,Export,Crustaceans,2011,0
+Africa,Botswana,Export,Fish,2011,59
+Africa,Botswana,Import,Crustaceans,2011,77
+Africa,Botswana,Import,Fish,2011,3273
+Africa,Burkina Faso,Export,Fish,2011,2674
+Africa,Burkina Faso,Import,Crustaceans,2011,155
+Africa,Burkina Faso,Import,Fish,2011,60181
+Africa,Burundi,Export,Fish,2011,11
+Africa,Burundi,Import,Crustaceans,2011,1
+Africa,Burundi,Import,Fish,2011,1316
+Africa,Cabo Verde,Export,Crustaceans,2011,17
+Africa,Cabo Verde,Export,Fish,2011,17997
+Africa,Cabo Verde,Import,Crustaceans,2011,101
+Africa,Cabo Verde,Import,Fish,2011,440
+Africa,Cameroon,Export,Crustaceans,2011,5
+Africa,Cameroon,Export,Fish,2011,1770
+Africa,Cameroon,Import,Crustaceans,2011,201
+Africa,Cameroon,Import,Fish,2011,216046
+Africa,Central African Republic,Export,Fish,2011,0
+Africa,Central African Republic,Import,Crustaceans,2011,0
+Africa,Central African Republic,Import,Fish,2011,5198
+Africa,Chad,Export,Fish,2011,52
+Africa,Chad,Import,Crustaceans,2011,2
+Africa,Chad,Import,Fish,2011,432
+Africa,Comoros,Export,Fish,2011,0
+Africa,Comoros,Import,Crustaceans,2011,1
+Africa,Comoros,Import,Fish,2011,443
+Africa,Congo,Export,Crustaceans,2011,0
+Africa,Congo,Export,Fish,2011,23
+Africa,Congo,Import,Crustaceans,2011,49
+Africa,Congo,Import,Fish,2011,16436
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2011,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2011,116
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2011,77
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2011,85660
+Africa,Côte d'Ivoire,Export,Crustaceans,2011,72
+Africa,Côte d'Ivoire,Export,Fish,2011,23137
+Africa,Côte d'Ivoire,Import,Crustaceans,2011,506
+Africa,Côte d'Ivoire,Import,Fish,2011,287749
+Africa,Djibouti,Export,Crustaceans,2011,0
+Africa,Djibouti,Export,Fish,2011,1
+Africa,Djibouti,Import,Crustaceans,2011,7
+Africa,Djibouti,Import,Fish,2011,468
+Africa,Egypt,Export,Crustaceans,2011,26
+Africa,Egypt,Export,Fish,2011,9856
+Africa,Egypt,Import,Crustaceans,2011,16838
+Africa,Egypt,Import,Fish,2011,243861
+Africa,Equatorial Guinea,Export,Crustaceans,2011,0
+Africa,Equatorial Guinea,Export,Fish,2011,21
+Africa,Equatorial Guinea,Import,Crustaceans,2011,107
+Africa,Equatorial Guinea,Import,Fish,2011,9480
+Africa,Eritrea,Export,Crustaceans,2011,0
+Africa,Eritrea,Export,Fish,2011,1
+Africa,Eritrea,Import,Crustaceans,2011,1
+Africa,Eritrea,Import,Fish,2011,1
+Africa,Ethiopia,Export,Fish,2011,826
+Africa,Ethiopia,Import,Crustaceans,2011,16
+Africa,Ethiopia,Import,Fish,2011,532
+Africa,Gabon,Export,Crustaceans,2011,0
+Africa,Gabon,Export,Fish,2011,1178
+Africa,Gabon,Import,Crustaceans,2011,17
+Africa,Gabon,Import,Fish,2011,15891
+Africa,Gambia,Export,Crustaceans,2011,0
+Africa,Gambia,Export,Fish,2011,2367
+Africa,Gambia,Import,Crustaceans,2011,32
+Africa,Gambia,Import,Fish,2011,3602
+Africa,Ghana,Export,Crustaceans,2011,158
+Africa,Ghana,Export,Fish,2011,20085
+Africa,Ghana,Import,Crustaceans,2011,115
+Africa,Ghana,Import,Fish,2011,320725
+Africa,Guinea,Export,Crustaceans,2011,199
+Africa,Guinea,Export,Fish,2011,7629
+Africa,Guinea,Import,Crustaceans,2011,5
+Africa,Guinea,Import,Fish,2011,1494
+Africa,Guinea-Bissau,Export,Crustaceans,2011,0
+Africa,Guinea-Bissau,Export,Fish,2011,4401
+Africa,Guinea-Bissau,Import,Crustaceans,2011,0
+Africa,Guinea-Bissau,Import,Fish,2011,444
+Africa,Kenya,Export,Crustaceans,2011,170
+Africa,Kenya,Export,Fish,2011,14359
+Africa,Kenya,Import,Crustaceans,2011,22
+Africa,Kenya,Import,Fish,2011,16010
+Africa,Lesotho,Export,Crustaceans,2011,0
+Africa,Lesotho,Export,Fish,2011,388
+Africa,Lesotho,Import,Crustaceans,2011,34
+Africa,Lesotho,Import,Fish,2011,2200
+Africa,Liberia,Export,Crustaceans,2011,0
+Africa,Liberia,Export,Fish,2011,91
+Africa,Liberia,Import,Crustaceans,2011,5
+Africa,Liberia,Import,Fish,2011,6861
+Africa,Libya,Export,Crustaceans,2011,0
+Africa,Libya,Export,Fish,2011,363
+Africa,Libya,Import,Crustaceans,2011,136
+Africa,Libya,Import,Fish,2011,39003
+Africa,Madagascar,Export,Crustaceans,2011,10642
+Africa,Madagascar,Export,Fish,2011,12047
+Africa,Madagascar,Import,Crustaceans,2011,216
+Africa,Madagascar,Import,Fish,2011,20289
+Africa,Malawi,Export,Fish,2011,67
+Africa,Malawi,Import,Crustaceans,2011,1
+Africa,Malawi,Import,Fish,2011,1316
+Africa,Mali,Export,Crustaceans,2011,0
+Africa,Mali,Export,Fish,2011,879
+Africa,Mali,Import,Crustaceans,2011,16
+Africa,Mali,Import,Fish,2011,21902
+Africa,Mauritania,Export,Crustaceans,2011,4062
+Africa,Mauritania,Export,Fish,2011,209019
+Africa,Mauritania,Import,Crustaceans,2011,3
+Africa,Mauritania,Import,Fish,2011,1921
+Africa,Mauritius,Export,Crustaceans,2011,0
+Africa,Mauritius,Export,Fish,2011,54867
+Africa,Mauritius,Import,Crustaceans,2011,1788
+Africa,Mauritius,Import,Fish,2011,158800
+Africa,Mayotte,Export,Crustaceans,2011,1
+Africa,Mayotte,Export,Fish,2011,85
+Africa,Mayotte,Import,Crustaceans,2011,4
+Africa,Mayotte,Import,Fish,2011,1419
+Africa,Morocco,Export,Crustaceans,2011,17398
+Africa,Morocco,Export,Fish,2011,213072
+Africa,Morocco,Import,Crustaceans,2011,35012
+Africa,Morocco,Import,Fish,2011,19397
+Africa,Mozambique,Export,Crustaceans,2011,4745
+Africa,Mozambique,Export,Fish,2011,2825
+Africa,Mozambique,Import,Crustaceans,2011,5
+Africa,Mozambique,Import,Fish,2011,27350
+Africa,Namibia,Export,Crustaceans,2011,2119
+Africa,Namibia,Export,Fish,2011,348288
+Africa,Namibia,Import,Crustaceans,2011,496
+Africa,Namibia,Import,Fish,2011,13710
+Africa,Niger,Export,Crustaceans,2011,0
+Africa,Niger,Export,Fish,2011,815
+Africa,Niger,Import,Crustaceans,2011,3
+Africa,Niger,Import,Fish,2011,2856
+Africa,Nigeria,Export,Crustaceans,2011,9399
+Africa,Nigeria,Export,Fish,2011,22415
+Africa,Nigeria,Import,Crustaceans,2011,1671
+Africa,Nigeria,Import,Fish,2011,1589401
+Africa,Rwanda,Export,Crustaceans,2011,0
+Africa,Rwanda,Export,Fish,2011,120
+Africa,Rwanda,Import,Crustaceans,2011,2
+Africa,Rwanda,Import,Fish,2011,11915
+Africa,Saint Helena,Export,Crustaceans,2011,186
+Africa,Saint Helena,Export,Fish,2011,694
+Africa,Saint Helena,Import,Crustaceans,2011,0
+Africa,Saint Helena,Import,Fish,2011,12
+Africa,Sao Tome and Principe,Export,Crustaceans,2011,0
+Africa,Sao Tome and Principe,Export,Fish,2011,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2011,4
+Africa,Sao Tome and Principe,Import,Fish,2011,51
+Africa,Senegal,Export,Crustaceans,2011,4309
+Africa,Senegal,Export,Fish,2011,92458
+Africa,Senegal,Import,Crustaceans,2011,77
+Africa,Senegal,Import,Fish,2011,14087
+Africa,Seychelles,Export,Crustaceans,2011,0
+Africa,Seychelles,Export,Fish,2011,105684
+Africa,Seychelles,Import,Crustaceans,2011,895
+Africa,Seychelles,Import,Fish,2011,69927
+Africa,Sierra Leone,Export,Crustaceans,2011,1583
+Africa,Sierra Leone,Export,Fish,2011,4079
+Africa,Sierra Leone,Import,Crustaceans,2011,1
+Africa,Sierra Leone,Import,Fish,2011,1365
+Africa,Somalia,Export,Crustaceans,2011,77
+Africa,Somalia,Export,Fish,2011,1396
+Africa,Somalia,Import,Crustaceans,2011,0
+Africa,Somalia,Import,Fish,2011,1365
+Africa,South Africa,Export,Crustaceans,2011,2542
+Africa,South Africa,Export,Fish,2011,108188
+Africa,South Africa,Import,Crustaceans,2011,11215
+Africa,South Africa,Import,Fish,2011,68809
+Africa,South Sudan,Export,Fish,2011,0
+Africa,South Sudan,Import,Crustaceans,2011,0
+Africa,South Sudan,Import,Fish,2011,0
+Africa,Sudan,Export,Fish,2011,0
+Africa,Sudan,Import,Crustaceans,2011,0
+Africa,Sudan,Import,Fish,2011,0
+Africa,Sudan (former),Export,Crustaceans,2011,2
+Africa,Sudan (former),Export,Fish,2011,230
+Africa,Sudan (former),Import,Crustaceans,2011,67
+Africa,Sudan (former),Import,Fish,2011,3257
+Africa,Swaziland,Export,Crustaceans,2011,0
+Africa,Swaziland,Export,Fish,2011,20
+Africa,Swaziland,Import,Crustaceans,2011,31
+Africa,Swaziland,Import,Fish,2011,1118
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2011,442
+Africa,"Tanzania, United Rep. of",Export,Fish,2011,39704
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2011,7
+Africa,"Tanzania, United Rep. of",Import,Fish,2011,3883
+Africa,Togo,Export,Crustaceans,2011,0
+Africa,Togo,Export,Fish,2011,834
+Africa,Togo,Import,Crustaceans,2011,10
+Africa,Togo,Import,Fish,2011,53175
+Africa,Tunisia,Export,Crustaceans,2011,3350
+Africa,Tunisia,Export,Fish,2011,14182
+Africa,Tunisia,Import,Crustaceans,2011,1007
+Africa,Tunisia,Import,Fish,2011,41737
+Africa,Uganda,Export,Crustaceans,2011,0
+Africa,Uganda,Export,Fish,2011,19421
+Africa,Uganda,Import,Crustaceans,2011,10
+Africa,Uganda,Import,Fish,2011,1299
+Africa,Zambia,Export,Crustaceans,2011,4
+Africa,Zambia,Export,Fish,2011,75
+Africa,Zambia,Import,Crustaceans,2011,42
+Africa,Zambia,Import,Fish,2011,8412
+Africa,Zimbabwe,Export,Crustaceans,2011,0
+Africa,Zimbabwe,Export,Fish,2011,2056
+Africa,Zimbabwe,Import,Crustaceans,2011,32
+Africa,Zimbabwe,Import,Fish,2011,13572
+Africa,Algeria,Export,Crustaceans,2012,286
+Africa,Algeria,Export,Fish,2012,277
+Africa,Algeria,Import,Crustaceans,2012,1619
+Africa,Algeria,Import,Fish,2012,26391
+Africa,Angola,Export,Crustaceans,2012,1388
+Africa,Angola,Export,Fish,2012,8718
+Africa,Angola,Import,Crustaceans,2012,1227
+Africa,Angola,Import,Fish,2012,160369
+Africa,Benin,Export,Crustaceans,2012,26
+Africa,Benin,Export,Fish,2012,505
+Africa,Benin,Import,Crustaceans,2012,33
+Africa,Benin,Import,Fish,2012,78594
+Africa,Botswana,Export,Crustaceans,2012,0
+Africa,Botswana,Export,Fish,2012,190
+Africa,Botswana,Import,Crustaceans,2012,34
+Africa,Botswana,Import,Fish,2012,4873
+Africa,Burkina Faso,Export,Fish,2012,2833
+Africa,Burkina Faso,Import,Crustaceans,2012,226
+Africa,Burkina Faso,Import,Fish,2012,60611
+Africa,Burundi,Export,Fish,2012,31
+Africa,Burundi,Import,Crustaceans,2012,3
+Africa,Burundi,Import,Fish,2012,2722
+Africa,Cabo Verde,Export,Crustaceans,2012,49
+Africa,Cabo Verde,Export,Fish,2012,14163
+Africa,Cabo Verde,Import,Crustaceans,2012,101
+Africa,Cabo Verde,Import,Fish,2012,576
+Africa,Cameroon,Export,Crustaceans,2012,5
+Africa,Cameroon,Export,Fish,2012,3291
+Africa,Cameroon,Import,Crustaceans,2012,75
+Africa,Cameroon,Import,Fish,2012,183609
+Africa,Central African Republic,Export,Fish,2012,0
+Africa,Central African Republic,Import,Crustaceans,2012,0
+Africa,Central African Republic,Import,Fish,2012,5387
+Africa,Chad,Export,Fish,2012,55
+Africa,Chad,Import,Crustaceans,2012,0
+Africa,Chad,Import,Fish,2012,716
+Africa,Comoros,Export,Fish,2012,1
+Africa,Comoros,Import,Crustaceans,2012,0
+Africa,Comoros,Import,Fish,2012,603
+Africa,Congo,Export,Crustaceans,2012,0
+Africa,Congo,Export,Fish,2012,153
+Africa,Congo,Import,Crustaceans,2012,77
+Africa,Congo,Import,Fish,2012,16141
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2012,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2012,125
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2012,32
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2012,91676
+Africa,Côte d'Ivoire,Export,Crustaceans,2012,21
+Africa,Côte d'Ivoire,Export,Fish,2012,36134
+Africa,Côte d'Ivoire,Import,Crustaceans,2012,601
+Africa,Côte d'Ivoire,Import,Fish,2012,286727
+Africa,Djibouti,Export,Crustaceans,2012,0
+Africa,Djibouti,Export,Fish,2012,0
+Africa,Djibouti,Import,Crustaceans,2012,6
+Africa,Djibouti,Import,Fish,2012,522
+Africa,Egypt,Export,Crustaceans,2012,73
+Africa,Egypt,Export,Fish,2012,14903
+Africa,Egypt,Import,Crustaceans,2012,16100
+Africa,Egypt,Import,Fish,2012,302601
+Africa,Equatorial Guinea,Export,Crustaceans,2012,0
+Africa,Equatorial Guinea,Export,Fish,2012,30
+Africa,Equatorial Guinea,Import,Crustaceans,2012,90
+Africa,Equatorial Guinea,Import,Fish,2012,12296
+Africa,Eritrea,Export,Crustaceans,2012,10
+Africa,Eritrea,Export,Fish,2012,20
+Africa,Eritrea,Import,Crustaceans,2012,0
+Africa,Eritrea,Import,Fish,2012,80
+Africa,Ethiopia,Export,Fish,2012,927
+Africa,Ethiopia,Import,Crustaceans,2012,27
+Africa,Ethiopia,Import,Fish,2012,607
+Africa,Gabon,Export,Crustaceans,2012,49
+Africa,Gabon,Export,Fish,2012,1172
+Africa,Gabon,Import,Crustaceans,2012,63
+Africa,Gabon,Import,Fish,2012,15896
+Africa,Gambia,Export,Crustaceans,2012,8
+Africa,Gambia,Export,Fish,2012,1911
+Africa,Gambia,Import,Crustaceans,2012,11
+Africa,Gambia,Import,Fish,2012,2105
+Africa,Ghana,Export,Crustaceans,2012,18
+Africa,Ghana,Export,Fish,2012,22176
+Africa,Ghana,Import,Crustaceans,2012,46
+Africa,Ghana,Import,Fish,2012,231447
+Africa,Guinea,Export,Crustaceans,2012,191
+Africa,Guinea,Export,Fish,2012,9024
+Africa,Guinea,Import,Crustaceans,2012,21
+Africa,Guinea,Import,Fish,2012,1854
+Africa,Guinea-Bissau,Export,Crustaceans,2012,0
+Africa,Guinea-Bissau,Export,Fish,2012,3716
+Africa,Guinea-Bissau,Import,Crustaceans,2012,0
+Africa,Guinea-Bissau,Import,Fish,2012,415
+Africa,Kenya,Export,Crustaceans,2012,113
+Africa,Kenya,Export,Fish,2012,16478
+Africa,Kenya,Import,Crustaceans,2012,86
+Africa,Kenya,Import,Fish,2012,17044
+Africa,Lesotho,Export,Crustaceans,2012,0
+Africa,Lesotho,Export,Fish,2012,136
+Africa,Lesotho,Import,Crustaceans,2012,12
+Africa,Lesotho,Import,Fish,2012,1575
+Africa,Liberia,Export,Crustaceans,2012,11
+Africa,Liberia,Export,Fish,2012,96
+Africa,Liberia,Import,Crustaceans,2012,6
+Africa,Liberia,Import,Fish,2012,7079
+Africa,Libya,Export,Crustaceans,2012,0
+Africa,Libya,Export,Fish,2012,980
+Africa,Libya,Import,Crustaceans,2012,110
+Africa,Libya,Import,Fish,2012,54926
+Africa,Madagascar,Export,Crustaceans,2012,7372
+Africa,Madagascar,Export,Fish,2012,8154
+Africa,Madagascar,Import,Crustaceans,2012,51
+Africa,Madagascar,Import,Fish,2012,14374
+Africa,Malawi,Export,Fish,2012,49
+Africa,Malawi,Import,Crustaceans,2012,7
+Africa,Malawi,Import,Fish,2012,1180
+Africa,Mali,Export,Crustaceans,2012,12
+Africa,Mali,Export,Fish,2012,174
+Africa,Mali,Import,Crustaceans,2012,200
+Africa,Mali,Import,Fish,2012,20556
+Africa,Mauritania,Export,Crustaceans,2012,2226
+Africa,Mauritania,Export,Fish,2012,288267
+Africa,Mauritania,Import,Crustaceans,2012,0
+Africa,Mauritania,Import,Fish,2012,2915
+Africa,Mauritius,Export,Crustaceans,2012,0
+Africa,Mauritius,Export,Fish,2012,59053
+Africa,Mauritius,Import,Crustaceans,2012,1766
+Africa,Mauritius,Import,Fish,2012,146731
+Africa,Mayotte,Export,Crustaceans,2012,0
+Africa,Mayotte,Export,Fish,2012,76
+Africa,Mayotte,Import,Crustaceans,2012,5
+Africa,Mayotte,Import,Fish,2012,1208
+Africa,Morocco,Export,Crustaceans,2012,16393
+Africa,Morocco,Export,Fish,2012,278013
+Africa,Morocco,Import,Crustaceans,2012,32824
+Africa,Morocco,Import,Fish,2012,11958
+Africa,Mozambique,Export,Crustaceans,2012,2510
+Africa,Mozambique,Export,Fish,2012,4249
+Africa,Mozambique,Import,Crustaceans,2012,9
+Africa,Mozambique,Import,Fish,2012,26978
+Africa,Namibia,Export,Crustaceans,2012,1802
+Africa,Namibia,Export,Fish,2012,334441
+Africa,Namibia,Import,Crustaceans,2012,254
+Africa,Namibia,Import,Fish,2012,13175
+Africa,Niger,Export,Crustaceans,2012,0
+Africa,Niger,Export,Fish,2012,831
+Africa,Niger,Import,Crustaceans,2012,2
+Africa,Niger,Import,Fish,2012,3894
+Africa,Nigeria,Export,Crustaceans,2012,9044
+Africa,Nigeria,Export,Fish,2012,9270
+Africa,Nigeria,Import,Crustaceans,2012,385
+Africa,Nigeria,Import,Fish,2012,1083208
+Africa,Rwanda,Export,Crustaceans,2012,0
+Africa,Rwanda,Export,Fish,2012,317
+Africa,Rwanda,Import,Crustaceans,2012,3
+Africa,Rwanda,Import,Fish,2012,13300
+Africa,Saint Helena,Export,Crustaceans,2012,249
+Africa,Saint Helena,Export,Fish,2012,387
+Africa,Saint Helena,Import,Crustaceans,2012,0
+Africa,Saint Helena,Import,Fish,2012,6
+Africa,Sao Tome and Principe,Export,Crustaceans,2012,0
+Africa,Sao Tome and Principe,Export,Fish,2012,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2012,8
+Africa,Sao Tome and Principe,Import,Fish,2012,43
+Africa,Senegal,Export,Crustaceans,2012,5284
+Africa,Senegal,Export,Fish,2012,90520
+Africa,Senegal,Import,Crustaceans,2012,104
+Africa,Senegal,Import,Fish,2012,8437
+Africa,Seychelles,Export,Crustaceans,2012,0
+Africa,Seychelles,Export,Fish,2012,107426
+Africa,Seychelles,Import,Crustaceans,2012,677
+Africa,Seychelles,Import,Fish,2012,62961
+Africa,Sierra Leone,Export,Crustaceans,2012,1752
+Africa,Sierra Leone,Export,Fish,2012,4310
+Africa,Sierra Leone,Import,Crustaceans,2012,7
+Africa,Sierra Leone,Import,Fish,2012,1072
+Africa,Somalia,Export,Crustaceans,2012,34
+Africa,Somalia,Export,Fish,2012,936
+Africa,Somalia,Import,Crustaceans,2012,8
+Africa,Somalia,Import,Fish,2012,1141
+Africa,South Africa,Export,Crustaceans,2012,2930
+Africa,South Africa,Export,Fish,2012,101227
+Africa,South Africa,Import,Crustaceans,2012,10692
+Africa,South Africa,Import,Fish,2012,111814
+Africa,South Sudan,Export,Fish,2012,13
+Africa,South Sudan,Import,Crustaceans,2012,0
+Africa,South Sudan,Import,Fish,2012,144
+Africa,Sudan,Export,Fish,2012,155
+Africa,Sudan,Import,Crustaceans,2012,23
+Africa,Sudan,Import,Fish,2012,2802
+Africa,Sudan (former),Export,Crustaceans,2012,0
+Africa,Sudan (former),Export,Fish,2012,0
+Africa,Sudan (former),Import,Crustaceans,2012,0
+Africa,Sudan (former),Import,Fish,2012,0
+Africa,Swaziland,Export,Crustaceans,2012,1
+Africa,Swaziland,Export,Fish,2012,2
+Africa,Swaziland,Import,Crustaceans,2012,17
+Africa,Swaziland,Import,Fish,2012,1106
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2012,2454
+Africa,"Tanzania, United Rep. of",Export,Fish,2012,42004
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2012,4
+Africa,"Tanzania, United Rep. of",Import,Fish,2012,6367
+Africa,Togo,Export,Crustaceans,2012,8
+Africa,Togo,Export,Fish,2012,36
+Africa,Togo,Import,Crustaceans,2012,13
+Africa,Togo,Import,Fish,2012,53845
+Africa,Tunisia,Export,Crustaceans,2012,2689
+Africa,Tunisia,Export,Fish,2012,12733
+Africa,Tunisia,Import,Crustaceans,2012,770
+Africa,Tunisia,Import,Fish,2012,45155
+Africa,Uganda,Export,Crustaceans,2012,3
+Africa,Uganda,Export,Fish,2012,21182
+Africa,Uganda,Import,Crustaceans,2012,18
+Africa,Uganda,Import,Fish,2012,1242
+Africa,Zambia,Export,Crustaceans,2012,0
+Africa,Zambia,Export,Fish,2012,53
+Africa,Zambia,Import,Crustaceans,2012,66
+Africa,Zambia,Import,Fish,2012,17902
+Africa,Zimbabwe,Export,Crustaceans,2012,3
+Africa,Zimbabwe,Export,Fish,2012,2516
+Africa,Zimbabwe,Import,Crustaceans,2012,32
+Africa,Zimbabwe,Import,Fish,2012,15513
+Africa,Algeria,Export,Crustaceans,2013,219
+Africa,Algeria,Export,Fish,2013,317
+Africa,Algeria,Import,Crustaceans,2013,1835
+Africa,Algeria,Import,Fish,2013,29121
+Africa,Angola,Export,Crustaceans,2013,1609
+Africa,Angola,Export,Fish,2013,8210
+Africa,Angola,Import,Crustaceans,2013,871
+Africa,Angola,Import,Fish,2013,131669
+Africa,Benin,Export,Crustaceans,2013,2
+Africa,Benin,Export,Fish,2013,479
+Africa,Benin,Import,Crustaceans,2013,7
+Africa,Benin,Import,Fish,2013,84313
+Africa,Botswana,Export,Crustaceans,2013,0
+Africa,Botswana,Export,Fish,2013,221
+Africa,Botswana,Import,Crustaceans,2013,49
+Africa,Botswana,Import,Fish,2013,4391
+Africa,Burkina Faso,Export,Fish,2013,2160
+Africa,Burkina Faso,Import,Crustaceans,2013,381
+Africa,Burkina Faso,Import,Fish,2013,62763
+Africa,Burundi,Export,Fish,2013,158
+Africa,Burundi,Import,Crustaceans,2013,1
+Africa,Burundi,Import,Fish,2013,3014
+Africa,Cabo Verde,Export,Crustaceans,2013,27
+Africa,Cabo Verde,Export,Fish,2013,16717
+Africa,Cabo Verde,Import,Crustaceans,2013,117
+Africa,Cabo Verde,Import,Fish,2013,573
+Africa,Cameroon,Export,Crustaceans,2013,2
+Africa,Cameroon,Export,Fish,2013,3124
+Africa,Cameroon,Import,Crustaceans,2013,84
+Africa,Cameroon,Import,Fish,2013,207663
+Africa,Central African Republic,Export,Fish,2013,0
+Africa,Central African Republic,Import,Crustaceans,2013,3
+Africa,Central African Republic,Import,Fish,2013,4951
+Africa,Chad,Export,Fish,2013,66
+Africa,Chad,Import,Crustaceans,2013,5
+Africa,Chad,Import,Fish,2013,717
+Africa,Comoros,Export,Fish,2013,0
+Africa,Comoros,Import,Crustaceans,2013,0
+Africa,Comoros,Import,Fish,2013,455
+Africa,Congo,Export,Crustaceans,2013,198
+Africa,Congo,Export,Fish,2013,13
+Africa,Congo,Import,Crustaceans,2013,35
+Africa,Congo,Import,Fish,2013,28299
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2013,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2013,608
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2013,86
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2013,95747
+Africa,Côte d'Ivoire,Export,Crustaceans,2013,91
+Africa,Côte d'Ivoire,Export,Fish,2013,37271
+Africa,Côte d'Ivoire,Import,Crustaceans,2013,740
+Africa,Côte d'Ivoire,Import,Fish,2013,292908
+Africa,Djibouti,Export,Crustaceans,2013,0
+Africa,Djibouti,Export,Fish,2013,0
+Africa,Djibouti,Import,Crustaceans,2013,3
+Africa,Djibouti,Import,Fish,2013,824
+Africa,Egypt,Export,Crustaceans,2013,660
+Africa,Egypt,Export,Fish,2013,19850
+Africa,Egypt,Import,Crustaceans,2013,10015
+Africa,Egypt,Import,Fish,2013,260680
+Africa,Equatorial Guinea,Export,Crustaceans,2013,0
+Africa,Equatorial Guinea,Export,Fish,2013,24
+Africa,Equatorial Guinea,Import,Crustaceans,2013,84
+Africa,Equatorial Guinea,Import,Fish,2013,11925
+Africa,Eritrea,Export,Crustaceans,2013,1
+Africa,Eritrea,Export,Fish,2013,0
+Africa,Eritrea,Import,Crustaceans,2013,0
+Africa,Eritrea,Import,Fish,2013,28
+Africa,Ethiopia,Export,Fish,2013,798
+Africa,Ethiopia,Import,Crustaceans,2013,110
+Africa,Ethiopia,Import,Fish,2013,1004
+Africa,Gabon,Export,Crustaceans,2013,4
+Africa,Gabon,Export,Fish,2013,1183
+Africa,Gabon,Import,Crustaceans,2013,67
+Africa,Gabon,Import,Fish,2013,18895
+Africa,Gambia,Export,Crustaceans,2013,14
+Africa,Gambia,Export,Fish,2013,1323
+Africa,Gambia,Import,Crustaceans,2013,2
+Africa,Gambia,Import,Fish,2013,1686
+Africa,Ghana,Export,Crustaceans,2013,65
+Africa,Ghana,Export,Fish,2013,21665
+Africa,Ghana,Import,Crustaceans,2013,48
+Africa,Ghana,Import,Fish,2013,347408
+Africa,Guinea,Export,Crustaceans,2013,66
+Africa,Guinea,Export,Fish,2013,9527
+Africa,Guinea,Import,Crustaceans,2013,26
+Africa,Guinea,Import,Fish,2013,1849
+Africa,Guinea-Bissau,Export,Crustaceans,2013,0
+Africa,Guinea-Bissau,Export,Fish,2013,4579
+Africa,Guinea-Bissau,Import,Crustaceans,2013,0
+Africa,Guinea-Bissau,Import,Fish,2013,562
+Africa,Kenya,Export,Crustaceans,2013,211
+Africa,Kenya,Export,Fish,2013,10986
+Africa,Kenya,Import,Crustaceans,2013,104
+Africa,Kenya,Import,Fish,2013,14640
+Africa,Lesotho,Export,Crustaceans,2013,0
+Africa,Lesotho,Export,Fish,2013,194
+Africa,Lesotho,Import,Crustaceans,2013,5
+Africa,Lesotho,Import,Fish,2013,1493
+Africa,Liberia,Export,Crustaceans,2013,0
+Africa,Liberia,Export,Fish,2013,98
+Africa,Liberia,Import,Crustaceans,2013,8
+Africa,Liberia,Import,Fish,2013,11491
+Africa,Libya,Export,Crustaceans,2013,0
+Africa,Libya,Export,Fish,2013,1024
+Africa,Libya,Import,Crustaceans,2013,306
+Africa,Libya,Import,Fish,2013,56063
+Africa,Madagascar,Export,Crustaceans,2013,8207
+Africa,Madagascar,Export,Fish,2013,8297
+Africa,Madagascar,Import,Crustaceans,2013,23
+Africa,Madagascar,Import,Fish,2013,16816
+Africa,Malawi,Export,Fish,2013,23
+Africa,Malawi,Import,Crustaceans,2013,9
+Africa,Malawi,Import,Fish,2013,1669
+Africa,Mali,Export,Crustaceans,2013,0
+Africa,Mali,Export,Fish,2013,259
+Africa,Mali,Import,Crustaceans,2013,97
+Africa,Mali,Import,Fish,2013,22137
+Africa,Mauritania,Export,Crustaceans,2013,1065
+Africa,Mauritania,Export,Fish,2013,180262
+Africa,Mauritania,Import,Crustaceans,2013,37
+Africa,Mauritania,Import,Fish,2013,3104
+Africa,Mauritius,Export,Crustaceans,2013,1
+Africa,Mauritius,Export,Fish,2013,59219
+Africa,Mauritius,Import,Crustaceans,2013,1720
+Africa,Mauritius,Import,Fish,2013,166243
+Africa,Mayotte,Export,Crustaceans,2013,0
+Africa,Mayotte,Export,Fish,2013,63
+Africa,Mayotte,Import,Crustaceans,2013,2
+Africa,Mayotte,Import,Fish,2013,1238
+Africa,Morocco,Export,Crustaceans,2013,15965
+Africa,Morocco,Export,Fish,2013,313393
+Africa,Morocco,Import,Crustaceans,2013,32892
+Africa,Morocco,Import,Fish,2013,15680
+Africa,Mozambique,Export,Crustaceans,2013,4421
+Africa,Mozambique,Export,Fish,2013,4816
+Africa,Mozambique,Import,Crustaceans,2013,29
+Africa,Mozambique,Import,Fish,2013,44928
+Africa,Namibia,Export,Crustaceans,2013,1334
+Africa,Namibia,Export,Fish,2013,386157
+Africa,Namibia,Import,Crustaceans,2013,305
+Africa,Namibia,Import,Fish,2013,14816
+Africa,Niger,Export,Crustaceans,2013,0
+Africa,Niger,Export,Fish,2013,1228
+Africa,Niger,Import,Crustaceans,2013,2
+Africa,Niger,Import,Fish,2013,4814
+Africa,Nigeria,Export,Crustaceans,2013,18350
+Africa,Nigeria,Export,Fish,2013,63571
+Africa,Nigeria,Import,Crustaceans,2013,1511
+Africa,Nigeria,Import,Fish,2013,868036
+Africa,Rwanda,Export,Crustaceans,2013,1
+Africa,Rwanda,Export,Fish,2013,173
+Africa,Rwanda,Import,Crustaceans,2013,2
+Africa,Rwanda,Import,Fish,2013,12119
+Africa,Saint Helena,Export,Crustaceans,2013,300
+Africa,Saint Helena,Export,Fish,2013,419
+Africa,Saint Helena,Import,Crustaceans,2013,0
+Africa,Saint Helena,Import,Fish,2013,26
+Africa,Sao Tome and Principe,Export,Crustaceans,2013,0
+Africa,Sao Tome and Principe,Export,Fish,2013,0
+Africa,Sao Tome and Principe,Import,Crustaceans,2013,8
+Africa,Sao Tome and Principe,Import,Fish,2013,45
+Africa,Senegal,Export,Crustaceans,2013,4789
+Africa,Senegal,Export,Fish,2013,124112
+Africa,Senegal,Import,Crustaceans,2013,146
+Africa,Senegal,Import,Fish,2013,8545
+Africa,Seychelles,Export,Crustaceans,2013,0
+Africa,Seychelles,Export,Fish,2013,97456
+Africa,Seychelles,Import,Crustaceans,2013,374
+Africa,Seychelles,Import,Fish,2013,60914
+Africa,Sierra Leone,Export,Crustaceans,2013,1550
+Africa,Sierra Leone,Export,Fish,2013,3848
+Africa,Sierra Leone,Import,Crustaceans,2013,1
+Africa,Sierra Leone,Import,Fish,2013,1370
+Africa,Somalia,Export,Crustaceans,2013,17
+Africa,Somalia,Export,Fish,2013,1235
+Africa,Somalia,Import,Crustaceans,2013,0
+Africa,Somalia,Import,Fish,2013,2004
+Africa,South Africa,Export,Crustaceans,2013,3210
+Africa,South Africa,Export,Fish,2013,105545
+Africa,South Africa,Import,Crustaceans,2013,11391
+Africa,South Africa,Import,Fish,2013,115984
+Africa,South Sudan,Export,Fish,2013,0
+Africa,South Sudan,Import,Crustaceans,2013,0
+Africa,South Sudan,Import,Fish,2013,289
+Africa,Sudan,Export,Fish,2013,193
+Africa,Sudan,Import,Crustaceans,2013,76
+Africa,Sudan,Import,Fish,2013,2856
+Africa,Sudan (former),Export,Crustaceans,2013,0
+Africa,Sudan (former),Export,Fish,2013,0
+Africa,Sudan (former),Import,Crustaceans,2013,0
+Africa,Sudan (former),Import,Fish,2013,0
+Africa,Swaziland,Export,Crustaceans,2013,0
+Africa,Swaziland,Export,Fish,2013,0
+Africa,Swaziland,Import,Crustaceans,2013,29
+Africa,Swaziland,Import,Fish,2013,1695
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2013,888
+Africa,"Tanzania, United Rep. of",Export,Fish,2013,33687
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2013,7
+Africa,"Tanzania, United Rep. of",Import,Fish,2013,9267
+Africa,Togo,Export,Crustaceans,2013,10
+Africa,Togo,Export,Fish,2013,108
+Africa,Togo,Import,Crustaceans,2013,1
+Africa,Togo,Import,Fish,2013,51069
+Africa,Tunisia,Export,Crustaceans,2013,3289
+Africa,Tunisia,Export,Fish,2013,11561
+Africa,Tunisia,Import,Crustaceans,2013,237
+Africa,Tunisia,Import,Fish,2013,36069
+Africa,Uganda,Export,Crustaceans,2013,10
+Africa,Uganda,Export,Fish,2013,20183
+Africa,Uganda,Import,Crustaceans,2013,29
+Africa,Uganda,Import,Fish,2013,948
+Africa,Zambia,Export,Crustaceans,2013,1
+Africa,Zambia,Export,Fish,2013,145
+Africa,Zambia,Import,Crustaceans,2013,132
+Africa,Zambia,Import,Fish,2013,33017
+Africa,Zimbabwe,Export,Crustaceans,2013,0
+Africa,Zimbabwe,Export,Fish,2013,3255
+Africa,Zimbabwe,Import,Crustaceans,2013,67
+Africa,Zimbabwe,Import,Fish,2013,17277
+Africa,Algeria,Export,Crustaceans,2014,218
+Africa,Algeria,Export,Fish,2014,339
+Africa,Algeria,Import,Crustaceans,2014,1932
+Africa,Algeria,Import,Fish,2014,39576
+Africa,Angola,Export,Crustaceans,2014,1365
+Africa,Angola,Export,Fish,2014,7010
+Africa,Angola,Import,Crustaceans,2014,1656
+Africa,Angola,Import,Fish,2014,183804
+Africa,Benin,Export,Crustaceans,2014,0
+Africa,Benin,Export,Fish,2014,1174
+Africa,Benin,Import,Crustaceans,2014,6
+Africa,Benin,Import,Fish,2014,77142
+Africa,Botswana,Export,Crustaceans,2014,0
+Africa,Botswana,Export,Fish,2014,234
+Africa,Botswana,Import,Crustaceans,2014,31
+Africa,Botswana,Import,Fish,2014,4545
+Africa,Burkina Faso,Export,Fish,2014,2100
+Africa,Burkina Faso,Import,Crustaceans,2014,210
+Africa,Burkina Faso,Import,Fish,2014,65551
+Africa,Burundi,Export,Fish,2014,118
+Africa,Burundi,Import,Crustaceans,2014,0
+Africa,Burundi,Import,Fish,2014,2998
+Africa,Cabo Verde,Export,Crustaceans,2014,7
+Africa,Cabo Verde,Export,Fish,2014,28419
+Africa,Cabo Verde,Import,Crustaceans,2014,113
+Africa,Cabo Verde,Import,Fish,2014,513
+Africa,Cameroon,Export,Crustaceans,2014,5
+Africa,Cameroon,Export,Fish,2014,3881
+Africa,Cameroon,Import,Crustaceans,2014,82
+Africa,Cameroon,Import,Fish,2014,208586
+Africa,Central African Republic,Export,Fish,2014,0
+Africa,Central African Republic,Import,Crustaceans,2014,1
+Africa,Central African Republic,Import,Fish,2014,5545
+Africa,Chad,Export,Fish,2014,66
+Africa,Chad,Import,Crustaceans,2014,10
+Africa,Chad,Import,Fish,2014,1042
+Africa,Comoros,Export,Fish,2014,0
+Africa,Comoros,Import,Crustaceans,2014,1
+Africa,Comoros,Import,Fish,2014,679
+Africa,Congo,Export,Crustaceans,2014,158
+Africa,Congo,Export,Fish,2014,426
+Africa,Congo,Import,Crustaceans,2014,33
+Africa,Congo,Import,Fish,2014,39459
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2014,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2014,282
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2014,129
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2014,109157
+Africa,Côte d'Ivoire,Export,Crustaceans,2014,138
+Africa,Côte d'Ivoire,Export,Fish,2014,27498
+Africa,Côte d'Ivoire,Import,Crustaceans,2014,557
+Africa,Côte d'Ivoire,Import,Fish,2014,326399
+Africa,Djibouti,Export,Crustaceans,2014,0
+Africa,Djibouti,Export,Fish,2014,0
+Africa,Djibouti,Import,Crustaceans,2014,45
+Africa,Djibouti,Import,Fish,2014,520
+Africa,Egypt,Export,Crustaceans,2014,1779
+Africa,Egypt,Export,Fish,2014,25184
+Africa,Egypt,Import,Crustaceans,2014,11696
+Africa,Egypt,Import,Fish,2014,555037
+Africa,Equatorial Guinea,Export,Crustaceans,2014,0
+Africa,Equatorial Guinea,Export,Fish,2014,23
+Africa,Equatorial Guinea,Import,Crustaceans,2014,101
+Africa,Equatorial Guinea,Import,Fish,2014,9540
+Africa,Eritrea,Export,Crustaceans,2014,0
+Africa,Eritrea,Export,Fish,2014,0
+Africa,Eritrea,Import,Crustaceans,2014,0
+Africa,Eritrea,Import,Fish,2014,67
+Africa,Ethiopia,Export,Fish,2014,904
+Africa,Ethiopia,Import,Crustaceans,2014,23
+Africa,Ethiopia,Import,Fish,2014,1019
+Africa,Gabon,Export,Crustaceans,2014,2
+Africa,Gabon,Export,Fish,2014,1307
+Africa,Gabon,Import,Crustaceans,2014,102
+Africa,Gabon,Import,Fish,2014,24101
+Africa,Gambia,Export,Crustaceans,2014,38
+Africa,Gambia,Export,Fish,2014,1450
+Africa,Gambia,Import,Crustaceans,2014,114
+Africa,Gambia,Import,Fish,2014,951
+Africa,Ghana,Export,Crustaceans,2014,67
+Africa,Ghana,Export,Fish,2014,21064
+Africa,Ghana,Import,Crustaceans,2014,97
+Africa,Ghana,Import,Fish,2014,271762
+Africa,Guinea,Export,Crustaceans,2014,4
+Africa,Guinea,Export,Fish,2014,10607
+Africa,Guinea,Import,Crustaceans,2014,7
+Africa,Guinea,Import,Fish,2014,3400
+Africa,Guinea-Bissau,Export,Crustaceans,2014,0
+Africa,Guinea-Bissau,Export,Fish,2014,5280
+Africa,Guinea-Bissau,Import,Crustaceans,2014,0
+Africa,Guinea-Bissau,Import,Fish,2014,442
+Africa,Kenya,Export,Crustaceans,2014,449
+Africa,Kenya,Export,Fish,2014,14167
+Africa,Kenya,Import,Crustaceans,2014,126
+Africa,Kenya,Import,Fish,2014,22997
+Africa,Lesotho,Export,Crustaceans,2014,0
+Africa,Lesotho,Export,Fish,2014,528
+Africa,Lesotho,Import,Crustaceans,2014,10
+Africa,Lesotho,Import,Fish,2014,3213
+Africa,Liberia,Export,Crustaceans,2014,0
+Africa,Liberia,Export,Fish,2014,102
+Africa,Liberia,Import,Crustaceans,2014,43
+Africa,Liberia,Import,Fish,2014,14366
+Africa,Libya,Export,Crustaceans,2014,0
+Africa,Libya,Export,Fish,2014,921
+Africa,Libya,Import,Crustaceans,2014,265
+Africa,Libya,Import,Fish,2014,50870
+Africa,Madagascar,Export,Crustaceans,2014,10452
+Africa,Madagascar,Export,Fish,2014,10982
+Africa,Madagascar,Import,Crustaceans,2014,1
+Africa,Madagascar,Import,Fish,2014,20220
+Africa,Malawi,Export,Fish,2014,14
+Africa,Malawi,Import,Crustaceans,2014,23
+Africa,Malawi,Import,Fish,2014,2498
+Africa,Mali,Export,Crustaceans,2014,0
+Africa,Mali,Export,Fish,2014,695
+Africa,Mali,Import,Crustaceans,2014,191
+Africa,Mali,Import,Fish,2014,32470
+Africa,Mauritania,Export,Crustaceans,2014,3163
+Africa,Mauritania,Export,Fish,2014,219231
+Africa,Mauritania,Import,Crustaceans,2014,100
+Africa,Mauritania,Import,Fish,2014,4320
+Africa,Mauritius,Export,Crustaceans,2014,0
+Africa,Mauritius,Export,Fish,2014,70009
+Africa,Mauritius,Import,Crustaceans,2014,1714
+Africa,Mauritius,Import,Fish,2014,178953
+Africa,Mayotte,Export,Crustaceans,2014,0
+Africa,Mayotte,Export,Fish,2014,50
+Africa,Mayotte,Import,Crustaceans,2014,0
+Africa,Mayotte,Import,Fish,2014,1229
+Africa,Morocco,Export,Crustaceans,2014,17430
+Africa,Morocco,Export,Fish,2014,311004
+Africa,Morocco,Import,Crustaceans,2014,35972
+Africa,Morocco,Import,Fish,2014,29638
+Africa,Mozambique,Export,Crustaceans,2014,5889
+Africa,Mozambique,Export,Fish,2014,8366
+Africa,Mozambique,Import,Crustaceans,2014,27
+Africa,Mozambique,Import,Fish,2014,50035
+Africa,Namibia,Export,Crustaceans,2014,2476
+Africa,Namibia,Export,Fish,2014,386445
+Africa,Namibia,Import,Crustaceans,2014,298
+Africa,Namibia,Import,Fish,2014,16119
+Africa,Niger,Export,Crustaceans,2014,0
+Africa,Niger,Export,Fish,2014,1367
+Africa,Niger,Import,Crustaceans,2014,3
+Africa,Niger,Import,Fish,2014,5813
+Africa,Nigeria,Export,Crustaceans,2014,11708
+Africa,Nigeria,Export,Fish,2014,4040
+Africa,Nigeria,Import,Crustaceans,2014,220
+Africa,Nigeria,Import,Fish,2014,992591
+Africa,Rwanda,Export,Crustaceans,2014,43
+Africa,Rwanda,Export,Fish,2014,1208
+Africa,Rwanda,Import,Crustaceans,2014,5
+Africa,Rwanda,Import,Fish,2014,15205
+Africa,Saint Helena,Export,Crustaceans,2014,244
+Africa,Saint Helena,Export,Fish,2014,428
+Africa,Saint Helena,Import,Crustaceans,2014,7
+Africa,Saint Helena,Import,Fish,2014,29
+Africa,Sao Tome and Principe,Export,Crustaceans,2014,0
+Africa,Sao Tome and Principe,Export,Fish,2014,2
+Africa,Sao Tome and Principe,Import,Crustaceans,2014,6
+Africa,Sao Tome and Principe,Import,Fish,2014,44
+Africa,Senegal,Export,Crustaceans,2014,4249
+Africa,Senegal,Export,Fish,2014,134315
+Africa,Senegal,Import,Crustaceans,2014,19
+Africa,Senegal,Import,Fish,2014,9470
+Africa,Seychelles,Export,Crustaceans,2014,0
+Africa,Seychelles,Export,Fish,2014,77485
+Africa,Seychelles,Import,Crustaceans,2014,623
+Africa,Seychelles,Import,Fish,2014,67178
+Africa,Sierra Leone,Export,Crustaceans,2014,1230
+Africa,Sierra Leone,Export,Fish,2014,4209
+Africa,Sierra Leone,Import,Crustaceans,2014,81
+Africa,Sierra Leone,Import,Fish,2014,1622
+Africa,Somalia,Export,Crustaceans,2014,3
+Africa,Somalia,Export,Fish,2014,1462
+Africa,Somalia,Import,Crustaceans,2014,1
+Africa,Somalia,Import,Fish,2014,2415
+Africa,South Africa,Export,Crustaceans,2014,3306
+Africa,South Africa,Export,Fish,2014,114387
+Africa,South Africa,Import,Crustaceans,2014,10024
+Africa,South Africa,Import,Fish,2014,166483
+Africa,South Sudan,Export,Fish,2014,0
+Africa,South Sudan,Import,Crustaceans,2014,1
+Africa,South Sudan,Import,Fish,2014,252
+Africa,Sudan,Export,Fish,2014,654
+Africa,Sudan,Import,Crustaceans,2014,11
+Africa,Sudan,Import,Fish,2014,2097
+Africa,Sudan (former),Export,Crustaceans,2014,0
+Africa,Sudan (former),Export,Fish,2014,0
+Africa,Sudan (former),Import,Crustaceans,2014,0
+Africa,Sudan (former),Import,Fish,2014,0
+Africa,Swaziland,Export,Crustaceans,2014,0
+Africa,Swaziland,Export,Fish,2014,1
+Africa,Swaziland,Import,Crustaceans,2014,26
+Africa,Swaziland,Import,Fish,2014,3026
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2014,673
+Africa,"Tanzania, United Rep. of",Export,Fish,2014,38342
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2014,3
+Africa,"Tanzania, United Rep. of",Import,Fish,2014,19486
+Africa,Togo,Export,Crustaceans,2014,0
+Africa,Togo,Export,Fish,2014,190
+Africa,Togo,Import,Crustaceans,2014,3
+Africa,Togo,Import,Fish,2014,48533
+Africa,Tunisia,Export,Crustaceans,2014,3732
+Africa,Tunisia,Export,Fish,2014,9743
+Africa,Tunisia,Import,Crustaceans,2014,63
+Africa,Tunisia,Import,Fish,2014,38163
+Africa,Uganda,Export,Crustaceans,2014,1
+Africa,Uganda,Export,Fish,2014,17530
+Africa,Uganda,Import,Crustaceans,2014,72
+Africa,Uganda,Import,Fish,2014,1846
+Africa,Zambia,Export,Crustaceans,2014,0
+Africa,Zambia,Export,Fish,2014,228
+Africa,Zambia,Import,Crustaceans,2014,107
+Africa,Zambia,Import,Fish,2014,55642
+Africa,Zimbabwe,Export,Crustaceans,2014,0
+Africa,Zimbabwe,Export,Fish,2014,5878
+Africa,Zimbabwe,Import,Crustaceans,2014,63
+Africa,Zimbabwe,Import,Fish,2014,18053
+Africa,Algeria,Export,Crustaceans,2015,211
+Africa,Algeria,Export,Fish,2015,308
+Africa,Algeria,Import,Crustaceans,2015,1518
+Africa,Algeria,Import,Fish,2015,41075
+Africa,Angola,Export,Crustaceans,2015,1683
+Africa,Angola,Export,Fish,2015,5334
+Africa,Angola,Import,Crustaceans,2015,758
+Africa,Angola,Import,Fish,2015,143389
+Africa,Benin,Export,Crustaceans,2015,1
+Africa,Benin,Export,Fish,2015,280
+Africa,Benin,Import,Crustaceans,2015,1
+Africa,Benin,Import,Fish,2015,94629
+Africa,Botswana,Export,Crustaceans,2015,0
+Africa,Botswana,Export,Fish,2015,267
+Africa,Botswana,Import,Crustaceans,2015,63
+Africa,Botswana,Import,Fish,2015,4563
+Africa,Burkina Faso,Export,Fish,2015,3301
+Africa,Burkina Faso,Import,Crustaceans,2015,30
+Africa,Burkina Faso,Import,Fish,2015,75271
+Africa,Burundi,Export,Fish,2015,47
+Africa,Burundi,Import,Crustaceans,2015,0
+Africa,Burundi,Import,Fish,2015,2076
+Africa,Cabo Verde,Export,Crustaceans,2015,5
+Africa,Cabo Verde,Export,Fish,2015,30255
+Africa,Cabo Verde,Import,Crustaceans,2015,108
+Africa,Cabo Verde,Import,Fish,2015,453
+Africa,Cameroon,Export,Crustaceans,2015,1
+Africa,Cameroon,Export,Fish,2015,3358
+Africa,Cameroon,Import,Crustaceans,2015,90
+Africa,Cameroon,Import,Fish,2015,216592
+Africa,Central African Republic,Export,Fish,2015,0
+Africa,Central African Republic,Import,Crustaceans,2015,2
+Africa,Central African Republic,Import,Fish,2015,6076
+Africa,Chad,Export,Fish,2015,61
+Africa,Chad,Import,Crustaceans,2015,8
+Africa,Chad,Import,Fish,2015,364
+Africa,Comoros,Export,Fish,2015,0
+Africa,Comoros,Import,Crustaceans,2015,2
+Africa,Comoros,Import,Fish,2015,520
+Africa,Congo,Export,Crustaceans,2015,130
+Africa,Congo,Export,Fish,2015,360
+Africa,Congo,Import,Crustaceans,2015,25
+Africa,Congo,Import,Fish,2015,29600
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,2015,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,2015,132
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,2015,34
+Africa,"Congo, Dem. Rep. of the",Import,Fish,2015,107883
+Africa,Côte d'Ivoire,Export,Crustaceans,2015,46
+Africa,Côte d'Ivoire,Export,Fish,2015,37061
+Africa,Côte d'Ivoire,Import,Crustaceans,2015,415
+Africa,Côte d'Ivoire,Import,Fish,2015,390313
+Africa,Djibouti,Export,Crustaceans,2015,0
+Africa,Djibouti,Export,Fish,2015,2
+Africa,Djibouti,Import,Crustaceans,2015,23
+Africa,Djibouti,Import,Fish,2015,1186
+Africa,Egypt,Export,Crustaceans,2015,1252
+Africa,Egypt,Export,Fish,2015,30607
+Africa,Egypt,Import,Crustaceans,2015,12594
+Africa,Egypt,Import,Fish,2015,458382
+Africa,Equatorial Guinea,Export,Crustaceans,2015,0
+Africa,Equatorial Guinea,Export,Fish,2015,24
+Africa,Equatorial Guinea,Import,Crustaceans,2015,82
+Africa,Equatorial Guinea,Import,Fish,2015,6259
+Africa,Eritrea,Export,Crustaceans,2015,0
+Africa,Eritrea,Export,Fish,2015,0
+Africa,Eritrea,Import,Crustaceans,2015,0
+Africa,Eritrea,Import,Fish,2015,12
+Africa,Ethiopia,Export,Fish,2015,921
+Africa,Ethiopia,Import,Crustaceans,2015,14
+Africa,Ethiopia,Import,Fish,2015,1149
+Africa,Gabon,Export,Crustaceans,2015,0
+Africa,Gabon,Export,Fish,2015,1163
+Africa,Gabon,Import,Crustaceans,2015,57
+Africa,Gabon,Import,Fish,2015,24492
+Africa,Gambia,Export,Crustaceans,2015,15
+Africa,Gambia,Export,Fish,2015,860
+Africa,Gambia,Import,Crustaceans,2015,160
+Africa,Gambia,Import,Fish,2015,1263
+Africa,Ghana,Export,Crustaceans,2015,177
+Africa,Ghana,Export,Fish,2015,26395
+Africa,Ghana,Import,Crustaceans,2015,85
+Africa,Ghana,Import,Fish,2015,297402
+Africa,Guinea,Export,Crustaceans,2015,3
+Africa,Guinea,Export,Fish,2015,11268
+Africa,Guinea,Import,Crustaceans,2015,4
+Africa,Guinea,Import,Fish,2015,2332
+Africa,Guinea-Bissau,Export,Crustaceans,2015,0
+Africa,Guinea-Bissau,Export,Fish,2015,5500
+Africa,Guinea-Bissau,Import,Crustaceans,2015,0
+Africa,Guinea-Bissau,Import,Fish,2015,582
+Africa,Kenya,Export,Crustaceans,2015,227
+Africa,Kenya,Export,Fish,2015,9991
+Africa,Kenya,Import,Crustaceans,2015,115
+Africa,Kenya,Import,Fish,2015,22284
+Africa,Lesotho,Export,Crustaceans,2015,0
+Africa,Lesotho,Export,Fish,2015,627
+Africa,Lesotho,Import,Crustaceans,2015,2
+Africa,Lesotho,Import,Fish,2015,3183
+Africa,Liberia,Export,Crustaceans,2015,0
+Africa,Liberia,Export,Fish,2015,101
+Africa,Liberia,Import,Crustaceans,2015,30
+Africa,Liberia,Import,Fish,2015,12557
+Africa,Libya,Export,Crustaceans,2015,0
+Africa,Libya,Export,Fish,2015,1060
+Africa,Libya,Import,Crustaceans,2015,164
+Africa,Libya,Import,Fish,2015,40764
+Africa,Madagascar,Export,Crustaceans,2015,7117
+Africa,Madagascar,Export,Fish,2015,11197
+Africa,Madagascar,Import,Crustaceans,2015,23
+Africa,Madagascar,Import,Fish,2015,14949
+Africa,Malawi,Export,Fish,2015,12
+Africa,Malawi,Import,Crustaceans,2015,39
+Africa,Malawi,Import,Fish,2015,2628
+Africa,Mali,Export,Crustaceans,2015,0
+Africa,Mali,Export,Fish,2015,186
+Africa,Mali,Import,Crustaceans,2015,613
+Africa,Mali,Import,Fish,2015,32461
+Africa,Mauritania,Export,Crustaceans,2015,2151
+Africa,Mauritania,Export,Fish,2015,253061
+Africa,Mauritania,Import,Crustaceans,2015,51
+Africa,Mauritania,Import,Fish,2015,3770
+Africa,Mauritius,Export,Crustaceans,2015,0
+Africa,Mauritius,Export,Fish,2015,63348
+Africa,Mauritius,Import,Crustaceans,2015,1663
+Africa,Mauritius,Import,Fish,2015,175715
+Africa,Mayotte,Export,Crustaceans,2015,0
+Africa,Mayotte,Export,Fish,2015,0
+Africa,Mayotte,Import,Crustaceans,2015,0
+Africa,Mayotte,Import,Fish,2015,1031
+Africa,Morocco,Export,Crustaceans,2015,18930
+Africa,Morocco,Export,Fish,2015,357348
+Africa,Morocco,Import,Crustaceans,2015,39262
+Africa,Morocco,Import,Fish,2015,30499
+Africa,Mozambique,Export,Crustaceans,2015,3578
+Africa,Mozambique,Export,Fish,2015,7831
+Africa,Mozambique,Import,Crustaceans,2015,21
+Africa,Mozambique,Import,Fish,2015,52352
+Africa,Namibia,Export,Crustaceans,2015,2337
+Africa,Namibia,Export,Fish,2015,416349
+Africa,Namibia,Import,Crustaceans,2015,257
+Africa,Namibia,Import,Fish,2015,20015
+Africa,Niger,Export,Crustaceans,2015,0
+Africa,Niger,Export,Fish,2015,658
+Africa,Niger,Import,Crustaceans,2015,20
+Africa,Niger,Import,Fish,2015,7462
+Africa,Nigeria,Export,Crustaceans,2015,8576
+Africa,Nigeria,Export,Fish,2015,3053
+Africa,Nigeria,Import,Crustaceans,2015,811
+Africa,Nigeria,Import,Fish,2015,886643
+Africa,Rwanda,Export,Crustaceans,2015,0
+Africa,Rwanda,Export,Fish,2015,2098
+Africa,Rwanda,Import,Crustaceans,2015,2
+Africa,Rwanda,Import,Fish,2015,23616
+Africa,Saint Helena,Export,Crustaceans,2015,281
+Africa,Saint Helena,Export,Fish,2015,624
+Africa,Saint Helena,Import,Crustaceans,2015,1
+Africa,Saint Helena,Import,Fish,2015,43
+Africa,Sao Tome and Principe,Export,Crustaceans,2015,0
+Africa,Sao Tome and Principe,Export,Fish,2015,2
+Africa,Sao Tome and Principe,Import,Crustaceans,2015,7
+Africa,Sao Tome and Principe,Import,Fish,2015,28
+Africa,Senegal,Export,Crustaceans,2015,4378
+Africa,Senegal,Export,Fish,2015,173157
+Africa,Senegal,Import,Crustaceans,2015,65
+Africa,Senegal,Import,Fish,2015,19121
+Africa,Seychelles,Export,Crustaceans,2015,8
+Africa,Seychelles,Export,Fish,2015,106393
+Africa,Seychelles,Import,Crustaceans,2015,805
+Africa,Seychelles,Import,Fish,2015,67708
+Africa,Sierra Leone,Export,Crustaceans,2015,1200
+Africa,Sierra Leone,Export,Fish,2015,4787
+Africa,Sierra Leone,Import,Crustaceans,2015,25
+Africa,Sierra Leone,Import,Fish,2015,915
+Africa,Somalia,Export,Crustaceans,2015,26
+Africa,Somalia,Export,Fish,2015,2106
+Africa,Somalia,Import,Crustaceans,2015,4
+Africa,Somalia,Import,Fish,2015,3734
+Africa,South Africa,Export,Crustaceans,2015,2505
+Africa,South Africa,Export,Fish,2015,92914
+Africa,South Africa,Import,Crustaceans,2015,8025
+Africa,South Africa,Import,Fish,2015,139926
+Africa,South Sudan,Export,Fish,2015,0
+Africa,South Sudan,Import,Crustaceans,2015,0
+Africa,South Sudan,Import,Fish,2015,179
+Africa,Sudan,Export,Fish,2015,1120
+Africa,Sudan,Import,Crustaceans,2015,0
+Africa,Sudan,Import,Fish,2015,3033
+Africa,Sudan (former),Export,Crustaceans,2015,0
+Africa,Sudan (former),Export,Fish,2015,0
+Africa,Sudan (former),Import,Crustaceans,2015,0
+Africa,Sudan (former),Import,Fish,2015,0
+Africa,Swaziland,Export,Crustaceans,2015,0
+Africa,Swaziland,Export,Fish,2015,1
+Africa,Swaziland,Import,Crustaceans,2015,24
+Africa,Swaziland,Import,Fish,2015,2941
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,2015,1366
+Africa,"Tanzania, United Rep. of",Export,Fish,2015,33119
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,2015,6
+Africa,"Tanzania, United Rep. of",Import,Fish,2015,19605
+Africa,Togo,Export,Crustaceans,2015,25
+Africa,Togo,Export,Fish,2015,179
+Africa,Togo,Import,Crustaceans,2015,6
+Africa,Togo,Import,Fish,2015,59978
+Africa,Tunisia,Export,Crustaceans,2015,4258
+Africa,Tunisia,Export,Fish,2015,10455
+Africa,Tunisia,Import,Crustaceans,2015,55
+Africa,Tunisia,Import,Fish,2015,25388
+Africa,Uganda,Export,Crustaceans,2015,0
+Africa,Uganda,Export,Fish,2015,17814
+Africa,Uganda,Import,Crustaceans,2015,45
+Africa,Uganda,Import,Fish,2015,2111
+Africa,Zambia,Export,Crustaceans,2015,0
+Africa,Zambia,Export,Fish,2015,334
+Africa,Zambia,Import,Crustaceans,2015,97
+Africa,Zambia,Import,Fish,2015,78047
+Africa,Zimbabwe,Export,Crustaceans,2015,0
+Africa,Zimbabwe,Export,Fish,2015,4972
+Africa,Zimbabwe,Import,Crustaceans,2015,83
+Africa,Zimbabwe,Import,Fish,2015,21148

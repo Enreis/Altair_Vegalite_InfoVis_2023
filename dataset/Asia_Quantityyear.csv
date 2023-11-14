@@ -1,0 +1,3041 @@
+Continent,Land Area,Trade flow,Commodity,year,Quantity
+Asia,Afghanistan,Import,Fish,2000,0
+Asia,Armenia,Export,Crustaceans,2000,20
+Asia,Armenia,Export,Fish,2000,11
+Asia,Armenia,Import,Crustaceans,2000,4
+Asia,Armenia,Import,Fish,2000,799
+Asia,Azerbaijan,Export,Fish,2000,1738
+Asia,Azerbaijan,Import,Crustaceans,2000,1
+Asia,Azerbaijan,Import,Fish,2000,2827
+Asia,Bahrain,Export,Crustaceans,2000,3362
+Asia,Bahrain,Export,Fish,2000,1342
+Asia,Bahrain,Import,Crustaceans,2000,159
+Asia,Bahrain,Import,Fish,2000,2553
+Asia,Bangladesh,Export,Crustaceans,2000,28813
+Asia,Bangladesh,Export,Fish,2000,9728
+Asia,Bangladesh,Import,Crustaceans,2000,186
+Asia,Bangladesh,Import,Fish,2000,1680
+Asia,Bhutan,Export,Fish,2000,0
+Asia,Bhutan,Import,Crustaceans,2000,0
+Asia,Bhutan,Import,Fish,2000,0
+Asia,Brunei Darussalam,Export,Crustaceans,2000,17
+Asia,Brunei Darussalam,Export,Fish,2000,268
+Asia,Brunei Darussalam,Import,Crustaceans,2000,764
+Asia,Brunei Darussalam,Import,Fish,2000,4367
+Asia,Cambodia,Export,Crustaceans,2000,684
+Asia,Cambodia,Export,Fish,2000,42685
+Asia,Cambodia,Import,Crustaceans,2000,1
+Asia,Cambodia,Import,Fish,2000,3162
+Asia,China,Export,Crustaceans,2000,142393
+Asia,China,Export,Fish,2000,1028335
+Asia,China,Import,Crustaceans,2000,80582
+Asia,China,Import,Fish,2000,921631
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2000,621
+Asia,"China, Hong Kong SAR",Export,Fish,2000,47870
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2000,60379
+Asia,"China, Hong Kong SAR",Import,Fish,2000,180241
+Asia,"China, Macao SAR",Export,Crustaceans,2000,301
+Asia,"China, Macao SAR",Export,Fish,2000,11
+Asia,"China, Macao SAR",Import,Crustaceans,2000,1190
+Asia,"China, Macao SAR",Import,Fish,2000,8833
+Asia,Cyprus,Export,Crustaceans,2000,37
+Asia,Cyprus,Export,Fish,2000,687
+Asia,Cyprus,Import,Crustaceans,2000,484
+Asia,Cyprus,Import,Fish,2000,5354
+Asia,Georgia,Export,Crustaceans,2000,0
+Asia,Georgia,Export,Fish,2000,831
+Asia,Georgia,Import,Crustaceans,2000,0
+Asia,Georgia,Import,Fish,2000,2794
+Asia,India,Export,Crustaceans,2000,140974
+Asia,India,Export,Fish,2000,307428
+Asia,India,Import,Crustaceans,2000,114
+Asia,India,Import,Fish,2000,3770
+Asia,Indonesia,Export,Crustaceans,2000,128567
+Asia,Indonesia,Export,Fish,2000,312271
+Asia,Indonesia,Import,Crustaceans,2000,3342
+Asia,Indonesia,Import,Fish,2000,26542
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2000,1784
+Asia,Iran (Islamic Rep. of),Export,Fish,2000,4987
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2000,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2000,4913
+Asia,Iraq,Export,Fish,2000,104
+Asia,Iraq,Import,Crustaceans,2000,0
+Asia,Iraq,Import,Fish,2000,56
+Asia,Israel,Export,Fish,2000,291
+Asia,Israel,Import,Crustaceans,2000,285
+Asia,Israel,Import,Fish,2000,45759
+Asia,Japan,Export,Crustaceans,2000,3671
+Asia,Japan,Export,Fish,2000,171505
+Asia,Japan,Import,Crustaceans,2000,435178
+Asia,Japan,Import,Fish,2000,2125207
+Asia,Jordan,Export,Fish,2000,1158
+Asia,Jordan,Import,Crustaceans,2000,47
+Asia,Jordan,Import,Fish,2000,12386
+Asia,Kazakhstan,Export,Crustaceans,2000,0
+Asia,Kazakhstan,Export,Fish,2000,17706
+Asia,Kazakhstan,Import,Crustaceans,2000,39
+Asia,Kazakhstan,Import,Fish,2000,37033
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2000,5459
+Asia,"Korea, Dem. People's Rep",Export,Fish,2000,8226
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2000,967
+Asia,"Korea, Dem. People's Rep",Import,Fish,2000,4665
+Asia,"Korea, Republic of",Export,Crustaceans,2000,4517
+Asia,"Korea, Republic of",Export,Fish,2000,288219
+Asia,"Korea, Republic of",Import,Crustaceans,2000,46393
+Asia,"Korea, Republic of",Import,Fish,2000,544997
+Asia,Kuwait,Export,Crustaceans,2000,510
+Asia,Kuwait,Export,Fish,2000,0
+Asia,Kuwait,Import,Crustaceans,2000,440
+Asia,Kuwait,Import,Fish,2000,10509
+Asia,Kyrgyzstan,Export,Crustaceans,2000,0
+Asia,Kyrgyzstan,Export,Fish,2000,52
+Asia,Kyrgyzstan,Import,Crustaceans,2000,2
+Asia,Kyrgyzstan,Import,Fish,2000,3253
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2000,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2000,3
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2000,242
+Asia,Lao People's Dem. Rep.,Import,Fish,2000,2251
+Asia,Lebanon,Export,Crustaceans,2000,1
+Asia,Lebanon,Export,Fish,2000,36
+Asia,Lebanon,Import,Crustaceans,2000,521
+Asia,Lebanon,Import,Fish,2000,12817
+Asia,Malaysia,Export,Crustaceans,2000,19697
+Asia,Malaysia,Export,Fish,2000,36882
+Asia,Malaysia,Import,Crustaceans,2000,21340
+Asia,Malaysia,Import,Fish,2000,282655
+Asia,Maldives,Export,Fish,2000,28796
+Asia,Maldives,Import,Crustaceans,2000,0
+Asia,Maldives,Import,Fish,2000,0
+Asia,Mongolia,Export,Crustaceans,2000,0
+Asia,Mongolia,Export,Fish,2000,427
+Asia,Mongolia,Import,Crustaceans,2000,0
+Asia,Mongolia,Import,Fish,2000,322
+Asia,Myanmar,Export,Crustaceans,2000,44399
+Asia,Myanmar,Export,Fish,2000,72210
+Asia,Myanmar,Import,Crustaceans,2000,7
+Asia,Myanmar,Import,Fish,2000,372
+Asia,Nepal,Export,Fish,2000,33
+Asia,Nepal,Import,Crustaceans,2000,1
+Asia,Nepal,Import,Fish,2000,181
+Asia,Oman,Export,Crustaceans,2000,676
+Asia,Oman,Export,Fish,2000,35009
+Asia,Oman,Import,Crustaceans,2000,357
+Asia,Oman,Import,Fish,2000,10722
+Asia,Pakistan,Export,Crustaceans,2000,17602
+Asia,Pakistan,Export,Fish,2000,60766
+Asia,Pakistan,Import,Crustaceans,2000,54
+Asia,Pakistan,Import,Fish,2000,38
+Asia,"Palestine, Occupied Tr.",Export,Fish,2000,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2000,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2000,0
+Asia,Philippines,Export,Crustaceans,2000,26589
+Asia,Philippines,Export,Fish,2000,118524
+Asia,Philippines,Import,Crustaceans,2000,204
+Asia,Philippines,Import,Fish,2000,140733
+Asia,Qatar,Export,Crustaceans,2000,0
+Asia,Qatar,Export,Fish,2000,1509
+Asia,Qatar,Import,Crustaceans,2000,176
+Asia,Qatar,Import,Fish,2000,2806
+Asia,Saudi Arabia,Export,Crustaceans,2000,573
+Asia,Saudi Arabia,Export,Fish,2000,1705
+Asia,Saudi Arabia,Import,Crustaceans,2000,3897
+Asia,Saudi Arabia,Import,Fish,2000,66611
+Asia,Singapore,Export,Crustaceans,2000,10522
+Asia,Singapore,Export,Fish,2000,84415
+Asia,Singapore,Import,Crustaceans,2000,20311
+Asia,Singapore,Import,Fish,2000,127029
+Asia,Sri Lanka,Export,Crustaceans,2000,5705
+Asia,Sri Lanka,Export,Fish,2000,13202
+Asia,Sri Lanka,Import,Crustaceans,2000,586
+Asia,Sri Lanka,Import,Fish,2000,79886
+Asia,Syrian Arab Republic,Export,Crustaceans,2000,0
+Asia,Syrian Arab Republic,Export,Fish,2000,27
+Asia,Syrian Arab Republic,Import,Crustaceans,2000,3
+Asia,Syrian Arab Republic,Import,Fish,2000,7850
+Asia,Taiwan Province of China,Export,Crustaceans,2000,2626
+Asia,Taiwan Province of China,Export,Fish,2000,599330
+Asia,Taiwan Province of China,Import,Crustaceans,2000,32517
+Asia,Taiwan Province of China,Import,Fish,2000,84256
+Asia,Tajikistan,Import,Crustaceans,2000,0
+Asia,Tajikistan,Import,Fish,2000,75
+Asia,Thailand,Export,Crustaceans,2000,269759
+Asia,Thailand,Export,Fish,2000,752920
+Asia,Thailand,Import,Crustaceans,2000,28603
+Asia,Thailand,Import,Fish,2000,601743
+Asia,Timor-Leste,Export,Crustaceans,2000,0
+Asia,Timor-Leste,Export,Fish,2000,0
+Asia,Timor-Leste,Import,Crustaceans,2000,0
+Asia,Timor-Leste,Import,Fish,2000,0
+Asia,Turkey,Export,Crustaceans,2000,3885
+Asia,Turkey,Export,Fish,2000,25292
+Asia,Turkey,Import,Crustaceans,2000,120
+Asia,Turkey,Import,Fish,2000,42345
+Asia,Turkmenistan,Export,Crustaceans,2000,1
+Asia,Turkmenistan,Export,Fish,2000,2222
+Asia,Turkmenistan,Import,Crustaceans,2000,1
+Asia,Turkmenistan,Import,Fish,2000,20
+Asia,United Arab Emirates,Export,Crustaceans,2000,490
+Asia,United Arab Emirates,Export,Fish,2000,12599
+Asia,United Arab Emirates,Import,Crustaceans,2000,13020
+Asia,United Arab Emirates,Import,Fish,2000,27802
+Asia,Uzbekistan,Export,Fish,2000,0
+Asia,Uzbekistan,Import,Crustaceans,2000,1
+Asia,Uzbekistan,Import,Fish,2000,453
+Asia,Viet Nam,Export,Crustaceans,2000,87770
+Asia,Viet Nam,Export,Fish,2000,143094
+Asia,Viet Nam,Import,Crustaceans,2000,3430
+Asia,Viet Nam,Import,Fish,2000,1474
+Asia,Yemen,Export,Crustaceans,2000,784
+Asia,Yemen,Export,Fish,2000,18698
+Asia,Yemen,Import,Crustaceans,2000,0
+Asia,Yemen,Import,Fish,2000,3725
+Asia,Afghanistan,Import,Fish,2001,0
+Asia,Armenia,Export,Crustaceans,2001,5
+Asia,Armenia,Export,Fish,2001,97
+Asia,Armenia,Import,Crustaceans,2001,0
+Asia,Armenia,Import,Fish,2001,1080
+Asia,Azerbaijan,Export,Fish,2001,364
+Asia,Azerbaijan,Import,Crustaceans,2001,2
+Asia,Azerbaijan,Import,Fish,2001,2344
+Asia,Bahrain,Export,Crustaceans,2001,4023
+Asia,Bahrain,Export,Fish,2001,1687
+Asia,Bahrain,Import,Crustaceans,2001,182
+Asia,Bahrain,Import,Fish,2001,2898
+Asia,Bangladesh,Export,Crustaceans,2001,33583
+Asia,Bangladesh,Export,Fish,2001,7196
+Asia,Bangladesh,Import,Crustaceans,2001,41
+Asia,Bangladesh,Import,Fish,2001,2518
+Asia,Bhutan,Export,Fish,2001,0
+Asia,Bhutan,Import,Crustaceans,2001,0
+Asia,Bhutan,Import,Fish,2001,0
+Asia,Brunei Darussalam,Export,Crustaceans,2001,43
+Asia,Brunei Darussalam,Export,Fish,2001,105
+Asia,Brunei Darussalam,Import,Crustaceans,2001,1517
+Asia,Brunei Darussalam,Import,Fish,2001,5189
+Asia,Cambodia,Export,Crustaceans,2001,840
+Asia,Cambodia,Export,Fish,2001,37184
+Asia,Cambodia,Import,Crustaceans,2001,2
+Asia,Cambodia,Import,Fish,2001,1069
+Asia,China,Export,Crustaceans,2001,166994
+Asia,China,Export,Fish,2001,1366368
+Asia,China,Import,Crustaceans,2001,84824
+Asia,China,Import,Fish,2001,1018412
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2001,265
+Asia,"China, Hong Kong SAR",Export,Fish,2001,43603
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2001,55255
+Asia,"China, Hong Kong SAR",Import,Fish,2001,215780
+Asia,"China, Macao SAR",Export,Crustaceans,2001,280
+Asia,"China, Macao SAR",Export,Fish,2001,0
+Asia,"China, Macao SAR",Import,Crustaceans,2001,1794
+Asia,"China, Macao SAR",Import,Fish,2001,9843
+Asia,Cyprus,Export,Crustaceans,2001,79
+Asia,Cyprus,Export,Fish,2001,666
+Asia,Cyprus,Import,Crustaceans,2001,680
+Asia,Cyprus,Import,Fish,2001,5959
+Asia,Georgia,Export,Crustaceans,2001,0
+Asia,Georgia,Export,Fish,2001,2971
+Asia,Georgia,Import,Crustaceans,2001,1
+Asia,Georgia,Import,Fish,2001,2668
+Asia,India,Export,Crustaceans,2001,150921
+Asia,India,Export,Fish,2001,246443
+Asia,India,Import,Crustaceans,2001,300
+Asia,India,Import,Fish,2001,4292
+Asia,Indonesia,Export,Crustaceans,2001,140485
+Asia,Indonesia,Export,Fish,2001,257179
+Asia,Indonesia,Import,Crustaceans,2001,1999
+Asia,Indonesia,Import,Fish,2001,16101
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2001,769
+Asia,Iran (Islamic Rep. of),Export,Fish,2001,4284
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2001,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2001,3130
+Asia,Iraq,Export,Fish,2001,155
+Asia,Iraq,Import,Crustaceans,2001,0
+Asia,Iraq,Import,Fish,2001,18
+Asia,Israel,Export,Fish,2001,395
+Asia,Israel,Import,Crustaceans,2001,429
+Asia,Israel,Import,Fish,2001,50764
+Asia,Japan,Export,Crustaceans,2001,5691
+Asia,Japan,Export,Fish,2001,219415
+Asia,Japan,Import,Crustaceans,2001,418837
+Asia,Japan,Import,Fish,2001,2264241
+Asia,Jordan,Export,Fish,2001,100
+Asia,Jordan,Import,Crustaceans,2001,66
+Asia,Jordan,Import,Fish,2001,13596
+Asia,Kazakhstan,Export,Crustaceans,2001,1
+Asia,Kazakhstan,Export,Fish,2001,21494
+Asia,Kazakhstan,Import,Crustaceans,2001,29
+Asia,Kazakhstan,Import,Fish,2001,33938
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2001,8564
+Asia,"Korea, Dem. People's Rep",Export,Fish,2001,4350
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2001,1075
+Asia,"Korea, Dem. People's Rep",Import,Fish,2001,12471
+Asia,"Korea, Republic of",Export,Crustaceans,2001,5188
+Asia,"Korea, Republic of",Export,Fish,2001,234701
+Asia,"Korea, Republic of",Import,Crustaceans,2001,58895
+Asia,"Korea, Republic of",Import,Fish,2001,813910
+Asia,Kuwait,Export,Crustaceans,2001,403
+Asia,Kuwait,Export,Fish,2001,48
+Asia,Kuwait,Import,Crustaceans,2001,359
+Asia,Kuwait,Import,Fish,2001,10128
+Asia,Kyrgyzstan,Export,Crustaceans,2001,0
+Asia,Kyrgyzstan,Export,Fish,2001,0
+Asia,Kyrgyzstan,Import,Crustaceans,2001,0
+Asia,Kyrgyzstan,Import,Fish,2001,2662
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2001,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2001,27
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2001,183
+Asia,Lao People's Dem. Rep.,Import,Fish,2001,2646
+Asia,Lebanon,Export,Crustaceans,2001,2
+Asia,Lebanon,Export,Fish,2001,35
+Asia,Lebanon,Import,Crustaceans,2001,764
+Asia,Lebanon,Import,Fish,2001,17988
+Asia,Malaysia,Export,Crustaceans,2001,26631
+Asia,Malaysia,Export,Fish,2001,40425
+Asia,Malaysia,Import,Crustaceans,2001,29063
+Asia,Malaysia,Import,Fish,2001,304527
+Asia,Maldives,Export,Fish,2001,29224
+Asia,Maldives,Import,Crustaceans,2001,125
+Asia,Maldives,Import,Fish,2001,106
+Asia,Mongolia,Export,Crustaceans,2001,0
+Asia,Mongolia,Export,Fish,2001,150
+Asia,Mongolia,Import,Crustaceans,2001,0
+Asia,Mongolia,Import,Fish,2001,482
+Asia,Myanmar,Export,Crustaceans,2001,52321
+Asia,Myanmar,Export,Fish,2001,92302
+Asia,Myanmar,Import,Crustaceans,2001,14
+Asia,Myanmar,Import,Fish,2001,78
+Asia,Nepal,Export,Fish,2001,25
+Asia,Nepal,Import,Crustaceans,2001,23
+Asia,Nepal,Import,Fish,2001,152
+Asia,Oman,Export,Crustaceans,2001,1662
+Asia,Oman,Export,Fish,2001,27805
+Asia,Oman,Import,Crustaceans,2001,664
+Asia,Oman,Import,Fish,2001,12137
+Asia,Pakistan,Export,Crustaceans,2001,16552
+Asia,Pakistan,Export,Fish,2001,61028
+Asia,Pakistan,Import,Crustaceans,2001,13
+Asia,Pakistan,Import,Fish,2001,46
+Asia,"Palestine, Occupied Tr.",Export,Fish,2001,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2001,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2001,0
+Asia,Philippines,Export,Crustaceans,2001,27864
+Asia,Philippines,Export,Fish,2001,89455
+Asia,Philippines,Import,Crustaceans,2001,323
+Asia,Philippines,Import,Fish,2001,75800
+Asia,Qatar,Export,Crustaceans,2001,0
+Asia,Qatar,Export,Fish,2001,2187
+Asia,Qatar,Import,Crustaceans,2001,156
+Asia,Qatar,Import,Fish,2001,3610
+Asia,Saudi Arabia,Export,Crustaceans,2001,660
+Asia,Saudi Arabia,Export,Fish,2001,1633
+Asia,Saudi Arabia,Import,Crustaceans,2001,4642
+Asia,Saudi Arabia,Import,Fish,2001,79387
+Asia,Singapore,Export,Crustaceans,2001,9473
+Asia,Singapore,Export,Fish,2001,70952
+Asia,Singapore,Import,Crustaceans,2001,18453
+Asia,Singapore,Import,Fish,2001,119562
+Asia,Sri Lanka,Export,Crustaceans,2001,4861
+Asia,Sri Lanka,Export,Fish,2001,10052
+Asia,Sri Lanka,Import,Crustaceans,2001,524
+Asia,Sri Lanka,Import,Fish,2001,76079
+Asia,Syrian Arab Republic,Export,Crustaceans,2001,0
+Asia,Syrian Arab Republic,Export,Fish,2001,2
+Asia,Syrian Arab Republic,Import,Crustaceans,2001,1
+Asia,Syrian Arab Republic,Import,Fish,2001,6236
+Asia,Taiwan Province of China,Export,Crustaceans,2001,2382
+Asia,Taiwan Province of China,Export,Fish,2001,618046
+Asia,Taiwan Province of China,Import,Crustaceans,2001,25544
+Asia,Taiwan Province of China,Import,Fish,2001,68754
+Asia,Tajikistan,Import,Crustaceans,2001,0
+Asia,Tajikistan,Import,Fish,2001,189
+Asia,Thailand,Export,Crustaceans,2001,275811
+Asia,Thailand,Export,Fish,2001,838377
+Asia,Thailand,Import,Crustaceans,2001,35443
+Asia,Thailand,Import,Fish,2001,737435
+Asia,Timor-Leste,Export,Crustaceans,2001,0
+Asia,Timor-Leste,Export,Fish,2001,0
+Asia,Timor-Leste,Import,Crustaceans,2001,0
+Asia,Timor-Leste,Import,Fish,2001,0
+Asia,Turkey,Export,Crustaceans,2001,3850
+Asia,Turkey,Export,Fish,2001,17746
+Asia,Turkey,Import,Crustaceans,2001,14
+Asia,Turkey,Import,Fish,2001,12056
+Asia,Turkmenistan,Export,Crustaceans,2001,0
+Asia,Turkmenistan,Export,Fish,2001,790
+Asia,Turkmenistan,Import,Crustaceans,2001,0
+Asia,Turkmenistan,Import,Fish,2001,119
+Asia,United Arab Emirates,Export,Crustaceans,2001,600
+Asia,United Arab Emirates,Export,Fish,2001,16692
+Asia,United Arab Emirates,Import,Crustaceans,2001,16460
+Asia,United Arab Emirates,Import,Fish,2001,33655
+Asia,Uzbekistan,Export,Fish,2001,65
+Asia,Uzbekistan,Import,Crustaceans,2001,1
+Asia,Uzbekistan,Import,Fish,2001,992
+Asia,Viet Nam,Export,Crustaceans,2001,150943
+Asia,Viet Nam,Export,Fish,2001,179271
+Asia,Viet Nam,Import,Crustaceans,2001,4170
+Asia,Viet Nam,Import,Fish,2001,2739
+Asia,Yemen,Export,Crustaceans,2001,778
+Asia,Yemen,Export,Fish,2001,37019
+Asia,Yemen,Import,Crustaceans,2001,0
+Asia,Yemen,Import,Fish,2001,3867
+Asia,Afghanistan,Import,Fish,2002,0
+Asia,Armenia,Export,Crustaceans,2002,391
+Asia,Armenia,Export,Fish,2002,53
+Asia,Armenia,Import,Crustaceans,2002,1
+Asia,Armenia,Import,Fish,2002,1239
+Asia,Azerbaijan,Export,Fish,2002,59
+Asia,Azerbaijan,Import,Crustaceans,2002,6
+Asia,Azerbaijan,Import,Fish,2002,3932
+Asia,Bahrain,Export,Crustaceans,2002,4012
+Asia,Bahrain,Export,Fish,2002,2365
+Asia,Bahrain,Import,Crustaceans,2002,582
+Asia,Bahrain,Import,Fish,2002,3073
+Asia,Bangladesh,Export,Crustaceans,2002,29712
+Asia,Bangladesh,Export,Fish,2002,7678
+Asia,Bangladesh,Import,Crustaceans,2002,184
+Asia,Bangladesh,Import,Fish,2002,7517
+Asia,Bhutan,Export,Fish,2002,0
+Asia,Bhutan,Import,Crustaceans,2002,0
+Asia,Bhutan,Import,Fish,2002,0
+Asia,Brunei Darussalam,Export,Crustaceans,2002,61
+Asia,Brunei Darussalam,Export,Fish,2002,8
+Asia,Brunei Darussalam,Import,Crustaceans,2002,860
+Asia,Brunei Darussalam,Import,Fish,2002,4339
+Asia,Cambodia,Export,Crustaceans,2002,399
+Asia,Cambodia,Export,Fish,2002,51980
+Asia,Cambodia,Import,Crustaceans,2002,1
+Asia,Cambodia,Import,Fish,2002,1241
+Asia,China,Export,Crustaceans,2002,198285
+Asia,China,Export,Fish,2002,1348747
+Asia,China,Import,Crustaceans,2002,92419
+Asia,China,Import,Fish,2002,1032095
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2002,188
+Asia,"China, Hong Kong SAR",Export,Fish,2002,44178
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2002,56103
+Asia,"China, Hong Kong SAR",Import,Fish,2002,218301
+Asia,"China, Macao SAR",Export,Crustaceans,2002,261
+Asia,"China, Macao SAR",Export,Fish,2002,0
+Asia,"China, Macao SAR",Import,Crustaceans,2002,2410
+Asia,"China, Macao SAR",Import,Fish,2002,10501
+Asia,Cyprus,Export,Crustaceans,2002,60
+Asia,Cyprus,Export,Fish,2002,657
+Asia,Cyprus,Import,Crustaceans,2002,438
+Asia,Cyprus,Import,Fish,2002,5866
+Asia,Georgia,Export,Crustaceans,2002,0
+Asia,Georgia,Export,Fish,2002,342
+Asia,Georgia,Import,Crustaceans,2002,0
+Asia,Georgia,Import,Fish,2002,3516
+Asia,India,Export,Crustaceans,2002,188470
+Asia,India,Export,Fish,2002,261302
+Asia,India,Import,Crustaceans,2002,823
+Asia,India,Import,Fish,2002,2448
+Asia,Indonesia,Export,Crustaceans,2002,135990
+Asia,Indonesia,Export,Fish,2002,334326
+Asia,Indonesia,Import,Crustaceans,2002,2552
+Asia,Indonesia,Import,Fish,2002,20469
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2002,4576
+Asia,Iran (Islamic Rep. of),Export,Fish,2002,9109
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2002,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2002,8421
+Asia,Iraq,Export,Fish,2002,111
+Asia,Iraq,Import,Crustaceans,2002,0
+Asia,Iraq,Import,Fish,2002,128
+Asia,Israel,Export,Fish,2002,319
+Asia,Israel,Import,Crustaceans,2002,378
+Asia,Israel,Import,Fish,2002,48418
+Asia,Japan,Export,Crustaceans,2002,4712
+Asia,Japan,Export,Fish,2002,231336
+Asia,Japan,Import,Crustaceans,2002,425284
+Asia,Japan,Import,Fish,2002,2271741
+Asia,Jordan,Export,Fish,2002,115
+Asia,Jordan,Import,Crustaceans,2002,42
+Asia,Jordan,Import,Fish,2002,14316
+Asia,Kazakhstan,Export,Crustaceans,2002,0
+Asia,Kazakhstan,Export,Fish,2002,25680
+Asia,Kazakhstan,Import,Crustaceans,2002,40
+Asia,Kazakhstan,Import,Fish,2002,33083
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2002,20184
+Asia,"Korea, Dem. People's Rep",Export,Fish,2002,6361
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2002,2702
+Asia,"Korea, Dem. People's Rep",Import,Fish,2002,13721
+Asia,"Korea, Republic of",Export,Crustaceans,2002,9141
+Asia,"Korea, Republic of",Export,Fish,2002,245086
+Asia,"Korea, Republic of",Import,Crustaceans,2002,87014
+Asia,"Korea, Republic of",Import,Fish,2002,890846
+Asia,Kuwait,Export,Crustaceans,2002,460
+Asia,Kuwait,Export,Fish,2002,27
+Asia,Kuwait,Import,Crustaceans,2002,482
+Asia,Kuwait,Import,Fish,2002,9563
+Asia,Kyrgyzstan,Export,Crustaceans,2002,0
+Asia,Kyrgyzstan,Export,Fish,2002,0
+Asia,Kyrgyzstan,Import,Crustaceans,2002,0
+Asia,Kyrgyzstan,Import,Fish,2002,3156
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2002,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2002,1
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2002,214
+Asia,Lao People's Dem. Rep.,Import,Fish,2002,2185
+Asia,Lebanon,Export,Crustaceans,2002,2
+Asia,Lebanon,Export,Fish,2002,76
+Asia,Lebanon,Import,Crustaceans,2002,836
+Asia,Lebanon,Import,Fish,2002,14427
+Asia,Malaysia,Export,Crustaceans,2002,45016
+Asia,Malaysia,Export,Fish,2002,65467
+Asia,Malaysia,Import,Crustaceans,2002,62962
+Asia,Malaysia,Import,Fish,2002,369853
+Asia,Maldives,Export,Fish,2002,44625
+Asia,Maldives,Import,Crustaceans,2002,145
+Asia,Maldives,Import,Fish,2002,199
+Asia,Mongolia,Export,Crustaceans,2002,0
+Asia,Mongolia,Export,Fish,2002,263
+Asia,Mongolia,Import,Crustaceans,2002,0
+Asia,Mongolia,Import,Fish,2002,383
+Asia,Myanmar,Export,Crustaceans,2002,63416
+Asia,Myanmar,Export,Fish,2002,138251
+Asia,Myanmar,Import,Crustaceans,2002,25
+Asia,Myanmar,Import,Fish,2002,260
+Asia,Nepal,Export,Fish,2002,0
+Asia,Nepal,Import,Crustaceans,2002,15
+Asia,Nepal,Import,Fish,2002,68
+Asia,Oman,Export,Crustaceans,2002,466
+Asia,Oman,Export,Fish,2002,46210
+Asia,Oman,Import,Crustaceans,2002,463
+Asia,Oman,Import,Fish,2002,9182
+Asia,Pakistan,Export,Crustaceans,2002,15191
+Asia,Pakistan,Export,Fish,2002,67485
+Asia,Pakistan,Import,Crustaceans,2002,14
+Asia,Pakistan,Import,Fish,2002,72
+Asia,"Palestine, Occupied Tr.",Export,Fish,2002,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2002,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2002,0
+Asia,Philippines,Export,Crustaceans,2002,23743
+Asia,Philippines,Export,Fish,2002,94384
+Asia,Philippines,Import,Crustaceans,2002,1766
+Asia,Philippines,Import,Fish,2002,127138
+Asia,Qatar,Export,Crustaceans,2002,0
+Asia,Qatar,Export,Fish,2002,2269
+Asia,Qatar,Import,Crustaceans,2002,431
+Asia,Qatar,Import,Fish,2002,3528
+Asia,Saudi Arabia,Export,Crustaceans,2002,1127
+Asia,Saudi Arabia,Export,Fish,2002,1718
+Asia,Saudi Arabia,Import,Crustaceans,2002,6964
+Asia,Saudi Arabia,Import,Fish,2002,77490
+Asia,Singapore,Export,Crustaceans,2002,7581
+Asia,Singapore,Export,Fish,2002,56077
+Asia,Singapore,Import,Crustaceans,2002,19661
+Asia,Singapore,Import,Fish,2002,122503
+Asia,Sri Lanka,Export,Crustaceans,2002,4963
+Asia,Sri Lanka,Export,Fish,2002,8589
+Asia,Sri Lanka,Import,Crustaceans,2002,385
+Asia,Sri Lanka,Import,Fish,2002,74139
+Asia,Syrian Arab Republic,Export,Crustaceans,2002,0
+Asia,Syrian Arab Republic,Export,Fish,2002,69
+Asia,Syrian Arab Republic,Import,Crustaceans,2002,0
+Asia,Syrian Arab Republic,Import,Fish,2002,12115
+Asia,Taiwan Province of China,Export,Crustaceans,2002,6629
+Asia,Taiwan Province of China,Export,Fish,2002,682606
+Asia,Taiwan Province of China,Import,Crustaceans,2002,23229
+Asia,Taiwan Province of China,Import,Fish,2002,77551
+Asia,Tajikistan,Import,Crustaceans,2002,0
+Asia,Tajikistan,Import,Fish,2002,344
+Asia,Thailand,Export,Crustaceans,2002,229898
+Asia,Thailand,Export,Fish,2002,885382
+Asia,Thailand,Import,Crustaceans,2002,42745
+Asia,Thailand,Import,Fish,2002,860776
+Asia,Timor-Leste,Export,Crustaceans,2002,0
+Asia,Timor-Leste,Export,Fish,2002,0
+Asia,Timor-Leste,Import,Crustaceans,2002,0
+Asia,Timor-Leste,Import,Fish,2002,0
+Asia,Turkey,Export,Crustaceans,2002,4840
+Asia,Turkey,Export,Fish,2002,21016
+Asia,Turkey,Import,Crustaceans,2002,79
+Asia,Turkey,Import,Fish,2002,20235
+Asia,Turkmenistan,Export,Crustaceans,2002,0
+Asia,Turkmenistan,Export,Fish,2002,592
+Asia,Turkmenistan,Import,Crustaceans,2002,0
+Asia,Turkmenistan,Import,Fish,2002,139
+Asia,United Arab Emirates,Export,Crustaceans,2002,2006
+Asia,United Arab Emirates,Export,Fish,2002,2631
+Asia,United Arab Emirates,Import,Crustaceans,2002,15685
+Asia,United Arab Emirates,Import,Fish,2002,33751
+Asia,Uzbekistan,Export,Fish,2002,124
+Asia,Uzbekistan,Import,Crustaceans,2002,25
+Asia,Uzbekistan,Import,Fish,2002,881
+Asia,Viet Nam,Export,Crustaceans,2002,205575
+Asia,Viet Nam,Export,Fish,2002,237076
+Asia,Viet Nam,Import,Crustaceans,2002,9533
+Asia,Viet Nam,Import,Fish,2002,5800
+Asia,Yemen,Export,Crustaceans,2002,1160
+Asia,Yemen,Export,Fish,2002,50067
+Asia,Yemen,Import,Crustaceans,2002,3
+Asia,Yemen,Import,Fish,2002,3096
+Asia,Afghanistan,Import,Fish,2003,0
+Asia,Armenia,Export,Crustaceans,2003,761
+Asia,Armenia,Export,Fish,2003,28
+Asia,Armenia,Import,Crustaceans,2003,4
+Asia,Armenia,Import,Fish,2003,870
+Asia,Azerbaijan,Export,Fish,2003,336
+Asia,Azerbaijan,Import,Crustaceans,2003,8
+Asia,Azerbaijan,Import,Fish,2003,4180
+Asia,Bahrain,Export,Crustaceans,2003,3757
+Asia,Bahrain,Export,Fish,2003,2701
+Asia,Bahrain,Import,Crustaceans,2003,309
+Asia,Bahrain,Import,Fish,2003,2930
+Asia,Bangladesh,Export,Crustaceans,2003,34510
+Asia,Bangladesh,Export,Fish,2003,6644
+Asia,Bangladesh,Import,Crustaceans,2003,55
+Asia,Bangladesh,Import,Fish,2003,3057
+Asia,Bhutan,Export,Fish,2003,0
+Asia,Bhutan,Import,Crustaceans,2003,0
+Asia,Bhutan,Import,Fish,2003,0
+Asia,Brunei Darussalam,Export,Crustaceans,2003,110
+Asia,Brunei Darussalam,Export,Fish,2003,28
+Asia,Brunei Darussalam,Import,Crustaceans,2003,808
+Asia,Brunei Darussalam,Import,Fish,2003,5432
+Asia,Cambodia,Export,Crustaceans,2003,391
+Asia,Cambodia,Export,Fish,2003,55904
+Asia,Cambodia,Import,Crustaceans,2003,0
+Asia,Cambodia,Import,Fish,2003,2137
+Asia,China,Export,Crustaceans,2003,272915
+Asia,China,Export,Fish,2003,1346943
+Asia,China,Import,Crustaceans,2003,104819
+Asia,China,Import,Fish,2003,1126992
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2003,129
+Asia,"China, Hong Kong SAR",Export,Fish,2003,39378
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2003,50440
+Asia,"China, Hong Kong SAR",Import,Fish,2003,221014
+Asia,"China, Macao SAR",Export,Crustaceans,2003,193
+Asia,"China, Macao SAR",Export,Fish,2003,0
+Asia,"China, Macao SAR",Import,Crustaceans,2003,3164
+Asia,"China, Macao SAR",Import,Fish,2003,14021
+Asia,Cyprus,Export,Crustaceans,2003,14
+Asia,Cyprus,Export,Fish,2003,574
+Asia,Cyprus,Import,Crustaceans,2003,540
+Asia,Cyprus,Import,Fish,2003,6941
+Asia,Georgia,Export,Crustaceans,2003,0
+Asia,Georgia,Export,Fish,2003,7781
+Asia,Georgia,Import,Crustaceans,2003,0
+Asia,Georgia,Import,Fish,2003,5036
+Asia,India,Export,Crustaceans,2003,201931
+Asia,India,Export,Fish,2003,142982
+Asia,India,Import,Crustaceans,2003,629
+Asia,India,Import,Fish,2003,3064
+Asia,Indonesia,Export,Crustaceans,2003,149675
+Asia,Indonesia,Export,Fish,2003,591161
+Asia,Indonesia,Import,Crustaceans,2003,2802
+Asia,Indonesia,Import,Fish,2003,21155
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2003,7529
+Asia,Iran (Islamic Rep. of),Export,Fish,2003,9794
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2003,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2003,30799
+Asia,Iraq,Export,Fish,2003,110
+Asia,Iraq,Import,Crustaceans,2003,7
+Asia,Iraq,Import,Fish,2003,1850
+Asia,Israel,Export,Fish,2003,333
+Asia,Israel,Import,Crustaceans,2003,500
+Asia,Israel,Import,Fish,2003,52895
+Asia,Japan,Export,Crustaceans,2003,4384
+Asia,Japan,Export,Fish,2003,289749
+Asia,Japan,Import,Crustaceans,2003,359054
+Asia,Japan,Import,Fish,2003,1953832
+Asia,Jordan,Export,Fish,2003,128
+Asia,Jordan,Import,Crustaceans,2003,95
+Asia,Jordan,Import,Fish,2003,14822
+Asia,Kazakhstan,Export,Crustaceans,2003,1
+Asia,Kazakhstan,Export,Fish,2003,30553
+Asia,Kazakhstan,Import,Crustaceans,2003,54
+Asia,Kazakhstan,Import,Fish,2003,33398
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2003,20565
+Asia,"Korea, Dem. People's Rep",Export,Fish,2003,9438
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2003,2101
+Asia,"Korea, Dem. People's Rep",Import,Fish,2003,12469
+Asia,"Korea, Republic of",Export,Crustaceans,2003,10402
+Asia,"Korea, Republic of",Export,Fish,2003,237230
+Asia,"Korea, Republic of",Import,Crustaceans,2003,92641
+Asia,"Korea, Republic of",Import,Fish,2003,924117
+Asia,Kuwait,Export,Crustaceans,2003,315
+Asia,Kuwait,Export,Fish,2003,138
+Asia,Kuwait,Import,Crustaceans,2003,1168
+Asia,Kuwait,Import,Fish,2003,12987
+Asia,Kyrgyzstan,Export,Crustaceans,2003,0
+Asia,Kyrgyzstan,Export,Fish,2003,0
+Asia,Kyrgyzstan,Import,Crustaceans,2003,5
+Asia,Kyrgyzstan,Import,Fish,2003,4558
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2003,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2003,19
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2003,245
+Asia,Lao People's Dem. Rep.,Import,Fish,2003,2555
+Asia,Lebanon,Export,Crustaceans,2003,1
+Asia,Lebanon,Export,Fish,2003,182
+Asia,Lebanon,Import,Crustaceans,2003,997
+Asia,Lebanon,Import,Fish,2003,15874
+Asia,Malaysia,Export,Crustaceans,2003,30175
+Asia,Malaysia,Export,Fish,2003,59354
+Asia,Malaysia,Import,Crustaceans,2003,37910
+Asia,Malaysia,Import,Fish,2003,329017
+Asia,Maldives,Export,Fish,2003,69545
+Asia,Maldives,Import,Crustaceans,2003,167
+Asia,Maldives,Import,Fish,2003,95
+Asia,Mongolia,Export,Crustaceans,2003,23
+Asia,Mongolia,Export,Fish,2003,359
+Asia,Mongolia,Import,Crustaceans,2003,0
+Asia,Mongolia,Import,Fish,2003,429
+Asia,Myanmar,Export,Crustaceans,2003,76963
+Asia,Myanmar,Export,Fish,2003,136036
+Asia,Myanmar,Import,Crustaceans,2003,109
+Asia,Myanmar,Import,Fish,2003,681
+Asia,Nepal,Export,Fish,2003,9
+Asia,Nepal,Import,Crustaceans,2003,0
+Asia,Nepal,Import,Fish,2003,296
+Asia,Oman,Export,Crustaceans,2003,408
+Asia,Oman,Export,Fish,2003,47707
+Asia,Oman,Import,Crustaceans,2003,947
+Asia,Oman,Import,Fish,2003,9340
+Asia,Pakistan,Export,Crustaceans,2003,13011
+Asia,Pakistan,Export,Fish,2003,79994
+Asia,Pakistan,Import,Crustaceans,2003,12
+Asia,Pakistan,Import,Fish,2003,354
+Asia,"Palestine, Occupied Tr.",Export,Fish,2003,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2003,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2003,0
+Asia,Philippines,Export,Crustaceans,2003,25584
+Asia,Philippines,Export,Fish,2003,110284
+Asia,Philippines,Import,Crustaceans,2003,2525
+Asia,Philippines,Import,Fish,2003,89107
+Asia,Qatar,Export,Crustaceans,2003,0
+Asia,Qatar,Export,Fish,2003,2260
+Asia,Qatar,Import,Crustaceans,2003,479
+Asia,Qatar,Import,Fish,2003,2290
+Asia,Saudi Arabia,Export,Crustaceans,2003,6292
+Asia,Saudi Arabia,Export,Fish,2003,2781
+Asia,Saudi Arabia,Import,Crustaceans,2003,2821
+Asia,Saudi Arabia,Import,Fish,2003,83949
+Asia,Singapore,Export,Crustaceans,2003,5576
+Asia,Singapore,Export,Fish,2003,57964
+Asia,Singapore,Import,Crustaceans,2003,27644
+Asia,Singapore,Import,Fish,2003,150568
+Asia,Sri Lanka,Export,Crustaceans,2003,6566
+Asia,Sri Lanka,Export,Fish,2003,8653
+Asia,Sri Lanka,Import,Crustaceans,2003,321
+Asia,Sri Lanka,Import,Fish,2003,74863
+Asia,Syrian Arab Republic,Export,Crustaceans,2003,0
+Asia,Syrian Arab Republic,Export,Fish,2003,0
+Asia,Syrian Arab Republic,Import,Crustaceans,2003,10
+Asia,Syrian Arab Republic,Import,Fish,2003,12813
+Asia,Taiwan Province of China,Export,Crustaceans,2003,4349
+Asia,Taiwan Province of China,Export,Fish,2003,658306
+Asia,Taiwan Province of China,Import,Crustaceans,2003,18333
+Asia,Taiwan Province of China,Import,Fish,2003,78223
+Asia,Tajikistan,Import,Crustaceans,2003,0
+Asia,Tajikistan,Import,Fish,2003,576
+Asia,Thailand,Export,Crustaceans,2003,254021
+Asia,Thailand,Export,Fish,2003,1023426
+Asia,Thailand,Import,Crustaceans,2003,40225
+Asia,Thailand,Import,Fish,2003,958328
+Asia,Timor-Leste,Export,Crustaceans,2003,0
+Asia,Timor-Leste,Export,Fish,2003,0
+Asia,Timor-Leste,Import,Crustaceans,2003,0
+Asia,Timor-Leste,Import,Fish,2003,0
+Asia,Turkey,Export,Crustaceans,2003,5148
+Asia,Turkey,Export,Fish,2003,22715
+Asia,Turkey,Import,Crustaceans,2003,151
+Asia,Turkey,Import,Fish,2003,40028
+Asia,Turkmenistan,Export,Crustaceans,2003,0
+Asia,Turkmenistan,Export,Fish,2003,114
+Asia,Turkmenistan,Import,Crustaceans,2003,1
+Asia,Turkmenistan,Import,Fish,2003,367
+Asia,United Arab Emirates,Export,Crustaceans,2003,1899
+Asia,United Arab Emirates,Export,Fish,2003,4922
+Asia,United Arab Emirates,Import,Crustaceans,2003,12135
+Asia,United Arab Emirates,Import,Fish,2003,58137
+Asia,Uzbekistan,Export,Fish,2003,48
+Asia,Uzbekistan,Import,Crustaceans,2003,0
+Asia,Uzbekistan,Import,Fish,2003,922
+Asia,Viet Nam,Export,Crustaceans,2003,215873
+Asia,Viet Nam,Export,Fish,2003,196643
+Asia,Viet Nam,Import,Crustaceans,2003,10808
+Asia,Viet Nam,Import,Fish,2003,15659
+Asia,Yemen,Export,Crustaceans,2003,1306
+Asia,Yemen,Export,Fish,2003,53050
+Asia,Yemen,Import,Crustaceans,2003,52
+Asia,Yemen,Import,Fish,2003,4282
+Asia,Afghanistan,Import,Fish,2004,0
+Asia,Armenia,Export,Crustaceans,2004,804
+Asia,Armenia,Export,Fish,2004,68
+Asia,Armenia,Import,Crustaceans,2004,0
+Asia,Armenia,Import,Fish,2004,833
+Asia,Azerbaijan,Export,Fish,2004,2300
+Asia,Azerbaijan,Import,Crustaceans,2004,3
+Asia,Azerbaijan,Import,Fish,2004,5076
+Asia,Bahrain,Export,Crustaceans,2004,5545
+Asia,Bahrain,Export,Fish,2004,2357
+Asia,Bahrain,Import,Crustaceans,2004,444
+Asia,Bahrain,Import,Fish,2004,2881
+Asia,Bangladesh,Export,Crustaceans,2004,42096
+Asia,Bangladesh,Export,Fish,2004,8161
+Asia,Bangladesh,Import,Crustaceans,2004,569
+Asia,Bangladesh,Import,Fish,2004,3627
+Asia,Bhutan,Export,Fish,2004,0
+Asia,Bhutan,Import,Crustaceans,2004,0
+Asia,Bhutan,Import,Fish,2004,0
+Asia,Brunei Darussalam,Export,Crustaceans,2004,273
+Asia,Brunei Darussalam,Export,Fish,2004,6
+Asia,Brunei Darussalam,Import,Crustaceans,2004,1540
+Asia,Brunei Darussalam,Import,Fish,2004,6631
+Asia,Cambodia,Export,Crustaceans,2004,5202
+Asia,Cambodia,Export,Fish,2004,40335
+Asia,Cambodia,Import,Crustaceans,2004,51
+Asia,Cambodia,Import,Fish,2004,2978
+Asia,China,Export,Crustaceans,2004,323157
+Asia,China,Export,Fish,2004,1550707
+Asia,China,Import,Crustaceans,2004,98834
+Asia,China,Import,Fish,2004,1390275
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2004,118
+Asia,"China, Hong Kong SAR",Export,Fish,2004,39554
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2004,46965
+Asia,"China, Hong Kong SAR",Import,Fish,2004,227962
+Asia,"China, Macao SAR",Export,Crustaceans,2004,183
+Asia,"China, Macao SAR",Export,Fish,2004,75
+Asia,"China, Macao SAR",Import,Crustaceans,2004,2834
+Asia,"China, Macao SAR",Import,Fish,2004,12944
+Asia,Cyprus,Export,Crustaceans,2004,6
+Asia,Cyprus,Export,Fish,2004,2490
+Asia,Cyprus,Import,Crustaceans,2004,695
+Asia,Cyprus,Import,Fish,2004,11031
+Asia,Georgia,Export,Crustaceans,2004,0
+Asia,Georgia,Export,Fish,2004,3263
+Asia,Georgia,Import,Crustaceans,2004,53
+Asia,Georgia,Import,Fish,2004,9186
+Asia,India,Export,Crustaceans,2004,204923
+Asia,India,Export,Fish,2004,185636
+Asia,India,Import,Crustaceans,2004,741
+Asia,India,Import,Fish,2004,4782
+Asia,Indonesia,Export,Crustaceans,2004,160351
+Asia,Indonesia,Export,Fish,2004,624533
+Asia,Indonesia,Import,Crustaceans,2004,13379
+Asia,Indonesia,Import,Fish,2004,28214
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2004,8129
+Asia,Iran (Islamic Rep. of),Export,Fish,2004,11045
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2004,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2004,14524
+Asia,Iraq,Export,Fish,2004,90
+Asia,Iraq,Import,Crustaceans,2004,5
+Asia,Iraq,Import,Fish,2004,7800
+Asia,Israel,Export,Fish,2004,450
+Asia,Israel,Import,Crustaceans,2004,514
+Asia,Israel,Import,Fish,2004,64007
+Asia,Japan,Export,Crustaceans,2004,6317
+Asia,Japan,Export,Fish,2004,347964
+Asia,Japan,Import,Crustaceans,2004,438248
+Asia,Japan,Import,Fish,2004,2061470
+Asia,Jordan,Export,Fish,2004,34
+Asia,Jordan,Import,Crustaceans,2004,167
+Asia,Jordan,Import,Fish,2004,19251
+Asia,Kazakhstan,Export,Crustaceans,2004,5
+Asia,Kazakhstan,Export,Fish,2004,30340
+Asia,Kazakhstan,Import,Crustaceans,2004,85
+Asia,Kazakhstan,Import,Fish,2004,32443
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2004,18941
+Asia,"Korea, Dem. People's Rep",Export,Fish,2004,21842
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2004,2154
+Asia,"Korea, Dem. People's Rep",Import,Fish,2004,13694
+Asia,"Korea, Republic of",Export,Crustaceans,2004,7462
+Asia,"Korea, Republic of",Export,Fish,2004,217045
+Asia,"Korea, Republic of",Import,Crustaceans,2004,114890
+Asia,"Korea, Republic of",Import,Fish,2004,899330
+Asia,Kuwait,Export,Crustaceans,2004,199
+Asia,Kuwait,Export,Fish,2004,26
+Asia,Kuwait,Import,Crustaceans,2004,832
+Asia,Kuwait,Import,Fish,2004,11484
+Asia,Kyrgyzstan,Export,Crustaceans,2004,0
+Asia,Kyrgyzstan,Export,Fish,2004,34
+Asia,Kyrgyzstan,Import,Crustaceans,2004,7
+Asia,Kyrgyzstan,Import,Fish,2004,4846
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2004,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2004,10
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2004,22
+Asia,Lao People's Dem. Rep.,Import,Fish,2004,2554
+Asia,Lebanon,Export,Crustaceans,2004,7
+Asia,Lebanon,Export,Fish,2004,128
+Asia,Lebanon,Import,Crustaceans,2004,1163
+Asia,Lebanon,Import,Fish,2004,19694
+Asia,Malaysia,Export,Crustaceans,2004,66122
+Asia,Malaysia,Export,Fish,2004,105761
+Asia,Malaysia,Import,Crustaceans,2004,54268
+Asia,Malaysia,Import,Fish,2004,248065
+Asia,Maldives,Export,Fish,2004,75416
+Asia,Maldives,Import,Crustaceans,2004,203
+Asia,Maldives,Import,Fish,2004,106
+Asia,Mongolia,Export,Crustaceans,2004,0
+Asia,Mongolia,Export,Fish,2004,172
+Asia,Mongolia,Import,Crustaceans,2004,20
+Asia,Mongolia,Import,Fish,2004,201
+Asia,Myanmar,Export,Crustaceans,2004,80847
+Asia,Myanmar,Export,Fish,2004,124616
+Asia,Myanmar,Import,Crustaceans,2004,112
+Asia,Myanmar,Import,Fish,2004,835
+Asia,Nepal,Export,Fish,2004,41
+Asia,Nepal,Import,Crustaceans,2004,5
+Asia,Nepal,Import,Fish,2004,269
+Asia,Oman,Export,Crustaceans,2004,220
+Asia,Oman,Export,Fish,2004,77869
+Asia,Oman,Import,Crustaceans,2004,756
+Asia,Oman,Import,Fish,2004,5346
+Asia,Pakistan,Export,Crustaceans,2004,16094
+Asia,Pakistan,Export,Fish,2004,86887
+Asia,Pakistan,Import,Crustaceans,2004,52
+Asia,Pakistan,Import,Fish,2004,1003
+Asia,"Palestine, Occupied Tr.",Export,Fish,2004,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2004,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2004,0
+Asia,Philippines,Export,Crustaceans,2004,21046
+Asia,Philippines,Export,Fish,2004,106038
+Asia,Philippines,Import,Crustaceans,2004,1870
+Asia,Philippines,Import,Fish,2004,69700
+Asia,Qatar,Export,Crustaceans,2004,0
+Asia,Qatar,Export,Fish,2004,2319
+Asia,Qatar,Import,Crustaceans,2004,488
+Asia,Qatar,Import,Fish,2004,3814
+Asia,Saudi Arabia,Export,Crustaceans,2004,4098
+Asia,Saudi Arabia,Export,Fish,2004,4837
+Asia,Saudi Arabia,Import,Crustaceans,2004,3227
+Asia,Saudi Arabia,Import,Fish,2004,112109
+Asia,Singapore,Export,Crustaceans,2004,11086
+Asia,Singapore,Export,Fish,2004,60796
+Asia,Singapore,Import,Crustaceans,2004,34329
+Asia,Singapore,Import,Fish,2004,156938
+Asia,Sri Lanka,Export,Crustaceans,2004,4377
+Asia,Sri Lanka,Export,Fish,2004,9325
+Asia,Sri Lanka,Import,Crustaceans,2004,1238
+Asia,Sri Lanka,Import,Fish,2004,65991
+Asia,Syrian Arab Republic,Export,Crustaceans,2004,0
+Asia,Syrian Arab Republic,Export,Fish,2004,1
+Asia,Syrian Arab Republic,Import,Crustaceans,2004,0
+Asia,Syrian Arab Republic,Import,Fish,2004,14732
+Asia,Taiwan Province of China,Export,Crustaceans,2004,2413
+Asia,Taiwan Province of China,Export,Fish,2004,635379
+Asia,Taiwan Province of China,Import,Crustaceans,2004,16870
+Asia,Taiwan Province of China,Import,Fish,2004,69290
+Asia,Tajikistan,Import,Crustaceans,2004,0
+Asia,Tajikistan,Import,Fish,2004,568
+Asia,Thailand,Export,Crustaceans,2004,259351
+Asia,Thailand,Export,Fish,2004,1000520
+Asia,Thailand,Import,Crustaceans,2004,35907
+Asia,Thailand,Import,Fish,2004,1116726
+Asia,Timor-Leste,Export,Crustaceans,2004,0
+Asia,Timor-Leste,Export,Fish,2004,0
+Asia,Timor-Leste,Import,Crustaceans,2004,2
+Asia,Timor-Leste,Import,Fish,2004,96
+Asia,Turkey,Export,Crustaceans,2004,4946
+Asia,Turkey,Export,Fish,2004,28027
+Asia,Turkey,Import,Crustaceans,2004,426
+Asia,Turkey,Import,Fish,2004,55385
+Asia,Turkmenistan,Export,Crustaceans,2004,0
+Asia,Turkmenistan,Export,Fish,2004,520
+Asia,Turkmenistan,Import,Crustaceans,2004,0
+Asia,Turkmenistan,Import,Fish,2004,395
+Asia,United Arab Emirates,Export,Crustaceans,2004,2128
+Asia,United Arab Emirates,Export,Fish,2004,6551
+Asia,United Arab Emirates,Import,Crustaceans,2004,11089
+Asia,United Arab Emirates,Import,Fish,2004,50960
+Asia,Uzbekistan,Export,Fish,2004,48
+Asia,Uzbekistan,Import,Crustaceans,2004,1
+Asia,Uzbekistan,Import,Fish,2004,1575
+Asia,Viet Nam,Export,Crustaceans,2004,216837
+Asia,Viet Nam,Export,Fish,2004,237978
+Asia,Viet Nam,Import,Crustaceans,2004,15175
+Asia,Viet Nam,Import,Fish,2004,24782
+Asia,Yemen,Export,Crustaceans,2004,3328
+Asia,Yemen,Export,Fish,2004,45266
+Asia,Yemen,Import,Crustaceans,2004,22
+Asia,Yemen,Import,Fish,2004,3563
+Asia,Afghanistan,Import,Fish,2005,0
+Asia,Armenia,Export,Crustaceans,2005,716
+Asia,Armenia,Export,Fish,2005,131
+Asia,Armenia,Import,Crustaceans,2005,0
+Asia,Armenia,Import,Fish,2005,6729
+Asia,Azerbaijan,Export,Fish,2005,3055
+Asia,Azerbaijan,Import,Crustaceans,2005,15
+Asia,Azerbaijan,Import,Fish,2005,6977
+Asia,Bahrain,Export,Crustaceans,2005,4405
+Asia,Bahrain,Export,Fish,2005,1271
+Asia,Bahrain,Import,Crustaceans,2005,832
+Asia,Bahrain,Import,Fish,2005,4422
+Asia,Bangladesh,Export,Crustaceans,2005,40900
+Asia,Bangladesh,Export,Fish,2005,15797
+Asia,Bangladesh,Import,Crustaceans,2005,219
+Asia,Bangladesh,Import,Fish,2005,1876
+Asia,Bhutan,Export,Fish,2005,0
+Asia,Bhutan,Import,Crustaceans,2005,0
+Asia,Bhutan,Import,Fish,2005,1775
+Asia,Brunei Darussalam,Export,Crustaceans,2005,437
+Asia,Brunei Darussalam,Export,Fish,2005,15
+Asia,Brunei Darussalam,Import,Crustaceans,2005,598
+Asia,Brunei Darussalam,Import,Fish,2005,5945
+Asia,Cambodia,Export,Crustaceans,2005,3593
+Asia,Cambodia,Export,Fish,2005,48383
+Asia,Cambodia,Import,Crustaceans,2005,3898
+Asia,Cambodia,Import,Fish,2005,2745
+Asia,China,Export,Crustaceans,2005,324760
+Asia,China,Export,Fish,2005,1699608
+Asia,China,Import,Crustaceans,2005,95749
+Asia,China,Import,Fish,2005,1629824
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2005,53
+Asia,"China, Hong Kong SAR",Export,Fish,2005,38237
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2005,48863
+Asia,"China, Hong Kong SAR",Import,Fish,2005,218042
+Asia,"China, Macao SAR",Export,Crustaceans,2005,89
+Asia,"China, Macao SAR",Export,Fish,2005,71
+Asia,"China, Macao SAR",Import,Crustaceans,2005,2448
+Asia,"China, Macao SAR",Import,Fish,2005,13024
+Asia,Cyprus,Export,Crustaceans,2005,24
+Asia,Cyprus,Export,Fish,2005,2988
+Asia,Cyprus,Import,Crustaceans,2005,882
+Asia,Cyprus,Import,Fish,2005,11813
+Asia,Georgia,Export,Crustaceans,2005,0
+Asia,Georgia,Export,Fish,2005,16303
+Asia,Georgia,Import,Crustaceans,2005,73
+Asia,Georgia,Import,Fish,2005,14767
+Asia,India,Export,Crustaceans,2005,215902
+Asia,India,Export,Fish,2005,238141
+Asia,India,Import,Crustaceans,2005,1286
+Asia,India,Import,Fish,2005,9542
+Asia,Indonesia,Export,Crustaceans,2005,170169
+Asia,Indonesia,Export,Fish,2005,539955
+Asia,Indonesia,Import,Crustaceans,2005,2334
+Asia,Indonesia,Import,Fish,2005,25298
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2005,1044
+Asia,Iran (Islamic Rep. of),Export,Fish,2005,18854
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2005,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2005,17317
+Asia,Iraq,Export,Fish,2005,10
+Asia,Iraq,Import,Crustaceans,2005,1
+Asia,Iraq,Import,Fish,2005,8797
+Asia,Israel,Export,Fish,2005,532
+Asia,Israel,Import,Crustaceans,2005,631
+Asia,Israel,Import,Fish,2005,55478
+Asia,Japan,Export,Crustaceans,2005,7180
+Asia,Japan,Export,Fish,2005,400915
+Asia,Japan,Import,Crustaceans,2005,421473
+Asia,Japan,Import,Fish,2005,1971499
+Asia,Jordan,Export,Fish,2005,16
+Asia,Jordan,Import,Crustaceans,2005,201
+Asia,Jordan,Import,Fish,2005,17255
+Asia,Kazakhstan,Export,Crustaceans,2005,127
+Asia,Kazakhstan,Export,Fish,2005,32942
+Asia,Kazakhstan,Import,Crustaceans,2005,181
+Asia,Kazakhstan,Import,Fish,2005,41477
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2005,7524
+Asia,"Korea, Dem. People's Rep",Export,Fish,2005,19834
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2005,2852
+Asia,"Korea, Dem. People's Rep",Import,Fish,2005,12604
+Asia,"Korea, Republic of",Export,Crustaceans,2005,10645
+Asia,"Korea, Republic of",Export,Fish,2005,226507
+Asia,"Korea, Republic of",Import,Crustaceans,2005,105970
+Asia,"Korea, Republic of",Import,Fish,2005,877237
+Asia,Kuwait,Export,Crustaceans,2005,97
+Asia,Kuwait,Export,Fish,2005,41
+Asia,Kuwait,Import,Crustaceans,2005,853
+Asia,Kuwait,Import,Fish,2005,14245
+Asia,Kyrgyzstan,Export,Crustaceans,2005,0
+Asia,Kyrgyzstan,Export,Fish,2005,0
+Asia,Kyrgyzstan,Import,Crustaceans,2005,14
+Asia,Kyrgyzstan,Import,Fish,2005,5095
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2005,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2005,0
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2005,126
+Asia,Lao People's Dem. Rep.,Import,Fish,2005,2619
+Asia,Lebanon,Export,Crustaceans,2005,2
+Asia,Lebanon,Export,Fish,2005,164
+Asia,Lebanon,Import,Crustaceans,2005,1242
+Asia,Lebanon,Import,Fish,2005,18147
+Asia,Malaysia,Export,Crustaceans,2005,72252
+Asia,Malaysia,Export,Fish,2005,109040
+Asia,Malaysia,Import,Crustaceans,2005,46323
+Asia,Malaysia,Import,Fish,2005,326747
+Asia,Maldives,Export,Fish,2005,81292
+Asia,Maldives,Import,Crustaceans,2005,174
+Asia,Maldives,Import,Fish,2005,62
+Asia,Mongolia,Export,Crustaceans,2005,0
+Asia,Mongolia,Export,Fish,2005,392
+Asia,Mongolia,Import,Crustaceans,2005,2
+Asia,Mongolia,Import,Fish,2005,331
+Asia,Myanmar,Export,Crustaceans,2005,75721
+Asia,Myanmar,Export,Fish,2005,192808
+Asia,Myanmar,Import,Crustaceans,2005,106
+Asia,Myanmar,Import,Fish,2005,825
+Asia,Nepal,Export,Fish,2005,18
+Asia,Nepal,Import,Crustaceans,2005,15
+Asia,Nepal,Import,Fish,2005,258
+Asia,Oman,Export,Crustaceans,2005,78
+Asia,Oman,Export,Fish,2005,53974
+Asia,Oman,Import,Crustaceans,2005,747
+Asia,Oman,Import,Fish,2005,13475
+Asia,Pakistan,Export,Crustaceans,2005,14088
+Asia,Pakistan,Export,Fish,2005,82497
+Asia,Pakistan,Import,Crustaceans,2005,65
+Asia,Pakistan,Import,Fish,2005,1434
+Asia,"Palestine, Occupied Tr.",Export,Fish,2005,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2005,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2005,0
+Asia,Philippines,Export,Crustaceans,2005,18247
+Asia,Philippines,Export,Fish,2005,72425
+Asia,Philippines,Import,Crustaceans,2005,1494
+Asia,Philippines,Import,Fish,2005,114057
+Asia,Qatar,Export,Crustaceans,2005,0
+Asia,Qatar,Export,Fish,2005,4962
+Asia,Qatar,Import,Crustaceans,2005,923
+Asia,Qatar,Import,Fish,2005,6449
+Asia,Saudi Arabia,Export,Crustaceans,2005,6302
+Asia,Saudi Arabia,Export,Fish,2005,7754
+Asia,Saudi Arabia,Import,Crustaceans,2005,3845
+Asia,Saudi Arabia,Import,Fish,2005,125311
+Asia,Singapore,Export,Crustaceans,2005,6765
+Asia,Singapore,Export,Fish,2005,69396
+Asia,Singapore,Import,Crustaceans,2005,32292
+Asia,Singapore,Import,Fish,2005,168130
+Asia,Sri Lanka,Export,Crustaceans,2005,3876
+Asia,Sri Lanka,Export,Fish,2005,12189
+Asia,Sri Lanka,Import,Crustaceans,2005,464
+Asia,Sri Lanka,Import,Fish,2005,76026
+Asia,Syrian Arab Republic,Export,Crustaceans,2005,0
+Asia,Syrian Arab Republic,Export,Fish,2005,73
+Asia,Syrian Arab Republic,Import,Crustaceans,2005,30
+Asia,Syrian Arab Republic,Import,Fish,2005,13129
+Asia,Taiwan Province of China,Export,Crustaceans,2005,2062
+Asia,Taiwan Province of China,Export,Fish,2005,657175
+Asia,Taiwan Province of China,Import,Crustaceans,2005,15804
+Asia,Taiwan Province of China,Import,Fish,2005,70546
+Asia,Tajikistan,Import,Crustaceans,2005,4
+Asia,Tajikistan,Import,Fish,2005,500
+Asia,Thailand,Export,Crustaceans,2005,304147
+Asia,Thailand,Export,Fish,2005,1092188
+Asia,Thailand,Import,Crustaceans,2005,36402
+Asia,Thailand,Import,Fish,2005,1304910
+Asia,Timor-Leste,Export,Crustaceans,2005,0
+Asia,Timor-Leste,Export,Fish,2005,1
+Asia,Timor-Leste,Import,Crustaceans,2005,0
+Asia,Timor-Leste,Import,Fish,2005,98
+Asia,Turkey,Export,Crustaceans,2005,4583
+Asia,Turkey,Export,Fish,2005,34531
+Asia,Turkey,Import,Crustaceans,2005,948
+Asia,Turkey,Import,Fish,2005,44186
+Asia,Turkmenistan,Export,Crustaceans,2005,0
+Asia,Turkmenistan,Export,Fish,2005,142
+Asia,Turkmenistan,Import,Crustaceans,2005,0
+Asia,Turkmenistan,Import,Fish,2005,659
+Asia,United Arab Emirates,Export,Crustaceans,2005,6557
+Asia,United Arab Emirates,Export,Fish,2005,8717
+Asia,United Arab Emirates,Import,Crustaceans,2005,8066
+Asia,United Arab Emirates,Import,Fish,2005,40990
+Asia,Uzbekistan,Export,Fish,2005,613
+Asia,Uzbekistan,Import,Crustaceans,2005,2
+Asia,Uzbekistan,Import,Fish,2005,2002
+Asia,Viet Nam,Export,Crustaceans,2005,241106
+Asia,Viet Nam,Export,Fish,2005,278514
+Asia,Viet Nam,Import,Crustaceans,2005,11349
+Asia,Viet Nam,Import,Fish,2005,48252
+Asia,Yemen,Export,Crustaceans,2005,2694
+Asia,Yemen,Export,Fish,2005,65213
+Asia,Yemen,Import,Crustaceans,2005,66
+Asia,Yemen,Import,Fish,2005,6079
+Asia,Afghanistan,Import,Fish,2006,0
+Asia,Armenia,Export,Crustaceans,2006,968
+Asia,Armenia,Export,Fish,2006,80
+Asia,Armenia,Import,Crustaceans,2006,1
+Asia,Armenia,Import,Fish,2006,1791
+Asia,Azerbaijan,Export,Fish,2006,538
+Asia,Azerbaijan,Import,Crustaceans,2006,20
+Asia,Azerbaijan,Import,Fish,2006,7413
+Asia,Bahrain,Export,Crustaceans,2006,3879
+Asia,Bahrain,Export,Fish,2006,2907
+Asia,Bahrain,Import,Crustaceans,2006,777
+Asia,Bahrain,Import,Fish,2006,3952
+Asia,Bangladesh,Export,Crustaceans,2006,45364
+Asia,Bangladesh,Export,Fish,2006,14170
+Asia,Bangladesh,Import,Crustaceans,2006,238
+Asia,Bangladesh,Import,Fish,2006,3544
+Asia,Bhutan,Export,Fish,2006,0
+Asia,Bhutan,Import,Crustaceans,2006,1
+Asia,Bhutan,Import,Fish,2006,2131
+Asia,Brunei Darussalam,Export,Crustaceans,2006,655
+Asia,Brunei Darussalam,Export,Fish,2006,79
+Asia,Brunei Darussalam,Import,Crustaceans,2006,1338
+Asia,Brunei Darussalam,Import,Fish,2006,5638
+Asia,Cambodia,Export,Crustaceans,2006,829
+Asia,Cambodia,Export,Fish,2006,29092
+Asia,Cambodia,Import,Crustaceans,2006,392
+Asia,Cambodia,Import,Fish,2006,3307
+Asia,China,Export,Crustaceans,2006,389068
+Asia,China,Export,Fish,2006,2001687
+Asia,China,Import,Crustaceans,2006,99835
+Asia,China,Import,Fish,2006,1768799
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2006,92
+Asia,"China, Hong Kong SAR",Export,Fish,2006,37350
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2006,58895
+Asia,"China, Hong Kong SAR",Import,Fish,2006,226935
+Asia,"China, Macao SAR",Export,Crustaceans,2006,24
+Asia,"China, Macao SAR",Export,Fish,2006,130
+Asia,"China, Macao SAR",Import,Crustaceans,2006,2720
+Asia,"China, Macao SAR",Import,Fish,2006,14213
+Asia,Cyprus,Export,Crustaceans,2006,1
+Asia,Cyprus,Export,Fish,2006,2700
+Asia,Cyprus,Import,Crustaceans,2006,1044
+Asia,Cyprus,Import,Fish,2006,9598
+Asia,Georgia,Export,Crustaceans,2006,0
+Asia,Georgia,Export,Fish,2006,6235
+Asia,Georgia,Import,Crustaceans,2006,55
+Asia,Georgia,Import,Fish,2006,18625
+Asia,India,Export,Crustaceans,2006,200538
+Asia,India,Export,Fish,2006,311644
+Asia,India,Import,Crustaceans,2006,862
+Asia,India,Import,Fish,2006,9179
+Asia,Indonesia,Export,Crustaceans,2006,185184
+Asia,Indonesia,Export,Fish,2006,551742
+Asia,Indonesia,Import,Crustaceans,2006,1655
+Asia,Indonesia,Import,Fish,2006,45533
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2006,3255
+Asia,Iran (Islamic Rep. of),Export,Fish,2006,26543
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2006,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2006,8014
+Asia,Iraq,Export,Fish,2006,104
+Asia,Iraq,Import,Crustaceans,2006,4
+Asia,Iraq,Import,Fish,2006,19178
+Asia,Israel,Export,Fish,2006,664
+Asia,Israel,Import,Crustaceans,2006,763
+Asia,Israel,Import,Fish,2006,41802
+Asia,Japan,Export,Crustaceans,2006,7103
+Asia,Japan,Export,Fish,2006,532569
+Asia,Japan,Import,Crustaceans,2006,424884
+Asia,Japan,Import,Fish,2006,1766063
+Asia,Jordan,Export,Fish,2006,2
+Asia,Jordan,Import,Crustaceans,2006,301
+Asia,Jordan,Import,Fish,2006,20970
+Asia,Kazakhstan,Export,Crustaceans,2006,192
+Asia,Kazakhstan,Export,Fish,2006,32313
+Asia,Kazakhstan,Import,Crustaceans,2006,264
+Asia,Kazakhstan,Import,Fish,2006,43549
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2006,3595
+Asia,"Korea, Dem. People's Rep",Export,Fish,2006,18310
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2006,3277
+Asia,"Korea, Dem. People's Rep",Import,Fish,2006,12309
+Asia,"Korea, Republic of",Export,Crustaceans,2006,18311
+Asia,"Korea, Republic of",Export,Fish,2006,220146
+Asia,"Korea, Republic of",Import,Crustaceans,2006,129457
+Asia,"Korea, Republic of",Import,Fish,2006,941218
+Asia,Kuwait,Export,Crustaceans,2006,254
+Asia,Kuwait,Export,Fish,2006,681
+Asia,Kuwait,Import,Crustaceans,2006,1441
+Asia,Kuwait,Import,Fish,2006,17169
+Asia,Kyrgyzstan,Export,Crustaceans,2006,0
+Asia,Kyrgyzstan,Export,Fish,2006,11
+Asia,Kyrgyzstan,Import,Crustaceans,2006,22
+Asia,Kyrgyzstan,Import,Fish,2006,6416
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2006,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2006,1
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2006,114
+Asia,Lao People's Dem. Rep.,Import,Fish,2006,2263
+Asia,Lebanon,Export,Crustaceans,2006,2
+Asia,Lebanon,Export,Fish,2006,222
+Asia,Lebanon,Import,Crustaceans,2006,1100
+Asia,Lebanon,Import,Fish,2006,20444
+Asia,Malaysia,Export,Crustaceans,2006,65402
+Asia,Malaysia,Export,Fish,2006,109970
+Asia,Malaysia,Import,Crustaceans,2006,35887
+Asia,Malaysia,Import,Fish,2006,365372
+Asia,Maldives,Export,Fish,2006,110581
+Asia,Maldives,Import,Crustaceans,2006,309
+Asia,Maldives,Import,Fish,2006,129
+Asia,Mongolia,Export,Crustaceans,2006,0
+Asia,Mongolia,Export,Fish,2006,321
+Asia,Mongolia,Import,Crustaceans,2006,0
+Asia,Mongolia,Import,Fish,2006,319
+Asia,Myanmar,Export,Crustaceans,2006,98015
+Asia,Myanmar,Export,Fish,2006,190056
+Asia,Myanmar,Import,Crustaceans,2006,79
+Asia,Myanmar,Import,Fish,2006,994
+Asia,Nepal,Export,Fish,2006,0
+Asia,Nepal,Import,Crustaceans,2006,2
+Asia,Nepal,Import,Fish,2006,621
+Asia,Oman,Export,Crustaceans,2006,66
+Asia,Oman,Export,Fish,2006,47826
+Asia,Oman,Import,Crustaceans,2006,1121
+Asia,Oman,Import,Fish,2006,9503
+Asia,Pakistan,Export,Crustaceans,2006,15077
+Asia,Pakistan,Export,Fish,2006,113235
+Asia,Pakistan,Import,Crustaceans,2006,0
+Asia,Pakistan,Import,Fish,2006,1850
+Asia,"Palestine, Occupied Tr.",Export,Fish,2006,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2006,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2006,0
+Asia,Philippines,Export,Crustaceans,2006,18930
+Asia,Philippines,Export,Fish,2006,90297
+Asia,Philippines,Import,Crustaceans,2006,1661
+Asia,Philippines,Import,Fish,2006,108728
+Asia,Qatar,Export,Crustaceans,2006,0
+Asia,Qatar,Export,Fish,2006,3143
+Asia,Qatar,Import,Crustaceans,2006,1019
+Asia,Qatar,Import,Fish,2006,8740
+Asia,Saudi Arabia,Export,Crustaceans,2006,6329
+Asia,Saudi Arabia,Export,Fish,2006,8188
+Asia,Saudi Arabia,Import,Crustaceans,2006,5430
+Asia,Saudi Arabia,Import,Fish,2006,138360
+Asia,Singapore,Export,Crustaceans,2006,5783
+Asia,Singapore,Export,Fish,2006,68849
+Asia,Singapore,Import,Crustaceans,2006,32412
+Asia,Singapore,Import,Fish,2006,170125
+Asia,Sri Lanka,Export,Crustaceans,2006,3537
+Asia,Sri Lanka,Export,Fish,2006,17111
+Asia,Sri Lanka,Import,Crustaceans,2006,430
+Asia,Sri Lanka,Import,Fish,2006,77115
+Asia,Syrian Arab Republic,Export,Crustaceans,2006,0
+Asia,Syrian Arab Republic,Export,Fish,2006,92
+Asia,Syrian Arab Republic,Import,Crustaceans,2006,26
+Asia,Syrian Arab Republic,Import,Fish,2006,21810
+Asia,Taiwan Province of China,Export,Crustaceans,2006,1613
+Asia,Taiwan Province of China,Export,Fish,2006,596999
+Asia,Taiwan Province of China,Import,Crustaceans,2006,14666
+Asia,Taiwan Province of China,Import,Fish,2006,62986
+Asia,Tajikistan,Import,Crustaceans,2006,6
+Asia,Tajikistan,Import,Fish,2006,1139
+Asia,Thailand,Export,Crustaceans,2006,366130
+Asia,Thailand,Export,Fish,2006,1153738
+Asia,Thailand,Import,Crustaceans,2006,30978
+Asia,Thailand,Import,Fish,2006,1336473
+Asia,Timor-Leste,Export,Crustaceans,2006,24
+Asia,Timor-Leste,Export,Fish,2006,0
+Asia,Timor-Leste,Import,Crustaceans,2006,0
+Asia,Timor-Leste,Import,Fish,2006,105
+Asia,Turkey,Export,Crustaceans,2006,3320
+Asia,Turkey,Export,Fish,2006,36305
+Asia,Turkey,Import,Crustaceans,2006,731
+Asia,Turkey,Import,Fish,2006,50969
+Asia,Turkmenistan,Export,Crustaceans,2006,0
+Asia,Turkmenistan,Export,Fish,2006,94
+Asia,Turkmenistan,Import,Crustaceans,2006,1
+Asia,Turkmenistan,Import,Fish,2006,527
+Asia,United Arab Emirates,Export,Crustaceans,2006,7645
+Asia,United Arab Emirates,Export,Fish,2006,12297
+Asia,United Arab Emirates,Import,Crustaceans,2006,11290
+Asia,United Arab Emirates,Import,Fish,2006,44018
+Asia,Uzbekistan,Export,Fish,2006,621
+Asia,Uzbekistan,Import,Crustaceans,2006,0
+Asia,Uzbekistan,Import,Fish,2006,1415
+Asia,Viet Nam,Export,Crustaceans,2006,251302
+Asia,Viet Nam,Export,Fish,2006,455686
+Asia,Viet Nam,Import,Crustaceans,2006,9306
+Asia,Viet Nam,Import,Fish,2006,64922
+Asia,Yemen,Export,Crustaceans,2006,5032
+Asia,Yemen,Export,Fish,2006,77101
+Asia,Yemen,Import,Crustaceans,2006,31
+Asia,Yemen,Import,Fish,2006,9773
+Asia,Afghanistan,Import,Fish,2007,0
+Asia,Armenia,Export,Crustaceans,2007,797
+Asia,Armenia,Export,Fish,2007,70
+Asia,Armenia,Import,Crustaceans,2007,0
+Asia,Armenia,Import,Fish,2007,1739
+Asia,Azerbaijan,Export,Fish,2007,856
+Asia,Azerbaijan,Import,Crustaceans,2007,25
+Asia,Azerbaijan,Import,Fish,2007,7870
+Asia,Bahrain,Export,Crustaceans,2007,4086
+Asia,Bahrain,Export,Fish,2007,2200
+Asia,Bahrain,Import,Crustaceans,2007,438
+Asia,Bahrain,Import,Fish,2007,4074
+Asia,Bangladesh,Export,Crustaceans,2007,67817
+Asia,Bangladesh,Export,Fish,2007,19682
+Asia,Bangladesh,Import,Crustaceans,2007,141
+Asia,Bangladesh,Import,Fish,2007,7744
+Asia,Bhutan,Export,Fish,2007,0
+Asia,Bhutan,Import,Crustaceans,2007,1
+Asia,Bhutan,Import,Fish,2007,2100
+Asia,Brunei Darussalam,Export,Crustaceans,2007,512
+Asia,Brunei Darussalam,Export,Fish,2007,35
+Asia,Brunei Darussalam,Import,Crustaceans,2007,601
+Asia,Brunei Darussalam,Import,Fish,2007,4965
+Asia,Cambodia,Export,Crustaceans,2007,273
+Asia,Cambodia,Export,Fish,2007,23768
+Asia,Cambodia,Import,Crustaceans,2007,14
+Asia,Cambodia,Import,Fish,2007,2703
+Asia,China,Export,Crustaceans,2007,363523
+Asia,China,Export,Fish,2007,2068960
+Asia,China,Import,Crustaceans,2007,93864
+Asia,China,Import,Fish,2007,1857213
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2007,40
+Asia,"China, Hong Kong SAR",Export,Fish,2007,33878
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2007,59123
+Asia,"China, Hong Kong SAR",Import,Fish,2007,216257
+Asia,"China, Macao SAR",Export,Crustaceans,2007,20
+Asia,"China, Macao SAR",Export,Fish,2007,77
+Asia,"China, Macao SAR",Import,Crustaceans,2007,3125
+Asia,"China, Macao SAR",Import,Fish,2007,13935
+Asia,Cyprus,Export,Crustaceans,2007,1
+Asia,Cyprus,Export,Fish,2007,2562
+Asia,Cyprus,Import,Crustaceans,2007,1236
+Asia,Cyprus,Import,Fish,2007,11538
+Asia,Georgia,Export,Crustaceans,2007,0
+Asia,Georgia,Export,Fish,2007,7035
+Asia,Georgia,Import,Crustaceans,2007,46
+Asia,Georgia,Import,Fish,2007,20818
+Asia,India,Export,Crustaceans,2007,165851
+Asia,India,Export,Fish,2007,235070
+Asia,India,Import,Crustaceans,2007,1188
+Asia,India,Import,Fish,2007,11659
+Asia,Indonesia,Export,Crustaceans,2007,176259
+Asia,Indonesia,Export,Fish,2007,474816
+Asia,Indonesia,Import,Crustaceans,2007,3828
+Asia,Indonesia,Import,Fish,2007,56492
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2007,0
+Asia,Iran (Islamic Rep. of),Export,Fish,2007,12491
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2007,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2007,11907
+Asia,Iraq,Export,Fish,2007,100
+Asia,Iraq,Import,Crustaceans,2007,9
+Asia,Iraq,Import,Fish,2007,24257
+Asia,Israel,Export,Fish,2007,782
+Asia,Israel,Import,Crustaceans,2007,973
+Asia,Israel,Import,Fish,2007,55896
+Asia,Japan,Export,Crustaceans,2007,7937
+Asia,Japan,Export,Fish,2007,540387
+Asia,Japan,Import,Crustaceans,2007,374489
+Asia,Japan,Import,Fish,2007,1656178
+Asia,Jordan,Export,Fish,2007,0
+Asia,Jordan,Import,Crustaceans,2007,353
+Asia,Jordan,Import,Fish,2007,20349
+Asia,Kazakhstan,Export,Crustaceans,2007,643
+Asia,Kazakhstan,Export,Fish,2007,34564
+Asia,Kazakhstan,Import,Crustaceans,2007,467
+Asia,Kazakhstan,Import,Fish,2007,55840
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2007,438
+Asia,"Korea, Dem. People's Rep",Export,Fish,2007,11326
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2007,4077
+Asia,"Korea, Dem. People's Rep",Import,Fish,2007,11340
+Asia,"Korea, Republic of",Export,Crustaceans,2007,15305
+Asia,"Korea, Republic of",Export,Fish,2007,272794
+Asia,"Korea, Republic of",Import,Crustaceans,2007,131839
+Asia,"Korea, Republic of",Import,Fish,2007,969756
+Asia,Kuwait,Export,Crustaceans,2007,138
+Asia,Kuwait,Export,Fish,2007,209
+Asia,Kuwait,Import,Crustaceans,2007,2117
+Asia,Kuwait,Import,Fish,2007,19911
+Asia,Kyrgyzstan,Export,Crustaceans,2007,0
+Asia,Kyrgyzstan,Export,Fish,2007,235
+Asia,Kyrgyzstan,Import,Crustaceans,2007,25
+Asia,Kyrgyzstan,Import,Fish,2007,8697
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2007,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2007,0
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2007,27
+Asia,Lao People's Dem. Rep.,Import,Fish,2007,2518
+Asia,Lebanon,Export,Crustaceans,2007,2
+Asia,Lebanon,Export,Fish,2007,424
+Asia,Lebanon,Import,Crustaceans,2007,1502
+Asia,Lebanon,Import,Fish,2007,20033
+Asia,Malaysia,Export,Crustaceans,2007,74869
+Asia,Malaysia,Export,Fish,2007,135042
+Asia,Malaysia,Import,Crustaceans,2007,38118
+Asia,Malaysia,Import,Fish,2007,361208
+Asia,Maldives,Export,Fish,2007,65813
+Asia,Maldives,Import,Crustaceans,2007,391
+Asia,Maldives,Import,Fish,2007,239
+Asia,Mongolia,Export,Crustaceans,2007,0
+Asia,Mongolia,Export,Fish,2007,135
+Asia,Mongolia,Import,Crustaceans,2007,1
+Asia,Mongolia,Import,Fish,2007,643
+Asia,Myanmar,Export,Crustaceans,2007,85862
+Asia,Myanmar,Export,Fish,2007,185056
+Asia,Myanmar,Import,Crustaceans,2007,124
+Asia,Myanmar,Import,Fish,2007,1314
+Asia,Nepal,Export,Fish,2007,0
+Asia,Nepal,Import,Crustaceans,2007,4
+Asia,Nepal,Import,Fish,2007,994
+Asia,Oman,Export,Crustaceans,2007,38
+Asia,Oman,Export,Fish,2007,35632
+Asia,Oman,Import,Crustaceans,2007,1856
+Asia,Oman,Import,Fish,2007,9939
+Asia,Pakistan,Export,Crustaceans,2007,17123
+Asia,Pakistan,Export,Fish,2007,104807
+Asia,Pakistan,Import,Crustaceans,2007,47
+Asia,Pakistan,Import,Fish,2007,2206
+Asia,"Palestine, Occupied Tr.",Export,Fish,2007,102
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2007,5
+Asia,"Palestine, Occupied Tr.",Import,Fish,2007,3792
+Asia,Philippines,Export,Crustaceans,2007,16554
+Asia,Philippines,Export,Fish,2007,109778
+Asia,Philippines,Import,Crustaceans,2007,2214
+Asia,Philippines,Import,Fish,2007,124458
+Asia,Qatar,Export,Crustaceans,2007,0
+Asia,Qatar,Export,Fish,2007,2496
+Asia,Qatar,Import,Crustaceans,2007,1725
+Asia,Qatar,Import,Fish,2007,9879
+Asia,Saudi Arabia,Export,Crustaceans,2007,8346
+Asia,Saudi Arabia,Export,Fish,2007,8640
+Asia,Saudi Arabia,Import,Crustaceans,2007,5723
+Asia,Saudi Arabia,Import,Fish,2007,138658
+Asia,Singapore,Export,Crustaceans,2007,3704
+Asia,Singapore,Export,Fish,2007,60540
+Asia,Singapore,Import,Crustaceans,2007,32333
+Asia,Singapore,Import,Fish,2007,163477
+Asia,Sri Lanka,Export,Crustaceans,2007,3363
+Asia,Sri Lanka,Export,Fish,2007,17320
+Asia,Sri Lanka,Import,Crustaceans,2007,177
+Asia,Sri Lanka,Import,Fish,2007,86321
+Asia,Syrian Arab Republic,Export,Crustaceans,2007,0
+Asia,Syrian Arab Republic,Export,Fish,2007,216
+Asia,Syrian Arab Republic,Import,Crustaceans,2007,52
+Asia,Syrian Arab Republic,Import,Fish,2007,23476
+Asia,Taiwan Province of China,Export,Crustaceans,2007,1261
+Asia,Taiwan Province of China,Export,Fish,2007,661244
+Asia,Taiwan Province of China,Import,Crustaceans,2007,22777
+Asia,Taiwan Province of China,Import,Fish,2007,77655
+Asia,Tajikistan,Import,Crustaceans,2007,2
+Asia,Tajikistan,Import,Fish,2007,1108
+Asia,Thailand,Export,Crustaceans,2007,376491
+Asia,Thailand,Export,Fish,2007,1197463
+Asia,Thailand,Import,Crustaceans,2007,26057
+Asia,Thailand,Import,Fish,2007,1298110
+Asia,Timor-Leste,Export,Crustaceans,2007,10
+Asia,Timor-Leste,Export,Fish,2007,0
+Asia,Timor-Leste,Import,Crustaceans,2007,2
+Asia,Timor-Leste,Import,Fish,2007,137
+Asia,Turkey,Export,Crustaceans,2007,2963
+Asia,Turkey,Export,Fish,2007,42249
+Asia,Turkey,Import,Crustaceans,2007,819
+Asia,Turkey,Import,Fish,2007,56446
+Asia,Turkmenistan,Export,Crustaceans,2007,0
+Asia,Turkmenistan,Export,Fish,2007,71
+Asia,Turkmenistan,Import,Crustaceans,2007,0
+Asia,Turkmenistan,Import,Fish,2007,632
+Asia,United Arab Emirates,Export,Crustaceans,2007,6525
+Asia,United Arab Emirates,Export,Fish,2007,6437
+Asia,United Arab Emirates,Import,Crustaceans,2007,19762
+Asia,United Arab Emirates,Import,Fish,2007,62831
+Asia,Uzbekistan,Export,Fish,2007,1081
+Asia,Uzbekistan,Import,Crustaceans,2007,2
+Asia,Uzbekistan,Import,Fish,2007,2109
+Asia,Viet Nam,Export,Crustaceans,2007,254770
+Asia,Viet Nam,Export,Fish,2007,455221
+Asia,Viet Nam,Import,Crustaceans,2007,9205
+Asia,Viet Nam,Import,Fish,2007,88854
+Asia,Yemen,Export,Crustaceans,2007,859
+Asia,Yemen,Export,Fish,2007,88600
+Asia,Yemen,Import,Crustaceans,2007,457
+Asia,Yemen,Import,Fish,2007,8239
+Asia,Afghanistan,Import,Fish,2008,0
+Asia,Armenia,Export,Crustaceans,2008,906
+Asia,Armenia,Export,Fish,2008,81
+Asia,Armenia,Import,Crustaceans,2008,8
+Asia,Armenia,Import,Fish,2008,3436
+Asia,Azerbaijan,Export,Fish,2008,517
+Asia,Azerbaijan,Import,Crustaceans,2008,26
+Asia,Azerbaijan,Import,Fish,2008,10998
+Asia,Bahrain,Export,Crustaceans,2008,4704
+Asia,Bahrain,Export,Fish,2008,2434
+Asia,Bahrain,Import,Crustaceans,2008,578
+Asia,Bahrain,Import,Fish,2008,7133
+Asia,Bangladesh,Export,Crustaceans,2008,58062
+Asia,Bangladesh,Export,Fish,2008,26149
+Asia,Bangladesh,Import,Crustaceans,2008,116
+Asia,Bangladesh,Import,Fish,2008,5473
+Asia,Bhutan,Export,Fish,2008,0
+Asia,Bhutan,Import,Crustaceans,2008,1
+Asia,Bhutan,Import,Fish,2008,1723
+Asia,Brunei Darussalam,Export,Crustaceans,2008,215
+Asia,Brunei Darussalam,Export,Fish,2008,83
+Asia,Brunei Darussalam,Import,Crustaceans,2008,500
+Asia,Brunei Darussalam,Import,Fish,2008,5167
+Asia,Cambodia,Export,Crustaceans,2008,173
+Asia,Cambodia,Export,Fish,2008,24767
+Asia,Cambodia,Import,Crustaceans,2008,15
+Asia,Cambodia,Import,Fish,2008,2093
+Asia,China,Export,Crustaceans,2008,331750
+Asia,China,Export,Fish,2008,2038431
+Asia,China,Import,Crustaceans,2008,84754
+Asia,China,Import,Fish,2008,1851089
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2008,46
+Asia,"China, Hong Kong SAR",Export,Fish,2008,34196
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2008,56240
+Asia,"China, Hong Kong SAR",Import,Fish,2008,193906
+Asia,"China, Macao SAR",Export,Crustaceans,2008,19
+Asia,"China, Macao SAR",Export,Fish,2008,105
+Asia,"China, Macao SAR",Import,Crustaceans,2008,3146
+Asia,"China, Macao SAR",Import,Fish,2008,13607
+Asia,Cyprus,Export,Crustaceans,2008,0
+Asia,Cyprus,Export,Fish,2008,2646
+Asia,Cyprus,Import,Crustaceans,2008,1438
+Asia,Cyprus,Import,Fish,2008,11716
+Asia,Georgia,Export,Crustaceans,2008,0
+Asia,Georgia,Export,Fish,2008,14054
+Asia,Georgia,Import,Crustaceans,2008,89
+Asia,Georgia,Import,Fish,2008,25068
+Asia,India,Export,Crustaceans,2008,157489
+Asia,India,Export,Fish,2008,195742
+Asia,India,Import,Crustaceans,2008,1355
+Asia,India,Import,Fish,2008,11917
+Asia,Indonesia,Export,Crustaceans,2008,189323
+Asia,Indonesia,Export,Fish,2008,507629
+Asia,Indonesia,Import,Crustaceans,2008,4442
+Asia,Indonesia,Import,Fish,2008,110950
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2008,0
+Asia,Iran (Islamic Rep. of),Export,Fish,2008,15355
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2008,4
+Asia,Iran (Islamic Rep. of),Import,Fish,2008,18038
+Asia,Iraq,Export,Fish,2008,100
+Asia,Iraq,Import,Crustaceans,2008,3
+Asia,Iraq,Import,Fish,2008,34162
+Asia,Israel,Export,Fish,2008,1281
+Asia,Israel,Import,Crustaceans,2008,1386
+Asia,Israel,Import,Fish,2008,54350
+Asia,Japan,Export,Crustaceans,2008,4477
+Asia,Japan,Export,Fish,2008,437580
+Asia,Japan,Import,Crustaceans,2008,358433
+Asia,Japan,Import,Fish,2008,1636757
+Asia,Jordan,Export,Fish,2008,43
+Asia,Jordan,Import,Crustaceans,2008,405
+Asia,Jordan,Import,Fish,2008,26874
+Asia,Kazakhstan,Export,Crustaceans,2008,1173
+Asia,Kazakhstan,Export,Fish,2008,35231
+Asia,Kazakhstan,Import,Crustaceans,2008,492
+Asia,Kazakhstan,Import,Fish,2008,63653
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2008,509
+Asia,"Korea, Dem. People's Rep",Export,Fish,2008,10811
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2008,6351
+Asia,"Korea, Dem. People's Rep",Import,Fish,2008,9809
+Asia,"Korea, Republic of",Export,Crustaceans,2008,16966
+Asia,"Korea, Republic of",Export,Fish,2008,323926
+Asia,"Korea, Republic of",Import,Crustaceans,2008,111389
+Asia,"Korea, Republic of",Import,Fish,2008,765069
+Asia,Kuwait,Export,Crustaceans,2008,275
+Asia,Kuwait,Export,Fish,2008,300
+Asia,Kuwait,Import,Crustaceans,2008,1853
+Asia,Kuwait,Import,Fish,2008,19124
+Asia,Kyrgyzstan,Export,Crustaceans,2008,4
+Asia,Kyrgyzstan,Export,Fish,2008,346
+Asia,Kyrgyzstan,Import,Crustaceans,2008,15
+Asia,Kyrgyzstan,Import,Fish,2008,8819
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2008,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2008,1
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2008,73
+Asia,Lao People's Dem. Rep.,Import,Fish,2008,2380
+Asia,Lebanon,Export,Crustaceans,2008,8
+Asia,Lebanon,Export,Fish,2008,709
+Asia,Lebanon,Import,Crustaceans,2008,1619
+Asia,Lebanon,Import,Fish,2008,20357
+Asia,Malaysia,Export,Crustaceans,2008,75202
+Asia,Malaysia,Export,Fish,2008,134276
+Asia,Malaysia,Import,Crustaceans,2008,26031
+Asia,Malaysia,Import,Fish,2008,320184
+Asia,Maldives,Export,Fish,2008,65122
+Asia,Maldives,Import,Crustaceans,2008,381
+Asia,Maldives,Import,Fish,2008,250
+Asia,Mongolia,Export,Crustaceans,2008,0
+Asia,Mongolia,Export,Fish,2008,54
+Asia,Mongolia,Import,Crustaceans,2008,0
+Asia,Mongolia,Import,Fish,2008,798
+Asia,Myanmar,Export,Crustaceans,2008,61493
+Asia,Myanmar,Export,Fish,2008,265965
+Asia,Myanmar,Import,Crustaceans,2008,517
+Asia,Myanmar,Import,Fish,2008,1556
+Asia,Nepal,Export,Fish,2008,0
+Asia,Nepal,Import,Crustaceans,2008,9
+Asia,Nepal,Import,Fish,2008,1793
+Asia,Oman,Export,Crustaceans,2008,99
+Asia,Oman,Export,Fish,2008,51940
+Asia,Oman,Import,Crustaceans,2008,1761
+Asia,Oman,Import,Fish,2008,12932
+Asia,Pakistan,Export,Crustaceans,2008,19707
+Asia,Pakistan,Export,Fish,2008,111575
+Asia,Pakistan,Import,Crustaceans,2008,1
+Asia,Pakistan,Import,Fish,2008,1589
+Asia,"Palestine, Occupied Tr.",Export,Fish,2008,50
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2008,2
+Asia,"Palestine, Occupied Tr.",Import,Fish,2008,4234
+Asia,Philippines,Export,Crustaceans,2008,13509
+Asia,Philippines,Export,Fish,2008,145843
+Asia,Philippines,Import,Crustaceans,2008,2100
+Asia,Philippines,Import,Fish,2008,130598
+Asia,Qatar,Export,Crustaceans,2008,0
+Asia,Qatar,Export,Fish,2008,2450
+Asia,Qatar,Import,Crustaceans,2008,2818
+Asia,Qatar,Import,Fish,2008,15392
+Asia,Saudi Arabia,Export,Crustaceans,2008,9349
+Asia,Saudi Arabia,Export,Fish,2008,10281
+Asia,Saudi Arabia,Import,Crustaceans,2008,3813
+Asia,Saudi Arabia,Import,Fish,2008,102889
+Asia,Singapore,Export,Crustaceans,2008,3477
+Asia,Singapore,Export,Fish,2008,53890
+Asia,Singapore,Import,Crustaceans,2008,32217
+Asia,Singapore,Import,Fish,2008,157420
+Asia,Sri Lanka,Export,Crustaceans,2008,2386
+Asia,Sri Lanka,Export,Fish,2008,16802
+Asia,Sri Lanka,Import,Crustaceans,2008,639
+Asia,Sri Lanka,Import,Fish,2008,75499
+Asia,Syrian Arab Republic,Export,Crustaceans,2008,0
+Asia,Syrian Arab Republic,Export,Fish,2008,32
+Asia,Syrian Arab Republic,Import,Crustaceans,2008,164
+Asia,Syrian Arab Republic,Import,Fish,2008,20970
+Asia,Taiwan Province of China,Export,Crustaceans,2008,1455
+Asia,Taiwan Province of China,Export,Fish,2008,559637
+Asia,Taiwan Province of China,Import,Crustaceans,2008,44592
+Asia,Taiwan Province of China,Import,Fish,2008,115956
+Asia,Tajikistan,Import,Crustaceans,2008,5
+Asia,Tajikistan,Import,Fish,2008,1414
+Asia,Thailand,Export,Crustaceans,2008,375146
+Asia,Thailand,Export,Fish,2008,1217032
+Asia,Thailand,Import,Crustaceans,2008,29095
+Asia,Thailand,Import,Fish,2008,1417375
+Asia,Timor-Leste,Export,Crustaceans,2008,27
+Asia,Timor-Leste,Export,Fish,2008,0
+Asia,Timor-Leste,Import,Crustaceans,2008,1
+Asia,Timor-Leste,Import,Fish,2008,209
+Asia,Turkey,Export,Crustaceans,2008,2656
+Asia,Turkey,Export,Fish,2008,49889
+Asia,Turkey,Import,Crustaceans,2008,1025
+Asia,Turkey,Import,Fish,2008,58679
+Asia,Turkmenistan,Export,Crustaceans,2008,0
+Asia,Turkmenistan,Export,Fish,2008,78
+Asia,Turkmenistan,Import,Crustaceans,2008,8
+Asia,Turkmenistan,Import,Fish,2008,917
+Asia,United Arab Emirates,Export,Crustaceans,2008,5436
+Asia,United Arab Emirates,Export,Fish,2008,7480
+Asia,United Arab Emirates,Import,Crustaceans,2008,19733
+Asia,United Arab Emirates,Import,Fish,2008,79109
+Asia,Uzbekistan,Export,Fish,2008,819
+Asia,Uzbekistan,Import,Crustaceans,2008,21
+Asia,Uzbekistan,Import,Fish,2008,3833
+Asia,Viet Nam,Export,Crustaceans,2008,254147
+Asia,Viet Nam,Export,Fish,2008,614080
+Asia,Viet Nam,Import,Crustaceans,2008,13051
+Asia,Viet Nam,Import,Fish,2008,95708
+Asia,Yemen,Export,Crustaceans,2008,1027
+Asia,Yemen,Export,Fish,2008,97621
+Asia,Yemen,Import,Crustaceans,2008,41
+Asia,Yemen,Import,Fish,2008,11249
+Asia,Afghanistan,Import,Fish,2009,0
+Asia,Armenia,Export,Crustaceans,2009,639
+Asia,Armenia,Export,Fish,2009,23
+Asia,Armenia,Import,Crustaceans,2009,14
+Asia,Armenia,Import,Fish,2009,3798
+Asia,Azerbaijan,Export,Fish,2009,493
+Asia,Azerbaijan,Import,Crustaceans,2009,38
+Asia,Azerbaijan,Import,Fish,2009,11678
+Asia,Bahrain,Export,Crustaceans,2009,4951
+Asia,Bahrain,Export,Fish,2009,3030
+Asia,Bahrain,Import,Crustaceans,2009,1010
+Asia,Bahrain,Import,Fish,2009,6906
+Asia,Bangladesh,Export,Crustaceans,2009,44030
+Asia,Bangladesh,Export,Fish,2009,20347
+Asia,Bangladesh,Import,Crustaceans,2009,1069
+Asia,Bangladesh,Import,Fish,2009,9796
+Asia,Bhutan,Export,Fish,2009,0
+Asia,Bhutan,Import,Crustaceans,2009,36
+Asia,Bhutan,Import,Fish,2009,1776
+Asia,Brunei Darussalam,Export,Crustaceans,2009,194
+Asia,Brunei Darussalam,Export,Fish,2009,183
+Asia,Brunei Darussalam,Import,Crustaceans,2009,440
+Asia,Brunei Darussalam,Import,Fish,2009,4493
+Asia,Cambodia,Export,Crustaceans,2009,167
+Asia,Cambodia,Export,Fish,2009,29829
+Asia,Cambodia,Import,Crustaceans,2009,15
+Asia,Cambodia,Import,Fish,2009,4382
+Asia,China,Export,Crustaceans,2009,327930
+Asia,China,Export,Fish,2009,2041639
+Asia,China,Import,Crustaceans,2009,90456
+Asia,China,Import,Fish,2009,1841380
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2009,73
+Asia,"China, Hong Kong SAR",Export,Fish,2009,35149
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2009,66791
+Asia,"China, Hong Kong SAR",Import,Fish,2009,198639
+Asia,"China, Macao SAR",Export,Crustaceans,2009,27
+Asia,"China, Macao SAR",Export,Fish,2009,473
+Asia,"China, Macao SAR",Import,Crustaceans,2009,3210
+Asia,"China, Macao SAR",Import,Fish,2009,13991
+Asia,Cyprus,Export,Crustaceans,2009,0
+Asia,Cyprus,Export,Fish,2009,2166
+Asia,Cyprus,Import,Crustaceans,2009,1390
+Asia,Cyprus,Import,Fish,2009,8049
+Asia,Georgia,Export,Crustaceans,2009,0
+Asia,Georgia,Export,Fish,2009,20533
+Asia,Georgia,Import,Crustaceans,2009,25
+Asia,Georgia,Import,Fish,2009,18703
+Asia,India,Export,Crustaceans,2009,163593
+Asia,India,Export,Fish,2009,363979
+Asia,India,Import,Crustaceans,2009,1205
+Asia,India,Import,Fish,2009,9940
+Asia,Indonesia,Export,Crustaceans,2009,166755
+Asia,Indonesia,Export,Fish,2009,511978
+Asia,Indonesia,Import,Crustaceans,2009,5952
+Asia,Indonesia,Import,Fish,2009,159216
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2009,4062
+Asia,Iran (Islamic Rep. of),Export,Fish,2009,26756
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2009,16
+Asia,Iran (Islamic Rep. of),Import,Fish,2009,32328
+Asia,Iraq,Export,Fish,2009,100
+Asia,Iraq,Import,Crustaceans,2009,10
+Asia,Iraq,Import,Fish,2009,38536
+Asia,Israel,Export,Fish,2009,1093
+Asia,Israel,Import,Crustaceans,2009,1494
+Asia,Israel,Import,Fish,2009,54229
+Asia,Japan,Export,Crustaceans,2009,3960
+Asia,Japan,Export,Fish,2009,419721
+Asia,Japan,Import,Crustaceans,2009,349733
+Asia,Japan,Import,Fish,2009,1508926
+Asia,Jordan,Export,Fish,2009,0
+Asia,Jordan,Import,Crustaceans,2009,459
+Asia,Jordan,Import,Fish,2009,28135
+Asia,Kazakhstan,Export,Crustaceans,2009,689
+Asia,Kazakhstan,Export,Fish,2009,37185
+Asia,Kazakhstan,Import,Crustaceans,2009,465
+Asia,Kazakhstan,Import,Fish,2009,57875
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2009,1630
+Asia,"Korea, Dem. People's Rep",Export,Fish,2009,9818
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2009,4557
+Asia,"Korea, Dem. People's Rep",Import,Fish,2009,12856
+Asia,"Korea, Republic of",Export,Crustaceans,2009,15988
+Asia,"Korea, Republic of",Export,Fish,2009,409920
+Asia,"Korea, Republic of",Import,Crustaceans,2009,106184
+Asia,"Korea, Republic of",Import,Fish,2009,781216
+Asia,Kuwait,Export,Crustaceans,2009,204
+Asia,Kuwait,Export,Fish,2009,568
+Asia,Kuwait,Import,Crustaceans,2009,1887
+Asia,Kuwait,Import,Fish,2009,28794
+Asia,Kyrgyzstan,Export,Crustaceans,2009,14
+Asia,Kyrgyzstan,Export,Fish,2009,156
+Asia,Kyrgyzstan,Import,Crustaceans,2009,63
+Asia,Kyrgyzstan,Import,Fish,2009,7253
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2009,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2009,2
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2009,19
+Asia,Lao People's Dem. Rep.,Import,Fish,2009,2243
+Asia,Lebanon,Export,Crustaceans,2009,21
+Asia,Lebanon,Export,Fish,2009,1127
+Asia,Lebanon,Import,Crustaceans,2009,2270
+Asia,Lebanon,Import,Fish,2009,23768
+Asia,Malaysia,Export,Crustaceans,2009,69256
+Asia,Malaysia,Export,Fish,2009,121042
+Asia,Malaysia,Import,Crustaceans,2009,36313
+Asia,Malaysia,Import,Fish,2009,324023
+Asia,Maldives,Export,Fish,2009,39813
+Asia,Maldives,Import,Crustaceans,2009,366
+Asia,Maldives,Import,Fish,2009,206
+Asia,Mongolia,Export,Crustaceans,2009,0
+Asia,Mongolia,Export,Fish,2009,45
+Asia,Mongolia,Import,Crustaceans,2009,10
+Asia,Mongolia,Import,Fish,2009,669
+Asia,Myanmar,Export,Crustaceans,2009,43316
+Asia,Myanmar,Export,Fish,2009,264511
+Asia,Myanmar,Import,Crustaceans,2009,743
+Asia,Myanmar,Import,Fish,2009,1953
+Asia,Nepal,Export,Fish,2009,9
+Asia,Nepal,Import,Crustaceans,2009,18
+Asia,Nepal,Import,Fish,2009,4092
+Asia,Oman,Export,Crustaceans,2009,145
+Asia,Oman,Export,Fish,2009,62823
+Asia,Oman,Import,Crustaceans,2009,1936
+Asia,Oman,Import,Fish,2009,14021
+Asia,Pakistan,Export,Crustaceans,2009,15870
+Asia,Pakistan,Export,Fish,2009,111495
+Asia,Pakistan,Import,Crustaceans,2009,0
+Asia,Pakistan,Import,Fish,2009,1375
+Asia,"Palestine, Occupied Tr.",Export,Fish,2009,59
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2009,0
+Asia,"Palestine, Occupied Tr.",Import,Fish,2009,3578
+Asia,Philippines,Export,Crustaceans,2009,15455
+Asia,Philippines,Export,Fish,2009,143817
+Asia,Philippines,Import,Crustaceans,2009,1859
+Asia,Philippines,Import,Fish,2009,203724
+Asia,Qatar,Export,Crustaceans,2009,0
+Asia,Qatar,Export,Fish,2009,3246
+Asia,Qatar,Import,Crustaceans,2009,3064
+Asia,Qatar,Import,Fish,2009,18587
+Asia,Saudi Arabia,Export,Crustaceans,2009,10507
+Asia,Saudi Arabia,Export,Fish,2009,12638
+Asia,Saudi Arabia,Import,Crustaceans,2009,3759
+Asia,Saudi Arabia,Import,Fish,2009,108671
+Asia,Singapore,Export,Crustaceans,2009,3981
+Asia,Singapore,Export,Fish,2009,45794
+Asia,Singapore,Import,Crustaceans,2009,33389
+Asia,Singapore,Import,Fish,2009,153234
+Asia,Sri Lanka,Export,Crustaceans,2009,3614
+Asia,Sri Lanka,Export,Fish,2009,15146
+Asia,Sri Lanka,Import,Crustaceans,2009,345
+Asia,Sri Lanka,Import,Fish,2009,74280
+Asia,Syrian Arab Republic,Export,Crustaceans,2009,9
+Asia,Syrian Arab Republic,Export,Fish,2009,118
+Asia,Syrian Arab Republic,Import,Crustaceans,2009,94
+Asia,Syrian Arab Republic,Import,Fish,2009,31441
+Asia,Taiwan Province of China,Export,Crustaceans,2009,1336
+Asia,Taiwan Province of China,Export,Fish,2009,634118
+Asia,Taiwan Province of China,Import,Crustaceans,2009,42778
+Asia,Taiwan Province of China,Import,Fish,2009,148996
+Asia,Tajikistan,Import,Crustaceans,2009,7
+Asia,Tajikistan,Import,Fish,2009,1012
+Asia,Thailand,Export,Crustaceans,2009,402260
+Asia,Thailand,Export,Fish,2009,1171639
+Asia,Thailand,Import,Crustaceans,2009,25756
+Asia,Thailand,Import,Fish,2009,1449270
+Asia,Timor-Leste,Export,Crustaceans,2009,29
+Asia,Timor-Leste,Export,Fish,2009,0
+Asia,Timor-Leste,Import,Crustaceans,2009,43
+Asia,Timor-Leste,Import,Fish,2009,527
+Asia,Turkey,Export,Crustaceans,2009,1880
+Asia,Turkey,Export,Fish,2009,50266
+Asia,Turkey,Import,Crustaceans,2009,892
+Asia,Turkey,Import,Fish,2009,69425
+Asia,Turkmenistan,Export,Crustaceans,2009,0
+Asia,Turkmenistan,Export,Fish,2009,0
+Asia,Turkmenistan,Import,Crustaceans,2009,1
+Asia,Turkmenistan,Import,Fish,2009,1080
+Asia,United Arab Emirates,Export,Crustaceans,2009,5109
+Asia,United Arab Emirates,Export,Fish,2009,10746
+Asia,United Arab Emirates,Import,Crustaceans,2009,21816
+Asia,United Arab Emirates,Import,Fish,2009,108797
+Asia,Uzbekistan,Export,Fish,2009,663
+Asia,Uzbekistan,Import,Crustaceans,2009,1
+Asia,Uzbekistan,Import,Fish,2009,1524
+Asia,Viet Nam,Export,Crustaceans,2009,251244
+Asia,Viet Nam,Export,Fish,2009,436985
+Asia,Viet Nam,Import,Crustaceans,2009,9163
+Asia,Viet Nam,Import,Fish,2009,80967
+Asia,Yemen,Export,Crustaceans,2009,936
+Asia,Yemen,Export,Fish,2009,84019
+Asia,Yemen,Import,Crustaceans,2009,50
+Asia,Yemen,Import,Fish,2009,9568
+Asia,Afghanistan,Import,Fish,2010,9
+Asia,Armenia,Export,Crustaceans,2010,898
+Asia,Armenia,Export,Fish,2010,432
+Asia,Armenia,Import,Crustaceans,2010,14
+Asia,Armenia,Import,Fish,2010,2595
+Asia,Azerbaijan,Export,Fish,2010,246
+Asia,Azerbaijan,Import,Crustaceans,2010,118
+Asia,Azerbaijan,Import,Fish,2010,12412
+Asia,Bahrain,Export,Crustaceans,2010,4326
+Asia,Bahrain,Export,Fish,2010,1761
+Asia,Bahrain,Import,Crustaceans,2010,610
+Asia,Bahrain,Import,Fish,2010,6422
+Asia,Bangladesh,Export,Crustaceans,2010,51864
+Asia,Bangladesh,Export,Fish,2010,26313
+Asia,Bangladesh,Import,Crustaceans,2010,259
+Asia,Bangladesh,Import,Fish,2010,24229
+Asia,Bhutan,Export,Fish,2010,1
+Asia,Bhutan,Import,Crustaceans,2010,2
+Asia,Bhutan,Import,Fish,2010,1932
+Asia,Brunei Darussalam,Export,Crustaceans,2010,198
+Asia,Brunei Darussalam,Export,Fish,2010,335
+Asia,Brunei Darussalam,Import,Crustaceans,2010,470
+Asia,Brunei Darussalam,Import,Fish,2010,5377
+Asia,Cambodia,Export,Crustaceans,2010,306
+Asia,Cambodia,Export,Fish,2010,34440
+Asia,Cambodia,Import,Crustaceans,2010,173
+Asia,Cambodia,Import,Fish,2010,2926
+Asia,China,Export,Crustaceans,2010,623141
+Asia,China,Export,Fish,2010,2302025
+Asia,China,Import,Crustaceans,2010,117506
+Asia,China,Import,Fish,2010,2063526
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2010,30
+Asia,"China, Hong Kong SAR",Export,Fish,2010,35338
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2010,69572
+Asia,"China, Hong Kong SAR",Import,Fish,2010,243380
+Asia,"China, Macao SAR",Export,Crustaceans,2010,0
+Asia,"China, Macao SAR",Export,Fish,2010,0
+Asia,"China, Macao SAR",Import,Crustaceans,2010,3374
+Asia,"China, Macao SAR",Import,Fish,2010,14163
+Asia,Cyprus,Export,Crustaceans,2010,0
+Asia,Cyprus,Export,Fish,2010,2686
+Asia,Cyprus,Import,Crustaceans,2010,1485
+Asia,Cyprus,Import,Fish,2010,8436
+Asia,Georgia,Export,Crustaceans,2010,0
+Asia,Georgia,Export,Fish,2010,21830
+Asia,Georgia,Import,Crustaceans,2010,26
+Asia,Georgia,Import,Fish,2010,20687
+Asia,India,Export,Crustaceans,2010,200236
+Asia,India,Export,Fish,2010,399212
+Asia,India,Import,Crustaceans,2010,882
+Asia,India,Import,Fish,2010,19186
+Asia,Indonesia,Export,Crustaceans,2010,163981
+Asia,Indonesia,Export,Fish,2010,687238
+Asia,Indonesia,Import,Crustaceans,2010,4335
+Asia,Indonesia,Import,Fish,2010,217174
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2010,2996
+Asia,Iran (Islamic Rep. of),Export,Fish,2010,37164
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2010,3
+Asia,Iran (Islamic Rep. of),Import,Fish,2010,79422
+Asia,Iraq,Export,Fish,2010,150
+Asia,Iraq,Import,Crustaceans,2010,2
+Asia,Iraq,Import,Fish,2010,38494
+Asia,Israel,Export,Fish,2010,711
+Asia,Israel,Import,Crustaceans,2010,1742
+Asia,Israel,Import,Fish,2010,65914
+Asia,Japan,Export,Crustaceans,2010,4330
+Asia,Japan,Export,Fish,2010,479942
+Asia,Japan,Import,Crustaceans,2010,347281
+Asia,Japan,Import,Fish,2010,1588017
+Asia,Jordan,Export,Fish,2010,0
+Asia,Jordan,Import,Crustaceans,2010,512
+Asia,Jordan,Import,Fish,2010,26629
+Asia,Kazakhstan,Export,Crustaceans,2010,89
+Asia,Kazakhstan,Export,Fish,2010,24178
+Asia,Kazakhstan,Import,Crustaceans,2010,555
+Asia,Kazakhstan,Import,Fish,2010,54254
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2010,1718
+Asia,"Korea, Dem. People's Rep",Export,Fish,2010,12901
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2010,2669
+Asia,"Korea, Dem. People's Rep",Import,Fish,2010,14196
+Asia,"Korea, Republic of",Export,Crustaceans,2010,14186
+Asia,"Korea, Republic of",Export,Fish,2010,561274
+Asia,"Korea, Republic of",Import,Crustaceans,2010,101268
+Asia,"Korea, Republic of",Import,Fish,2010,823589
+Asia,Kuwait,Export,Crustaceans,2010,107
+Asia,Kuwait,Export,Fish,2010,427
+Asia,Kuwait,Import,Crustaceans,2010,3274
+Asia,Kuwait,Import,Fish,2010,22094
+Asia,Kyrgyzstan,Export,Crustaceans,2010,0
+Asia,Kyrgyzstan,Export,Fish,2010,71
+Asia,Kyrgyzstan,Import,Crustaceans,2010,13
+Asia,Kyrgyzstan,Import,Fish,2010,7726
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2010,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2010,6
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2010,18
+Asia,Lao People's Dem. Rep.,Import,Fish,2010,2519
+Asia,Lebanon,Export,Crustaceans,2010,6
+Asia,Lebanon,Export,Fish,2010,369
+Asia,Lebanon,Import,Crustaceans,2010,2299
+Asia,Lebanon,Import,Fish,2010,25686
+Asia,Malaysia,Export,Crustaceans,2010,87788
+Asia,Malaysia,Export,Fish,2010,125374
+Asia,Malaysia,Import,Crustaceans,2010,44113
+Asia,Malaysia,Import,Fish,2010,321614
+Asia,Maldives,Export,Fish,2010,33934
+Asia,Maldives,Import,Crustaceans,2010,448
+Asia,Maldives,Import,Fish,2010,719
+Asia,Mongolia,Export,Crustaceans,2010,0
+Asia,Mongolia,Export,Fish,2010,176
+Asia,Mongolia,Import,Crustaceans,2010,2
+Asia,Mongolia,Import,Fish,2010,936
+Asia,Myanmar,Export,Crustaceans,2010,35221
+Asia,Myanmar,Export,Fish,2010,313894
+Asia,Myanmar,Import,Crustaceans,2010,1437
+Asia,Myanmar,Import,Fish,2010,3250
+Asia,Nepal,Export,Fish,2010,0
+Asia,Nepal,Import,Crustaceans,2010,0
+Asia,Nepal,Import,Fish,2010,3545
+Asia,Oman,Export,Crustaceans,2010,179
+Asia,Oman,Export,Fish,2010,84798
+Asia,Oman,Import,Crustaceans,2010,1187
+Asia,Oman,Import,Fish,2010,11975
+Asia,Pakistan,Export,Crustaceans,2010,22709
+Asia,Pakistan,Export,Fish,2010,94632
+Asia,Pakistan,Import,Crustaceans,2010,2
+Asia,Pakistan,Import,Fish,2010,1096
+Asia,"Palestine, Occupied Tr.",Export,Fish,2010,19
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2010,1
+Asia,"Palestine, Occupied Tr.",Import,Fish,2010,3605
+Asia,Philippines,Export,Crustaceans,2010,17015
+Asia,Philippines,Export,Fish,2010,147472
+Asia,Philippines,Import,Crustaceans,2010,2098
+Asia,Philippines,Import,Fish,2010,147612
+Asia,Qatar,Export,Crustaceans,2010,37
+Asia,Qatar,Export,Fish,2010,5749
+Asia,Qatar,Import,Crustaceans,2010,4330
+Asia,Qatar,Import,Fish,2010,18888
+Asia,Saudi Arabia,Export,Crustaceans,2010,19278
+Asia,Saudi Arabia,Export,Fish,2010,13863
+Asia,Saudi Arabia,Import,Crustaceans,2010,7965
+Asia,Saudi Arabia,Import,Fish,2010,181828
+Asia,Singapore,Export,Crustaceans,2010,3636
+Asia,Singapore,Export,Fish,2010,50120
+Asia,Singapore,Import,Crustaceans,2010,33344
+Asia,Singapore,Import,Fish,2010,152268
+Asia,Sri Lanka,Export,Crustaceans,2010,3293
+Asia,Sri Lanka,Export,Fish,2010,14430
+Asia,Sri Lanka,Import,Crustaceans,2010,394
+Asia,Sri Lanka,Import,Fish,2010,81528
+Asia,Syrian Arab Republic,Export,Crustaceans,2010,0
+Asia,Syrian Arab Republic,Export,Fish,2010,71
+Asia,Syrian Arab Republic,Import,Crustaceans,2010,163
+Asia,Syrian Arab Republic,Import,Fish,2010,28780
+Asia,Taiwan Province of China,Export,Crustaceans,2010,1485
+Asia,Taiwan Province of China,Export,Fish,2010,642328
+Asia,Taiwan Province of China,Import,Crustaceans,2010,49273
+Asia,Taiwan Province of China,Import,Fish,2010,159752
+Asia,Tajikistan,Import,Crustaceans,2010,16
+Asia,Tajikistan,Import,Fish,2010,941
+Asia,Thailand,Export,Crustaceans,2010,441147
+Asia,Thailand,Export,Fish,2010,1187153
+Asia,Thailand,Import,Crustaceans,2010,26648
+Asia,Thailand,Import,Fish,2010,1446704
+Asia,Timor-Leste,Export,Crustaceans,2010,24
+Asia,Timor-Leste,Export,Fish,2010,0
+Asia,Timor-Leste,Import,Crustaceans,2010,87
+Asia,Timor-Leste,Import,Fish,2010,1153
+Asia,Turkey,Export,Crustaceans,2010,1853
+Asia,Turkey,Export,Fish,2010,50849
+Asia,Turkey,Import,Crustaceans,2010,1670
+Asia,Turkey,Import,Fish,2010,75516
+Asia,Turkmenistan,Export,Crustaceans,2010,0
+Asia,Turkmenistan,Export,Fish,2010,0
+Asia,Turkmenistan,Import,Crustaceans,2010,1
+Asia,Turkmenistan,Import,Fish,2010,2118
+Asia,United Arab Emirates,Export,Crustaceans,2010,5438
+Asia,United Arab Emirates,Export,Fish,2010,13621
+Asia,United Arab Emirates,Import,Crustaceans,2010,23458
+Asia,United Arab Emirates,Import,Fish,2010,131528
+Asia,Uzbekistan,Export,Fish,2010,1119
+Asia,Uzbekistan,Import,Crustaceans,2010,14
+Asia,Uzbekistan,Import,Fish,2010,3526
+Asia,Viet Nam,Export,Crustaceans,2010,332929
+Asia,Viet Nam,Export,Fish,2010,629029
+Asia,Viet Nam,Import,Crustaceans,2010,10087
+Asia,Viet Nam,Import,Fish,2010,112962
+Asia,Yemen,Export,Crustaceans,2010,765
+Asia,Yemen,Export,Fish,2010,101021
+Asia,Yemen,Import,Crustaceans,2010,14
+Asia,Yemen,Import,Fish,2010,14751
+Asia,Afghanistan,Import,Fish,2011,0
+Asia,Armenia,Export,Crustaceans,2011,1346
+Asia,Armenia,Export,Fish,2011,1313
+Asia,Armenia,Import,Crustaceans,2011,11
+Asia,Armenia,Import,Fish,2011,3658
+Asia,Azerbaijan,Export,Fish,2011,270
+Asia,Azerbaijan,Import,Crustaceans,2011,193
+Asia,Azerbaijan,Import,Fish,2011,13417
+Asia,Bahrain,Export,Crustaceans,2011,6920
+Asia,Bahrain,Export,Fish,2011,1547
+Asia,Bahrain,Import,Crustaceans,2011,831
+Asia,Bahrain,Import,Fish,2011,8309
+Asia,Bangladesh,Export,Crustaceans,2011,53827
+Asia,Bangladesh,Export,Fish,2011,32621
+Asia,Bangladesh,Import,Crustaceans,2011,557
+Asia,Bangladesh,Import,Fish,2011,18136
+Asia,Bhutan,Export,Fish,2011,0
+Asia,Bhutan,Import,Crustaceans,2011,3
+Asia,Bhutan,Import,Fish,2011,2136
+Asia,Brunei Darussalam,Export,Crustaceans,2011,81
+Asia,Brunei Darussalam,Export,Fish,2011,563
+Asia,Brunei Darussalam,Import,Crustaceans,2011,386
+Asia,Brunei Darussalam,Import,Fish,2011,6035
+Asia,Cambodia,Export,Crustaceans,2011,347
+Asia,Cambodia,Export,Fish,2011,29616
+Asia,Cambodia,Import,Crustaceans,2011,63
+Asia,Cambodia,Import,Fish,2011,3815
+Asia,China,Export,Crustaceans,2011,527895
+Asia,China,Export,Fish,2011,2755111
+Asia,China,Import,Crustaceans,2011,120209
+Asia,China,Import,Fish,2011,2216891
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2011,106
+Asia,"China, Hong Kong SAR",Export,Fish,2011,37017
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2011,68999
+Asia,"China, Hong Kong SAR",Import,Fish,2011,242602
+Asia,"China, Macao SAR",Export,Crustaceans,2011,0
+Asia,"China, Macao SAR",Export,Fish,2011,0
+Asia,"China, Macao SAR",Import,Crustaceans,2011,3315
+Asia,"China, Macao SAR",Import,Fish,2011,14355
+Asia,Cyprus,Export,Crustaceans,2011,0
+Asia,Cyprus,Export,Fish,2011,3303
+Asia,Cyprus,Import,Crustaceans,2011,1519
+Asia,Cyprus,Import,Fish,2011,8562
+Asia,Georgia,Export,Crustaceans,2011,0
+Asia,Georgia,Export,Fish,2011,8245
+Asia,Georgia,Import,Crustaceans,2011,63
+Asia,Georgia,Import,Fish,2011,21345
+Asia,India,Export,Crustaceans,2011,272344
+Asia,India,Export,Fish,2011,481879
+Asia,India,Import,Crustaceans,2011,1336
+Asia,India,Import,Fish,2011,25246
+Asia,Indonesia,Export,Crustaceans,2011,178844
+Asia,Indonesia,Export,Fish,2011,653585
+Asia,Indonesia,Import,Crustaceans,2011,6949
+Asia,Indonesia,Import,Fish,2011,226657
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2011,4197
+Asia,Iran (Islamic Rep. of),Export,Fish,2011,48921
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2011,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2011,60753
+Asia,Iraq,Export,Fish,2011,203
+Asia,Iraq,Import,Crustaceans,2011,11
+Asia,Iraq,Import,Fish,2011,39922
+Asia,Israel,Export,Fish,2011,223
+Asia,Israel,Import,Crustaceans,2011,2420
+Asia,Israel,Import,Fish,2011,71580
+Asia,Japan,Export,Crustaceans,2011,3135
+Asia,Japan,Export,Fish,2011,341388
+Asia,Japan,Import,Crustaceans,2011,354500
+Asia,Japan,Import,Fish,2011,1582772
+Asia,Jordan,Export,Fish,2011,0
+Asia,Jordan,Import,Crustaceans,2011,525
+Asia,Jordan,Import,Fish,2011,24227
+Asia,Kazakhstan,Export,Crustaceans,2011,628
+Asia,Kazakhstan,Export,Fish,2011,20980
+Asia,Kazakhstan,Import,Crustaceans,2011,663
+Asia,Kazakhstan,Import,Fish,2011,55929
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2011,1607
+Asia,"Korea, Dem. People's Rep",Export,Fish,2011,10841
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2011,1766
+Asia,"Korea, Dem. People's Rep",Import,Fish,2011,21230
+Asia,"Korea, Republic of",Export,Crustaceans,2011,19960
+Asia,"Korea, Republic of",Export,Fish,2011,428508
+Asia,"Korea, Republic of",Import,Crustaceans,2011,109669
+Asia,"Korea, Republic of",Import,Fish,2011,892134
+Asia,Kuwait,Export,Crustaceans,2011,67
+Asia,Kuwait,Export,Fish,2011,245
+Asia,Kuwait,Import,Crustaceans,2011,3669
+Asia,Kuwait,Import,Fish,2011,23110
+Asia,Kyrgyzstan,Export,Crustaceans,2011,0
+Asia,Kyrgyzstan,Export,Fish,2011,1
+Asia,Kyrgyzstan,Import,Crustaceans,2011,19
+Asia,Kyrgyzstan,Import,Fish,2011,8640
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2011,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2011,5
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2011,25
+Asia,Lao People's Dem. Rep.,Import,Fish,2011,2986
+Asia,Lebanon,Export,Crustaceans,2011,16
+Asia,Lebanon,Export,Fish,2011,442
+Asia,Lebanon,Import,Crustaceans,2011,2668
+Asia,Lebanon,Import,Fish,2011,24678
+Asia,Malaysia,Export,Crustaceans,2011,87960
+Asia,Malaysia,Export,Fish,2011,133596
+Asia,Malaysia,Import,Crustaceans,2011,49532
+Asia,Malaysia,Import,Fish,2011,271738
+Asia,Maldives,Export,Fish,2011,38795
+Asia,Maldives,Import,Crustaceans,2011,528
+Asia,Maldives,Import,Fish,2011,1731
+Asia,Mongolia,Export,Crustaceans,2011,0
+Asia,Mongolia,Export,Fish,2011,210
+Asia,Mongolia,Import,Crustaceans,2011,1
+Asia,Mongolia,Import,Fish,2011,1287
+Asia,Myanmar,Export,Crustaceans,2011,41080
+Asia,Myanmar,Export,Fish,2011,302202
+Asia,Myanmar,Import,Crustaceans,2011,1444
+Asia,Myanmar,Import,Fish,2011,4468
+Asia,Nepal,Export,Fish,2011,6
+Asia,Nepal,Import,Crustaceans,2011,0
+Asia,Nepal,Import,Fish,2011,6924
+Asia,Oman,Export,Crustaceans,2011,425
+Asia,Oman,Export,Fish,2011,61644
+Asia,Oman,Import,Crustaceans,2011,1708
+Asia,Oman,Import,Fish,2011,16721
+Asia,Pakistan,Export,Crustaceans,2011,23317
+Asia,Pakistan,Export,Fish,2011,110847
+Asia,Pakistan,Import,Crustaceans,2011,0
+Asia,Pakistan,Import,Fish,2011,1688
+Asia,"Palestine, Occupied Tr.",Export,Fish,2011,96
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2011,2
+Asia,"Palestine, Occupied Tr.",Import,Fish,2011,4207
+Asia,Philippines,Export,Crustaceans,2011,23610
+Asia,Philippines,Export,Fish,2011,148415
+Asia,Philippines,Import,Crustaceans,2011,2453
+Asia,Philippines,Import,Fish,2011,163654
+Asia,Qatar,Export,Crustaceans,2011,21
+Asia,Qatar,Export,Fish,2011,3860
+Asia,Qatar,Import,Crustaceans,2011,2700
+Asia,Qatar,Import,Fish,2011,21520
+Asia,Saudi Arabia,Export,Crustaceans,2011,12175
+Asia,Saudi Arabia,Export,Fish,2011,19505
+Asia,Saudi Arabia,Import,Crustaceans,2011,9760
+Asia,Saudi Arabia,Import,Fish,2011,187781
+Asia,Singapore,Export,Crustaceans,2011,3485
+Asia,Singapore,Export,Fish,2011,41268
+Asia,Singapore,Import,Crustaceans,2011,33685
+Asia,Singapore,Import,Fish,2011,152803
+Asia,Sri Lanka,Export,Crustaceans,2011,3722
+Asia,Sri Lanka,Export,Fish,2011,13967
+Asia,Sri Lanka,Import,Crustaceans,2011,537
+Asia,Sri Lanka,Import,Fish,2011,82496
+Asia,Syrian Arab Republic,Export,Crustaceans,2011,4
+Asia,Syrian Arab Republic,Export,Fish,2011,81
+Asia,Syrian Arab Republic,Import,Crustaceans,2011,120
+Asia,Syrian Arab Republic,Import,Fish,2011,31137
+Asia,Taiwan Province of China,Export,Crustaceans,2011,1812
+Asia,Taiwan Province of China,Export,Fish,2011,630685
+Asia,Taiwan Province of China,Import,Crustaceans,2011,46590
+Asia,Taiwan Province of China,Import,Fish,2011,160241
+Asia,Tajikistan,Import,Crustaceans,2011,15
+Asia,Tajikistan,Import,Fish,2011,1670
+Asia,Thailand,Export,Crustaceans,2011,405898
+Asia,Thailand,Export,Fish,2011,1167410
+Asia,Thailand,Import,Crustaceans,2011,34959
+Asia,Thailand,Import,Fish,2011,1509539
+Asia,Timor-Leste,Export,Crustaceans,2011,26
+Asia,Timor-Leste,Export,Fish,2011,0
+Asia,Timor-Leste,Import,Crustaceans,2011,63
+Asia,Timor-Leste,Import,Fish,2011,1729
+Asia,Turkey,Export,Crustaceans,2011,1684
+Asia,Turkey,Export,Fish,2011,62855
+Asia,Turkey,Import,Crustaceans,2011,1808
+Asia,Turkey,Import,Fish,2011,59959
+Asia,Turkmenistan,Export,Crustaceans,2011,0
+Asia,Turkmenistan,Export,Fish,2011,0
+Asia,Turkmenistan,Import,Crustaceans,2011,2
+Asia,Turkmenistan,Import,Fish,2011,1530
+Asia,United Arab Emirates,Export,Crustaceans,2011,8724
+Asia,United Arab Emirates,Export,Fish,2011,17865
+Asia,United Arab Emirates,Import,Crustaceans,2011,23716
+Asia,United Arab Emirates,Import,Fish,2011,99248
+Asia,Uzbekistan,Export,Fish,2011,613
+Asia,Uzbekistan,Import,Crustaceans,2011,17
+Asia,Uzbekistan,Import,Fish,2011,5205
+Asia,Viet Nam,Export,Crustaceans,2011,374375
+Asia,Viet Nam,Export,Fish,2011,728324
+Asia,Viet Nam,Import,Crustaceans,2011,24998
+Asia,Viet Nam,Import,Fish,2011,166042
+Asia,Yemen,Export,Crustaceans,2011,556
+Asia,Yemen,Export,Fish,2011,102562
+Asia,Yemen,Import,Crustaceans,2011,29
+Asia,Yemen,Import,Fish,2011,13065
+Asia,Afghanistan,Import,Fish,2012,0
+Asia,Armenia,Export,Crustaceans,2012,2087
+Asia,Armenia,Export,Fish,2012,1844
+Asia,Armenia,Import,Crustaceans,2012,34
+Asia,Armenia,Import,Fish,2012,3539
+Asia,Azerbaijan,Export,Fish,2012,0
+Asia,Azerbaijan,Import,Crustaceans,2012,165
+Asia,Azerbaijan,Import,Fish,2012,14957
+Asia,Bahrain,Export,Crustaceans,2012,6032
+Asia,Bahrain,Export,Fish,2012,2598
+Asia,Bahrain,Import,Crustaceans,2012,1035
+Asia,Bahrain,Import,Fish,2012,8780
+Asia,Bangladesh,Export,Crustaceans,2012,34207
+Asia,Bangladesh,Export,Fish,2012,18303
+Asia,Bangladesh,Import,Crustaceans,2012,231
+Asia,Bangladesh,Import,Fish,2012,27692
+Asia,Bhutan,Export,Fish,2012,0
+Asia,Bhutan,Import,Crustaceans,2012,14
+Asia,Bhutan,Import,Fish,2012,2630
+Asia,Brunei Darussalam,Export,Crustaceans,2012,82
+Asia,Brunei Darussalam,Export,Fish,2012,1167
+Asia,Brunei Darussalam,Import,Crustaceans,2012,1579
+Asia,Brunei Darussalam,Import,Fish,2012,6948
+Asia,Cambodia,Export,Crustaceans,2012,289
+Asia,Cambodia,Export,Fish,2012,30689
+Asia,Cambodia,Import,Crustaceans,2012,58
+Asia,Cambodia,Import,Fish,2012,2773
+Asia,China,Export,Crustaceans,2012,381593
+Asia,China,Export,Fish,2012,2678625
+Asia,China,Import,Crustaceans,2012,128311
+Asia,China,Import,Fish,2012,2030365
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2012,81
+Asia,"China, Hong Kong SAR",Export,Fish,2012,33935
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2012,80279
+Asia,"China, Hong Kong SAR",Import,Fish,2012,252392
+Asia,"China, Macao SAR",Export,Crustaceans,2012,0
+Asia,"China, Macao SAR",Export,Fish,2012,0
+Asia,"China, Macao SAR",Import,Crustaceans,2012,3440
+Asia,"China, Macao SAR",Import,Fish,2012,14345
+Asia,Cyprus,Export,Crustaceans,2012,0
+Asia,Cyprus,Export,Fish,2012,3107
+Asia,Cyprus,Import,Crustaceans,2012,1440
+Asia,Cyprus,Import,Fish,2012,7963
+Asia,Georgia,Export,Crustaceans,2012,2
+Asia,Georgia,Export,Fish,2012,1293
+Asia,Georgia,Import,Crustaceans,2012,54
+Asia,Georgia,Import,Fish,2012,20899
+Asia,India,Export,Crustaceans,2012,289388
+Asia,India,Export,Fish,2012,482228
+Asia,India,Import,Crustaceans,2012,1108
+Asia,India,Import,Fish,2012,18861
+Asia,Indonesia,Export,Crustaceans,2012,182722
+Asia,Indonesia,Export,Fish,2012,743574
+Asia,Indonesia,Import,Crustaceans,2012,8916
+Asia,Indonesia,Import,Fish,2012,147252
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2012,9899
+Asia,Iran (Islamic Rep. of),Export,Fish,2012,49197
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2012,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2012,42705
+Asia,Iraq,Export,Fish,2012,230
+Asia,Iraq,Import,Crustaceans,2012,47
+Asia,Iraq,Import,Fish,2012,39649
+Asia,Israel,Export,Fish,2012,648
+Asia,Israel,Import,Crustaceans,2012,1501
+Asia,Israel,Import,Fish,2012,72206
+Asia,Japan,Export,Crustaceans,2012,2591
+Asia,Japan,Export,Fish,2012,343994
+Asia,Japan,Import,Crustaceans,2012,364430
+Asia,Japan,Import,Fish,2012,1596021
+Asia,Jordan,Export,Fish,2012,2
+Asia,Jordan,Import,Crustaceans,2012,647
+Asia,Jordan,Import,Fish,2012,31871
+Asia,Kazakhstan,Export,Crustaceans,2012,938
+Asia,Kazakhstan,Export,Fish,2012,22402
+Asia,Kazakhstan,Import,Crustaceans,2012,843
+Asia,Kazakhstan,Import,Fish,2012,55295
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2012,1043
+Asia,"Korea, Dem. People's Rep",Export,Fish,2012,9176
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2012,1840
+Asia,"Korea, Dem. People's Rep",Import,Fish,2012,35069
+Asia,"Korea, Republic of",Export,Crustaceans,2012,12740
+Asia,"Korea, Republic of",Export,Fish,2012,476229
+Asia,"Korea, Republic of",Import,Crustaceans,2012,107320
+Asia,"Korea, Republic of",Import,Fish,2012,834079
+Asia,Kuwait,Export,Crustaceans,2012,50
+Asia,Kuwait,Export,Fish,2012,188
+Asia,Kuwait,Import,Crustaceans,2012,3367
+Asia,Kuwait,Import,Fish,2012,32143
+Asia,Kyrgyzstan,Export,Crustaceans,2012,0
+Asia,Kyrgyzstan,Export,Fish,2012,0
+Asia,Kyrgyzstan,Import,Crustaceans,2012,23
+Asia,Kyrgyzstan,Import,Fish,2012,9949
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2012,3
+Asia,Lao People's Dem. Rep.,Export,Fish,2012,0
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2012,67
+Asia,Lao People's Dem. Rep.,Import,Fish,2012,2967
+Asia,Lebanon,Export,Crustaceans,2012,21
+Asia,Lebanon,Export,Fish,2012,430
+Asia,Lebanon,Import,Crustaceans,2012,2437
+Asia,Lebanon,Import,Fish,2012,24986
+Asia,Malaysia,Export,Crustaceans,2012,69805
+Asia,Malaysia,Export,Fish,2012,123357
+Asia,Malaysia,Import,Crustaceans,2012,56840
+Asia,Malaysia,Import,Fish,2012,309372
+Asia,Maldives,Export,Fish,2012,40711
+Asia,Maldives,Import,Crustaceans,2012,572
+Asia,Maldives,Import,Fish,2012,882
+Asia,Mongolia,Export,Crustaceans,2012,11
+Asia,Mongolia,Export,Fish,2012,108
+Asia,Mongolia,Import,Crustaceans,2012,6
+Asia,Mongolia,Import,Fish,2012,1927
+Asia,Myanmar,Export,Crustaceans,2012,41762
+Asia,Myanmar,Export,Fish,2012,318797
+Asia,Myanmar,Import,Crustaceans,2012,1335
+Asia,Myanmar,Import,Fish,2012,5598
+Asia,Nepal,Export,Fish,2012,14
+Asia,Nepal,Import,Crustaceans,2012,1
+Asia,Nepal,Import,Fish,2012,6626
+Asia,Oman,Export,Crustaceans,2012,113
+Asia,Oman,Export,Fish,2012,64302
+Asia,Oman,Import,Crustaceans,2012,2172
+Asia,Oman,Import,Fish,2012,17982
+Asia,Pakistan,Export,Crustaceans,2012,23480
+Asia,Pakistan,Export,Fish,2012,116239
+Asia,Pakistan,Import,Crustaceans,2012,7
+Asia,Pakistan,Import,Fish,2012,2378
+Asia,"Palestine, Occupied Tr.",Export,Fish,2012,42
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2012,29
+Asia,"Palestine, Occupied Tr.",Import,Fish,2012,2273
+Asia,Philippines,Export,Crustaceans,2012,20372
+Asia,Philippines,Export,Fish,2012,183549
+Asia,Philippines,Import,Crustaceans,2012,3048
+Asia,Philippines,Import,Fish,2012,217887
+Asia,Qatar,Export,Crustaceans,2012,20
+Asia,Qatar,Export,Fish,2012,1579
+Asia,Qatar,Import,Crustaceans,2012,2443
+Asia,Qatar,Import,Fish,2012,28349
+Asia,Saudi Arabia,Export,Crustaceans,2012,8768
+Asia,Saudi Arabia,Export,Fish,2012,16561
+Asia,Saudi Arabia,Import,Crustaceans,2012,13864
+Asia,Saudi Arabia,Import,Fish,2012,211546
+Asia,Singapore,Export,Crustaceans,2012,4032
+Asia,Singapore,Export,Fish,2012,38925
+Asia,Singapore,Import,Crustaceans,2012,33655
+Asia,Singapore,Import,Fish,2012,148246
+Asia,Sri Lanka,Export,Crustaceans,2012,2757
+Asia,Sri Lanka,Export,Fish,2012,14257
+Asia,Sri Lanka,Import,Crustaceans,2012,618
+Asia,Sri Lanka,Import,Fish,2012,70158
+Asia,Syrian Arab Republic,Export,Crustaceans,2012,5
+Asia,Syrian Arab Republic,Export,Fish,2012,29
+Asia,Syrian Arab Republic,Import,Crustaceans,2012,82
+Asia,Syrian Arab Republic,Import,Fish,2012,21999
+Asia,Taiwan Province of China,Export,Crustaceans,2012,1376
+Asia,Taiwan Province of China,Export,Fish,2012,663220
+Asia,Taiwan Province of China,Import,Crustaceans,2012,45622
+Asia,Taiwan Province of China,Import,Fish,2012,177035
+Asia,Tajikistan,Import,Crustaceans,2012,6
+Asia,Tajikistan,Import,Fish,2012,1866
+Asia,Thailand,Export,Crustaceans,2012,361394
+Asia,Thailand,Export,Fish,2012,1225595
+Asia,Thailand,Import,Crustaceans,2012,31649
+Asia,Thailand,Import,Fish,2012,1496811
+Asia,Timor-Leste,Export,Crustaceans,2012,25
+Asia,Timor-Leste,Export,Fish,2012,2
+Asia,Timor-Leste,Import,Crustaceans,2012,42
+Asia,Timor-Leste,Import,Fish,2012,2252
+Asia,Turkey,Export,Crustaceans,2012,1278
+Asia,Turkey,Export,Fish,2012,71188
+Asia,Turkey,Import,Crustaceans,2012,1407
+Asia,Turkey,Import,Fish,2012,59225
+Asia,Turkmenistan,Export,Crustaceans,2012,0
+Asia,Turkmenistan,Export,Fish,2012,0
+Asia,Turkmenistan,Import,Crustaceans,2012,2
+Asia,Turkmenistan,Import,Fish,2012,2363
+Asia,United Arab Emirates,Export,Crustaceans,2012,6375
+Asia,United Arab Emirates,Export,Fish,2012,7546
+Asia,United Arab Emirates,Import,Crustaceans,2012,32130
+Asia,United Arab Emirates,Import,Fish,2012,133583
+Asia,Uzbekistan,Export,Fish,2012,107
+Asia,Uzbekistan,Import,Crustaceans,2012,17
+Asia,Uzbekistan,Import,Fish,2012,6501
+Asia,Viet Nam,Export,Crustaceans,2012,266319
+Asia,Viet Nam,Export,Fish,2012,857604
+Asia,Viet Nam,Import,Crustaceans,2012,20421
+Asia,Viet Nam,Import,Fish,2012,176656
+Asia,Yemen,Export,Crustaceans,2012,1122
+Asia,Yemen,Export,Fish,2012,95793
+Asia,Yemen,Import,Crustaceans,2012,83
+Asia,Yemen,Import,Fish,2012,18053
+Asia,Afghanistan,Import,Fish,2013,0
+Asia,Armenia,Export,Crustaceans,2013,4618
+Asia,Armenia,Export,Fish,2013,2269
+Asia,Armenia,Import,Crustaceans,2013,47
+Asia,Armenia,Import,Fish,2013,2946
+Asia,Azerbaijan,Export,Fish,2013,32
+Asia,Azerbaijan,Import,Crustaceans,2013,200
+Asia,Azerbaijan,Import,Fish,2013,17480
+Asia,Bahrain,Export,Crustaceans,2013,6520
+Asia,Bahrain,Export,Fish,2013,1782
+Asia,Bahrain,Import,Crustaceans,2013,1002
+Asia,Bahrain,Import,Fish,2013,8618
+Asia,Bangladesh,Export,Crustaceans,2013,50194
+Asia,Bangladesh,Export,Fish,2013,19453
+Asia,Bangladesh,Import,Crustaceans,2013,377
+Asia,Bangladesh,Import,Fish,2013,62470
+Asia,Bhutan,Export,Fish,2013,1
+Asia,Bhutan,Import,Crustaceans,2013,3
+Asia,Bhutan,Import,Fish,2013,2790
+Asia,Brunei Darussalam,Export,Crustaceans,2013,220
+Asia,Brunei Darussalam,Export,Fish,2013,966
+Asia,Brunei Darussalam,Import,Crustaceans,2013,1820
+Asia,Brunei Darussalam,Import,Fish,2013,9045
+Asia,Cambodia,Export,Crustaceans,2013,221
+Asia,Cambodia,Export,Fish,2013,31772
+Asia,Cambodia,Import,Crustaceans,2013,94
+Asia,Cambodia,Import,Fish,2013,1363
+Asia,China,Export,Crustaceans,2013,378423
+Asia,China,Export,Fish,2013,2760685
+Asia,China,Import,Crustaceans,2013,144566
+Asia,China,Import,Fish,2013,2193973
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2013,46
+Asia,"China, Hong Kong SAR",Export,Fish,2013,37153
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2013,81470
+Asia,"China, Hong Kong SAR",Import,Fish,2013,271959
+Asia,"China, Macao SAR",Export,Crustaceans,2013,0
+Asia,"China, Macao SAR",Export,Fish,2013,0
+Asia,"China, Macao SAR",Import,Crustaceans,2013,3657
+Asia,"China, Macao SAR",Import,Fish,2013,13965
+Asia,Cyprus,Export,Crustaceans,2013,8
+Asia,Cyprus,Export,Fish,2013,4339
+Asia,Cyprus,Import,Crustaceans,2013,1182
+Asia,Cyprus,Import,Fish,2013,8207
+Asia,Georgia,Export,Crustaceans,2013,8
+Asia,Georgia,Export,Fish,2013,1666
+Asia,Georgia,Import,Crustaceans,2013,58
+Asia,Georgia,Import,Fish,2013,23003
+Asia,India,Export,Crustaceans,2013,300071
+Asia,India,Export,Fish,2013,444938
+Asia,India,Import,Crustaceans,2013,731
+Asia,India,Import,Fish,2013,16238
+Asia,Indonesia,Export,Crustaceans,2013,193204
+Asia,Indonesia,Export,Fish,2013,731585
+Asia,Indonesia,Import,Crustaceans,2013,9054
+Asia,Indonesia,Import,Fish,2013,142546
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2013,11707
+Asia,Iran (Islamic Rep. of),Export,Fish,2013,60030
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2013,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2013,38541
+Asia,Iraq,Export,Fish,2013,235
+Asia,Iraq,Import,Crustaceans,2013,123
+Asia,Iraq,Import,Fish,2013,38682
+Asia,Israel,Export,Fish,2013,908
+Asia,Israel,Import,Crustaceans,2013,1917
+Asia,Israel,Import,Fish,2013,82608
+Asia,Japan,Export,Crustaceans,2013,2490
+Asia,Japan,Export,Fish,2013,444741
+Asia,Japan,Import,Crustaceans,2013,329623
+Asia,Japan,Import,Fish,2013,1455000
+Asia,Jordan,Export,Fish,2013,0
+Asia,Jordan,Import,Crustaceans,2013,530
+Asia,Jordan,Import,Fish,2013,29364
+Asia,Kazakhstan,Export,Crustaceans,2013,111
+Asia,Kazakhstan,Export,Fish,2013,19835
+Asia,Kazakhstan,Import,Crustaceans,2013,716
+Asia,Kazakhstan,Import,Fish,2013,54326
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2013,1075
+Asia,"Korea, Dem. People's Rep",Export,Fish,2013,9753
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2013,3166
+Asia,"Korea, Dem. People's Rep",Import,Fish,2013,43096
+Asia,"Korea, Republic of",Export,Crustaceans,2013,9764
+Asia,"Korea, Republic of",Export,Fish,2013,429935
+Asia,"Korea, Republic of",Import,Crustaceans,2013,94630
+Asia,"Korea, Republic of",Import,Fish,2013,807391
+Asia,Kuwait,Export,Crustaceans,2013,65
+Asia,Kuwait,Export,Fish,2013,213
+Asia,Kuwait,Import,Crustaceans,2013,4077
+Asia,Kuwait,Import,Fish,2013,26109
+Asia,Kyrgyzstan,Export,Crustaceans,2013,0
+Asia,Kyrgyzstan,Export,Fish,2013,0
+Asia,Kyrgyzstan,Import,Crustaceans,2013,24
+Asia,Kyrgyzstan,Import,Fish,2013,10120
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2013,1
+Asia,Lao People's Dem. Rep.,Export,Fish,2013,0
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2013,101
+Asia,Lao People's Dem. Rep.,Import,Fish,2013,2892
+Asia,Lebanon,Export,Crustaceans,2013,25
+Asia,Lebanon,Export,Fish,2013,516
+Asia,Lebanon,Import,Crustaceans,2013,1985
+Asia,Lebanon,Import,Fish,2013,27734
+Asia,Malaysia,Export,Crustaceans,2013,58607
+Asia,Malaysia,Export,Fish,2013,115541
+Asia,Malaysia,Import,Crustaceans,2013,45883
+Asia,Malaysia,Import,Fish,2013,365078
+Asia,Maldives,Export,Fish,2013,42605
+Asia,Maldives,Import,Crustaceans,2013,664
+Asia,Maldives,Import,Fish,2013,980
+Asia,Mongolia,Export,Crustaceans,2013,0
+Asia,Mongolia,Export,Fish,2013,34
+Asia,Mongolia,Import,Crustaceans,2013,10
+Asia,Mongolia,Import,Fish,2013,1312
+Asia,Myanmar,Export,Crustaceans,2013,47338
+Asia,Myanmar,Export,Fish,2013,302364
+Asia,Myanmar,Import,Crustaceans,2013,987
+Asia,Myanmar,Import,Fish,2013,8268
+Asia,Nepal,Export,Fish,2013,8
+Asia,Nepal,Import,Crustaceans,2013,8
+Asia,Nepal,Import,Fish,2013,6171
+Asia,Oman,Export,Crustaceans,2013,106
+Asia,Oman,Export,Fish,2013,83741
+Asia,Oman,Import,Crustaceans,2013,1893
+Asia,Oman,Import,Fish,2013,12854
+Asia,Pakistan,Export,Crustaceans,2013,21417
+Asia,Pakistan,Export,Fish,2013,116502
+Asia,Pakistan,Import,Crustaceans,2013,22
+Asia,Pakistan,Import,Fish,2013,4208
+Asia,"Palestine, Occupied Tr.",Export,Fish,2013,85
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2013,13
+Asia,"Palestine, Occupied Tr.",Import,Fish,2013,4098
+Asia,Philippines,Export,Crustaceans,2013,20807
+Asia,Philippines,Export,Fish,2013,243682
+Asia,Philippines,Import,Crustaceans,2013,2879
+Asia,Philippines,Import,Fish,2013,205973
+Asia,Qatar,Export,Crustaceans,2013,0
+Asia,Qatar,Export,Fish,2013,2001
+Asia,Qatar,Import,Crustaceans,2013,2276
+Asia,Qatar,Import,Fish,2013,26594
+Asia,Saudi Arabia,Export,Crustaceans,2013,4900
+Asia,Saudi Arabia,Export,Fish,2013,19056
+Asia,Saudi Arabia,Import,Crustaceans,2013,12602
+Asia,Saudi Arabia,Import,Fish,2013,209848
+Asia,Singapore,Export,Crustaceans,2013,4570
+Asia,Singapore,Export,Fish,2013,32139
+Asia,Singapore,Import,Crustaceans,2013,35951
+Asia,Singapore,Import,Fish,2013,137345
+Asia,Sri Lanka,Export,Crustaceans,2013,3835
+Asia,Sri Lanka,Export,Fish,2013,18157
+Asia,Sri Lanka,Import,Crustaceans,2013,622
+Asia,Sri Lanka,Import,Fish,2013,77083
+Asia,Syrian Arab Republic,Export,Crustaceans,2013,4
+Asia,Syrian Arab Republic,Export,Fish,2013,21
+Asia,Syrian Arab Republic,Import,Crustaceans,2013,68
+Asia,Syrian Arab Republic,Import,Fish,2013,22215
+Asia,Taiwan Province of China,Export,Crustaceans,2013,1685
+Asia,Taiwan Province of China,Export,Fish,2013,676758
+Asia,Taiwan Province of China,Import,Crustaceans,2013,49759
+Asia,Taiwan Province of China,Import,Fish,2013,154317
+Asia,Tajikistan,Import,Crustaceans,2013,5
+Asia,Tajikistan,Import,Fish,2013,1712
+Asia,Thailand,Export,Crustaceans,2013,220766
+Asia,Thailand,Export,Fish,2013,1147571
+Asia,Thailand,Import,Crustaceans,2013,30104
+Asia,Thailand,Import,Fish,2013,1462148
+Asia,Timor-Leste,Export,Crustaceans,2013,25
+Asia,Timor-Leste,Export,Fish,2013,12
+Asia,Timor-Leste,Import,Crustaceans,2013,21
+Asia,Timor-Leste,Import,Fish,2013,2250
+Asia,Turkey,Export,Crustaceans,2013,1199
+Asia,Turkey,Export,Fish,2013,93082
+Asia,Turkey,Import,Crustaceans,2013,1282
+Asia,Turkey,Import,Fish,2013,61669
+Asia,Turkmenistan,Export,Crustaceans,2013,0
+Asia,Turkmenistan,Export,Fish,2013,0
+Asia,Turkmenistan,Import,Crustaceans,2013,8
+Asia,Turkmenistan,Import,Fish,2013,2257
+Asia,United Arab Emirates,Export,Crustaceans,2013,5791
+Asia,United Arab Emirates,Export,Fish,2013,11304
+Asia,United Arab Emirates,Import,Crustaceans,2013,32966
+Asia,United Arab Emirates,Import,Fish,2013,171461
+Asia,Uzbekistan,Export,Fish,2013,18
+Asia,Uzbekistan,Import,Crustaceans,2013,32
+Asia,Uzbekistan,Import,Fish,2013,6607
+Asia,Viet Nam,Export,Crustaceans,2013,369407
+Asia,Viet Nam,Export,Fish,2013,876308
+Asia,Viet Nam,Import,Crustaceans,2013,29022
+Asia,Viet Nam,Import,Fish,2013,161166
+Asia,Yemen,Export,Crustaceans,2013,1167
+Asia,Yemen,Export,Fish,2013,93116
+Asia,Yemen,Import,Crustaceans,2013,41
+Asia,Yemen,Import,Fish,2013,15208
+Asia,Afghanistan,Import,Fish,2014,0
+Asia,Armenia,Export,Crustaceans,2014,4009
+Asia,Armenia,Export,Fish,2014,1733
+Asia,Armenia,Import,Crustaceans,2014,25
+Asia,Armenia,Import,Fish,2014,2604
+Asia,Azerbaijan,Export,Fish,2014,0
+Asia,Azerbaijan,Import,Crustaceans,2014,278
+Asia,Azerbaijan,Import,Fish,2014,10713
+Asia,Bahrain,Export,Crustaceans,2014,5392
+Asia,Bahrain,Export,Fish,2014,1430
+Asia,Bahrain,Import,Crustaceans,2014,2413
+Asia,Bahrain,Import,Fish,2014,10208
+Asia,Bangladesh,Export,Crustaceans,2014,52680
+Asia,Bangladesh,Export,Fish,2014,16724
+Asia,Bangladesh,Import,Crustaceans,2014,363
+Asia,Bangladesh,Import,Fish,2014,83591
+Asia,Bhutan,Export,Fish,2014,0
+Asia,Bhutan,Import,Crustaceans,2014,0
+Asia,Bhutan,Import,Fish,2014,2770
+Asia,Brunei Darussalam,Export,Crustaceans,2014,269
+Asia,Brunei Darussalam,Export,Fish,2014,1168
+Asia,Brunei Darussalam,Import,Crustaceans,2014,1597
+Asia,Brunei Darussalam,Import,Fish,2014,6766
+Asia,Cambodia,Export,Crustaceans,2014,192
+Asia,Cambodia,Export,Fish,2014,31492
+Asia,Cambodia,Import,Crustaceans,2014,312
+Asia,Cambodia,Import,Fish,2014,10211
+Asia,China,Export,Crustaceans,2014,345563
+Asia,China,Export,Fish,2014,2881463
+Asia,China,Import,Crustaceans,2014,153482
+Asia,China,Import,Fish,2014,2231108
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2014,32
+Asia,"China, Hong Kong SAR",Export,Fish,2014,35496
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2014,80062
+Asia,"China, Hong Kong SAR",Import,Fish,2014,277795
+Asia,"China, Macao SAR",Export,Crustaceans,2014,0
+Asia,"China, Macao SAR",Export,Fish,2014,0
+Asia,"China, Macao SAR",Import,Crustaceans,2014,4283
+Asia,"China, Macao SAR",Import,Fish,2014,15989
+Asia,Cyprus,Export,Crustaceans,2014,0
+Asia,Cyprus,Export,Fish,2014,3541
+Asia,Cyprus,Import,Crustaceans,2014,1354
+Asia,Cyprus,Import,Fish,2014,8303
+Asia,Georgia,Export,Crustaceans,2014,0
+Asia,Georgia,Export,Fish,2014,4314
+Asia,Georgia,Import,Crustaceans,2014,60
+Asia,Georgia,Import,Fish,2014,21227
+Asia,India,Export,Crustaceans,2014,368553
+Asia,India,Export,Fish,2014,449256
+Asia,India,Import,Crustaceans,2014,851
+Asia,India,Import,Fish,2014,21861
+Asia,Indonesia,Export,Crustaceans,2014,216390
+Asia,Indonesia,Export,Fish,2014,714987
+Asia,Indonesia,Import,Crustaceans,2014,7571
+Asia,Indonesia,Import,Fish,2014,132987
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2014,11676
+Asia,Iran (Islamic Rep. of),Export,Fish,2014,54638
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2014,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2014,62415
+Asia,Iraq,Export,Fish,2014,265
+Asia,Iraq,Import,Crustaceans,2014,204
+Asia,Iraq,Import,Fish,2014,38012
+Asia,Israel,Export,Fish,2014,686
+Asia,Israel,Import,Crustaceans,2014,2453
+Asia,Israel,Import,Fish,2014,86809
+Asia,Japan,Export,Crustaceans,2014,2967
+Asia,Japan,Export,Fish,2014,365530
+Asia,Japan,Import,Crustaceans,2014,289456
+Asia,Japan,Import,Fish,2014,1493485
+Asia,Jordan,Export,Fish,2014,0
+Asia,Jordan,Import,Crustaceans,2014,607
+Asia,Jordan,Import,Fish,2014,28383
+Asia,Kazakhstan,Export,Crustaceans,2014,57
+Asia,Kazakhstan,Export,Fish,2014,21728
+Asia,Kazakhstan,Import,Crustaceans,2014,921
+Asia,Kazakhstan,Import,Fish,2014,43943
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2014,2749
+Asia,"Korea, Dem. People's Rep",Export,Fish,2014,12018
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2014,545
+Asia,"Korea, Dem. People's Rep",Import,Fish,2014,37773
+Asia,"Korea, Republic of",Export,Crustaceans,2014,9755
+Asia,"Korea, Republic of",Export,Fish,2014,441764
+Asia,"Korea, Republic of",Import,Crustaceans,2014,101776
+Asia,"Korea, Republic of",Import,Fish,2014,860863
+Asia,Kuwait,Export,Crustaceans,2014,1
+Asia,Kuwait,Export,Fish,2014,6
+Asia,Kuwait,Import,Crustaceans,2014,5416
+Asia,Kuwait,Import,Fish,2014,28995
+Asia,Kyrgyzstan,Export,Crustaceans,2014,0
+Asia,Kyrgyzstan,Export,Fish,2014,0
+Asia,Kyrgyzstan,Import,Crustaceans,2014,33
+Asia,Kyrgyzstan,Import,Fish,2014,11075
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2014,0
+Asia,Lao People's Dem. Rep.,Export,Fish,2014,0
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2014,146
+Asia,Lao People's Dem. Rep.,Import,Fish,2014,3581
+Asia,Lebanon,Export,Crustaceans,2014,9
+Asia,Lebanon,Export,Fish,2014,656
+Asia,Lebanon,Import,Crustaceans,2014,2823
+Asia,Lebanon,Import,Fish,2014,29821
+Asia,Malaysia,Export,Crustaceans,2014,58663
+Asia,Malaysia,Export,Fish,2014,106349
+Asia,Malaysia,Import,Crustaceans,2014,53556
+Asia,Malaysia,Import,Fish,2014,354875
+Asia,Maldives,Export,Fish,2014,49434
+Asia,Maldives,Import,Crustaceans,2014,776
+Asia,Maldives,Import,Fish,2014,2164
+Asia,Mongolia,Export,Crustaceans,2014,0
+Asia,Mongolia,Export,Fish,2014,61
+Asia,Mongolia,Import,Crustaceans,2014,1
+Asia,Mongolia,Import,Fish,2014,1303
+Asia,Myanmar,Export,Crustaceans,2014,51044
+Asia,Myanmar,Export,Fish,2014,273666
+Asia,Myanmar,Import,Crustaceans,2014,1871
+Asia,Myanmar,Import,Fish,2014,6628
+Asia,Nepal,Export,Fish,2014,4
+Asia,Nepal,Import,Crustaceans,2014,8
+Asia,Nepal,Import,Fish,2014,7467
+Asia,Oman,Export,Crustaceans,2014,34
+Asia,Oman,Export,Fish,2014,76608
+Asia,Oman,Import,Crustaceans,2014,2046
+Asia,Oman,Import,Fish,2014,19597
+Asia,Pakistan,Export,Crustaceans,2014,17966
+Asia,Pakistan,Export,Fish,2014,127653
+Asia,Pakistan,Import,Crustaceans,2014,20
+Asia,Pakistan,Import,Fish,2014,4290
+Asia,"Palestine, Occupied Tr.",Export,Fish,2014,0
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2014,8
+Asia,"Palestine, Occupied Tr.",Import,Fish,2014,4521
+Asia,Philippines,Export,Crustaceans,2014,29062
+Asia,Philippines,Export,Fish,2014,202581
+Asia,Philippines,Import,Crustaceans,2014,4106
+Asia,Philippines,Import,Fish,2014,239202
+Asia,Qatar,Export,Crustaceans,2014,0
+Asia,Qatar,Export,Fish,2014,1753
+Asia,Qatar,Import,Crustaceans,2014,2656
+Asia,Qatar,Import,Fish,2014,28715
+Asia,Saudi Arabia,Export,Crustaceans,2014,9526
+Asia,Saudi Arabia,Export,Fish,2014,24152
+Asia,Saudi Arabia,Import,Crustaceans,2014,14061
+Asia,Saudi Arabia,Import,Fish,2014,216349
+Asia,Singapore,Export,Crustaceans,2014,3822
+Asia,Singapore,Export,Fish,2014,24083
+Asia,Singapore,Import,Crustaceans,2014,39675
+Asia,Singapore,Import,Fish,2014,135621
+Asia,Sri Lanka,Export,Crustaceans,2014,4225
+Asia,Sri Lanka,Export,Fish,2014,19865
+Asia,Sri Lanka,Import,Crustaceans,2014,991
+Asia,Sri Lanka,Import,Fish,2014,77145
+Asia,Syrian Arab Republic,Export,Crustaceans,2014,2
+Asia,Syrian Arab Republic,Export,Fish,2014,10
+Asia,Syrian Arab Republic,Import,Crustaceans,2014,33
+Asia,Syrian Arab Republic,Import,Fish,2014,23630
+Asia,Taiwan Province of China,Export,Crustaceans,2014,2710
+Asia,Taiwan Province of China,Export,Fish,2014,649656
+Asia,Taiwan Province of China,Import,Crustaceans,2014,44956
+Asia,Taiwan Province of China,Import,Fish,2014,161765
+Asia,Tajikistan,Import,Crustaceans,2014,4
+Asia,Tajikistan,Import,Fish,2014,2175
+Asia,Thailand,Export,Crustaceans,2014,175697
+Asia,Thailand,Export,Fish,2014,1194308
+Asia,Thailand,Import,Crustaceans,2014,30528
+Asia,Thailand,Import,Fish,2014,1397654
+Asia,Timor-Leste,Export,Crustaceans,2014,15
+Asia,Timor-Leste,Export,Fish,2014,0
+Asia,Timor-Leste,Import,Crustaceans,2014,47
+Asia,Timor-Leste,Import,Fish,2014,2801
+Asia,Turkey,Export,Crustaceans,2014,1206
+Asia,Turkey,Export,Fish,2014,107951
+Asia,Turkey,Import,Crustaceans,2014,2315
+Asia,Turkey,Import,Fish,2014,70458
+Asia,Turkmenistan,Export,Crustaceans,2014,0
+Asia,Turkmenistan,Export,Fish,2014,0
+Asia,Turkmenistan,Import,Crustaceans,2014,48
+Asia,Turkmenistan,Import,Fish,2014,2391
+Asia,United Arab Emirates,Export,Crustaceans,2014,7013
+Asia,United Arab Emirates,Export,Fish,2014,9265
+Asia,United Arab Emirates,Import,Crustaceans,2014,43111
+Asia,United Arab Emirates,Import,Fish,2014,173914
+Asia,Uzbekistan,Export,Fish,2014,21
+Asia,Uzbekistan,Import,Crustaceans,2014,32
+Asia,Uzbekistan,Import,Fish,2014,7928
+Asia,Viet Nam,Export,Crustaceans,2014,467079
+Asia,Viet Nam,Export,Fish,2014,914401
+Asia,Viet Nam,Import,Crustaceans,2014,57769
+Asia,Viet Nam,Import,Fish,2014,186340
+Asia,Yemen,Export,Crustaceans,2014,1365
+Asia,Yemen,Export,Fish,2014,75374
+Asia,Yemen,Import,Crustaceans,2014,42
+Asia,Yemen,Import,Fish,2014,13665
+Asia,Afghanistan,Import,Fish,2015,0
+Asia,Armenia,Export,Crustaceans,2015,2786
+Asia,Armenia,Export,Fish,2015,1649
+Asia,Armenia,Import,Crustaceans,2015,49
+Asia,Armenia,Import,Fish,2015,2578
+Asia,Azerbaijan,Export,Fish,2015,0
+Asia,Azerbaijan,Import,Crustaceans,2015,136
+Asia,Azerbaijan,Import,Fish,2015,7635
+Asia,Bahrain,Export,Crustaceans,2015,5910
+Asia,Bahrain,Export,Fish,2015,3087
+Asia,Bahrain,Import,Crustaceans,2015,2980
+Asia,Bahrain,Import,Fish,2015,9473
+Asia,Bangladesh,Export,Crustaceans,2015,37730
+Asia,Bangladesh,Export,Fish,2015,15127
+Asia,Bangladesh,Import,Crustaceans,2015,360
+Asia,Bangladesh,Import,Fish,2015,109796
+Asia,Bhutan,Export,Fish,2015,0
+Asia,Bhutan,Import,Crustaceans,2015,1
+Asia,Bhutan,Import,Fish,2015,2668
+Asia,Brunei Darussalam,Export,Crustaceans,2015,223
+Asia,Brunei Darussalam,Export,Fish,2015,1090
+Asia,Brunei Darussalam,Import,Crustaceans,2015,1634
+Asia,Brunei Darussalam,Import,Fish,2015,6520
+Asia,Cambodia,Export,Crustaceans,2015,137
+Asia,Cambodia,Export,Fish,2015,32287
+Asia,Cambodia,Import,Crustaceans,2015,144
+Asia,Cambodia,Import,Fish,2015,6315
+Asia,China,Export,Crustaceans,2015,297373
+Asia,China,Export,Fish,2015,2780461
+Asia,China,Import,Crustaceans,2015,176069
+Asia,China,Import,Fish,2015,2027055
+Asia,"China, Hong Kong SAR",Export,Crustaceans,2015,60
+Asia,"China, Hong Kong SAR",Export,Fish,2015,32120
+Asia,"China, Hong Kong SAR",Import,Crustaceans,2015,72788
+Asia,"China, Hong Kong SAR",Import,Fish,2015,294298
+Asia,"China, Macao SAR",Export,Crustaceans,2015,0
+Asia,"China, Macao SAR",Export,Fish,2015,0
+Asia,"China, Macao SAR",Import,Crustaceans,2015,5111
+Asia,"China, Macao SAR",Import,Fish,2015,16061
+Asia,Cyprus,Export,Crustaceans,2015,24
+Asia,Cyprus,Export,Fish,2015,4549
+Asia,Cyprus,Import,Crustaceans,2015,1317
+Asia,Cyprus,Import,Fish,2015,8281
+Asia,Georgia,Export,Crustaceans,2015,1
+Asia,Georgia,Export,Fish,2015,12232
+Asia,Georgia,Import,Crustaceans,2015,90
+Asia,Georgia,Import,Fish,2015,21253
+Asia,India,Export,Crustaceans,2015,400376
+Asia,India,Export,Fish,2015,366673
+Asia,India,Import,Crustaceans,2015,1405
+Asia,India,Import,Fish,2015,23586
+Asia,Indonesia,Export,Crustaceans,2015,211210
+Asia,Indonesia,Export,Fish,2015,494232
+Asia,Indonesia,Import,Crustaceans,2015,6500
+Asia,Indonesia,Import,Fish,2015,127417
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,2015,13121
+Asia,Iran (Islamic Rep. of),Export,Fish,2015,58120
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,2015,0
+Asia,Iran (Islamic Rep. of),Import,Fish,2015,58054
+Asia,Iraq,Export,Fish,2015,120
+Asia,Iraq,Import,Crustaceans,2015,204
+Asia,Iraq,Import,Fish,2015,36983
+Asia,Israel,Export,Fish,2015,373
+Asia,Israel,Import,Crustaceans,2015,2310
+Asia,Israel,Import,Fish,2015,83923
+Asia,Japan,Export,Crustaceans,2015,2958
+Asia,Japan,Export,Fish,2015,417559
+Asia,Japan,Import,Crustaceans,2015,268306
+Asia,Japan,Import,Fish,2015,1536948
+Asia,Jordan,Export,Fish,2015,0
+Asia,Jordan,Import,Crustaceans,2015,582
+Asia,Jordan,Import,Fish,2015,32383
+Asia,Kazakhstan,Export,Crustaceans,2015,32
+Asia,Kazakhstan,Export,Fish,2015,23487
+Asia,Kazakhstan,Import,Crustaceans,2015,881
+Asia,Kazakhstan,Import,Fish,2015,42243
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,2015,4005
+Asia,"Korea, Dem. People's Rep",Export,Fish,2015,13630
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,2015,463
+Asia,"Korea, Dem. People's Rep",Import,Fish,2015,34698
+Asia,"Korea, Republic of",Export,Crustaceans,2015,10359
+Asia,"Korea, Republic of",Export,Fish,2015,400625
+Asia,"Korea, Republic of",Import,Crustaceans,2015,126751
+Asia,"Korea, Republic of",Import,Fish,2015,891475
+Asia,Kuwait,Export,Crustaceans,2015,71
+Asia,Kuwait,Export,Fish,2015,172
+Asia,Kuwait,Import,Crustaceans,2015,5896
+Asia,Kuwait,Import,Fish,2015,32801
+Asia,Kyrgyzstan,Export,Crustaceans,2015,0
+Asia,Kyrgyzstan,Export,Fish,2015,29
+Asia,Kyrgyzstan,Import,Crustaceans,2015,3
+Asia,Kyrgyzstan,Import,Fish,2015,7062
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,2015,4
+Asia,Lao People's Dem. Rep.,Export,Fish,2015,2
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,2015,218
+Asia,Lao People's Dem. Rep.,Import,Fish,2015,4622
+Asia,Lebanon,Export,Crustaceans,2015,10
+Asia,Lebanon,Export,Fish,2015,663
+Asia,Lebanon,Import,Crustaceans,2015,2633
+Asia,Lebanon,Import,Fish,2015,27286
+Asia,Malaysia,Export,Crustaceans,2015,46384
+Asia,Malaysia,Export,Fish,2015,131126
+Asia,Malaysia,Import,Crustaceans,2015,37851
+Asia,Malaysia,Import,Fish,2015,317996
+Asia,Maldives,Export,Fish,2015,45409
+Asia,Maldives,Import,Crustaceans,2015,1025
+Asia,Maldives,Import,Fish,2015,1470
+Asia,Mongolia,Export,Crustaceans,2015,0
+Asia,Mongolia,Export,Fish,2015,93
+Asia,Mongolia,Import,Crustaceans,2015,4
+Asia,Mongolia,Import,Fish,2015,843
+Asia,Myanmar,Export,Crustaceans,2015,44343
+Asia,Myanmar,Export,Fish,2015,257910
+Asia,Myanmar,Import,Crustaceans,2015,3115
+Asia,Myanmar,Import,Fish,2015,13472
+Asia,Nepal,Export,Fish,2015,6
+Asia,Nepal,Import,Crustaceans,2015,5
+Asia,Nepal,Import,Fish,2015,7603
+Asia,Oman,Export,Crustaceans,2015,206
+Asia,Oman,Export,Fish,2015,96414
+Asia,Oman,Import,Crustaceans,2015,2011
+Asia,Oman,Import,Fish,2015,25463
+Asia,Pakistan,Export,Crustaceans,2015,15872
+Asia,Pakistan,Export,Fish,2015,114365
+Asia,Pakistan,Import,Crustaceans,2015,55
+Asia,Pakistan,Import,Fish,2015,8587
+Asia,"Palestine, Occupied Tr.",Export,Fish,2015,119
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,2015,28
+Asia,"Palestine, Occupied Tr.",Import,Fish,2015,4678
+Asia,Philippines,Export,Crustaceans,2015,24069
+Asia,Philippines,Export,Fish,2015,172880
+Asia,Philippines,Import,Crustaceans,2015,2926
+Asia,Philippines,Import,Fish,2015,310653
+Asia,Qatar,Export,Crustaceans,2015,7
+Asia,Qatar,Export,Fish,2015,1632
+Asia,Qatar,Import,Crustaceans,2015,4257
+Asia,Qatar,Import,Fish,2015,30833
+Asia,Saudi Arabia,Export,Crustaceans,2015,13215
+Asia,Saudi Arabia,Export,Fish,2015,20687
+Asia,Saudi Arabia,Import,Crustaceans,2015,13466
+Asia,Saudi Arabia,Import,Fish,2015,212109
+Asia,Singapore,Export,Crustaceans,2015,3973
+Asia,Singapore,Export,Fish,2015,30522
+Asia,Singapore,Import,Crustaceans,2015,34208
+Asia,Singapore,Import,Fish,2015,139075
+Asia,Sri Lanka,Export,Crustaceans,2015,3285
+Asia,Sri Lanka,Export,Fish,2015,12915
+Asia,Sri Lanka,Import,Crustaceans,2015,941
+Asia,Sri Lanka,Import,Fish,2015,117756
+Asia,Syrian Arab Republic,Export,Crustaceans,2015,0
+Asia,Syrian Arab Republic,Export,Fish,2015,41
+Asia,Syrian Arab Republic,Import,Crustaceans,2015,15
+Asia,Syrian Arab Republic,Import,Fish,2015,13904
+Asia,Taiwan Province of China,Export,Crustaceans,2015,2639
+Asia,Taiwan Province of China,Export,Fish,2015,628021
+Asia,Taiwan Province of China,Import,Crustaceans,2015,47427
+Asia,Taiwan Province of China,Import,Fish,2015,169382
+Asia,Tajikistan,Import,Crustaceans,2015,14
+Asia,Tajikistan,Import,Fish,2015,1855
+Asia,Thailand,Export,Crustaceans,2015,179340
+Asia,Thailand,Export,Fish,2015,1105444
+Asia,Thailand,Import,Crustaceans,2015,33942
+Asia,Thailand,Import,Fish,2015,1338007
+Asia,Timor-Leste,Export,Crustaceans,2015,15
+Asia,Timor-Leste,Export,Fish,2015,21
+Asia,Timor-Leste,Import,Crustaceans,2015,12
+Asia,Timor-Leste,Import,Fish,2015,2653
+Asia,Turkey,Export,Crustaceans,2015,1427
+Asia,Turkey,Export,Fish,2015,113548
+Asia,Turkey,Import,Crustaceans,2015,1913
+Asia,Turkey,Import,Fish,2015,103098
+Asia,Turkmenistan,Export,Crustaceans,2015,0
+Asia,Turkmenistan,Export,Fish,2015,0
+Asia,Turkmenistan,Import,Crustaceans,2015,15
+Asia,Turkmenistan,Import,Fish,2015,2603
+Asia,United Arab Emirates,Export,Crustaceans,2015,7532
+Asia,United Arab Emirates,Export,Fish,2015,9927
+Asia,United Arab Emirates,Import,Crustaceans,2015,36477
+Asia,United Arab Emirates,Import,Fish,2015,188892
+Asia,Uzbekistan,Export,Fish,2015,10
+Asia,Uzbekistan,Import,Crustaceans,2015,26
+Asia,Uzbekistan,Import,Fish,2015,7077
+Asia,Viet Nam,Export,Crustaceans,2015,370663
+Asia,Viet Nam,Export,Fish,2015,934163
+Asia,Viet Nam,Import,Crustaceans,2015,52492
+Asia,Viet Nam,Import,Fish,2015,205067
+Asia,Yemen,Export,Crustaceans,2015,878
+Asia,Yemen,Export,Fish,2015,47141
+Asia,Yemen,Import,Crustaceans,2015,53
+Asia,Yemen,Import,Fish,2015,10406

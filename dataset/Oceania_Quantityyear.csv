@@ -1,0 +1,993 @@
+Continent,Land Area,Trade flow,Commodity,yaer,Quantity
+Oceania,Australia,Export,Crustaceans,2000,29353
+Oceania,Australia,Export,Fish,2000,29558
+Oceania,Australia,Import,Crustaceans,2000,15943
+Oceania,Australia,Import,Fish,2000,101337
+Oceania,Cook Islands,Export,Fish,2000,14
+Oceania,Cook Islands,Import,Crustaceans,2000,4
+Oceania,Cook Islands,Import,Fish,2000,135
+Oceania,Fiji,Export,Crustaceans,2000,8
+Oceania,Fiji,Export,Fish,2000,10424
+Oceania,Fiji,Import,Crustaceans,2000,41
+Oceania,Fiji,Import,Fish,2000,8865
+Oceania,French Polynesia,Export,Crustaceans,2000,0
+Oceania,French Polynesia,Export,Fish,2000,1751
+Oceania,French Polynesia,Import,Crustaceans,2000,388
+Oceania,French Polynesia,Import,Fish,2000,1526
+Oceania,Kiribati,Export,Crustaceans,2000,2
+Oceania,Kiribati,Export,Fish,2000,7552
+Oceania,Kiribati,Import,Crustaceans,2000,22
+Oceania,Kiribati,Import,Fish,2000,372
+Oceania,Marshall Islands,Export,Crustaceans,2000,0
+Oceania,Marshall Islands,Export,Fish,2000,3989
+Oceania,Marshall Islands,Import,Crustaceans,2000,1
+Oceania,Marshall Islands,Import,Fish,2000,119
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2000,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2000,17398
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2000,7
+Oceania,"Micronesia, Fed.States of",Import,Fish,2000,1011
+Oceania,New Caledonia,Export,Crustaceans,2000,1253
+Oceania,New Caledonia,Export,Fish,2000,967
+Oceania,New Caledonia,Import,Crustaceans,2000,35
+Oceania,New Caledonia,Import,Fish,2000,1095
+Oceania,New Zealand,Export,Crustaceans,2000,3852
+Oceania,New Zealand,Export,Fish,2000,199170
+Oceania,New Zealand,Import,Crustaceans,2000,2202
+Oceania,New Zealand,Import,Fish,2000,13658
+Oceania,Palau,Export,Fish,2000,58
+Oceania,Palau,Import,Crustaceans,2000,2
+Oceania,Palau,Import,Fish,2000,62
+Oceania,Papua New Guinea,Export,Crustaceans,2000,1012
+Oceania,Papua New Guinea,Export,Fish,2000,27462
+Oceania,Papua New Guinea,Import,Crustaceans,2000,1
+Oceania,Papua New Guinea,Import,Fish,2000,8538
+Oceania,Samoa,Export,Crustaceans,2000,0
+Oceania,Samoa,Export,Fish,2000,2154
+Oceania,Samoa,Import,Crustaceans,2000,0
+Oceania,Samoa,Import,Fish,2000,7674
+Oceania,Solomon Islands,Export,Crustaceans,2000,3
+Oceania,Solomon Islands,Export,Fish,2000,13567
+Oceania,Solomon Islands,Import,Crustaceans,2000,16
+Oceania,Solomon Islands,Import,Fish,2000,101
+Oceania,Tonga,Export,Crustaceans,2000,131
+Oceania,Tonga,Export,Fish,2000,993
+Oceania,Tonga,Import,Crustaceans,2000,39
+Oceania,Tonga,Import,Fish,2000,628
+Oceania,Tuvalu,Export,Crustaceans,2000,3
+Oceania,Tuvalu,Export,Fish,2000,100
+Oceania,Tuvalu,Import,Crustaceans,2000,0
+Oceania,Tuvalu,Import,Fish,2000,5
+Oceania,Vanuatu,Export,Crustaceans,2000,2
+Oceania,Vanuatu,Export,Fish,2000,54825
+Oceania,Vanuatu,Import,Crustaceans,2000,10
+Oceania,Vanuatu,Import,Fish,2000,978
+Oceania,Australia,Export,Crustaceans,2001,28925
+Oceania,Australia,Export,Fish,2001,32528
+Oceania,Australia,Import,Crustaceans,2001,18574
+Oceania,Australia,Import,Fish,2001,109051
+Oceania,Cook Islands,Export,Fish,2001,6
+Oceania,Cook Islands,Import,Crustaceans,2001,5
+Oceania,Cook Islands,Import,Fish,2001,52
+Oceania,Fiji,Export,Crustaceans,2001,20
+Oceania,Fiji,Export,Fish,2001,13120
+Oceania,Fiji,Import,Crustaceans,2001,165
+Oceania,Fiji,Import,Fish,2001,16129
+Oceania,French Polynesia,Export,Crustaceans,2001,0
+Oceania,French Polynesia,Export,Fish,2001,2801
+Oceania,French Polynesia,Import,Crustaceans,2001,379
+Oceania,French Polynesia,Import,Fish,2001,1575
+Oceania,Kiribati,Export,Crustaceans,2001,5
+Oceania,Kiribati,Export,Fish,2001,3511
+Oceania,Kiribati,Import,Crustaceans,2001,0
+Oceania,Kiribati,Import,Fish,2001,189
+Oceania,Marshall Islands,Export,Crustaceans,2001,0
+Oceania,Marshall Islands,Export,Fish,2001,11130
+Oceania,Marshall Islands,Import,Crustaceans,2001,2
+Oceania,Marshall Islands,Import,Fish,2001,101
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2001,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2001,14290
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2001,2
+Oceania,"Micronesia, Fed.States of",Import,Fish,2001,1412
+Oceania,New Caledonia,Export,Crustaceans,2001,1755
+Oceania,New Caledonia,Export,Fish,2001,1140
+Oceania,New Caledonia,Import,Crustaceans,2001,34
+Oceania,New Caledonia,Import,Fish,2001,1432
+Oceania,New Zealand,Export,Crustaceans,2001,3043
+Oceania,New Zealand,Export,Fish,2001,196943
+Oceania,New Zealand,Import,Crustaceans,2001,1766
+Oceania,New Zealand,Import,Fish,2001,13931
+Oceania,Palau,Export,Fish,2001,74
+Oceania,Palau,Import,Crustaceans,2001,4
+Oceania,Palau,Import,Fish,2001,86
+Oceania,Papua New Guinea,Export,Crustaceans,2001,1151
+Oceania,Papua New Guinea,Export,Fish,2001,37058
+Oceania,Papua New Guinea,Import,Crustaceans,2001,183
+Oceania,Papua New Guinea,Import,Fish,2001,7025
+Oceania,Samoa,Export,Crustaceans,2001,1
+Oceania,Samoa,Export,Fish,2001,1538
+Oceania,Samoa,Import,Crustaceans,2001,11
+Oceania,Samoa,Import,Fish,2001,4451
+Oceania,Solomon Islands,Export,Crustaceans,2001,4
+Oceania,Solomon Islands,Export,Fish,2001,12521
+Oceania,Solomon Islands,Import,Crustaceans,2001,1
+Oceania,Solomon Islands,Import,Fish,2001,334
+Oceania,Tonga,Export,Crustaceans,2001,0
+Oceania,Tonga,Export,Fish,2001,346
+Oceania,Tonga,Import,Crustaceans,2001,23
+Oceania,Tonga,Import,Fish,2001,837
+Oceania,Tuvalu,Export,Crustaceans,2001,0
+Oceania,Tuvalu,Export,Fish,2001,100
+Oceania,Tuvalu,Import,Crustaceans,2001,0
+Oceania,Tuvalu,Import,Fish,2001,0
+Oceania,Vanuatu,Export,Crustaceans,2001,1
+Oceania,Vanuatu,Export,Fish,2001,27281
+Oceania,Vanuatu,Import,Crustaceans,2001,3
+Oceania,Vanuatu,Import,Fish,2001,457
+Oceania,Australia,Export,Crustaceans,2002,24458
+Oceania,Australia,Export,Fish,2002,33459
+Oceania,Australia,Import,Crustaceans,2002,18457
+Oceania,Australia,Import,Fish,2002,112850
+Oceania,Cook Islands,Export,Fish,2002,631
+Oceania,Cook Islands,Import,Crustaceans,2002,3
+Oceania,Cook Islands,Import,Fish,2002,23
+Oceania,Fiji,Export,Crustaceans,2002,8
+Oceania,Fiji,Export,Fish,2002,15091
+Oceania,Fiji,Import,Crustaceans,2002,112
+Oceania,Fiji,Import,Fish,2002,19515
+Oceania,French Polynesia,Export,Crustaceans,2002,0
+Oceania,French Polynesia,Export,Fish,2002,1919
+Oceania,French Polynesia,Import,Crustaceans,2002,473
+Oceania,French Polynesia,Import,Fish,2002,1500
+Oceania,Kiribati,Export,Crustaceans,2002,7
+Oceania,Kiribati,Export,Fish,2002,4900
+Oceania,Kiribati,Import,Crustaceans,2002,0
+Oceania,Kiribati,Import,Fish,2002,301
+Oceania,Marshall Islands,Export,Crustaceans,2002,22
+Oceania,Marshall Islands,Export,Fish,2002,16476
+Oceania,Marshall Islands,Import,Crustaceans,2002,3
+Oceania,Marshall Islands,Import,Fish,2002,186
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2002,2
+Oceania,"Micronesia, Fed.States of",Export,Fish,2002,16975
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2002,0
+Oceania,"Micronesia, Fed.States of",Import,Fish,2002,1136
+Oceania,New Caledonia,Export,Crustaceans,2002,1411
+Oceania,New Caledonia,Export,Fish,2002,1102
+Oceania,New Caledonia,Import,Crustaceans,2002,26
+Oceania,New Caledonia,Import,Fish,2002,1134
+Oceania,New Zealand,Export,Crustaceans,2002,3043
+Oceania,New Zealand,Export,Fish,2002,211210
+Oceania,New Zealand,Import,Crustaceans,2002,2261
+Oceania,New Zealand,Import,Fish,2002,12989
+Oceania,Palau,Export,Fish,2002,40
+Oceania,Palau,Import,Crustaceans,2002,2
+Oceania,Palau,Import,Fish,2002,109
+Oceania,Papua New Guinea,Export,Crustaceans,2002,739
+Oceania,Papua New Guinea,Export,Fish,2002,43133
+Oceania,Papua New Guinea,Import,Crustaceans,2002,25
+Oceania,Papua New Guinea,Import,Fish,2002,10763
+Oceania,Samoa,Export,Crustaceans,2002,0
+Oceania,Samoa,Export,Fish,2002,1573
+Oceania,Samoa,Import,Crustaceans,2002,11
+Oceania,Samoa,Import,Fish,2002,4310
+Oceania,Solomon Islands,Export,Crustaceans,2002,0
+Oceania,Solomon Islands,Export,Fish,2002,12199
+Oceania,Solomon Islands,Import,Crustaceans,2002,2
+Oceania,Solomon Islands,Import,Fish,2002,587
+Oceania,Tonga,Export,Crustaceans,2002,36
+Oceania,Tonga,Export,Fish,2002,2550
+Oceania,Tonga,Import,Crustaceans,2002,15
+Oceania,Tonga,Import,Fish,2002,800
+Oceania,Tuvalu,Export,Crustaceans,2002,0
+Oceania,Tuvalu,Export,Fish,2002,395
+Oceania,Tuvalu,Import,Crustaceans,2002,0
+Oceania,Tuvalu,Import,Fish,2002,19
+Oceania,Vanuatu,Export,Crustaceans,2002,0
+Oceania,Vanuatu,Export,Fish,2002,34308
+Oceania,Vanuatu,Import,Crustaceans,2002,3
+Oceania,Vanuatu,Import,Fish,2002,513
+Oceania,Australia,Export,Crustaceans,2003,24004
+Oceania,Australia,Export,Fish,2003,29571
+Oceania,Australia,Import,Crustaceans,2003,24757
+Oceania,Australia,Import,Fish,2003,125541
+Oceania,Cook Islands,Export,Fish,2003,771
+Oceania,Cook Islands,Import,Crustaceans,2003,3
+Oceania,Cook Islands,Import,Fish,2003,194
+Oceania,Fiji,Export,Crustaceans,2003,8
+Oceania,Fiji,Export,Fish,2003,17530
+Oceania,Fiji,Import,Crustaceans,2003,126
+Oceania,Fiji,Import,Fish,2003,35085
+Oceania,French Polynesia,Export,Crustaceans,2003,0
+Oceania,French Polynesia,Export,Fish,2003,1211
+Oceania,French Polynesia,Import,Crustaceans,2003,606
+Oceania,French Polynesia,Import,Fish,2003,1574
+Oceania,Kiribati,Export,Crustaceans,2003,5
+Oceania,Kiribati,Export,Fish,2003,4111
+Oceania,Kiribati,Import,Crustaceans,2003,2
+Oceania,Kiribati,Import,Fish,2003,550
+Oceania,Marshall Islands,Export,Crustaceans,2003,0
+Oceania,Marshall Islands,Export,Fish,2003,14985
+Oceania,Marshall Islands,Import,Crustaceans,2003,2
+Oceania,Marshall Islands,Import,Fish,2003,247
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2003,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2003,25431
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2003,0
+Oceania,"Micronesia, Fed.States of",Import,Fish,2003,1571
+Oceania,New Caledonia,Export,Crustaceans,2003,1284
+Oceania,New Caledonia,Export,Fish,2003,1650
+Oceania,New Caledonia,Import,Crustaceans,2003,29
+Oceania,New Caledonia,Import,Fish,2003,1354
+Oceania,New Zealand,Export,Crustaceans,2003,2923
+Oceania,New Zealand,Export,Fish,2003,196075
+Oceania,New Zealand,Import,Crustaceans,2003,2352
+Oceania,New Zealand,Import,Fish,2003,12523
+Oceania,Palau,Export,Fish,2003,17
+Oceania,Palau,Import,Crustaceans,2003,0
+Oceania,Palau,Import,Fish,2003,100
+Oceania,Papua New Guinea,Export,Crustaceans,2003,811
+Oceania,Papua New Guinea,Export,Fish,2003,58373
+Oceania,Papua New Guinea,Import,Crustaceans,2003,6
+Oceania,Papua New Guinea,Import,Fish,2003,12244
+Oceania,Samoa,Export,Crustaceans,2003,0
+Oceania,Samoa,Export,Fish,2003,874
+Oceania,Samoa,Import,Crustaceans,2003,41
+Oceania,Samoa,Import,Fish,2003,5545
+Oceania,Solomon Islands,Export,Crustaceans,2003,1
+Oceania,Solomon Islands,Export,Fish,2003,20721
+Oceania,Solomon Islands,Import,Crustaceans,2003,1
+Oceania,Solomon Islands,Import,Fish,2003,213
+Oceania,Tonga,Export,Crustaceans,2003,12
+Oceania,Tonga,Export,Fish,2003,2363
+Oceania,Tonga,Import,Crustaceans,2003,19
+Oceania,Tonga,Import,Fish,2003,858
+Oceania,Tuvalu,Export,Crustaceans,2003,0
+Oceania,Tuvalu,Export,Fish,2003,640
+Oceania,Tuvalu,Import,Crustaceans,2003,0
+Oceania,Tuvalu,Import,Fish,2003,12
+Oceania,Vanuatu,Export,Crustaceans,2003,1
+Oceania,Vanuatu,Export,Fish,2003,44786
+Oceania,Vanuatu,Import,Crustaceans,2003,2
+Oceania,Vanuatu,Import,Fish,2003,1253
+Oceania,Australia,Export,Crustaceans,2004,25430
+Oceania,Australia,Export,Fish,2004,26403
+Oceania,Australia,Import,Crustaceans,2004,28040
+Oceania,Australia,Import,Fish,2004,151767
+Oceania,Cook Islands,Export,Fish,2004,464
+Oceania,Cook Islands,Import,Crustaceans,2004,2
+Oceania,Cook Islands,Import,Fish,2004,49
+Oceania,Fiji,Export,Crustaceans,2004,1
+Oceania,Fiji,Export,Fish,2004,19452
+Oceania,Fiji,Import,Crustaceans,2004,177
+Oceania,Fiji,Import,Fish,2004,37262
+Oceania,French Polynesia,Export,Crustaceans,2004,0
+Oceania,French Polynesia,Export,Fish,2004,770
+Oceania,French Polynesia,Import,Crustaceans,2004,579
+Oceania,French Polynesia,Import,Fish,2004,1604
+Oceania,Kiribati,Export,Crustaceans,2004,1
+Oceania,Kiribati,Export,Fish,2004,4531
+Oceania,Kiribati,Import,Crustaceans,2004,0
+Oceania,Kiribati,Import,Fish,2004,303
+Oceania,Marshall Islands,Export,Crustaceans,2004,0
+Oceania,Marshall Islands,Export,Fish,2004,21620
+Oceania,Marshall Islands,Import,Crustaceans,2004,18
+Oceania,Marshall Islands,Import,Fish,2004,339
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2004,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2004,23227
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2004,16
+Oceania,"Micronesia, Fed.States of",Import,Fish,2004,1506
+Oceania,New Caledonia,Export,Crustaceans,2004,1516
+Oceania,New Caledonia,Export,Fish,2004,1124
+Oceania,New Caledonia,Import,Crustaceans,2004,27
+Oceania,New Caledonia,Import,Fish,2004,1255
+Oceania,New Zealand,Export,Crustaceans,2004,2575
+Oceania,New Zealand,Export,Fish,2004,198071
+Oceania,New Zealand,Import,Crustaceans,2004,2788
+Oceania,New Zealand,Import,Fish,2004,13182
+Oceania,Palau,Export,Fish,2004,14
+Oceania,Palau,Import,Crustaceans,2004,11
+Oceania,Palau,Import,Fish,2004,107
+Oceania,Papua New Guinea,Export,Crustaceans,2004,478
+Oceania,Papua New Guinea,Export,Fish,2004,39598
+Oceania,Papua New Guinea,Import,Crustaceans,2004,9
+Oceania,Papua New Guinea,Import,Fish,2004,13716
+Oceania,Samoa,Export,Crustaceans,2004,0
+Oceania,Samoa,Export,Fish,2004,1959
+Oceania,Samoa,Import,Crustaceans,2004,47
+Oceania,Samoa,Import,Fish,2004,3325
+Oceania,Solomon Islands,Export,Crustaceans,2004,0
+Oceania,Solomon Islands,Export,Fish,2004,17487
+Oceania,Solomon Islands,Import,Crustaceans,2004,6
+Oceania,Solomon Islands,Import,Fish,2004,508
+Oceania,Tonga,Export,Crustaceans,2004,23
+Oceania,Tonga,Export,Fish,2004,826
+Oceania,Tonga,Import,Crustaceans,2004,15
+Oceania,Tonga,Import,Fish,2004,1041
+Oceania,Tuvalu,Export,Crustaceans,2004,0
+Oceania,Tuvalu,Export,Fish,2004,1501
+Oceania,Tuvalu,Import,Crustaceans,2004,0
+Oceania,Tuvalu,Import,Fish,2004,36
+Oceania,Vanuatu,Export,Crustaceans,2004,0
+Oceania,Vanuatu,Export,Fish,2004,63509
+Oceania,Vanuatu,Import,Crustaceans,2004,6
+Oceania,Vanuatu,Import,Fish,2004,864
+Oceania,Australia,Export,Crustaceans,2005,23858
+Oceania,Australia,Export,Fish,2005,26100
+Oceania,Australia,Import,Crustaceans,2005,31343
+Oceania,Australia,Import,Fish,2005,125529
+Oceania,Cook Islands,Export,Fish,2005,1265
+Oceania,Cook Islands,Import,Crustaceans,2005,6
+Oceania,Cook Islands,Import,Fish,2005,151
+Oceania,Fiji,Export,Crustaceans,2005,16
+Oceania,Fiji,Export,Fish,2005,21187
+Oceania,Fiji,Import,Crustaceans,2005,183
+Oceania,Fiji,Import,Fish,2005,33738
+Oceania,French Polynesia,Export,Crustaceans,2005,0
+Oceania,French Polynesia,Export,Fish,2005,586
+Oceania,French Polynesia,Import,Crustaceans,2005,712
+Oceania,French Polynesia,Import,Fish,2005,1974
+Oceania,Kiribati,Export,Crustaceans,2005,16
+Oceania,Kiribati,Export,Fish,2005,5864
+Oceania,Kiribati,Import,Crustaceans,2005,0
+Oceania,Kiribati,Import,Fish,2005,598
+Oceania,Marshall Islands,Export,Crustaceans,2005,0
+Oceania,Marshall Islands,Export,Fish,2005,25528
+Oceania,Marshall Islands,Import,Crustaceans,2005,0
+Oceania,Marshall Islands,Import,Fish,2005,267
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2005,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2005,23233
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2005,4
+Oceania,"Micronesia, Fed.States of",Import,Fish,2005,1170
+Oceania,New Caledonia,Export,Crustaceans,2005,1712
+Oceania,New Caledonia,Export,Fish,2005,1181
+Oceania,New Caledonia,Import,Crustaceans,2005,46
+Oceania,New Caledonia,Import,Fish,2005,1309
+Oceania,New Zealand,Export,Crustaceans,2005,3143
+Oceania,New Zealand,Export,Fish,2005,194841
+Oceania,New Zealand,Import,Crustaceans,2005,3773
+Oceania,New Zealand,Import,Fish,2005,15708
+Oceania,Palau,Export,Fish,2005,109
+Oceania,Palau,Import,Crustaceans,2005,1
+Oceania,Palau,Import,Fish,2005,110
+Oceania,Papua New Guinea,Export,Crustaceans,2005,689
+Oceania,Papua New Guinea,Export,Fish,2005,36751
+Oceania,Papua New Guinea,Import,Crustaceans,2005,3
+Oceania,Papua New Guinea,Import,Fish,2005,14183
+Oceania,Samoa,Export,Crustaceans,2005,0
+Oceania,Samoa,Export,Fish,2005,1191
+Oceania,Samoa,Import,Crustaceans,2005,39
+Oceania,Samoa,Import,Fish,2005,2165
+Oceania,Solomon Islands,Export,Crustaceans,2005,1
+Oceania,Solomon Islands,Export,Fish,2005,13929
+Oceania,Solomon Islands,Import,Crustaceans,2005,3
+Oceania,Solomon Islands,Import,Fish,2005,475
+Oceania,Tonga,Export,Crustaceans,2005,0
+Oceania,Tonga,Export,Fish,2005,746
+Oceania,Tonga,Import,Crustaceans,2005,19
+Oceania,Tonga,Import,Fish,2005,873
+Oceania,Tuvalu,Export,Crustaceans,2005,0
+Oceania,Tuvalu,Export,Fish,2005,1640
+Oceania,Tuvalu,Import,Crustaceans,2005,0
+Oceania,Tuvalu,Import,Fish,2005,36
+Oceania,Vanuatu,Export,Crustaceans,2005,0
+Oceania,Vanuatu,Export,Fish,2005,79032
+Oceania,Vanuatu,Import,Crustaceans,2005,5
+Oceania,Vanuatu,Import,Fish,2005,972
+Oceania,Australia,Export,Crustaceans,2006,20850
+Oceania,Australia,Export,Fish,2006,24380
+Oceania,Australia,Import,Crustaceans,2006,35451
+Oceania,Australia,Import,Fish,2006,130210
+Oceania,Cook Islands,Export,Fish,2006,740
+Oceania,Cook Islands,Import,Crustaceans,2006,6
+Oceania,Cook Islands,Import,Fish,2006,93
+Oceania,Fiji,Export,Crustaceans,2006,2
+Oceania,Fiji,Export,Fish,2006,23961
+Oceania,Fiji,Import,Crustaceans,2006,163
+Oceania,Fiji,Import,Fish,2006,23523
+Oceania,French Polynesia,Export,Crustaceans,2006,0
+Oceania,French Polynesia,Export,Fish,2006,634
+Oceania,French Polynesia,Import,Crustaceans,2006,729
+Oceania,French Polynesia,Import,Fish,2006,1543
+Oceania,Kiribati,Export,Crustaceans,2006,6
+Oceania,Kiribati,Export,Fish,2006,5076
+Oceania,Kiribati,Import,Crustaceans,2006,3
+Oceania,Kiribati,Import,Fish,2006,349
+Oceania,Marshall Islands,Export,Crustaceans,2006,0
+Oceania,Marshall Islands,Export,Fish,2006,15170
+Oceania,Marshall Islands,Import,Crustaceans,2006,0
+Oceania,Marshall Islands,Import,Fish,2006,392
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2006,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2006,8667
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2006,0
+Oceania,"Micronesia, Fed.States of",Import,Fish,2006,928
+Oceania,New Caledonia,Export,Crustaceans,2006,1789
+Oceania,New Caledonia,Export,Fish,2006,631
+Oceania,New Caledonia,Import,Crustaceans,2006,34
+Oceania,New Caledonia,Import,Fish,2006,1407
+Oceania,New Zealand,Export,Crustaceans,2006,3263
+Oceania,New Zealand,Export,Fish,2006,192943
+Oceania,New Zealand,Import,Crustaceans,2006,3983
+Oceania,New Zealand,Import,Fish,2006,16276
+Oceania,Palau,Export,Fish,2006,221
+Oceania,Palau,Import,Crustaceans,2006,33
+Oceania,Palau,Import,Fish,2006,187
+Oceania,Papua New Guinea,Export,Crustaceans,2006,450
+Oceania,Papua New Guinea,Export,Fish,2006,52804
+Oceania,Papua New Guinea,Import,Crustaceans,2006,4
+Oceania,Papua New Guinea,Import,Fish,2006,14496
+Oceania,Samoa,Export,Crustaceans,2006,0
+Oceania,Samoa,Export,Fish,2006,1769
+Oceania,Samoa,Import,Crustaceans,2006,124
+Oceania,Samoa,Import,Fish,2006,2761
+Oceania,Solomon Islands,Export,Crustaceans,2006,1
+Oceania,Solomon Islands,Export,Fish,2006,21373
+Oceania,Solomon Islands,Import,Crustaceans,2006,20
+Oceania,Solomon Islands,Import,Fish,2006,1300
+Oceania,Tonga,Export,Crustaceans,2006,1
+Oceania,Tonga,Export,Fish,2006,1036
+Oceania,Tonga,Import,Crustaceans,2006,16
+Oceania,Tonga,Import,Fish,2006,620
+Oceania,Tuvalu,Export,Crustaceans,2006,0
+Oceania,Tuvalu,Export,Fish,2006,1980
+Oceania,Tuvalu,Import,Crustaceans,2006,0
+Oceania,Tuvalu,Import,Fish,2006,16
+Oceania,Vanuatu,Export,Crustaceans,2006,0
+Oceania,Vanuatu,Export,Fish,2006,69305
+Oceania,Vanuatu,Import,Crustaceans,2006,6
+Oceania,Vanuatu,Import,Fish,2006,1371
+Oceania,Australia,Export,Crustaceans,2007,16082
+Oceania,Australia,Export,Fish,2007,23644
+Oceania,Australia,Import,Crustaceans,2007,33645
+Oceania,Australia,Import,Fish,2007,135254
+Oceania,Cook Islands,Export,Fish,2007,900
+Oceania,Cook Islands,Import,Crustaceans,2007,10
+Oceania,Cook Islands,Import,Fish,2007,152
+Oceania,Fiji,Export,Crustaceans,2007,0
+Oceania,Fiji,Export,Fish,2007,28892
+Oceania,Fiji,Import,Crustaceans,2007,198
+Oceania,Fiji,Import,Fish,2007,23710
+Oceania,French Polynesia,Export,Crustaceans,2007,0
+Oceania,French Polynesia,Export,Fish,2007,857
+Oceania,French Polynesia,Import,Crustaceans,2007,848
+Oceania,French Polynesia,Import,Fish,2007,1762
+Oceania,Kiribati,Export,Crustaceans,2007,0
+Oceania,Kiribati,Export,Fish,2007,12241
+Oceania,Kiribati,Import,Crustaceans,2007,4
+Oceania,Kiribati,Import,Fish,2007,307
+Oceania,Marshall Islands,Export,Crustaceans,2007,5
+Oceania,Marshall Islands,Export,Fish,2007,20366
+Oceania,Marshall Islands,Import,Crustaceans,2007,0
+Oceania,Marshall Islands,Import,Fish,2007,410
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2007,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2007,12933
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2007,1
+Oceania,"Micronesia, Fed.States of",Import,Fish,2007,933
+Oceania,New Caledonia,Export,Crustaceans,2007,1307
+Oceania,New Caledonia,Export,Fish,2007,665
+Oceania,New Caledonia,Import,Crustaceans,2007,52
+Oceania,New Caledonia,Import,Fish,2007,1479
+Oceania,New Zealand,Export,Crustaceans,2007,3089
+Oceania,New Zealand,Export,Fish,2007,190425
+Oceania,New Zealand,Import,Crustaceans,2007,4980
+Oceania,New Zealand,Import,Fish,2007,18764
+Oceania,Palau,Export,Fish,2007,292
+Oceania,Palau,Import,Crustaceans,2007,53
+Oceania,Palau,Import,Fish,2007,341
+Oceania,Papua New Guinea,Export,Crustaceans,2007,521
+Oceania,Papua New Guinea,Export,Fish,2007,59480
+Oceania,Papua New Guinea,Import,Crustaceans,2007,4
+Oceania,Papua New Guinea,Import,Fish,2007,19067
+Oceania,Samoa,Export,Crustaceans,2007,0
+Oceania,Samoa,Export,Fish,2007,2711
+Oceania,Samoa,Import,Crustaceans,2007,107
+Oceania,Samoa,Import,Fish,2007,3283
+Oceania,Solomon Islands,Export,Crustaceans,2007,4
+Oceania,Solomon Islands,Export,Fish,2007,13793
+Oceania,Solomon Islands,Import,Crustaceans,2007,13
+Oceania,Solomon Islands,Import,Fish,2007,1778
+Oceania,Tonga,Export,Crustaceans,2007,0
+Oceania,Tonga,Export,Fish,2007,1004
+Oceania,Tonga,Import,Crustaceans,2007,24
+Oceania,Tonga,Import,Fish,2007,1126
+Oceania,Tuvalu,Export,Crustaceans,2007,0
+Oceania,Tuvalu,Export,Fish,2007,2320
+Oceania,Tuvalu,Import,Crustaceans,2007,0
+Oceania,Tuvalu,Import,Fish,2007,29
+Oceania,Vanuatu,Export,Crustaceans,2007,0
+Oceania,Vanuatu,Export,Fish,2007,71873
+Oceania,Vanuatu,Import,Crustaceans,2007,17
+Oceania,Vanuatu,Import,Fish,2007,1461
+Oceania,Australia,Export,Crustaceans,2008,16667
+Oceania,Australia,Export,Fish,2008,23162
+Oceania,Australia,Import,Crustaceans,2008,28739
+Oceania,Australia,Import,Fish,2008,140530
+Oceania,Cook Islands,Export,Fish,2008,500
+Oceania,Cook Islands,Import,Crustaceans,2008,24
+Oceania,Cook Islands,Import,Fish,2008,99
+Oceania,Fiji,Export,Crustaceans,2008,0
+Oceania,Fiji,Export,Fish,2008,36823
+Oceania,Fiji,Import,Crustaceans,2008,157
+Oceania,Fiji,Import,Fish,2008,24446
+Oceania,French Polynesia,Export,Crustaceans,2008,0
+Oceania,French Polynesia,Export,Fish,2008,442
+Oceania,French Polynesia,Import,Crustaceans,2008,719
+Oceania,French Polynesia,Import,Fish,2008,1877
+Oceania,Kiribati,Export,Crustaceans,2008,0
+Oceania,Kiribati,Export,Fish,2008,12598
+Oceania,Kiribati,Import,Crustaceans,2008,0
+Oceania,Kiribati,Import,Fish,2008,285
+Oceania,Marshall Islands,Export,Crustaceans,2008,0
+Oceania,Marshall Islands,Export,Fish,2008,25489
+Oceania,Marshall Islands,Import,Crustaceans,2008,0
+Oceania,Marshall Islands,Import,Fish,2008,447
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2008,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2008,16481
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2008,1
+Oceania,"Micronesia, Fed.States of",Import,Fish,2008,1064
+Oceania,New Caledonia,Export,Crustaceans,2008,1297
+Oceania,New Caledonia,Export,Fish,2008,735
+Oceania,New Caledonia,Import,Crustaceans,2008,61
+Oceania,New Caledonia,Import,Fish,2008,1822
+Oceania,New Zealand,Export,Crustaceans,2008,3126
+Oceania,New Zealand,Export,Fish,2008,175139
+Oceania,New Zealand,Import,Crustaceans,2008,4336
+Oceania,New Zealand,Import,Fish,2008,20411
+Oceania,Palau,Export,Fish,2008,151
+Oceania,Palau,Import,Crustaceans,2008,35
+Oceania,Palau,Import,Fish,2008,371
+Oceania,Papua New Guinea,Export,Crustaceans,2008,474
+Oceania,Papua New Guinea,Export,Fish,2008,49821
+Oceania,Papua New Guinea,Import,Crustaceans,2008,5
+Oceania,Papua New Guinea,Import,Fish,2008,17837
+Oceania,Samoa,Export,Crustaceans,2008,1
+Oceania,Samoa,Export,Fish,2008,3713
+Oceania,Samoa,Import,Crustaceans,2008,116
+Oceania,Samoa,Import,Fish,2008,4478
+Oceania,Solomon Islands,Export,Crustaceans,2008,6
+Oceania,Solomon Islands,Export,Fish,2008,12144
+Oceania,Solomon Islands,Import,Crustaceans,2008,0
+Oceania,Solomon Islands,Import,Fish,2008,1204
+Oceania,Tonga,Export,Crustaceans,2008,2
+Oceania,Tonga,Export,Fish,2008,434
+Oceania,Tonga,Import,Crustaceans,2008,61
+Oceania,Tonga,Import,Fish,2008,774
+Oceania,Tuvalu,Export,Crustaceans,2008,0
+Oceania,Tuvalu,Export,Fish,2008,2674
+Oceania,Tuvalu,Import,Crustaceans,2008,1
+Oceania,Tuvalu,Import,Fish,2008,44
+Oceania,Vanuatu,Export,Crustaceans,2008,0
+Oceania,Vanuatu,Export,Fish,2008,48308
+Oceania,Vanuatu,Import,Crustaceans,2008,17
+Oceania,Vanuatu,Import,Fish,2008,1735
+Oceania,Australia,Export,Crustaceans,2009,14340
+Oceania,Australia,Export,Fish,2009,24818
+Oceania,Australia,Import,Crustaceans,2009,33435
+Oceania,Australia,Import,Fish,2009,131452
+Oceania,Cook Islands,Export,Fish,2009,400
+Oceania,Cook Islands,Import,Crustaceans,2009,25
+Oceania,Cook Islands,Import,Fish,2009,95
+Oceania,Fiji,Export,Crustaceans,2009,0
+Oceania,Fiji,Export,Fish,2009,31993
+Oceania,Fiji,Import,Crustaceans,2009,155
+Oceania,Fiji,Import,Fish,2009,22607
+Oceania,French Polynesia,Export,Crustaceans,2009,0
+Oceania,French Polynesia,Export,Fish,2009,793
+Oceania,French Polynesia,Import,Crustaceans,2009,806
+Oceania,French Polynesia,Import,Fish,2009,1784
+Oceania,Kiribati,Export,Crustaceans,2009,0
+Oceania,Kiribati,Export,Fish,2009,23550
+Oceania,Kiribati,Import,Crustaceans,2009,0
+Oceania,Kiribati,Import,Fish,2009,549
+Oceania,Marshall Islands,Export,Crustaceans,2009,1
+Oceania,Marshall Islands,Export,Fish,2009,36006
+Oceania,Marshall Islands,Import,Crustaceans,2009,0
+Oceania,Marshall Islands,Import,Fish,2009,716
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2009,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2009,16694
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2009,1
+Oceania,"Micronesia, Fed.States of",Import,Fish,2009,1046
+Oceania,New Caledonia,Export,Crustaceans,2009,1079
+Oceania,New Caledonia,Export,Fish,2009,961
+Oceania,New Caledonia,Import,Crustaceans,2009,38
+Oceania,New Caledonia,Import,Fish,2009,1416
+Oceania,New Zealand,Export,Crustaceans,2009,2981
+Oceania,New Zealand,Export,Fish,2009,185387
+Oceania,New Zealand,Import,Crustaceans,2009,3736
+Oceania,New Zealand,Import,Fish,2009,19385
+Oceania,Palau,Export,Fish,2009,124
+Oceania,Palau,Import,Crustaceans,2009,36
+Oceania,Palau,Import,Fish,2009,346
+Oceania,Papua New Guinea,Export,Crustaceans,2009,239
+Oceania,Papua New Guinea,Export,Fish,2009,45974
+Oceania,Papua New Guinea,Import,Crustaceans,2009,17
+Oceania,Papua New Guinea,Import,Fish,2009,18411
+Oceania,Samoa,Export,Crustaceans,2009,0
+Oceania,Samoa,Export,Fish,2009,3364
+Oceania,Samoa,Import,Crustaceans,2009,59
+Oceania,Samoa,Import,Fish,2009,3445
+Oceania,Solomon Islands,Export,Crustaceans,2009,3
+Oceania,Solomon Islands,Export,Fish,2009,13851
+Oceania,Solomon Islands,Import,Crustaceans,2009,0
+Oceania,Solomon Islands,Import,Fish,2009,1024
+Oceania,Tonga,Export,Crustaceans,2009,0
+Oceania,Tonga,Export,Fish,2009,224
+Oceania,Tonga,Import,Crustaceans,2009,66
+Oceania,Tonga,Import,Fish,2009,1087
+Oceania,Tuvalu,Export,Crustaceans,2009,0
+Oceania,Tuvalu,Export,Fish,2009,2970
+Oceania,Tuvalu,Import,Crustaceans,2009,0
+Oceania,Tuvalu,Import,Fish,2009,21
+Oceania,Vanuatu,Export,Crustaceans,2009,0
+Oceania,Vanuatu,Export,Fish,2009,48011
+Oceania,Vanuatu,Import,Crustaceans,2009,28
+Oceania,Vanuatu,Import,Fish,2009,1687
+Oceania,Australia,Export,Crustaceans,2010,14396
+Oceania,Australia,Export,Fish,2010,22341
+Oceania,Australia,Import,Crustaceans,2010,35934
+Oceania,Australia,Import,Fish,2010,144639
+Oceania,Cook Islands,Export,Fish,2010,1300
+Oceania,Cook Islands,Import,Crustaceans,2010,30
+Oceania,Cook Islands,Import,Fish,2010,129
+Oceania,Fiji,Export,Crustaceans,2010,5
+Oceania,Fiji,Export,Fish,2010,43782
+Oceania,Fiji,Import,Crustaceans,2010,242
+Oceania,Fiji,Import,Fish,2010,37943
+Oceania,French Polynesia,Export,Crustaceans,2010,0
+Oceania,French Polynesia,Export,Fish,2010,943
+Oceania,French Polynesia,Import,Crustaceans,2010,758
+Oceania,French Polynesia,Import,Fish,2010,1696
+Oceania,Kiribati,Export,Crustaceans,2010,0
+Oceania,Kiribati,Export,Fish,2010,26819
+Oceania,Kiribati,Import,Crustaceans,2010,0
+Oceania,Kiribati,Import,Fish,2010,462
+Oceania,Marshall Islands,Export,Crustaceans,2010,1
+Oceania,Marshall Islands,Export,Fish,2010,40122
+Oceania,Marshall Islands,Import,Crustaceans,2010,100
+Oceania,Marshall Islands,Import,Fish,2010,1301
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2010,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2010,19350
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2010,0
+Oceania,"Micronesia, Fed.States of",Import,Fish,2010,1613
+Oceania,New Caledonia,Export,Crustaceans,2010,746
+Oceania,New Caledonia,Export,Fish,2010,1139
+Oceania,New Caledonia,Import,Crustaceans,2010,38
+Oceania,New Caledonia,Import,Fish,2010,1602
+Oceania,New Zealand,Export,Crustaceans,2010,4110
+Oceania,New Zealand,Export,Fish,2010,222276
+Oceania,New Zealand,Import,Crustaceans,2010,5589
+Oceania,New Zealand,Import,Fish,2010,25897
+Oceania,Palau,Export,Fish,2010,212
+Oceania,Palau,Import,Crustaceans,2010,48
+Oceania,Palau,Import,Fish,2010,257
+Oceania,Papua New Guinea,Export,Crustaceans,2010,460
+Oceania,Papua New Guinea,Export,Fish,2010,59265
+Oceania,Papua New Guinea,Import,Crustaceans,2010,9
+Oceania,Papua New Guinea,Import,Fish,2010,15803
+Oceania,Samoa,Export,Crustaceans,2010,0
+Oceania,Samoa,Export,Fish,2010,4097
+Oceania,Samoa,Import,Crustaceans,2010,79
+Oceania,Samoa,Import,Fish,2010,4253
+Oceania,Solomon Islands,Export,Crustaceans,2010,2
+Oceania,Solomon Islands,Export,Fish,2010,14255
+Oceania,Solomon Islands,Import,Crustaceans,2010,0
+Oceania,Solomon Islands,Import,Fish,2010,1488
+Oceania,Tonga,Export,Crustaceans,2010,9
+Oceania,Tonga,Export,Fish,2010,366
+Oceania,Tonga,Import,Crustaceans,2010,52
+Oceania,Tonga,Import,Fish,2010,699
+Oceania,Tuvalu,Export,Crustaceans,2010,0
+Oceania,Tuvalu,Export,Fish,2010,8812
+Oceania,Tuvalu,Import,Crustaceans,2010,2
+Oceania,Tuvalu,Import,Fish,2010,74
+Oceania,Vanuatu,Export,Crustaceans,2010,1
+Oceania,Vanuatu,Export,Fish,2010,39282
+Oceania,Vanuatu,Import,Crustaceans,2010,32
+Oceania,Vanuatu,Import,Fish,2010,1699
+Oceania,Australia,Export,Crustaceans,2011,13159
+Oceania,Australia,Export,Fish,2011,22196
+Oceania,Australia,Import,Crustaceans,2011,36635
+Oceania,Australia,Import,Fish,2011,143955
+Oceania,Cook Islands,Export,Fish,2011,1100
+Oceania,Cook Islands,Import,Crustaceans,2011,34
+Oceania,Cook Islands,Import,Fish,2011,79
+Oceania,Fiji,Export,Crustaceans,2011,58
+Oceania,Fiji,Export,Fish,2011,36216
+Oceania,Fiji,Import,Crustaceans,2011,160
+Oceania,Fiji,Import,Fish,2011,71989
+Oceania,French Polynesia,Export,Crustaceans,2011,0
+Oceania,French Polynesia,Export,Fish,2011,912
+Oceania,French Polynesia,Import,Crustaceans,2011,393
+Oceania,French Polynesia,Import,Fish,2011,1935
+Oceania,Kiribati,Export,Crustaceans,2011,15
+Oceania,Kiribati,Export,Fish,2011,42298
+Oceania,Kiribati,Import,Crustaceans,2011,0
+Oceania,Kiribati,Import,Fish,2011,687
+Oceania,Marshall Islands,Export,Crustaceans,2011,3
+Oceania,Marshall Islands,Export,Fish,2011,53219
+Oceania,Marshall Islands,Import,Crustaceans,2011,1
+Oceania,Marshall Islands,Import,Fish,2011,1150
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2011,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2011,22428
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2011,2
+Oceania,"Micronesia, Fed.States of",Import,Fish,2011,2097
+Oceania,New Caledonia,Export,Crustaceans,2011,708
+Oceania,New Caledonia,Export,Fish,2011,861
+Oceania,New Caledonia,Import,Crustaceans,2011,43
+Oceania,New Caledonia,Import,Fish,2011,1529
+Oceania,New Zealand,Export,Crustaceans,2011,3473
+Oceania,New Zealand,Export,Fish,2011,201195
+Oceania,New Zealand,Import,Crustaceans,2011,5067
+Oceania,New Zealand,Import,Fish,2011,22694
+Oceania,Palau,Export,Fish,2011,102
+Oceania,Palau,Import,Crustaceans,2011,59
+Oceania,Palau,Import,Fish,2011,261
+Oceania,Papua New Guinea,Export,Crustaceans,2011,360
+Oceania,Papua New Guinea,Export,Fish,2011,59205
+Oceania,Papua New Guinea,Import,Crustaceans,2011,10
+Oceania,Papua New Guinea,Import,Fish,2011,10461
+Oceania,Samoa,Export,Crustaceans,2011,0
+Oceania,Samoa,Export,Fish,2011,1455
+Oceania,Samoa,Import,Crustaceans,2011,29
+Oceania,Samoa,Import,Fish,2011,2999
+Oceania,Solomon Islands,Export,Crustaceans,2011,0
+Oceania,Solomon Islands,Export,Fish,2011,16096
+Oceania,Solomon Islands,Import,Crustaceans,2011,6
+Oceania,Solomon Islands,Import,Fish,2011,851
+Oceania,Tonga,Export,Crustaceans,2011,0
+Oceania,Tonga,Export,Fish,2011,480
+Oceania,Tonga,Import,Crustaceans,2011,64
+Oceania,Tonga,Import,Fish,2011,805
+Oceania,Tuvalu,Export,Crustaceans,2011,0
+Oceania,Tuvalu,Export,Fish,2011,4879
+Oceania,Tuvalu,Import,Crustaceans,2011,3
+Oceania,Tuvalu,Import,Fish,2011,62
+Oceania,Vanuatu,Export,Crustaceans,2011,1
+Oceania,Vanuatu,Export,Fish,2011,29967
+Oceania,Vanuatu,Import,Crustaceans,2011,51
+Oceania,Vanuatu,Import,Fish,2011,2489
+Oceania,Australia,Export,Crustaceans,2012,11776
+Oceania,Australia,Export,Fish,2012,18916
+Oceania,Australia,Import,Crustaceans,2012,40657
+Oceania,Australia,Import,Fish,2012,152873
+Oceania,Cook Islands,Export,Fish,2012,1774
+Oceania,Cook Islands,Import,Crustaceans,2012,23
+Oceania,Cook Islands,Import,Fish,2012,117
+Oceania,Fiji,Export,Crustaceans,2012,3
+Oceania,Fiji,Export,Fish,2012,6973
+Oceania,Fiji,Import,Crustaceans,2012,241
+Oceania,Fiji,Import,Fish,2012,80106
+Oceania,French Polynesia,Export,Crustaceans,2012,0
+Oceania,French Polynesia,Export,Fish,2012,1556
+Oceania,French Polynesia,Import,Crustaceans,2012,428
+Oceania,French Polynesia,Import,Fish,2012,2120
+Oceania,Kiribati,Export,Crustaceans,2012,0
+Oceania,Kiribati,Export,Fish,2012,54432
+Oceania,Kiribati,Import,Crustaceans,2012,4
+Oceania,Kiribati,Import,Fish,2012,241
+Oceania,Marshall Islands,Export,Crustaceans,2012,4
+Oceania,Marshall Islands,Export,Fish,2012,54561
+Oceania,Marshall Islands,Import,Crustaceans,2012,2
+Oceania,Marshall Islands,Import,Fish,2012,2897
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2012,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2012,30331
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2012,0
+Oceania,"Micronesia, Fed.States of",Import,Fish,2012,3160
+Oceania,New Caledonia,Export,Crustaceans,2012,817
+Oceania,New Caledonia,Export,Fish,2012,809
+Oceania,New Caledonia,Import,Crustaceans,2012,33
+Oceania,New Caledonia,Import,Fish,2012,1674
+Oceania,New Zealand,Export,Crustaceans,2012,4260
+Oceania,New Zealand,Export,Fish,2012,225498
+Oceania,New Zealand,Import,Crustaceans,2012,6987
+Oceania,New Zealand,Import,Fish,2012,23110
+Oceania,Palau,Export,Fish,2012,90
+Oceania,Palau,Import,Crustaceans,2012,60
+Oceania,Palau,Import,Fish,2012,279
+Oceania,Papua New Guinea,Export,Crustaceans,2012,192
+Oceania,Papua New Guinea,Export,Fish,2012,60372
+Oceania,Papua New Guinea,Import,Crustaceans,2012,31
+Oceania,Papua New Guinea,Import,Fish,2012,12845
+Oceania,Samoa,Export,Crustaceans,2012,0
+Oceania,Samoa,Export,Fish,2012,2397
+Oceania,Samoa,Import,Crustaceans,2012,34
+Oceania,Samoa,Import,Fish,2012,3974
+Oceania,Solomon Islands,Export,Crustaceans,2012,0
+Oceania,Solomon Islands,Export,Fish,2012,22254
+Oceania,Solomon Islands,Import,Crustaceans,2012,9
+Oceania,Solomon Islands,Import,Fish,2012,721
+Oceania,Tonga,Export,Crustaceans,2012,0
+Oceania,Tonga,Export,Fish,2012,634
+Oceania,Tonga,Import,Crustaceans,2012,40
+Oceania,Tonga,Import,Fish,2012,431
+Oceania,Tuvalu,Export,Crustaceans,2012,0
+Oceania,Tuvalu,Export,Fish,2012,5308
+Oceania,Tuvalu,Import,Crustaceans,2012,1
+Oceania,Tuvalu,Import,Fish,2012,10
+Oceania,Vanuatu,Export,Crustaceans,2012,0
+Oceania,Vanuatu,Export,Fish,2012,33386
+Oceania,Vanuatu,Import,Crustaceans,2012,16
+Oceania,Vanuatu,Import,Fish,2012,2160
+Oceania,Australia,Export,Crustaceans,2013,13941
+Oceania,Australia,Export,Fish,2013,17698
+Oceania,Australia,Import,Crustaceans,2013,38909
+Oceania,Australia,Import,Fish,2013,162312
+Oceania,Cook Islands,Export,Fish,2013,1056
+Oceania,Cook Islands,Import,Crustaceans,2013,27
+Oceania,Cook Islands,Import,Fish,2013,110
+Oceania,Fiji,Export,Crustaceans,2013,1
+Oceania,Fiji,Export,Fish,2013,19150
+Oceania,Fiji,Import,Crustaceans,2013,256
+Oceania,Fiji,Import,Fish,2013,63903
+Oceania,French Polynesia,Export,Crustaceans,2013,0
+Oceania,French Polynesia,Export,Fish,2013,1230
+Oceania,French Polynesia,Import,Crustaceans,2013,330
+Oceania,French Polynesia,Import,Fish,2013,1876
+Oceania,Kiribati,Export,Crustaceans,2013,0
+Oceania,Kiribati,Export,Fish,2013,60870
+Oceania,Kiribati,Import,Crustaceans,2013,0
+Oceania,Kiribati,Import,Fish,2013,141
+Oceania,Marshall Islands,Export,Crustaceans,2013,3
+Oceania,Marshall Islands,Export,Fish,2013,57739
+Oceania,Marshall Islands,Import,Crustaceans,2013,10
+Oceania,Marshall Islands,Import,Fish,2013,1688
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2013,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2013,19721
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2013,4
+Oceania,"Micronesia, Fed.States of",Import,Fish,2013,2618
+Oceania,New Caledonia,Export,Crustaceans,2013,868
+Oceania,New Caledonia,Export,Fish,2013,805
+Oceania,New Caledonia,Import,Crustaceans,2013,29
+Oceania,New Caledonia,Import,Fish,2013,1541
+Oceania,New Zealand,Export,Crustaceans,2013,4260
+Oceania,New Zealand,Export,Fish,2013,223584
+Oceania,New Zealand,Import,Crustaceans,2013,5886
+Oceania,New Zealand,Import,Fish,2013,21183
+Oceania,Palau,Export,Fish,2013,106
+Oceania,Palau,Import,Crustaceans,2013,59
+Oceania,Palau,Import,Fish,2013,323
+Oceania,Papua New Guinea,Export,Crustaceans,2013,164
+Oceania,Papua New Guinea,Export,Fish,2013,55019
+Oceania,Papua New Guinea,Import,Crustaceans,2013,79
+Oceania,Papua New Guinea,Import,Fish,2013,16463
+Oceania,Samoa,Export,Crustaceans,2013,1
+Oceania,Samoa,Export,Fish,2013,3184
+Oceania,Samoa,Import,Crustaceans,2013,90
+Oceania,Samoa,Import,Fish,2013,2769
+Oceania,Solomon Islands,Export,Crustaceans,2013,0
+Oceania,Solomon Islands,Export,Fish,2013,21647
+Oceania,Solomon Islands,Import,Crustaceans,2013,9
+Oceania,Solomon Islands,Import,Fish,2013,1464
+Oceania,Tonga,Export,Crustaceans,2013,0
+Oceania,Tonga,Export,Fish,2013,517
+Oceania,Tonga,Import,Crustaceans,2013,62
+Oceania,Tonga,Import,Fish,2013,716
+Oceania,Tuvalu,Export,Crustaceans,2013,0
+Oceania,Tuvalu,Export,Fish,2013,9687
+Oceania,Tuvalu,Import,Crustaceans,2013,0
+Oceania,Tuvalu,Import,Fish,2013,41
+Oceania,Vanuatu,Export,Crustaceans,2013,5
+Oceania,Vanuatu,Export,Fish,2013,31546
+Oceania,Vanuatu,Import,Crustaceans,2013,55
+Oceania,Vanuatu,Import,Fish,2013,2512
+Oceania,Australia,Export,Crustaceans,2014,16596
+Oceania,Australia,Export,Fish,2014,20663
+Oceania,Australia,Import,Crustaceans,2014,40263
+Oceania,Australia,Import,Fish,2014,162793
+Oceania,Cook Islands,Export,Fish,2014,1203
+Oceania,Cook Islands,Import,Crustaceans,2014,19
+Oceania,Cook Islands,Import,Fish,2014,270
+Oceania,Fiji,Export,Crustaceans,2014,2
+Oceania,Fiji,Export,Fish,2014,20555
+Oceania,Fiji,Import,Crustaceans,2014,197
+Oceania,Fiji,Import,Fish,2014,121406
+Oceania,French Polynesia,Export,Crustaceans,2014,6
+Oceania,French Polynesia,Export,Fish,2014,1473
+Oceania,French Polynesia,Import,Crustaceans,2014,438
+Oceania,French Polynesia,Import,Fish,2014,1937
+Oceania,Kiribati,Export,Crustaceans,2014,0
+Oceania,Kiribati,Export,Fish,2014,98079
+Oceania,Kiribati,Import,Crustaceans,2014,2
+Oceania,Kiribati,Import,Fish,2014,220
+Oceania,Marshall Islands,Export,Crustaceans,2014,15
+Oceania,Marshall Islands,Export,Fish,2014,61576
+Oceania,Marshall Islands,Import,Crustaceans,2014,10
+Oceania,Marshall Islands,Import,Fish,2014,2702
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2014,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2014,30934
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2014,0
+Oceania,"Micronesia, Fed.States of",Import,Fish,2014,2315
+Oceania,New Caledonia,Export,Crustaceans,2014,959
+Oceania,New Caledonia,Export,Fish,2014,655
+Oceania,New Caledonia,Import,Crustaceans,2014,28
+Oceania,New Caledonia,Import,Fish,2014,1387
+Oceania,New Zealand,Export,Crustaceans,2014,3412
+Oceania,New Zealand,Export,Fish,2014,211958
+Oceania,New Zealand,Import,Crustaceans,2014,5243
+Oceania,New Zealand,Import,Fish,2014,21108
+Oceania,Palau,Export,Fish,2014,159
+Oceania,Palau,Import,Crustaceans,2014,98
+Oceania,Palau,Import,Fish,2014,276
+Oceania,Papua New Guinea,Export,Crustaceans,2014,448
+Oceania,Papua New Guinea,Export,Fish,2014,51649
+Oceania,Papua New Guinea,Import,Crustaceans,2014,25
+Oceania,Papua New Guinea,Import,Fish,2014,19461
+Oceania,Samoa,Export,Crustaceans,2014,0
+Oceania,Samoa,Export,Fish,2014,1364
+Oceania,Samoa,Import,Crustaceans,2014,176
+Oceania,Samoa,Import,Fish,2014,3524
+Oceania,Solomon Islands,Export,Crustaceans,2014,0
+Oceania,Solomon Islands,Export,Fish,2014,34012
+Oceania,Solomon Islands,Import,Crustaceans,2014,25
+Oceania,Solomon Islands,Import,Fish,2014,802
+Oceania,Tonga,Export,Crustaceans,2014,0
+Oceania,Tonga,Export,Fish,2014,878
+Oceania,Tonga,Import,Crustaceans,2014,58
+Oceania,Tonga,Import,Fish,2014,675
+Oceania,Tuvalu,Export,Crustaceans,2014,0
+Oceania,Tuvalu,Export,Fish,2014,5325
+Oceania,Tuvalu,Import,Crustaceans,2014,1
+Oceania,Tuvalu,Import,Fish,2014,10
+Oceania,Vanuatu,Export,Crustaceans,2014,1
+Oceania,Vanuatu,Export,Fish,2014,34682
+Oceania,Vanuatu,Import,Crustaceans,2014,55
+Oceania,Vanuatu,Import,Fish,2014,2284
+Oceania,Australia,Export,Crustaceans,2015,15527
+Oceania,Australia,Export,Fish,2015,31456
+Oceania,Australia,Import,Crustaceans,2015,34964
+Oceania,Australia,Import,Fish,2015,154433
+Oceania,Cook Islands,Export,Fish,2015,1378
+Oceania,Cook Islands,Import,Crustaceans,2015,21
+Oceania,Cook Islands,Import,Fish,2015,292
+Oceania,Fiji,Export,Crustaceans,2015,1
+Oceania,Fiji,Export,Fish,2015,20499
+Oceania,Fiji,Import,Crustaceans,2015,311
+Oceania,Fiji,Import,Fish,2015,67013
+Oceania,French Polynesia,Export,Crustaceans,2015,0
+Oceania,French Polynesia,Export,Fish,2015,1776
+Oceania,French Polynesia,Import,Crustaceans,2015,296
+Oceania,French Polynesia,Import,Fish,2015,1756
+Oceania,Kiribati,Export,Crustaceans,2015,0
+Oceania,Kiribati,Export,Fish,2015,101862
+Oceania,Kiribati,Import,Crustaceans,2015,1
+Oceania,Kiribati,Import,Fish,2015,177
+Oceania,Marshall Islands,Export,Crustaceans,2015,1
+Oceania,Marshall Islands,Export,Fish,2015,56096
+Oceania,Marshall Islands,Import,Crustaceans,2015,4
+Oceania,Marshall Islands,Import,Fish,2015,1407
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,2015,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,2015,43697
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,2015,6
+Oceania,"Micronesia, Fed.States of",Import,Fish,2015,2390
+Oceania,New Caledonia,Export,Crustaceans,2015,642
+Oceania,New Caledonia,Export,Fish,2015,611
+Oceania,New Caledonia,Import,Crustaceans,2015,23
+Oceania,New Caledonia,Import,Fish,2015,1249
+Oceania,New Zealand,Export,Crustaceans,2015,3501
+Oceania,New Zealand,Export,Fish,2015,213938
+Oceania,New Zealand,Import,Crustaceans,2015,4999
+Oceania,New Zealand,Import,Fish,2015,21316
+Oceania,Palau,Export,Fish,2015,135
+Oceania,Palau,Import,Crustaceans,2015,97
+Oceania,Palau,Import,Fish,2015,413
+Oceania,Papua New Guinea,Export,Crustaceans,2015,611
+Oceania,Papua New Guinea,Export,Fish,2015,61669
+Oceania,Papua New Guinea,Import,Crustaceans,2015,69
+Oceania,Papua New Guinea,Import,Fish,2015,26099
+Oceania,Samoa,Export,Crustaceans,2015,0
+Oceania,Samoa,Export,Fish,2015,5462
+Oceania,Samoa,Import,Crustaceans,2015,158
+Oceania,Samoa,Import,Fish,2015,4634
+Oceania,Solomon Islands,Export,Crustaceans,2015,0
+Oceania,Solomon Islands,Export,Fish,2015,25024
+Oceania,Solomon Islands,Import,Crustaceans,2015,14
+Oceania,Solomon Islands,Import,Fish,2015,521
+Oceania,Tonga,Export,Crustaceans,2015,0
+Oceania,Tonga,Export,Fish,2015,618
+Oceania,Tonga,Import,Crustaceans,2015,22
+Oceania,Tonga,Import,Fish,2015,640
+Oceania,Tuvalu,Export,Crustaceans,2015,0
+Oceania,Tuvalu,Export,Fish,2015,4337
+Oceania,Tuvalu,Import,Crustaceans,2015,2
+Oceania,Tuvalu,Import,Fish,2015,99
+Oceania,Vanuatu,Export,Crustaceans,2015,0
+Oceania,Vanuatu,Export,Fish,2015,34011
+Oceania,Vanuatu,Import,Crustaceans,2015,15
+Oceania,Vanuatu,Import,Fish,2015,3103

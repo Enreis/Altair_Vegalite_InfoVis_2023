@@ -1,0 +1,2689 @@
+Continent,Land Area,Trade flow,Commodity,year,Quantity
+Europe,Albania,Export,Crustaceans,2000,10
+Europe,Albania,Export,Fish,2000,1534
+Europe,Albania,Import,Crustaceans,2000,9
+Europe,Albania,Import,Fish,2000,4498
+Europe,Andorra,Export,Crustaceans,2000,0
+Europe,Andorra,Export,Fish,2000,0
+Europe,Andorra,Import,Crustaceans,2000,332
+Europe,Andorra,Import,Fish,2000,1722
+Europe,Austria,Export,Crustaceans,2000,11
+Europe,Austria,Export,Fish,2000,4311
+Europe,Austria,Import,Crustaceans,2000,1767
+Europe,Austria,Import,Fish,2000,39814
+Europe,Belarus,Export,Crustaceans,2000,522
+Europe,Belarus,Export,Fish,2000,13475
+Europe,Belarus,Import,Crustaceans,2000,1637
+Europe,Belarus,Import,Fish,2000,84179
+Europe,Belgium,Export,Crustaceans,2000,25085
+Europe,Belgium,Export,Fish,2000,61262
+Europe,Belgium,Import,Crustaceans,2000,39965
+Europe,Belgium,Import,Fish,2000,139166
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2000,16
+Europe,Bosnia and Herzegovina,Export,Fish,2000,60
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2000,46
+Europe,Bosnia and Herzegovina,Import,Fish,2000,4479
+Europe,Bulgaria,Export,Crustaceans,2000,0
+Europe,Bulgaria,Export,Fish,2000,1783
+Europe,Bulgaria,Import,Crustaceans,2000,74
+Europe,Bulgaria,Import,Fish,2000,16554
+Europe,Croatia,Export,Crustaceans,2000,138
+Europe,Croatia,Export,Fish,2000,17117
+Europe,Croatia,Import,Crustaceans,2000,363
+Europe,Croatia,Import,Fish,2000,20877
+Europe,Czechia,Export,Crustaceans,2000,35
+Europe,Czechia,Export,Fish,2000,12130
+Europe,Czechia,Import,Crustaceans,2000,277
+Europe,Czechia,Import,Fish,2000,49473
+Europe,Denmark,Export,Crustaceans,2000,108531
+Europe,Denmark,Export,Fish,2000,637646
+Europe,Denmark,Import,Crustaceans,2000,99965
+Europe,Denmark,Import,Fish,2000,578474
+Europe,Estonia,Export,Crustaceans,2000,9812
+Europe,Estonia,Export,Fish,2000,86655
+Europe,Estonia,Import,Crustaceans,2000,641
+Europe,Estonia,Import,Fish,2000,50429
+Europe,Faroe Islands,Export,Crustaceans,2000,9216
+Europe,Faroe Islands,Export,Fish,2000,149818
+Europe,Faroe Islands,Import,Crustaceans,2000,94
+Europe,Faroe Islands,Import,Fish,2000,6767
+Europe,Finland,Export,Crustaceans,2000,27
+Europe,Finland,Export,Fish,2000,15851
+Europe,Finland,Import,Crustaceans,2000,2593
+Europe,Finland,Import,Fish,2000,33228
+Europe,France,Export,Crustaceans,2000,16833
+Europe,France,Export,Fish,2000,332238
+Europe,France,Import,Crustaceans,2000,104052
+Europe,France,Import,Fish,2000,631373
+Europe,Germany,Export,Crustaceans,2000,19660
+Europe,Germany,Export,Fish,2000,387165
+Europe,Germany,Import,Crustaceans,2000,33784
+Europe,Germany,Import,Fish,2000,700552
+Europe,Greece,Export,Crustaceans,2000,509
+Europe,Greece,Export,Fish,2000,57284
+Europe,Greece,Import,Crustaceans,2000,3111
+Europe,Greece,Import,Fish,2000,68318
+Europe,Hungary,Export,Crustaceans,2000,0
+Europe,Hungary,Export,Fish,2000,3274
+Europe,Hungary,Import,Crustaceans,2000,153
+Europe,Hungary,Import,Fish,2000,13860
+Europe,Iceland,Export,Crustaceans,2000,24900
+Europe,Iceland,Export,Fish,2000,291409
+Europe,Iceland,Import,Crustaceans,2000,34780
+Europe,Iceland,Import,Fish,2000,7845
+Europe,Ireland,Export,Crustaceans,2000,12350
+Europe,Ireland,Export,Fish,2000,162282
+Europe,Ireland,Import,Crustaceans,2000,6099
+Europe,Ireland,Import,Fish,2000,18247
+Europe,Italy,Export,Crustaceans,2000,4352
+Europe,Italy,Export,Fish,2000,91943
+Europe,Italy,Import,Crustaceans,2000,68923
+Europe,Italy,Import,Fish,2000,431315
+Europe,Latvia,Export,Crustaceans,2000,9
+Europe,Latvia,Export,Fish,2000,91873
+Europe,Latvia,Import,Crustaceans,2000,158
+Europe,Latvia,Import,Fish,2000,30790
+Europe,Lithuania,Export,Crustaceans,2000,2
+Europe,Lithuania,Export,Fish,2000,28964
+Europe,Lithuania,Import,Crustaceans,2000,162
+Europe,Lithuania,Import,Fish,2000,59331
+Europe,Luxembourg,Export,Crustaceans,2000,1139
+Europe,Luxembourg,Export,Fish,2000,4886
+Europe,Luxembourg,Import,Crustaceans,2000,1999
+Europe,Luxembourg,Import,Fish,2000,9743
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2000,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2000,41
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2000,23
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2000,4921
+Europe,Malta,Export,Crustaceans,2000,0
+Europe,Malta,Export,Fish,2000,1992
+Europe,Malta,Import,Crustaceans,2000,332
+Europe,Malta,Import,Fish,2000,5119
+Europe,"Moldova, Republic of",Export,Crustaceans,2000,0
+Europe,"Moldova, Republic of",Export,Fish,2000,3
+Europe,"Moldova, Republic of",Import,Crustaceans,2000,7
+Europe,"Moldova, Republic of",Import,Fish,2000,12597
+Europe,Montenegro,Export,Crustaceans,2000,0
+Europe,Montenegro,Export,Fish,2000,0
+Europe,Montenegro,Import,Crustaceans,2000,0
+Europe,Montenegro,Import,Fish,2000,0
+Europe,Netherlands,Export,Crustaceans,2000,61826
+Europe,Netherlands,Export,Fish,2000,545276
+Europe,Netherlands,Import,Crustaceans,2000,43996
+Europe,Netherlands,Import,Fish,2000,472942
+Europe,Norway,Export,Crustaceans,2000,44687
+Europe,Norway,Export,Fish,2000,1769324
+Europe,Norway,Import,Crustaceans,2000,29387
+Europe,Norway,Import,Fish,2000,379505
+Europe,Poland,Export,Crustaceans,2000,14426
+Europe,Poland,Export,Fish,2000,135024
+Europe,Poland,Import,Crustaceans,2000,4596
+Europe,Poland,Import,Fish,2000,266751
+Europe,Portugal,Export,Crustaceans,2000,5417
+Europe,Portugal,Export,Fish,2000,79075
+Europe,Portugal,Import,Crustaceans,2000,14743
+Europe,Portugal,Import,Fish,2000,253057
+Europe,Romania,Export,Crustaceans,2000,3
+Europe,Romania,Export,Fish,2000,112
+Europe,Romania,Import,Crustaceans,2000,763
+Europe,Romania,Import,Fish,2000,34811
+Europe,Russian Federation,Export,Crustaceans,2000,52242
+Europe,Russian Federation,Export,Fish,2000,1119706
+Europe,Russian Federation,Import,Crustaceans,2000,8236
+Europe,Russian Federation,Import,Fish,2000,459862
+Europe,Serbia,Export,Crustaceans,2000,0
+Europe,Serbia,Export,Fish,2000,0
+Europe,Serbia,Import,Crustaceans,2000,0
+Europe,Serbia,Import,Fish,2000,0
+Europe,Serbia and Montenegro,Export,Crustaceans,2000,21
+Europe,Serbia and Montenegro,Export,Fish,2000,119
+Europe,Serbia and Montenegro,Import,Crustaceans,2000,22
+Europe,Serbia and Montenegro,Import,Fish,2000,10129
+Europe,Slovakia,Export,Crustaceans,2000,0
+Europe,Slovakia,Export,Fish,2000,669
+Europe,Slovakia,Import,Crustaceans,2000,50
+Europe,Slovakia,Import,Fish,2000,21585
+Europe,Slovenia,Export,Crustaceans,2000,10
+Europe,Slovenia,Export,Fish,2000,2067
+Europe,Slovenia,Import,Crustaceans,2000,374
+Europe,Slovenia,Import,Fish,2000,6731
+Europe,Spain,Export,Crustaceans,2000,17012
+Europe,Spain,Export,Fish,2000,591265
+Europe,Spain,Import,Crustaceans,2000,142341
+Europe,Spain,Import,Fish,2000,744496
+Europe,Sweden,Export,Crustaceans,2000,4040
+Europe,Sweden,Export,Fish,2000,254857
+Europe,Sweden,Import,Crustaceans,2000,25754
+Europe,Sweden,Import,Fish,2000,166410
+Europe,Switzerland,Export,Crustaceans,2000,23
+Europe,Switzerland,Export,Fish,2000,79
+Europe,Switzerland,Import,Crustaceans,2000,6046
+Europe,Switzerland,Import,Fish,2000,44903
+Europe,Ukraine,Export,Crustaceans,2000,259
+Europe,Ukraine,Export,Fish,2000,83452
+Europe,Ukraine,Import,Crustaceans,2000,1610
+Europe,Ukraine,Import,Fish,2000,232907
+Europe,United Kingdom,Export,Crustaceans,2000,58887
+Europe,United Kingdom,Export,Fish,2000,550326
+Europe,United Kingdom,Import,Crustaceans,2000,83566
+Europe,United Kingdom,Import,Fish,2000,453551
+Europe,Albania,Export,Crustaceans,2001,59
+Europe,Albania,Export,Fish,2001,1795
+Europe,Albania,Import,Crustaceans,2001,5
+Europe,Albania,Import,Fish,2001,5377
+Europe,Andorra,Export,Crustaceans,2001,0
+Europe,Andorra,Export,Fish,2001,0
+Europe,Andorra,Import,Crustaceans,2001,251
+Europe,Andorra,Import,Fish,2001,1870
+Europe,Austria,Export,Crustaceans,2001,19
+Europe,Austria,Export,Fish,2001,3062
+Europe,Austria,Import,Crustaceans,2001,1988
+Europe,Austria,Import,Fish,2001,44228
+Europe,Belarus,Export,Crustaceans,2001,188
+Europe,Belarus,Export,Fish,2001,10873
+Europe,Belarus,Import,Crustaceans,2001,616
+Europe,Belarus,Import,Fish,2001,109113
+Europe,Belgium,Export,Crustaceans,2001,26579
+Europe,Belgium,Export,Fish,2001,75119
+Europe,Belgium,Import,Crustaceans,2001,39868
+Europe,Belgium,Import,Fish,2001,148293
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2001,10
+Europe,Bosnia and Herzegovina,Export,Fish,2001,35
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2001,42
+Europe,Bosnia and Herzegovina,Import,Fish,2001,5972
+Europe,Bulgaria,Export,Crustaceans,2001,0
+Europe,Bulgaria,Export,Fish,2001,2054
+Europe,Bulgaria,Import,Crustaceans,2001,64
+Europe,Bulgaria,Import,Fish,2001,18244
+Europe,Croatia,Export,Crustaceans,2001,123
+Europe,Croatia,Export,Fish,2001,20148
+Europe,Croatia,Import,Crustaceans,2001,492
+Europe,Croatia,Import,Fish,2001,35866
+Europe,Czechia,Export,Crustaceans,2001,59
+Europe,Czechia,Export,Fish,2001,13312
+Europe,Czechia,Import,Crustaceans,2001,318
+Europe,Czechia,Import,Fish,2001,49342
+Europe,Denmark,Export,Crustaceans,2001,101313
+Europe,Denmark,Export,Fish,2001,650058
+Europe,Denmark,Import,Crustaceans,2001,99130
+Europe,Denmark,Import,Fish,2001,580996
+Europe,Estonia,Export,Crustaceans,2001,1571
+Europe,Estonia,Export,Fish,2001,153377
+Europe,Estonia,Import,Crustaceans,2001,662
+Europe,Estonia,Import,Fish,2001,60684
+Europe,Faroe Islands,Export,Crustaceans,2001,14515
+Europe,Faroe Islands,Export,Fish,2001,195159
+Europe,Faroe Islands,Import,Crustaceans,2001,255
+Europe,Faroe Islands,Import,Fish,2001,3456
+Europe,Finland,Export,Crustaceans,2001,14
+Europe,Finland,Export,Fish,2001,15770
+Europe,Finland,Import,Crustaceans,2001,2973
+Europe,Finland,Import,Fish,2001,38630
+Europe,France,Export,Crustaceans,2001,16919
+Europe,France,Export,Fish,2001,303427
+Europe,France,Import,Crustaceans,2001,111858
+Europe,France,Import,Fish,2001,679123
+Europe,Germany,Export,Crustaceans,2001,12789
+Europe,Germany,Export,Fish,2001,426217
+Europe,Germany,Import,Crustaceans,2001,34332
+Europe,Germany,Import,Fish,2001,727511
+Europe,Greece,Export,Crustaceans,2001,681
+Europe,Greece,Export,Fish,2001,61048
+Europe,Greece,Import,Crustaceans,2001,4222
+Europe,Greece,Import,Fish,2001,64449
+Europe,Hungary,Export,Crustaceans,2001,0
+Europe,Hungary,Export,Fish,2001,3055
+Europe,Hungary,Import,Crustaceans,2001,178
+Europe,Hungary,Import,Fish,2001,14485
+Europe,Iceland,Export,Crustaceans,2001,28260
+Europe,Iceland,Export,Fish,2001,310407
+Europe,Iceland,Import,Crustaceans,2001,37563
+Europe,Iceland,Import,Fish,2001,6160
+Europe,Ireland,Export,Crustaceans,2001,13413
+Europe,Ireland,Export,Fish,2001,238391
+Europe,Ireland,Import,Crustaceans,2001,5937
+Europe,Ireland,Import,Fish,2001,28367
+Europe,Italy,Export,Crustaceans,2001,4105
+Europe,Italy,Export,Fish,2001,84371
+Europe,Italy,Import,Crustaceans,2001,78126
+Europe,Italy,Import,Fish,2001,458071
+Europe,Latvia,Export,Crustaceans,2001,3
+Europe,Latvia,Export,Fish,2001,124366
+Europe,Latvia,Import,Crustaceans,2001,251
+Europe,Latvia,Import,Fish,2001,38838
+Europe,Lithuania,Export,Crustaceans,2001,28
+Europe,Lithuania,Export,Fish,2001,56028
+Europe,Lithuania,Import,Crustaceans,2001,242
+Europe,Lithuania,Import,Fish,2001,78408
+Europe,Luxembourg,Export,Crustaceans,2001,1272
+Europe,Luxembourg,Export,Fish,2001,2903
+Europe,Luxembourg,Import,Crustaceans,2001,1972
+Europe,Luxembourg,Import,Fish,2001,7684
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2001,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2001,23
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2001,19
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2001,4620
+Europe,Malta,Export,Crustaceans,2001,0
+Europe,Malta,Export,Fish,2001,2267
+Europe,Malta,Import,Crustaceans,2001,325
+Europe,Malta,Import,Fish,2001,13731
+Europe,"Moldova, Republic of",Export,Crustaceans,2001,0
+Europe,"Moldova, Republic of",Export,Fish,2001,19
+Europe,"Moldova, Republic of",Import,Crustaceans,2001,9
+Europe,"Moldova, Republic of",Import,Fish,2001,20009
+Europe,Montenegro,Export,Crustaceans,2001,0
+Europe,Montenegro,Export,Fish,2001,0
+Europe,Montenegro,Import,Crustaceans,2001,0
+Europe,Montenegro,Import,Fish,2001,0
+Europe,Netherlands,Export,Crustaceans,2001,57488
+Europe,Netherlands,Export,Fish,2001,587869
+Europe,Netherlands,Import,Crustaceans,2001,46737
+Europe,Netherlands,Import,Fish,2001,479252
+Europe,Norway,Export,Crustaceans,2001,36133
+Europe,Norway,Export,Fish,2001,1689923
+Europe,Norway,Import,Crustaceans,2001,20493
+Europe,Norway,Import,Fish,2001,344638
+Europe,Poland,Export,Crustaceans,2001,9189
+Europe,Poland,Export,Fish,2001,154421
+Europe,Poland,Import,Crustaceans,2001,4009
+Europe,Poland,Import,Fish,2001,253039
+Europe,Portugal,Export,Crustaceans,2001,4351
+Europe,Portugal,Export,Fish,2001,78436
+Europe,Portugal,Import,Crustaceans,2001,16868
+Europe,Portugal,Import,Fish,2001,262929
+Europe,Romania,Export,Crustaceans,2001,0
+Europe,Romania,Export,Fish,2001,24
+Europe,Romania,Import,Crustaceans,2001,589
+Europe,Romania,Import,Fish,2001,43516
+Europe,Russian Federation,Export,Crustaceans,2001,44150
+Europe,Russian Federation,Export,Fish,2001,1157093
+Europe,Russian Federation,Import,Crustaceans,2001,14559
+Europe,Russian Federation,Import,Fish,2001,593962
+Europe,Serbia,Export,Crustaceans,2001,0
+Europe,Serbia,Export,Fish,2001,0
+Europe,Serbia,Import,Crustaceans,2001,0
+Europe,Serbia,Import,Fish,2001,0
+Europe,Serbia and Montenegro,Export,Crustaceans,2001,17
+Europe,Serbia and Montenegro,Export,Fish,2001,180
+Europe,Serbia and Montenegro,Import,Crustaceans,2001,39
+Europe,Serbia and Montenegro,Import,Fish,2001,18988
+Europe,Slovakia,Export,Crustaceans,2001,0
+Europe,Slovakia,Export,Fish,2001,531
+Europe,Slovakia,Import,Crustaceans,2001,27
+Europe,Slovakia,Import,Fish,2001,20085
+Europe,Slovenia,Export,Crustaceans,2001,9
+Europe,Slovenia,Export,Fish,2001,2081
+Europe,Slovenia,Import,Crustaceans,2001,338
+Europe,Slovenia,Import,Fish,2001,7515
+Europe,Spain,Export,Crustaceans,2001,21390
+Europe,Spain,Export,Fish,2001,683892
+Europe,Spain,Import,Crustaceans,2001,156708
+Europe,Spain,Import,Fish,2001,860104
+Europe,Sweden,Export,Crustaceans,2001,3539
+Europe,Sweden,Export,Fish,2001,256377
+Europe,Sweden,Import,Crustaceans,2001,27407
+Europe,Sweden,Import,Fish,2001,178191
+Europe,Switzerland,Export,Crustaceans,2001,8
+Europe,Switzerland,Export,Fish,2001,82
+Europe,Switzerland,Import,Crustaceans,2001,6430
+Europe,Switzerland,Import,Fish,2001,46129
+Europe,Ukraine,Export,Crustaceans,2001,6448
+Europe,Ukraine,Export,Fish,2001,50157
+Europe,Ukraine,Import,Crustaceans,2001,318
+Europe,Ukraine,Import,Fish,2001,317739
+Europe,United Kingdom,Export,Crustaceans,2001,61469
+Europe,United Kingdom,Export,Fish,2001,567946
+Europe,United Kingdom,Import,Crustaceans,2001,87693
+Europe,United Kingdom,Import,Fish,2001,522982
+Europe,Albania,Export,Crustaceans,2002,6
+Europe,Albania,Export,Fish,2002,1971
+Europe,Albania,Import,Crustaceans,2002,5
+Europe,Albania,Import,Fish,2002,6720
+Europe,Andorra,Export,Crustaceans,2002,0
+Europe,Andorra,Export,Fish,2002,0
+Europe,Andorra,Import,Crustaceans,2002,200
+Europe,Andorra,Import,Fish,2002,1927
+Europe,Austria,Export,Crustaceans,2002,8
+Europe,Austria,Export,Fish,2002,5673
+Europe,Austria,Import,Crustaceans,2002,1747
+Europe,Austria,Import,Fish,2002,44874
+Europe,Belarus,Export,Crustaceans,2002,166
+Europe,Belarus,Export,Fish,2002,9461
+Europe,Belarus,Import,Crustaceans,2002,648
+Europe,Belarus,Import,Fish,2002,122330
+Europe,Belgium,Export,Crustaceans,2002,31115
+Europe,Belgium,Export,Fish,2002,73841
+Europe,Belgium,Import,Crustaceans,2002,46761
+Europe,Belgium,Import,Fish,2002,146200
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2002,0
+Europe,Bosnia and Herzegovina,Export,Fish,2002,155
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2002,169
+Europe,Bosnia and Herzegovina,Import,Fish,2002,6360
+Europe,Bulgaria,Export,Crustaceans,2002,0
+Europe,Bulgaria,Export,Fish,2002,2916
+Europe,Bulgaria,Import,Crustaceans,2002,47
+Europe,Bulgaria,Import,Fish,2002,17451
+Europe,Croatia,Export,Crustaceans,2002,147
+Europe,Croatia,Export,Fish,2002,20959
+Europe,Croatia,Import,Crustaceans,2002,463
+Europe,Croatia,Import,Fish,2002,49591
+Europe,Czechia,Export,Crustaceans,2002,32
+Europe,Czechia,Export,Fish,2002,12787
+Europe,Czechia,Import,Crustaceans,2002,349
+Europe,Czechia,Import,Fish,2002,47427
+Europe,Denmark,Export,Crustaceans,2002,116350
+Europe,Denmark,Export,Fish,2002,649867
+Europe,Denmark,Import,Crustaceans,2002,111644
+Europe,Denmark,Import,Fish,2002,569124
+Europe,Estonia,Export,Crustaceans,2002,1735
+Europe,Estonia,Export,Fish,2002,137614
+Europe,Estonia,Import,Crustaceans,2002,945
+Europe,Estonia,Import,Fish,2002,55435
+Europe,Faroe Islands,Export,Crustaceans,2002,10808
+Europe,Faroe Islands,Export,Fish,2002,210749
+Europe,Faroe Islands,Import,Crustaceans,2002,267
+Europe,Faroe Islands,Import,Fish,2002,5775
+Europe,Finland,Export,Crustaceans,2002,29
+Europe,Finland,Export,Fish,2002,13528
+Europe,Finland,Import,Crustaceans,2002,2639
+Europe,Finland,Import,Fish,2002,40150
+Europe,France,Export,Crustaceans,2002,14588
+Europe,France,Export,Fish,2002,275985
+Europe,France,Import,Crustaceans,2002,119147
+Europe,France,Import,Fish,2002,679278
+Europe,Germany,Export,Crustaceans,2002,16674
+Europe,Germany,Export,Fish,2002,433098
+Europe,Germany,Import,Crustaceans,2002,29214
+Europe,Germany,Import,Fish,2002,716161
+Europe,Greece,Export,Crustaceans,2002,755
+Europe,Greece,Export,Fish,2002,53442
+Europe,Greece,Import,Crustaceans,2002,4340
+Europe,Greece,Import,Fish,2002,52842
+Europe,Hungary,Export,Crustaceans,2002,0
+Europe,Hungary,Export,Fish,2002,2226
+Europe,Hungary,Import,Crustaceans,2002,174
+Europe,Hungary,Import,Fish,2002,15735
+Europe,Iceland,Export,Crustaceans,2002,31899
+Europe,Iceland,Export,Fish,2002,337200
+Europe,Iceland,Import,Crustaceans,2002,41813
+Europe,Iceland,Import,Fish,2002,10091
+Europe,Ireland,Export,Crustaceans,2002,14269
+Europe,Ireland,Export,Fish,2002,246271
+Europe,Ireland,Import,Crustaceans,2002,3904
+Europe,Ireland,Import,Fish,2002,59206
+Europe,Italy,Export,Crustaceans,2002,4991
+Europe,Italy,Export,Fish,2002,84556
+Europe,Italy,Import,Crustaceans,2002,69906
+Europe,Italy,Import,Fish,2002,464906
+Europe,Latvia,Export,Crustaceans,2002,5
+Europe,Latvia,Export,Fish,2002,115932
+Europe,Latvia,Import,Crustaceans,2002,290
+Europe,Latvia,Import,Fish,2002,33977
+Europe,Lithuania,Export,Crustaceans,2002,65
+Europe,Lithuania,Export,Fish,2002,63410
+Europe,Lithuania,Import,Crustaceans,2002,503
+Europe,Lithuania,Import,Fish,2002,71115
+Europe,Luxembourg,Export,Crustaceans,2002,574
+Europe,Luxembourg,Export,Fish,2002,2402
+Europe,Luxembourg,Import,Crustaceans,2002,1060
+Europe,Luxembourg,Import,Fish,2002,7367
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2002,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2002,9
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2002,17
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2002,6129
+Europe,Malta,Export,Crustaceans,2002,5
+Europe,Malta,Export,Fish,2002,3145
+Europe,Malta,Import,Crustaceans,2002,360
+Europe,Malta,Import,Fish,2002,11794
+Europe,"Moldova, Republic of",Export,Crustaceans,2002,0
+Europe,"Moldova, Republic of",Export,Fish,2002,114
+Europe,"Moldova, Republic of",Import,Crustaceans,2002,20
+Europe,"Moldova, Republic of",Import,Fish,2002,19295
+Europe,Montenegro,Export,Crustaceans,2002,0
+Europe,Montenegro,Export,Fish,2002,0
+Europe,Montenegro,Import,Crustaceans,2002,0
+Europe,Montenegro,Import,Fish,2002,0
+Europe,Netherlands,Export,Crustaceans,2002,62025
+Europe,Netherlands,Export,Fish,2002,630742
+Europe,Netherlands,Import,Crustaceans,2002,53606
+Europe,Netherlands,Import,Fish,2002,487651
+Europe,Norway,Export,Crustaceans,2002,34458
+Europe,Norway,Export,Fish,2002,1687569
+Europe,Norway,Import,Crustaceans,2002,20638
+Europe,Norway,Import,Fish,2002,285949
+Europe,Poland,Export,Crustaceans,2002,9552
+Europe,Poland,Export,Fish,2002,147062
+Europe,Poland,Import,Crustaceans,2002,4158
+Europe,Poland,Import,Fish,2002,215338
+Europe,Portugal,Export,Crustaceans,2002,3445
+Europe,Portugal,Export,Fish,2002,82597
+Europe,Portugal,Import,Crustaceans,2002,17966
+Europe,Portugal,Import,Fish,2002,269531
+Europe,Romania,Export,Crustaceans,2002,5
+Europe,Romania,Export,Fish,2002,118
+Europe,Romania,Import,Crustaceans,2002,290
+Europe,Romania,Import,Fish,2002,50042
+Europe,Russian Federation,Export,Crustaceans,2002,40305
+Europe,Russian Federation,Export,Fish,2002,1176822
+Europe,Russian Federation,Import,Crustaceans,2002,22323
+Europe,Russian Federation,Import,Fish,2002,579383
+Europe,Serbia,Export,Crustaceans,2002,0
+Europe,Serbia,Export,Fish,2002,0
+Europe,Serbia,Import,Crustaceans,2002,0
+Europe,Serbia,Import,Fish,2002,0
+Europe,Serbia and Montenegro,Export,Crustaceans,2002,0
+Europe,Serbia and Montenegro,Export,Fish,2002,159
+Europe,Serbia and Montenegro,Import,Crustaceans,2002,44
+Europe,Serbia and Montenegro,Import,Fish,2002,23849
+Europe,Slovakia,Export,Crustaceans,2002,0
+Europe,Slovakia,Export,Fish,2002,758
+Europe,Slovakia,Import,Crustaceans,2002,51
+Europe,Slovakia,Import,Fish,2002,21762
+Europe,Slovenia,Export,Crustaceans,2002,4
+Europe,Slovenia,Export,Fish,2002,2018
+Europe,Slovenia,Import,Crustaceans,2002,350
+Europe,Slovenia,Import,Fish,2002,7999
+Europe,Spain,Export,Crustaceans,2002,28621
+Europe,Spain,Export,Fish,2002,583437
+Europe,Spain,Import,Crustaceans,2002,155731
+Europe,Spain,Import,Fish,2002,852893
+Europe,Sweden,Export,Crustaceans,2002,4281
+Europe,Sweden,Export,Fish,2002,255623
+Europe,Sweden,Import,Crustaceans,2002,26302
+Europe,Sweden,Import,Fish,2002,191502
+Europe,Switzerland,Export,Crustaceans,2002,16
+Europe,Switzerland,Export,Fish,2002,122
+Europe,Switzerland,Import,Crustaceans,2002,5031
+Europe,Switzerland,Import,Fish,2002,44831
+Europe,Ukraine,Export,Crustaceans,2002,186
+Europe,Ukraine,Export,Fish,2002,37794
+Europe,Ukraine,Import,Crustaceans,2002,643
+Europe,Ukraine,Import,Fish,2002,295542
+Europe,United Kingdom,Export,Crustaceans,2002,65250
+Europe,United Kingdom,Export,Fish,2002,505910
+Europe,United Kingdom,Import,Crustaceans,2002,91298
+Europe,United Kingdom,Import,Fish,2002,513740
+Europe,Albania,Export,Crustaceans,2003,8
+Europe,Albania,Export,Fish,2003,2561
+Europe,Albania,Import,Crustaceans,2003,8
+Europe,Albania,Import,Fish,2003,7352
+Europe,Andorra,Export,Crustaceans,2003,0
+Europe,Andorra,Export,Fish,2003,0
+Europe,Andorra,Import,Crustaceans,2003,190
+Europe,Andorra,Import,Fish,2003,1890
+Europe,Austria,Export,Crustaceans,2003,20
+Europe,Austria,Export,Fish,2003,8240
+Europe,Austria,Import,Crustaceans,2003,2196
+Europe,Austria,Import,Fish,2003,50707
+Europe,Belarus,Export,Crustaceans,2003,301
+Europe,Belarus,Export,Fish,2003,13818
+Europe,Belarus,Import,Crustaceans,2003,937
+Europe,Belarus,Import,Fish,2003,119605
+Europe,Belgium,Export,Crustaceans,2003,41583
+Europe,Belgium,Export,Fish,2003,84568
+Europe,Belgium,Import,Crustaceans,2003,61680
+Europe,Belgium,Import,Fish,2003,163373
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2003,0
+Europe,Bosnia and Herzegovina,Export,Fish,2003,468
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2003,19
+Europe,Bosnia and Herzegovina,Import,Fish,2003,8149
+Europe,Bulgaria,Export,Crustaceans,2003,0
+Europe,Bulgaria,Export,Fish,2003,2985
+Europe,Bulgaria,Import,Crustaceans,2003,112
+Europe,Bulgaria,Import,Fish,2003,22830
+Europe,Croatia,Export,Crustaceans,2003,149
+Europe,Croatia,Export,Fish,2003,21524
+Europe,Croatia,Import,Crustaceans,2003,578
+Europe,Croatia,Import,Fish,2003,50578
+Europe,Czechia,Export,Crustaceans,2003,51
+Europe,Czechia,Export,Fish,2003,13374
+Europe,Czechia,Import,Crustaceans,2003,456
+Europe,Czechia,Import,Fish,2003,49194
+Europe,Denmark,Export,Crustaceans,2003,126947
+Europe,Denmark,Export,Fish,2003,662694
+Europe,Denmark,Import,Crustaceans,2003,122891
+Europe,Denmark,Import,Fish,2003,586158
+Europe,Estonia,Export,Crustaceans,2003,2834
+Europe,Estonia,Export,Fish,2003,121656
+Europe,Estonia,Import,Crustaceans,2003,1889
+Europe,Estonia,Import,Fish,2003,52442
+Europe,Faroe Islands,Export,Crustaceans,2003,9871
+Europe,Faroe Islands,Export,Fish,2003,192765
+Europe,Faroe Islands,Import,Crustaceans,2003,32
+Europe,Faroe Islands,Import,Fish,2003,1765
+Europe,Finland,Export,Crustaceans,2003,32
+Europe,Finland,Export,Fish,2003,10359
+Europe,Finland,Import,Crustaceans,2003,2859
+Europe,Finland,Import,Fish,2003,46105
+Europe,France,Export,Crustaceans,2003,19782
+Europe,France,Export,Fish,2003,340487
+Europe,France,Import,Crustaceans,2003,131915
+Europe,France,Import,Fish,2003,688189
+Europe,Germany,Export,Crustaceans,2003,20105
+Europe,Germany,Export,Fish,2003,410514
+Europe,Germany,Import,Crustaceans,2003,33324
+Europe,Germany,Import,Fish,2003,708348
+Europe,Greece,Export,Crustaceans,2003,738
+Europe,Greece,Export,Fish,2003,65650
+Europe,Greece,Import,Crustaceans,2003,4819
+Europe,Greece,Import,Fish,2003,58466
+Europe,Hungary,Export,Crustaceans,2003,0
+Europe,Hungary,Export,Fish,2003,2539
+Europe,Hungary,Import,Crustaceans,2003,217
+Europe,Hungary,Import,Fish,2003,16798
+Europe,Iceland,Export,Crustaceans,2003,32200
+Europe,Iceland,Export,Fish,2003,355163
+Europe,Iceland,Import,Crustaceans,2003,43227
+Europe,Iceland,Import,Fish,2003,8580
+Europe,Ireland,Export,Crustaceans,2003,14394
+Europe,Ireland,Export,Fish,2003,199306
+Europe,Ireland,Import,Crustaceans,2003,3893
+Europe,Ireland,Import,Fish,2003,22607
+Europe,Italy,Export,Crustaceans,2003,3530
+Europe,Italy,Export,Fish,2003,80885
+Europe,Italy,Import,Crustaceans,2003,77411
+Europe,Italy,Import,Fish,2003,491978
+Europe,Latvia,Export,Crustaceans,2003,67
+Europe,Latvia,Export,Fish,2003,105299
+Europe,Latvia,Import,Crustaceans,2003,509
+Europe,Latvia,Import,Fish,2003,29583
+Europe,Lithuania,Export,Crustaceans,2003,54
+Europe,Lithuania,Export,Fish,2003,78592
+Europe,Lithuania,Import,Crustaceans,2003,530
+Europe,Lithuania,Import,Fish,2003,74713
+Europe,Luxembourg,Export,Crustaceans,2003,477
+Europe,Luxembourg,Export,Fish,2003,2029
+Europe,Luxembourg,Import,Crustaceans,2003,2130
+Europe,Luxembourg,Import,Fish,2003,6287
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2003,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2003,59
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2003,16
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2003,5953
+Europe,Malta,Export,Crustaceans,2003,8
+Europe,Malta,Export,Fish,2003,3306
+Europe,Malta,Import,Crustaceans,2003,1204
+Europe,Malta,Import,Fish,2003,21105
+Europe,"Moldova, Republic of",Export,Crustaceans,2003,0
+Europe,"Moldova, Republic of",Export,Fish,2003,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2003,30
+Europe,"Moldova, Republic of",Import,Fish,2003,19263
+Europe,Montenegro,Export,Crustaceans,2003,0
+Europe,Montenegro,Export,Fish,2003,0
+Europe,Montenegro,Import,Crustaceans,2003,0
+Europe,Montenegro,Import,Fish,2003,0
+Europe,Netherlands,Export,Crustaceans,2003,72618
+Europe,Netherlands,Export,Fish,2003,711154
+Europe,Netherlands,Import,Crustaceans,2003,81764
+Europe,Netherlands,Import,Fish,2003,537815
+Europe,Norway,Export,Crustaceans,2003,33504
+Europe,Norway,Export,Fish,2003,1671594
+Europe,Norway,Import,Crustaceans,2003,15869
+Europe,Norway,Import,Fish,2003,177275
+Europe,Poland,Export,Crustaceans,2003,7284
+Europe,Poland,Export,Fish,2003,147462
+Europe,Poland,Import,Crustaceans,2003,5132
+Europe,Poland,Import,Fish,2003,228793
+Europe,Portugal,Export,Crustaceans,2003,3617
+Europe,Portugal,Export,Fish,2003,87183
+Europe,Portugal,Import,Crustaceans,2003,18562
+Europe,Portugal,Import,Fish,2003,274076
+Europe,Romania,Export,Crustaceans,2003,0
+Europe,Romania,Export,Fish,2003,38
+Europe,Romania,Import,Crustaceans,2003,102
+Europe,Romania,Import,Fish,2003,59446
+Europe,Russian Federation,Export,Crustaceans,2003,37342
+Europe,Russian Federation,Export,Fish,2003,1170756
+Europe,Russian Federation,Import,Crustaceans,2003,31800
+Europe,Russian Federation,Import,Fish,2003,671860
+Europe,Serbia,Export,Crustaceans,2003,0
+Europe,Serbia,Export,Fish,2003,0
+Europe,Serbia,Import,Crustaceans,2003,0
+Europe,Serbia,Import,Fish,2003,0
+Europe,Serbia and Montenegro,Export,Crustaceans,2003,7
+Europe,Serbia and Montenegro,Export,Fish,2003,81
+Europe,Serbia and Montenegro,Import,Crustaceans,2003,40
+Europe,Serbia and Montenegro,Import,Fish,2003,18315
+Europe,Slovakia,Export,Crustaceans,2003,0
+Europe,Slovakia,Export,Fish,2003,903
+Europe,Slovakia,Import,Crustaceans,2003,75
+Europe,Slovakia,Import,Fish,2003,20790
+Europe,Slovenia,Export,Crustaceans,2003,16
+Europe,Slovenia,Export,Fish,2003,2052
+Europe,Slovenia,Import,Crustaceans,2003,357
+Europe,Slovenia,Import,Fish,2003,8861
+Europe,Spain,Export,Crustaceans,2003,25602
+Europe,Spain,Export,Fish,2003,641545
+Europe,Spain,Import,Crustaceans,2003,174634
+Europe,Spain,Import,Fish,2003,953337
+Europe,Sweden,Export,Crustaceans,2003,4366
+Europe,Sweden,Export,Fish,2003,272257
+Europe,Sweden,Import,Crustaceans,2003,29839
+Europe,Sweden,Import,Fish,2003,237843
+Europe,Switzerland,Export,Crustaceans,2003,10
+Europe,Switzerland,Export,Fish,2003,148
+Europe,Switzerland,Import,Crustaceans,2003,5883
+Europe,Switzerland,Import,Fish,2003,45030
+Europe,Ukraine,Export,Crustaceans,2003,592
+Europe,Ukraine,Export,Fish,2003,31029
+Europe,Ukraine,Import,Crustaceans,2003,1450
+Europe,Ukraine,Import,Fish,2003,287564
+Europe,United Kingdom,Export,Crustaceans,2003,67720
+Europe,United Kingdom,Export,Fish,2003,543167
+Europe,United Kingdom,Import,Crustaceans,2003,96255
+Europe,United Kingdom,Import,Fish,2003,514375
+Europe,Albania,Export,Crustaceans,2004,1
+Europe,Albania,Export,Fish,2004,2693
+Europe,Albania,Import,Crustaceans,2004,5
+Europe,Albania,Import,Fish,2004,7807
+Europe,Andorra,Export,Crustaceans,2004,0
+Europe,Andorra,Export,Fish,2004,0
+Europe,Andorra,Import,Crustaceans,2004,182
+Europe,Andorra,Import,Fish,2004,2022
+Europe,Austria,Export,Crustaceans,2004,15
+Europe,Austria,Export,Fish,2004,10740
+Europe,Austria,Import,Crustaceans,2004,3393
+Europe,Austria,Import,Fish,2004,55150
+Europe,Belarus,Export,Crustaceans,2004,254
+Europe,Belarus,Export,Fish,2004,17036
+Europe,Belarus,Import,Crustaceans,2004,1149
+Europe,Belarus,Import,Fish,2004,127768
+Europe,Belgium,Export,Crustaceans,2004,45665
+Europe,Belgium,Export,Fish,2004,86087
+Europe,Belgium,Import,Crustaceans,2004,64652
+Europe,Belgium,Import,Fish,2004,166367
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2004,3
+Europe,Bosnia and Herzegovina,Export,Fish,2004,2313
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2004,43
+Europe,Bosnia and Herzegovina,Import,Fish,2004,12406
+Europe,Bulgaria,Export,Crustaceans,2004,0
+Europe,Bulgaria,Export,Fish,2004,2979
+Europe,Bulgaria,Import,Crustaceans,2004,119
+Europe,Bulgaria,Import,Fish,2004,23221
+Europe,Croatia,Export,Crustaceans,2004,185
+Europe,Croatia,Export,Fish,2004,21971
+Europe,Croatia,Import,Crustaceans,2004,626
+Europe,Croatia,Import,Fish,2004,31329
+Europe,Czechia,Export,Crustaceans,2004,26
+Europe,Czechia,Export,Fish,2004,14780
+Europe,Czechia,Import,Crustaceans,2004,444
+Europe,Czechia,Import,Fish,2004,54739
+Europe,Denmark,Export,Crustaceans,2004,164205
+Europe,Denmark,Export,Fish,2004,661030
+Europe,Denmark,Import,Crustaceans,2004,143353
+Europe,Denmark,Import,Fish,2004,572902
+Europe,Estonia,Export,Crustaceans,2004,2382
+Europe,Estonia,Export,Fish,2004,93981
+Europe,Estonia,Import,Crustaceans,2004,1926
+Europe,Estonia,Import,Fish,2004,34958
+Europe,Faroe Islands,Export,Crustaceans,2004,5954
+Europe,Faroe Islands,Export,Fish,2004,162454
+Europe,Faroe Islands,Import,Crustaceans,2004,1538
+Europe,Faroe Islands,Import,Fish,2004,3075
+Europe,Finland,Export,Crustaceans,2004,37
+Europe,Finland,Export,Fish,2004,18789
+Europe,Finland,Import,Crustaceans,2004,2922
+Europe,Finland,Import,Fish,2004,52755
+Europe,France,Export,Crustaceans,2004,21655
+Europe,France,Export,Fish,2004,374640
+Europe,France,Import,Crustaceans,2004,140925
+Europe,France,Import,Fish,2004,728864
+Europe,Germany,Export,Crustaceans,2004,22374
+Europe,Germany,Export,Fish,2004,459957
+Europe,Germany,Import,Crustaceans,2004,36874
+Europe,Germany,Import,Fish,2004,702242
+Europe,Greece,Export,Crustaceans,2004,2705
+Europe,Greece,Export,Fish,2004,68402
+Europe,Greece,Import,Crustaceans,2004,5261
+Europe,Greece,Import,Fish,2004,63935
+Europe,Hungary,Export,Crustaceans,2004,0
+Europe,Hungary,Export,Fish,2004,1716
+Europe,Hungary,Import,Crustaceans,2004,142
+Europe,Hungary,Import,Fish,2004,15805
+Europe,Iceland,Export,Crustaceans,2004,31292
+Europe,Iceland,Export,Fish,2004,429650
+Europe,Iceland,Import,Crustaceans,2004,53270
+Europe,Iceland,Import,Fish,2004,5282
+Europe,Ireland,Export,Crustaceans,2004,13611
+Europe,Ireland,Export,Fish,2004,186047
+Europe,Ireland,Import,Crustaceans,2004,4851
+Europe,Ireland,Import,Fish,2004,20264
+Europe,Italy,Export,Crustaceans,2004,3795
+Europe,Italy,Export,Fish,2004,87107
+Europe,Italy,Import,Crustaceans,2004,81221
+Europe,Italy,Import,Fish,2004,505386
+Europe,Latvia,Export,Crustaceans,2004,228
+Europe,Latvia,Export,Fish,2004,104204
+Europe,Latvia,Import,Crustaceans,2004,793
+Europe,Latvia,Import,Fish,2004,25211
+Europe,Lithuania,Export,Crustaceans,2004,117
+Europe,Lithuania,Export,Fish,2004,72230
+Europe,Lithuania,Import,Crustaceans,2004,523
+Europe,Lithuania,Import,Fish,2004,72190
+Europe,Luxembourg,Export,Crustaceans,2004,561
+Europe,Luxembourg,Export,Fish,2004,1461
+Europe,Luxembourg,Import,Crustaceans,2004,1505
+Europe,Luxembourg,Import,Fish,2004,6113
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2004,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2004,59
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2004,17
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2004,6865
+Europe,Malta,Export,Crustaceans,2004,0
+Europe,Malta,Export,Fish,2004,1470
+Europe,Malta,Import,Crustaceans,2004,362
+Europe,Malta,Import,Fish,2004,22665
+Europe,"Moldova, Republic of",Export,Crustaceans,2004,0
+Europe,"Moldova, Republic of",Export,Fish,2004,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2004,61
+Europe,"Moldova, Republic of",Import,Fish,2004,24341
+Europe,Montenegro,Export,Crustaceans,2004,0
+Europe,Montenegro,Export,Fish,2004,0
+Europe,Montenegro,Import,Crustaceans,2004,0
+Europe,Montenegro,Import,Fish,2004,0
+Europe,Netherlands,Export,Crustaceans,2004,75798
+Europe,Netherlands,Export,Fish,2004,844680
+Europe,Netherlands,Import,Crustaceans,2004,57148
+Europe,Netherlands,Import,Fish,2004,522265
+Europe,Norway,Export,Crustaceans,2004,32218
+Europe,Norway,Export,Fish,2004,1590320
+Europe,Norway,Import,Crustaceans,2004,28528
+Europe,Norway,Import,Fish,2004,176348
+Europe,Poland,Export,Crustaceans,2004,7643
+Europe,Poland,Export,Fish,2004,169244
+Europe,Poland,Import,Crustaceans,2004,7087
+Europe,Poland,Import,Fish,2004,282191
+Europe,Portugal,Export,Crustaceans,2004,2656
+Europe,Portugal,Export,Fish,2004,102670
+Europe,Portugal,Import,Crustaceans,2004,20015
+Europe,Portugal,Import,Fish,2004,278665
+Europe,Romania,Export,Crustaceans,2004,3
+Europe,Romania,Export,Fish,2004,378
+Europe,Romania,Import,Crustaceans,2004,196
+Europe,Romania,Import,Fish,2004,66262
+Europe,Russian Federation,Export,Crustaceans,2004,29368
+Europe,Russian Federation,Export,Fish,2004,1183614
+Europe,Russian Federation,Import,Crustaceans,2004,36587
+Europe,Russian Federation,Import,Fish,2004,778066
+Europe,Serbia,Export,Crustaceans,2004,0
+Europe,Serbia,Export,Fish,2004,0
+Europe,Serbia,Import,Crustaceans,2004,0
+Europe,Serbia,Import,Fish,2004,0
+Europe,Serbia and Montenegro,Export,Crustaceans,2004,1
+Europe,Serbia and Montenegro,Export,Fish,2004,217
+Europe,Serbia and Montenegro,Import,Crustaceans,2004,82
+Europe,Serbia and Montenegro,Import,Fish,2004,30294
+Europe,Slovakia,Export,Crustaceans,2004,0
+Europe,Slovakia,Export,Fish,2004,1523
+Europe,Slovakia,Import,Crustaceans,2004,82
+Europe,Slovakia,Import,Fish,2004,21205
+Europe,Slovenia,Export,Crustaceans,2004,20
+Europe,Slovenia,Export,Fish,2004,2572
+Europe,Slovenia,Import,Crustaceans,2004,405
+Europe,Slovenia,Import,Fish,2004,10245
+Europe,Spain,Export,Crustaceans,2004,25830
+Europe,Spain,Export,Fish,2004,646342
+Europe,Spain,Import,Crustaceans,2004,176785
+Europe,Spain,Import,Fish,2004,873584
+Europe,Sweden,Export,Crustaceans,2004,5032
+Europe,Sweden,Export,Fish,2004,312599
+Europe,Sweden,Import,Crustaceans,2004,32010
+Europe,Sweden,Import,Fish,2004,280332
+Europe,Switzerland,Export,Crustaceans,2004,12
+Europe,Switzerland,Export,Fish,2004,169
+Europe,Switzerland,Import,Crustaceans,2004,6469
+Europe,Switzerland,Import,Fish,2004,45954
+Europe,Ukraine,Export,Crustaceans,2004,872
+Europe,Ukraine,Export,Fish,2004,16320
+Europe,Ukraine,Import,Crustaceans,2004,1518
+Europe,Ukraine,Import,Fish,2004,296447
+Europe,United Kingdom,Export,Crustaceans,2004,66835
+Europe,United Kingdom,Export,Fish,2004,538108
+Europe,United Kingdom,Import,Crustaceans,2004,95630
+Europe,United Kingdom,Import,Fish,2004,546892
+Europe,Albania,Export,Crustaceans,2005,0
+Europe,Albania,Export,Fish,2005,511
+Europe,Albania,Import,Crustaceans,2005,33
+Europe,Albania,Import,Fish,2005,7740
+Europe,Andorra,Export,Crustaceans,2005,1
+Europe,Andorra,Export,Fish,2005,8
+Europe,Andorra,Import,Crustaceans,2005,173
+Europe,Andorra,Import,Fish,2005,2080
+Europe,Austria,Export,Crustaceans,2005,16
+Europe,Austria,Export,Fish,2005,4158
+Europe,Austria,Import,Crustaceans,2005,4464
+Europe,Austria,Import,Fish,2005,54011
+Europe,Belarus,Export,Crustaceans,2005,376
+Europe,Belarus,Export,Fish,2005,20912
+Europe,Belarus,Import,Crustaceans,2005,1472
+Europe,Belarus,Import,Fish,2005,131849
+Europe,Belgium,Export,Crustaceans,2005,50430
+Europe,Belgium,Export,Fish,2005,83886
+Europe,Belgium,Import,Crustaceans,2005,69668
+Europe,Belgium,Import,Fish,2005,165149
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2005,5
+Europe,Bosnia and Herzegovina,Export,Fish,2005,2375
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2005,52
+Europe,Bosnia and Herzegovina,Import,Fish,2005,13206
+Europe,Bulgaria,Export,Crustaceans,2005,1
+Europe,Bulgaria,Export,Fish,2005,1800
+Europe,Bulgaria,Import,Crustaceans,2005,172
+Europe,Bulgaria,Import,Fish,2005,24219
+Europe,Croatia,Export,Crustaceans,2005,160
+Europe,Croatia,Export,Fish,2005,22719
+Europe,Croatia,Import,Crustaceans,2005,673
+Europe,Croatia,Import,Fish,2005,46080
+Europe,Czechia,Export,Crustaceans,2005,37
+Europe,Czechia,Export,Fish,2005,16916
+Europe,Czechia,Import,Crustaceans,2005,492
+Europe,Czechia,Import,Fish,2005,57518
+Europe,Denmark,Export,Crustaceans,2005,173056
+Europe,Denmark,Export,Fish,2005,572849
+Europe,Denmark,Import,Crustaceans,2005,154888
+Europe,Denmark,Import,Fish,2005,546761
+Europe,Estonia,Export,Crustaceans,2005,3489
+Europe,Estonia,Export,Fish,2005,123390
+Europe,Estonia,Import,Crustaceans,2005,2710
+Europe,Estonia,Import,Fish,2005,34674
+Europe,Faroe Islands,Export,Crustaceans,2005,4690
+Europe,Faroe Islands,Export,Fish,2005,172224
+Europe,Faroe Islands,Import,Crustaceans,2005,27
+Europe,Faroe Islands,Import,Fish,2005,4215
+Europe,Finland,Export,Crustaceans,2005,8
+Europe,Finland,Export,Fish,2005,24636
+Europe,Finland,Import,Crustaceans,2005,2835
+Europe,Finland,Import,Fish,2005,47015
+Europe,France,Export,Crustaceans,2005,23378
+Europe,France,Export,Fish,2005,288301
+Europe,France,Import,Crustaceans,2005,139788
+Europe,France,Import,Fish,2005,736996
+Europe,Germany,Export,Crustaceans,2005,19683
+Europe,Germany,Export,Fish,2005,460729
+Europe,Germany,Import,Crustaceans,2005,43560
+Europe,Germany,Import,Fish,2005,742415
+Europe,Greece,Export,Crustaceans,2005,1842
+Europe,Greece,Export,Fish,2005,69073
+Europe,Greece,Import,Crustaceans,2005,5115
+Europe,Greece,Import,Fish,2005,63924
+Europe,Hungary,Export,Crustaceans,2005,3
+Europe,Hungary,Export,Fish,2005,4162
+Europe,Hungary,Import,Crustaceans,2005,166
+Europe,Hungary,Import,Fish,2005,18915
+Europe,Iceland,Export,Crustaceans,2005,23434
+Europe,Iceland,Export,Fish,2005,453442
+Europe,Iceland,Import,Crustaceans,2005,46101
+Europe,Iceland,Import,Fish,2005,15004
+Europe,Ireland,Export,Crustaceans,2005,13083
+Europe,Ireland,Export,Fish,2005,131333
+Europe,Ireland,Import,Crustaceans,2005,5724
+Europe,Ireland,Import,Fish,2005,23353
+Europe,Italy,Export,Crustaceans,2005,3901
+Europe,Italy,Export,Fish,2005,94245
+Europe,Italy,Import,Crustaceans,2005,87078
+Europe,Italy,Import,Fish,2005,519616
+Europe,Latvia,Export,Crustaceans,2005,207
+Europe,Latvia,Export,Fish,2005,106247
+Europe,Latvia,Import,Crustaceans,2005,729
+Europe,Latvia,Import,Fish,2005,30135
+Europe,Lithuania,Export,Crustaceans,2005,201
+Europe,Lithuania,Export,Fish,2005,92400
+Europe,Lithuania,Import,Crustaceans,2005,1361
+Europe,Lithuania,Import,Fish,2005,90363
+Europe,Luxembourg,Export,Crustaceans,2005,284
+Europe,Luxembourg,Export,Fish,2005,1137
+Europe,Luxembourg,Import,Crustaceans,2005,1150
+Europe,Luxembourg,Import,Fish,2005,5805
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2005,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2005,61
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2005,29
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2005,5909
+Europe,Malta,Export,Crustaceans,2005,1
+Europe,Malta,Export,Fish,2005,1376
+Europe,Malta,Import,Crustaceans,2005,803
+Europe,Malta,Import,Fish,2005,11956
+Europe,"Moldova, Republic of",Export,Crustaceans,2005,0
+Europe,"Moldova, Republic of",Export,Fish,2005,12
+Europe,"Moldova, Republic of",Import,Crustaceans,2005,94
+Europe,"Moldova, Republic of",Import,Fish,2005,28549
+Europe,Montenegro,Export,Crustaceans,2005,0
+Europe,Montenegro,Export,Fish,2005,0
+Europe,Montenegro,Import,Crustaceans,2005,0
+Europe,Montenegro,Import,Fish,2005,0
+Europe,Netherlands,Export,Crustaceans,2005,81355
+Europe,Netherlands,Export,Fish,2005,905132
+Europe,Netherlands,Import,Crustaceans,2005,60056
+Europe,Netherlands,Import,Fish,2005,632767
+Europe,Norway,Export,Crustaceans,2005,36746
+Europe,Norway,Export,Fish,2005,1634014
+Europe,Norway,Import,Crustaceans,2005,21298
+Europe,Norway,Import,Fish,2005,120819
+Europe,Poland,Export,Crustaceans,2005,6031
+Europe,Poland,Export,Fish,2005,176356
+Europe,Poland,Import,Crustaceans,2005,5978
+Europe,Poland,Import,Fish,2005,288182
+Europe,Portugal,Export,Crustaceans,2005,4289
+Europe,Portugal,Export,Fish,2005,98155
+Europe,Portugal,Import,Crustaceans,2005,23168
+Europe,Portugal,Import,Fish,2005,285664
+Europe,Romania,Export,Crustaceans,2005,2
+Europe,Romania,Export,Fish,2005,189
+Europe,Romania,Import,Crustaceans,2005,289
+Europe,Romania,Import,Fish,2005,79185
+Europe,Russian Federation,Export,Crustaceans,2005,29112
+Europe,Russian Federation,Export,Fish,2005,1318849
+Europe,Russian Federation,Import,Crustaceans,2005,47359
+Europe,Russian Federation,Import,Fish,2005,903688
+Europe,Serbia,Export,Crustaceans,2005,0
+Europe,Serbia,Export,Fish,2005,0
+Europe,Serbia,Import,Crustaceans,2005,0
+Europe,Serbia,Import,Fish,2005,0
+Europe,Serbia and Montenegro,Export,Crustaceans,2005,0
+Europe,Serbia and Montenegro,Export,Fish,2005,205
+Europe,Serbia and Montenegro,Import,Crustaceans,2005,91
+Europe,Serbia and Montenegro,Import,Fish,2005,27124
+Europe,Slovakia,Export,Crustaceans,2005,0
+Europe,Slovakia,Export,Fish,2005,1502
+Europe,Slovakia,Import,Crustaceans,2005,348
+Europe,Slovakia,Import,Fish,2005,20644
+Europe,Slovenia,Export,Crustaceans,2005,17
+Europe,Slovenia,Export,Fish,2005,6545
+Europe,Slovenia,Import,Crustaceans,2005,430
+Europe,Slovenia,Import,Fish,2005,13676
+Europe,Spain,Export,Crustaceans,2005,21030
+Europe,Spain,Export,Fish,2005,707838
+Europe,Spain,Import,Crustaceans,2005,188989
+Europe,Spain,Import,Fish,2005,870978
+Europe,Sweden,Export,Crustaceans,2005,4608
+Europe,Sweden,Export,Fish,2005,350017
+Europe,Sweden,Import,Crustaceans,2005,34531
+Europe,Sweden,Import,Fish,2005,316524
+Europe,Switzerland,Export,Crustaceans,2005,10
+Europe,Switzerland,Export,Fish,2005,179
+Europe,Switzerland,Import,Crustaceans,2005,6625
+Europe,Switzerland,Import,Fish,2005,45418
+Europe,Ukraine,Export,Crustaceans,2005,567
+Europe,Ukraine,Export,Fish,2005,19723
+Europe,Ukraine,Import,Crustaceans,2005,4082
+Europe,Ukraine,Import,Fish,2005,406307
+Europe,United Kingdom,Export,Crustaceans,2005,65357
+Europe,United Kingdom,Export,Fish,2005,546144
+Europe,United Kingdom,Import,Crustaceans,2005,98910
+Europe,United Kingdom,Import,Fish,2005,587591
+Europe,Albania,Export,Crustaceans,2006,10
+Europe,Albania,Export,Fish,2006,547
+Europe,Albania,Import,Crustaceans,2006,151
+Europe,Albania,Import,Fish,2006,7946
+Europe,Andorra,Export,Crustaceans,2006,0
+Europe,Andorra,Export,Fish,2006,0
+Europe,Andorra,Import,Crustaceans,2006,181
+Europe,Andorra,Import,Fish,2006,2020
+Europe,Austria,Export,Crustaceans,2006,186
+Europe,Austria,Export,Fish,2006,2821
+Europe,Austria,Import,Crustaceans,2006,3801
+Europe,Austria,Import,Fish,2006,53492
+Europe,Belarus,Export,Crustaceans,2006,339
+Europe,Belarus,Export,Fish,2006,28132
+Europe,Belarus,Import,Crustaceans,2006,1319
+Europe,Belarus,Import,Fish,2006,132597
+Europe,Belgium,Export,Crustaceans,2006,60880
+Europe,Belgium,Export,Fish,2006,90379
+Europe,Belgium,Import,Crustaceans,2006,80857
+Europe,Belgium,Import,Fish,2006,172489
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2006,5
+Europe,Bosnia and Herzegovina,Export,Fish,2006,2795
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2006,40
+Europe,Bosnia and Herzegovina,Import,Fish,2006,11027
+Europe,Bulgaria,Export,Crustaceans,2006,0
+Europe,Bulgaria,Export,Fish,2006,2175
+Europe,Bulgaria,Import,Crustaceans,2006,225
+Europe,Bulgaria,Import,Fish,2006,29198
+Europe,Croatia,Export,Crustaceans,2006,170
+Europe,Croatia,Export,Fish,2006,27792
+Europe,Croatia,Import,Crustaceans,2006,720
+Europe,Croatia,Import,Fish,2006,43408
+Europe,Czechia,Export,Crustaceans,2006,40
+Europe,Czechia,Export,Fish,2006,18801
+Europe,Czechia,Import,Crustaceans,2006,511
+Europe,Czechia,Import,Fish,2006,56431
+Europe,Denmark,Export,Crustaceans,2006,178423
+Europe,Denmark,Export,Fish,2006,550500
+Europe,Denmark,Import,Crustaceans,2006,162764
+Europe,Denmark,Import,Fish,2006,537693
+Europe,Estonia,Export,Crustaceans,2006,7258
+Europe,Estonia,Export,Fish,2006,110943
+Europe,Estonia,Import,Crustaceans,2006,4395
+Europe,Estonia,Import,Fish,2006,31046
+Europe,Faroe Islands,Export,Crustaceans,2006,5188
+Europe,Faroe Islands,Export,Fish,2006,167338
+Europe,Faroe Islands,Import,Crustaceans,2006,67
+Europe,Faroe Islands,Import,Fish,2006,2241
+Europe,Finland,Export,Crustaceans,2006,15
+Europe,Finland,Export,Fish,2006,26130
+Europe,Finland,Import,Crustaceans,2006,3139
+Europe,Finland,Import,Fish,2006,52393
+Europe,France,Export,Crustaceans,2006,22632
+Europe,France,Export,Fish,2006,282566
+Europe,France,Import,Crustaceans,2006,140350
+Europe,France,Import,Fish,2006,745955
+Europe,Germany,Export,Crustaceans,2006,23948
+Europe,Germany,Export,Fish,2006,476489
+Europe,Germany,Import,Crustaceans,2006,47208
+Europe,Germany,Import,Fish,2006,775840
+Europe,Greece,Export,Crustaceans,2006,3406
+Europe,Greece,Export,Fish,2006,84895
+Europe,Greece,Import,Crustaceans,2006,6140
+Europe,Greece,Import,Fish,2006,68369
+Europe,Hungary,Export,Crustaceans,2006,0
+Europe,Hungary,Export,Fish,2006,1046
+Europe,Hungary,Import,Crustaceans,2006,183
+Europe,Hungary,Import,Fish,2006,15959
+Europe,Iceland,Export,Crustaceans,2006,20742
+Europe,Iceland,Export,Fish,2006,442061
+Europe,Iceland,Import,Crustaceans,2006,38425
+Europe,Iceland,Import,Fish,2006,9803
+Europe,Ireland,Export,Crustaceans,2006,12653
+Europe,Ireland,Export,Fish,2006,97661
+Europe,Ireland,Import,Crustaceans,2006,5464
+Europe,Ireland,Import,Fish,2006,26533
+Europe,Italy,Export,Crustaceans,2006,4491
+Europe,Italy,Export,Fish,2006,102842
+Europe,Italy,Import,Crustaceans,2006,97941
+Europe,Italy,Import,Fish,2006,533903
+Europe,Latvia,Export,Crustaceans,2006,440
+Europe,Latvia,Export,Fish,2006,112441
+Europe,Latvia,Import,Crustaceans,2006,1251
+Europe,Latvia,Import,Fish,2006,35142
+Europe,Lithuania,Export,Crustaceans,2006,184
+Europe,Lithuania,Export,Fish,2006,86813
+Europe,Lithuania,Import,Crustaceans,2006,766
+Europe,Lithuania,Import,Fish,2006,79931
+Europe,Luxembourg,Export,Crustaceans,2006,74
+Europe,Luxembourg,Export,Fish,2006,773
+Europe,Luxembourg,Import,Crustaceans,2006,1152
+Europe,Luxembourg,Import,Fish,2006,5815
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2006,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2006,28
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2006,28
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2006,7299
+Europe,Malta,Export,Crustaceans,2006,0
+Europe,Malta,Export,Fish,2006,4353
+Europe,Malta,Import,Crustaceans,2006,409
+Europe,Malta,Import,Fish,2006,10024
+Europe,"Moldova, Republic of",Export,Crustaceans,2006,0
+Europe,"Moldova, Republic of",Export,Fish,2006,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2006,135
+Europe,"Moldova, Republic of",Import,Fish,2006,27119
+Europe,Montenegro,Export,Crustaceans,2006,7
+Europe,Montenegro,Export,Fish,2006,267
+Europe,Montenegro,Import,Crustaceans,2006,68
+Europe,Montenegro,Import,Fish,2006,1986
+Europe,Netherlands,Export,Crustaceans,2006,84101
+Europe,Netherlands,Export,Fish,2006,792928
+Europe,Netherlands,Import,Crustaceans,2006,60285
+Europe,Netherlands,Import,Fish,2006,652650
+Europe,Norway,Export,Crustaceans,2006,32614
+Europe,Norway,Export,Fish,2006,1611695
+Europe,Norway,Import,Crustaceans,2006,13979
+Europe,Norway,Import,Fish,2006,134949
+Europe,Poland,Export,Crustaceans,2006,7698
+Europe,Poland,Export,Fish,2006,181648
+Europe,Poland,Import,Crustaceans,2006,6788
+Europe,Poland,Import,Fish,2006,325130
+Europe,Portugal,Export,Crustaceans,2006,3894
+Europe,Portugal,Export,Fish,2006,112276
+Europe,Portugal,Import,Crustaceans,2006,24206
+Europe,Portugal,Import,Fish,2006,314355
+Europe,Romania,Export,Crustaceans,2006,3
+Europe,Romania,Export,Fish,2006,69
+Europe,Romania,Import,Crustaceans,2006,315
+Europe,Romania,Import,Fish,2006,79590
+Europe,Russian Federation,Export,Crustaceans,2006,27964
+Europe,Russian Federation,Export,Fish,2006,1315462
+Europe,Russian Federation,Import,Crustaceans,2006,48325
+Europe,Russian Federation,Import,Fish,2006,800941
+Europe,Serbia,Export,Crustaceans,2006,1
+Europe,Serbia,Export,Fish,2006,350
+Europe,Serbia,Import,Crustaceans,2006,85
+Europe,Serbia,Import,Fish,2006,27679
+Europe,Serbia and Montenegro,Export,Crustaceans,2006,0
+Europe,Serbia and Montenegro,Export,Fish,2006,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2006,0
+Europe,Serbia and Montenegro,Import,Fish,2006,0
+Europe,Slovakia,Export,Crustaceans,2006,0
+Europe,Slovakia,Export,Fish,2006,2313
+Europe,Slovakia,Import,Crustaceans,2006,630
+Europe,Slovakia,Import,Fish,2006,24169
+Europe,Slovenia,Export,Crustaceans,2006,32
+Europe,Slovenia,Export,Fish,2006,3906
+Europe,Slovenia,Import,Crustaceans,2006,486
+Europe,Slovenia,Import,Fish,2006,12431
+Europe,Spain,Export,Crustaceans,2006,25539
+Europe,Spain,Export,Fish,2006,683553
+Europe,Spain,Import,Crustaceans,2006,215943
+Europe,Spain,Import,Fish,2006,907342
+Europe,Sweden,Export,Crustaceans,2006,3681
+Europe,Sweden,Export,Fish,2006,426016
+Europe,Sweden,Import,Crustaceans,2006,32892
+Europe,Sweden,Import,Fish,2006,351770
+Europe,Switzerland,Export,Crustaceans,2006,5
+Europe,Switzerland,Export,Fish,2006,188
+Europe,Switzerland,Import,Crustaceans,2006,7663
+Europe,Switzerland,Import,Fish,2006,48577
+Europe,Ukraine,Export,Crustaceans,2006,498
+Europe,Ukraine,Export,Fish,2006,20411
+Europe,Ukraine,Import,Crustaceans,2006,9174
+Europe,Ukraine,Import,Fish,2006,382972
+Europe,United Kingdom,Export,Crustaceans,2006,65508
+Europe,United Kingdom,Export,Fish,2006,490971
+Europe,United Kingdom,Import,Crustaceans,2006,99024
+Europe,United Kingdom,Import,Fish,2006,642607
+Europe,Albania,Export,Crustaceans,2007,3
+Europe,Albania,Export,Fish,2007,300
+Europe,Albania,Import,Crustaceans,2007,146
+Europe,Albania,Import,Fish,2007,7944
+Europe,Andorra,Export,Crustaceans,2007,0
+Europe,Andorra,Export,Fish,2007,0
+Europe,Andorra,Import,Crustaceans,2007,194
+Europe,Andorra,Import,Fish,2007,1996
+Europe,Austria,Export,Crustaceans,2007,250
+Europe,Austria,Export,Fish,2007,3964
+Europe,Austria,Import,Crustaceans,2007,4160
+Europe,Austria,Import,Fish,2007,61022
+Europe,Belarus,Export,Crustaceans,2007,338
+Europe,Belarus,Export,Fish,2007,33863
+Europe,Belarus,Import,Crustaceans,2007,1570
+Europe,Belarus,Import,Fish,2007,138024
+Europe,Belgium,Export,Crustaceans,2007,62740
+Europe,Belgium,Export,Fish,2007,82996
+Europe,Belgium,Import,Crustaceans,2007,83687
+Europe,Belgium,Import,Fish,2007,167494
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2007,2
+Europe,Bosnia and Herzegovina,Export,Fish,2007,2488
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2007,45
+Europe,Bosnia and Herzegovina,Import,Fish,2007,11361
+Europe,Bulgaria,Export,Crustaceans,2007,28
+Europe,Bulgaria,Export,Fish,2007,2499
+Europe,Bulgaria,Import,Crustaceans,2007,315
+Europe,Bulgaria,Import,Fish,2007,22122
+Europe,Croatia,Export,Crustaceans,2007,150
+Europe,Croatia,Export,Fish,2007,28969
+Europe,Croatia,Import,Crustaceans,2007,926
+Europe,Croatia,Import,Fish,2007,37628
+Europe,Czechia,Export,Crustaceans,2007,102
+Europe,Czechia,Export,Fish,2007,19646
+Europe,Czechia,Import,Crustaceans,2007,740
+Europe,Czechia,Import,Fish,2007,60166
+Europe,Denmark,Export,Crustaceans,2007,148301
+Europe,Denmark,Export,Fish,2007,549724
+Europe,Denmark,Import,Crustaceans,2007,137534
+Europe,Denmark,Import,Fish,2007,531771
+Europe,Estonia,Export,Crustaceans,2007,9302
+Europe,Estonia,Export,Fish,2007,104266
+Europe,Estonia,Import,Crustaceans,2007,7256
+Europe,Estonia,Import,Fish,2007,38225
+Europe,Faroe Islands,Export,Crustaceans,2007,6842
+Europe,Faroe Islands,Export,Fish,2007,207937
+Europe,Faroe Islands,Import,Crustaceans,2007,71
+Europe,Faroe Islands,Import,Fish,2007,1453
+Europe,Finland,Export,Crustaceans,2007,7
+Europe,Finland,Export,Fish,2007,37998
+Europe,Finland,Import,Crustaceans,2007,3500
+Europe,Finland,Import,Fish,2007,61249
+Europe,France,Export,Crustaceans,2007,23953
+Europe,France,Export,Fish,2007,261631
+Europe,France,Import,Crustaceans,2007,142710
+Europe,France,Import,Fish,2007,730988
+Europe,Germany,Export,Crustaceans,2007,25958
+Europe,Germany,Export,Fish,2007,609588
+Europe,Germany,Import,Crustaceans,2007,57479
+Europe,Germany,Import,Fish,2007,797007
+Europe,Greece,Export,Crustaceans,2007,2510
+Europe,Greece,Export,Fish,2007,111048
+Europe,Greece,Import,Crustaceans,2007,7392
+Europe,Greece,Import,Fish,2007,72209
+Europe,Hungary,Export,Crustaceans,2007,0
+Europe,Hungary,Export,Fish,2007,852
+Europe,Hungary,Import,Crustaceans,2007,163
+Europe,Hungary,Import,Fish,2007,14557
+Europe,Iceland,Export,Crustaceans,2007,16372
+Europe,Iceland,Export,Fish,2007,411182
+Europe,Iceland,Import,Crustaceans,2007,35963
+Europe,Iceland,Import,Fish,2007,12452
+Europe,Ireland,Export,Crustaceans,2007,16608
+Europe,Ireland,Export,Fish,2007,113872
+Europe,Ireland,Import,Crustaceans,2007,6979
+Europe,Ireland,Import,Fish,2007,32295
+Europe,Italy,Export,Crustaceans,2007,3997
+Europe,Italy,Export,Fish,2007,97072
+Europe,Italy,Import,Crustaceans,2007,100596
+Europe,Italy,Import,Fish,2007,542402
+Europe,Latvia,Export,Crustaceans,2007,477
+Europe,Latvia,Export,Fish,2007,112367
+Europe,Latvia,Import,Crustaceans,2007,1546
+Europe,Latvia,Import,Fish,2007,42290
+Europe,Lithuania,Export,Crustaceans,2007,404
+Europe,Lithuania,Export,Fish,2007,100217
+Europe,Lithuania,Import,Crustaceans,2007,1247
+Europe,Lithuania,Import,Fish,2007,90563
+Europe,Luxembourg,Export,Crustaceans,2007,289
+Europe,Luxembourg,Export,Fish,2007,468
+Europe,Luxembourg,Import,Crustaceans,2007,1298
+Europe,Luxembourg,Import,Fish,2007,5650
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2007,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2007,195
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2007,28
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2007,7752
+Europe,Malta,Export,Crustaceans,2007,6
+Europe,Malta,Export,Fish,2007,3160
+Europe,Malta,Import,Crustaceans,2007,342
+Europe,Malta,Import,Fish,2007,21631
+Europe,"Moldova, Republic of",Export,Crustaceans,2007,0
+Europe,"Moldova, Republic of",Export,Fish,2007,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2007,178
+Europe,"Moldova, Republic of",Import,Fish,2007,26070
+Europe,Montenegro,Export,Crustaceans,2007,0
+Europe,Montenegro,Export,Fish,2007,236
+Europe,Montenegro,Import,Crustaceans,2007,105
+Europe,Montenegro,Import,Fish,2007,2587
+Europe,Netherlands,Export,Crustaceans,2007,88591
+Europe,Netherlands,Export,Fish,2007,762286
+Europe,Netherlands,Import,Crustaceans,2007,62432
+Europe,Netherlands,Import,Fish,2007,688323
+Europe,Norway,Export,Crustaceans,2007,19917
+Europe,Norway,Export,Fish,2007,1866600
+Europe,Norway,Import,Crustaceans,2007,22999
+Europe,Norway,Import,Fish,2007,156223
+Europe,Poland,Export,Crustaceans,2007,7724
+Europe,Poland,Export,Fish,2007,197627
+Europe,Poland,Import,Crustaceans,2007,6829
+Europe,Poland,Import,Fish,2007,350638
+Europe,Portugal,Export,Crustaceans,2007,5080
+Europe,Portugal,Export,Fish,2007,118732
+Europe,Portugal,Import,Crustaceans,2007,25657
+Europe,Portugal,Import,Fish,2007,327432
+Europe,Romania,Export,Crustaceans,2007,19
+Europe,Romania,Export,Fish,2007,350
+Europe,Romania,Import,Crustaceans,2007,504
+Europe,Romania,Import,Fish,2007,73568
+Europe,Russian Federation,Export,Crustaceans,2007,33497
+Europe,Russian Federation,Export,Fish,2007,1276910
+Europe,Russian Federation,Import,Crustaceans,2007,71041
+Europe,Russian Federation,Import,Fish,2007,985869
+Europe,Serbia,Export,Crustaceans,2007,0
+Europe,Serbia,Export,Fish,2007,414
+Europe,Serbia,Import,Crustaceans,2007,114
+Europe,Serbia,Import,Fish,2007,33944
+Europe,Serbia and Montenegro,Export,Crustaceans,2007,0
+Europe,Serbia and Montenegro,Export,Fish,2007,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2007,0
+Europe,Serbia and Montenegro,Import,Fish,2007,0
+Europe,Slovakia,Export,Crustaceans,2007,3
+Europe,Slovakia,Export,Fish,2007,1389
+Europe,Slovakia,Import,Crustaceans,2007,1117
+Europe,Slovakia,Import,Fish,2007,21117
+Europe,Slovenia,Export,Crustaceans,2007,86
+Europe,Slovenia,Export,Fish,2007,2898
+Europe,Slovenia,Import,Crustaceans,2007,593
+Europe,Slovenia,Import,Fish,2007,10987
+Europe,Spain,Export,Crustaceans,2007,35452
+Europe,Spain,Export,Fish,2007,688820
+Europe,Spain,Import,Crustaceans,2007,218095
+Europe,Spain,Import,Fish,2007,947684
+Europe,Sweden,Export,Crustaceans,2007,4438
+Europe,Sweden,Export,Fish,2007,426368
+Europe,Sweden,Import,Crustaceans,2007,35077
+Europe,Sweden,Import,Fish,2007,413577
+Europe,Switzerland,Export,Crustaceans,2007,10
+Europe,Switzerland,Export,Fish,2007,210
+Europe,Switzerland,Import,Crustaceans,2007,8639
+Europe,Switzerland,Import,Fish,2007,48960
+Europe,Ukraine,Export,Crustaceans,2007,726
+Europe,Ukraine,Export,Fish,2007,24222
+Europe,Ukraine,Import,Crustaceans,2007,14387
+Europe,Ukraine,Import,Fish,2007,442048
+Europe,United Kingdom,Export,Crustaceans,2007,66424
+Europe,United Kingdom,Export,Fish,2007,512391
+Europe,United Kingdom,Import,Crustaceans,2007,97125
+Europe,United Kingdom,Import,Fish,2007,623825
+Europe,Albania,Export,Crustaceans,2008,0
+Europe,Albania,Export,Fish,2008,360
+Europe,Albania,Import,Crustaceans,2008,202
+Europe,Albania,Import,Fish,2008,8509
+Europe,Andorra,Export,Crustaceans,2008,0
+Europe,Andorra,Export,Fish,2008,0
+Europe,Andorra,Import,Crustaceans,2008,239
+Europe,Andorra,Import,Fish,2008,1686
+Europe,Austria,Export,Crustaceans,2008,344
+Europe,Austria,Export,Fish,2008,4749
+Europe,Austria,Import,Crustaceans,2008,4102
+Europe,Austria,Import,Fish,2008,58835
+Europe,Belarus,Export,Crustaceans,2008,287
+Europe,Belarus,Export,Fish,2008,38229
+Europe,Belarus,Import,Crustaceans,2008,1719
+Europe,Belarus,Import,Fish,2008,147239
+Europe,Belgium,Export,Crustaceans,2008,65817
+Europe,Belgium,Export,Fish,2008,87734
+Europe,Belgium,Import,Crustaceans,2008,87091
+Europe,Belgium,Import,Fish,2008,178871
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2008,2
+Europe,Bosnia and Herzegovina,Export,Fish,2008,2776
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2008,64
+Europe,Bosnia and Herzegovina,Import,Fish,2008,11728
+Europe,Bulgaria,Export,Crustaceans,2008,4
+Europe,Bulgaria,Export,Fish,2008,3228
+Europe,Bulgaria,Import,Crustaceans,2008,461
+Europe,Bulgaria,Import,Fish,2008,29266
+Europe,Croatia,Export,Crustaceans,2008,153
+Europe,Croatia,Export,Fish,2008,27570
+Europe,Croatia,Import,Crustaceans,2008,1067
+Europe,Croatia,Import,Fish,2008,43631
+Europe,Czechia,Export,Crustaceans,2008,58
+Europe,Czechia,Export,Fish,2008,18549
+Europe,Czechia,Import,Crustaceans,2008,795
+Europe,Czechia,Import,Fish,2008,62863
+Europe,Denmark,Export,Crustaceans,2008,136458
+Europe,Denmark,Export,Fish,2008,585764
+Europe,Denmark,Import,Crustaceans,2008,120639
+Europe,Denmark,Import,Fish,2008,533654
+Europe,Estonia,Export,Crustaceans,2008,9291
+Europe,Estonia,Export,Fish,2008,113022
+Europe,Estonia,Import,Crustaceans,2008,4891
+Europe,Estonia,Import,Fish,2008,47966
+Europe,Faroe Islands,Export,Crustaceans,2008,9230
+Europe,Faroe Islands,Export,Fish,2008,195085
+Europe,Faroe Islands,Import,Crustaceans,2008,45
+Europe,Faroe Islands,Import,Fish,2008,1955
+Europe,Finland,Export,Crustaceans,2008,4
+Europe,Finland,Export,Fish,2008,41647
+Europe,Finland,Import,Crustaceans,2008,3319
+Europe,Finland,Import,Fish,2008,61329
+Europe,France,Export,Crustaceans,2008,19823
+Europe,France,Export,Fish,2008,293192
+Europe,France,Import,Crustaceans,2008,139884
+Europe,France,Import,Fish,2008,731542
+Europe,Germany,Export,Crustaceans,2008,21102
+Europe,Germany,Export,Fish,2008,623013
+Europe,Germany,Import,Crustaceans,2008,55899
+Europe,Germany,Import,Fish,2008,816553
+Europe,Greece,Export,Crustaceans,2008,1620
+Europe,Greece,Export,Fish,2008,99575
+Europe,Greece,Import,Crustaceans,2008,6807
+Europe,Greece,Import,Fish,2008,71203
+Europe,Hungary,Export,Crustaceans,2008,0
+Europe,Hungary,Export,Fish,2008,502
+Europe,Hungary,Import,Crustaceans,2008,270
+Europe,Hungary,Import,Fish,2008,17671
+Europe,Iceland,Export,Crustaceans,2008,29705
+Europe,Iceland,Export,Fish,2008,432772
+Europe,Iceland,Import,Crustaceans,2008,30839
+Europe,Iceland,Import,Fish,2008,17909
+Europe,Ireland,Export,Crustaceans,2008,13155
+Europe,Ireland,Export,Fish,2008,127225
+Europe,Ireland,Import,Crustaceans,2008,5117
+Europe,Ireland,Import,Fish,2008,29198
+Europe,Italy,Export,Crustaceans,2008,3989
+Europe,Italy,Export,Fish,2008,90627
+Europe,Italy,Import,Crustaceans,2008,93662
+Europe,Italy,Import,Fish,2008,535893
+Europe,Latvia,Export,Crustaceans,2008,357
+Europe,Latvia,Export,Fish,2008,120255
+Europe,Latvia,Import,Crustaceans,2008,1249
+Europe,Latvia,Import,Fish,2008,51743
+Europe,Lithuania,Export,Crustaceans,2008,316
+Europe,Lithuania,Export,Fish,2008,91044
+Europe,Lithuania,Import,Crustaceans,2008,1245
+Europe,Lithuania,Import,Fish,2008,95461
+Europe,Luxembourg,Export,Crustaceans,2008,282
+Europe,Luxembourg,Export,Fish,2008,751
+Europe,Luxembourg,Import,Crustaceans,2008,1246
+Europe,Luxembourg,Import,Fish,2008,5730
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2008,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2008,296
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2008,53
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2008,7174
+Europe,Malta,Export,Crustaceans,2008,19
+Europe,Malta,Export,Fish,2008,4609
+Europe,Malta,Import,Crustaceans,2008,276
+Europe,Malta,Import,Fish,2008,21575
+Europe,"Moldova, Republic of",Export,Crustaceans,2008,0
+Europe,"Moldova, Republic of",Export,Fish,2008,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2008,258
+Europe,"Moldova, Republic of",Import,Fish,2008,33679
+Europe,Montenegro,Export,Crustaceans,2008,4
+Europe,Montenegro,Export,Fish,2008,31
+Europe,Montenegro,Import,Crustaceans,2008,114
+Europe,Montenegro,Import,Fish,2008,2395
+Europe,Netherlands,Export,Crustaceans,2008,80804
+Europe,Netherlands,Export,Fish,2008,669438
+Europe,Netherlands,Import,Crustaceans,2008,72630
+Europe,Netherlands,Import,Fish,2008,591964
+Europe,Norway,Export,Crustaceans,2008,26962
+Europe,Norway,Export,Fish,2008,2017941
+Europe,Norway,Import,Crustaceans,2008,20809
+Europe,Norway,Import,Fish,2008,147773
+Europe,Poland,Export,Crustaceans,2008,2634
+Europe,Poland,Export,Fish,2008,209205
+Europe,Poland,Import,Crustaceans,2008,6218
+Europe,Poland,Import,Fish,2008,387836
+Europe,Portugal,Export,Crustaceans,2008,7667
+Europe,Portugal,Export,Fish,2008,112796
+Europe,Portugal,Import,Crustaceans,2008,26912
+Europe,Portugal,Import,Fish,2008,296211
+Europe,Romania,Export,Crustaceans,2008,16
+Europe,Romania,Export,Fish,2008,624
+Europe,Romania,Import,Crustaceans,2008,706
+Europe,Romania,Import,Fish,2008,86654
+Europe,Russian Federation,Export,Crustaceans,2008,31538
+Europe,Russian Federation,Export,Fish,2008,1327950
+Europe,Russian Federation,Import,Crustaceans,2008,69875
+Europe,Russian Federation,Import,Fish,2008,998153
+Europe,Serbia,Export,Crustaceans,2008,1
+Europe,Serbia,Export,Fish,2008,467
+Europe,Serbia,Import,Crustaceans,2008,148
+Europe,Serbia,Import,Fish,2008,33299
+Europe,Serbia and Montenegro,Export,Crustaceans,2008,0
+Europe,Serbia and Montenegro,Export,Fish,2008,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2008,0
+Europe,Serbia and Montenegro,Import,Fish,2008,0
+Europe,Slovakia,Export,Crustaceans,2008,6
+Europe,Slovakia,Export,Fish,2008,1333
+Europe,Slovakia,Import,Crustaceans,2008,808
+Europe,Slovakia,Import,Fish,2008,22454
+Europe,Slovenia,Export,Crustaceans,2008,48
+Europe,Slovenia,Export,Fish,2008,3834
+Europe,Slovenia,Import,Crustaceans,2008,636
+Europe,Slovenia,Import,Fish,2008,11963
+Europe,Spain,Export,Crustaceans,2008,27811
+Europe,Spain,Export,Fish,2008,708689
+Europe,Spain,Import,Crustaceans,2008,206204
+Europe,Spain,Import,Fish,2008,875031
+Europe,Sweden,Export,Crustaceans,2008,4235
+Europe,Sweden,Export,Fish,2008,458130
+Europe,Sweden,Import,Crustaceans,2008,32565
+Europe,Sweden,Import,Fish,2008,446178
+Europe,Switzerland,Export,Crustaceans,2008,71
+Europe,Switzerland,Export,Fish,2008,176
+Europe,Switzerland,Import,Crustaceans,2008,8613
+Europe,Switzerland,Import,Fish,2008,50747
+Europe,Ukraine,Export,Crustaceans,2008,382
+Europe,Ukraine,Export,Fish,2008,23521
+Europe,Ukraine,Import,Crustaceans,2008,14519
+Europe,Ukraine,Import,Fish,2008,549432
+Europe,United Kingdom,Export,Crustaceans,2008,56734
+Europe,United Kingdom,Export,Fish,2008,487417
+Europe,United Kingdom,Import,Crustaceans,2008,90322
+Europe,United Kingdom,Import,Fish,2008,641575
+Europe,Albania,Export,Crustaceans,2009,122
+Europe,Albania,Export,Fish,2009,3156
+Europe,Albania,Import,Crustaceans,2009,180
+Europe,Albania,Import,Fish,2009,9156
+Europe,Andorra,Export,Crustaceans,2009,0
+Europe,Andorra,Export,Fish,2009,2
+Europe,Andorra,Import,Crustaceans,2009,206
+Europe,Andorra,Import,Fish,2009,1607
+Europe,Austria,Export,Crustaceans,2009,328
+Europe,Austria,Export,Fish,2009,5445
+Europe,Austria,Import,Crustaceans,2009,5101
+Europe,Austria,Import,Fish,2009,55833
+Europe,Belarus,Export,Crustaceans,2009,751
+Europe,Belarus,Export,Fish,2009,22120
+Europe,Belarus,Import,Crustaceans,2009,2115
+Europe,Belarus,Import,Fish,2009,136158
+Europe,Belgium,Export,Crustaceans,2009,56486
+Europe,Belgium,Export,Fish,2009,78778
+Europe,Belgium,Import,Crustaceans,2009,72444
+Europe,Belgium,Import,Fish,2009,165483
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2009,0
+Europe,Bosnia and Herzegovina,Export,Fish,2009,3033
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2009,46
+Europe,Bosnia and Herzegovina,Import,Fish,2009,11378
+Europe,Bulgaria,Export,Crustaceans,2009,11
+Europe,Bulgaria,Export,Fish,2009,4184
+Europe,Bulgaria,Import,Crustaceans,2009,418
+Europe,Bulgaria,Import,Fish,2009,28980
+Europe,Croatia,Export,Crustaceans,2009,124
+Europe,Croatia,Export,Fish,2009,30901
+Europe,Croatia,Import,Crustaceans,2009,892
+Europe,Croatia,Import,Fish,2009,34645
+Europe,Czechia,Export,Crustaceans,2009,84
+Europe,Czechia,Export,Fish,2009,21523
+Europe,Czechia,Import,Crustaceans,2009,926
+Europe,Czechia,Import,Fish,2009,60766
+Europe,Denmark,Export,Crustaceans,2009,127694
+Europe,Denmark,Export,Fish,2009,596224
+Europe,Denmark,Import,Crustaceans,2009,112614
+Europe,Denmark,Import,Fish,2009,554290
+Europe,Estonia,Export,Crustaceans,2009,7993
+Europe,Estonia,Export,Fish,2009,111809
+Europe,Estonia,Import,Crustaceans,2009,3739
+Europe,Estonia,Import,Fish,2009,36051
+Europe,Faroe Islands,Export,Crustaceans,2009,8597
+Europe,Faroe Islands,Export,Fish,2009,236238
+Europe,Faroe Islands,Import,Crustaceans,2009,41
+Europe,Faroe Islands,Import,Fish,2009,826
+Europe,Finland,Export,Crustaceans,2009,22
+Europe,Finland,Export,Fish,2009,41916
+Europe,Finland,Import,Crustaceans,2009,3500
+Europe,Finland,Import,Fish,2009,61723
+Europe,France,Export,Crustaceans,2009,18855
+Europe,France,Export,Fish,2009,225498
+Europe,France,Import,Crustaceans,2009,144655
+Europe,France,Import,Fish,2009,747165
+Europe,Germany,Export,Crustaceans,2009,20629
+Europe,Germany,Export,Fish,2009,536188
+Europe,Germany,Import,Crustaceans,2009,62870
+Europe,Germany,Import,Fish,2009,786247
+Europe,Greece,Export,Crustaceans,2009,2495
+Europe,Greece,Export,Fish,2009,106194
+Europe,Greece,Import,Crustaceans,2009,7932
+Europe,Greece,Import,Fish,2009,66158
+Europe,Hungary,Export,Crustaceans,2009,0
+Europe,Hungary,Export,Fish,2009,514
+Europe,Hungary,Import,Crustaceans,2009,333
+Europe,Hungary,Import,Fish,2009,16350
+Europe,Iceland,Export,Crustaceans,2009,24745
+Europe,Iceland,Export,Fish,2009,416948
+Europe,Iceland,Import,Crustaceans,2009,24886
+Europe,Iceland,Import,Fish,2009,8245
+Europe,Ireland,Export,Crustaceans,2009,12488
+Europe,Ireland,Export,Fish,2009,136851
+Europe,Ireland,Import,Crustaceans,2009,6906
+Europe,Ireland,Import,Fish,2009,40589
+Europe,Italy,Export,Crustaceans,2009,4035
+Europe,Italy,Export,Fish,2009,93995
+Europe,Italy,Import,Crustaceans,2009,95874
+Europe,Italy,Import,Fish,2009,550377
+Europe,Latvia,Export,Crustaceans,2009,85
+Europe,Latvia,Export,Fish,2009,100836
+Europe,Latvia,Import,Crustaceans,2009,608
+Europe,Latvia,Import,Fish,2009,43455
+Europe,Lithuania,Export,Crustaceans,2009,240
+Europe,Lithuania,Export,Fish,2009,102700
+Europe,Lithuania,Import,Crustaceans,2009,821
+Europe,Lithuania,Import,Fish,2009,98657
+Europe,Luxembourg,Export,Crustaceans,2009,211
+Europe,Luxembourg,Export,Fish,2009,1027
+Europe,Luxembourg,Import,Crustaceans,2009,1313
+Europe,Luxembourg,Import,Fish,2009,6025
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2009,0
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2009,378
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2009,36
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2009,6951
+Europe,Malta,Export,Crustaceans,2009,0
+Europe,Malta,Export,Fish,2009,2423
+Europe,Malta,Import,Crustaceans,2009,334
+Europe,Malta,Import,Fish,2009,16810
+Europe,"Moldova, Republic of",Export,Crustaceans,2009,0
+Europe,"Moldova, Republic of",Export,Fish,2009,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2009,192
+Europe,"Moldova, Republic of",Import,Fish,2009,27794
+Europe,Montenegro,Export,Crustaceans,2009,5
+Europe,Montenegro,Export,Fish,2009,236
+Europe,Montenegro,Import,Crustaceans,2009,105
+Europe,Montenegro,Import,Fish,2009,2545
+Europe,Netherlands,Export,Crustaceans,2009,98377
+Europe,Netherlands,Export,Fish,2009,613811
+Europe,Netherlands,Import,Crustaceans,2009,87568
+Europe,Netherlands,Import,Fish,2009,676503
+Europe,Norway,Export,Crustaceans,2009,18510
+Europe,Norway,Export,Fish,2009,2334702
+Europe,Norway,Import,Crustaceans,2009,20349
+Europe,Norway,Import,Fish,2009,196966
+Europe,Poland,Export,Crustaceans,2009,7105
+Europe,Poland,Export,Fish,2009,238556
+Europe,Poland,Import,Crustaceans,2009,6125
+Europe,Poland,Import,Fish,2009,393659
+Europe,Portugal,Export,Crustaceans,2009,7564
+Europe,Portugal,Export,Fish,2009,106476
+Europe,Portugal,Import,Crustaceans,2009,31353
+Europe,Portugal,Import,Fish,2009,306509
+Europe,Romania,Export,Crustaceans,2009,19
+Europe,Romania,Export,Fish,2009,2824
+Europe,Romania,Import,Crustaceans,2009,552
+Europe,Romania,Import,Fish,2009,88132
+Europe,Russian Federation,Export,Crustaceans,2009,30336
+Europe,Russian Federation,Export,Fish,2009,1342309
+Europe,Russian Federation,Import,Crustaceans,2009,55691
+Europe,Russian Federation,Import,Fish,2009,878905
+Europe,Serbia,Export,Crustaceans,2009,3
+Europe,Serbia,Export,Fish,2009,475
+Europe,Serbia,Import,Crustaceans,2009,98
+Europe,Serbia,Import,Fish,2009,26653
+Europe,Serbia and Montenegro,Export,Crustaceans,2009,0
+Europe,Serbia and Montenegro,Export,Fish,2009,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2009,0
+Europe,Serbia and Montenegro,Import,Fish,2009,0
+Europe,Slovakia,Export,Crustaceans,2009,20
+Europe,Slovakia,Export,Fish,2009,1058
+Europe,Slovakia,Import,Crustaceans,2009,449
+Europe,Slovakia,Import,Fish,2009,21355
+Europe,Slovenia,Export,Crustaceans,2009,55
+Europe,Slovenia,Export,Fish,2009,4002
+Europe,Slovenia,Import,Crustaceans,2009,601
+Europe,Slovenia,Import,Fish,2009,12337
+Europe,Spain,Export,Crustaceans,2009,35683
+Europe,Spain,Export,Fish,2009,772201
+Europe,Spain,Import,Crustaceans,2009,196401
+Europe,Spain,Import,Fish,2009,933319
+Europe,Sweden,Export,Crustaceans,2009,3593
+Europe,Sweden,Export,Fish,2009,521772
+Europe,Sweden,Import,Crustaceans,2009,33877
+Europe,Sweden,Import,Fish,2009,474950
+Europe,Switzerland,Export,Crustaceans,2009,86
+Europe,Switzerland,Export,Fish,2009,245
+Europe,Switzerland,Import,Crustaceans,2009,8827
+Europe,Switzerland,Import,Fish,2009,52996
+Europe,Ukraine,Export,Crustaceans,2009,157
+Europe,Ukraine,Export,Fish,2009,59993
+Europe,Ukraine,Import,Crustaceans,2009,7852
+Europe,Ukraine,Import,Fish,2009,432584
+Europe,United Kingdom,Export,Crustaceans,2009,57438
+Europe,United Kingdom,Export,Fish,2009,565143
+Europe,United Kingdom,Import,Crustaceans,2009,95218
+Europe,United Kingdom,Import,Fish,2009,598380
+Europe,Albania,Export,Crustaceans,2010,70
+Europe,Albania,Export,Fish,2010,3528
+Europe,Albania,Import,Crustaceans,2010,315
+Europe,Albania,Import,Fish,2010,7972
+Europe,Andorra,Export,Crustaceans,2010,0
+Europe,Andorra,Export,Fish,2010,0
+Europe,Andorra,Import,Crustaceans,2010,194
+Europe,Andorra,Import,Fish,2010,1626
+Europe,Austria,Export,Crustaceans,2010,246
+Europe,Austria,Export,Fish,2010,6674
+Europe,Austria,Import,Crustaceans,2010,4963
+Europe,Austria,Import,Fish,2010,56676
+Europe,Belarus,Export,Crustaceans,2010,1176
+Europe,Belarus,Export,Fish,2010,24988
+Europe,Belarus,Import,Crustaceans,2010,3306
+Europe,Belarus,Import,Fish,2010,130910
+Europe,Belgium,Export,Crustaceans,2010,56768
+Europe,Belgium,Export,Fish,2010,80807
+Europe,Belgium,Import,Crustaceans,2010,75543
+Europe,Belgium,Import,Fish,2010,168544
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2010,0
+Europe,Bosnia and Herzegovina,Export,Fish,2010,3146
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2010,42
+Europe,Bosnia and Herzegovina,Import,Fish,2010,10869
+Europe,Bulgaria,Export,Crustaceans,2010,143
+Europe,Bulgaria,Export,Fish,2010,6398
+Europe,Bulgaria,Import,Crustaceans,2010,415
+Europe,Bulgaria,Import,Fish,2010,27666
+Europe,Croatia,Export,Crustaceans,2010,119
+Europe,Croatia,Export,Fish,2010,32407
+Europe,Croatia,Import,Crustaceans,2010,1150
+Europe,Croatia,Import,Fish,2010,31548
+Europe,Czechia,Export,Crustaceans,2010,74
+Europe,Czechia,Export,Fish,2010,23205
+Europe,Czechia,Import,Crustaceans,2010,844
+Europe,Czechia,Import,Fish,2010,59579
+Europe,Denmark,Export,Crustaceans,2010,126480
+Europe,Denmark,Export,Fish,2010,593963
+Europe,Denmark,Import,Crustaceans,2010,107576
+Europe,Denmark,Import,Fish,2010,526485
+Europe,Estonia,Export,Crustaceans,2010,15527
+Europe,Estonia,Export,Fish,2010,114965
+Europe,Estonia,Import,Crustaceans,2010,5057
+Europe,Estonia,Import,Fish,2010,33119
+Europe,Faroe Islands,Export,Crustaceans,2010,6914
+Europe,Faroe Islands,Export,Fish,2010,259319
+Europe,Faroe Islands,Import,Crustaceans,2010,49
+Europe,Faroe Islands,Import,Fish,2010,1292
+Europe,Finland,Export,Crustaceans,2010,37
+Europe,Finland,Export,Fish,2010,42963
+Europe,Finland,Import,Crustaceans,2010,4101
+Europe,Finland,Import,Fish,2010,64678
+Europe,France,Export,Crustaceans,2010,20720
+Europe,France,Export,Fish,2010,207341
+Europe,France,Import,Crustaceans,2010,152046
+Europe,France,Import,Fish,2010,757451
+Europe,Germany,Export,Crustaceans,2010,25437
+Europe,Germany,Export,Fish,2010,623057
+Europe,Germany,Import,Crustaceans,2010,68501
+Europe,Germany,Import,Fish,2010,810232
+Europe,Greece,Export,Crustaceans,2010,2137
+Europe,Greece,Export,Fish,2010,117585
+Europe,Greece,Import,Crustaceans,2010,7827
+Europe,Greece,Import,Fish,2010,67076
+Europe,Hungary,Export,Crustaceans,2010,4
+Europe,Hungary,Export,Fish,2010,2127
+Europe,Hungary,Import,Crustaceans,2010,365
+Europe,Hungary,Import,Fish,2010,17449
+Europe,Iceland,Export,Crustaceans,2010,16339
+Europe,Iceland,Export,Fish,2010,464392
+Europe,Iceland,Import,Crustaceans,2010,29968
+Europe,Iceland,Import,Fish,2010,17137
+Europe,Ireland,Export,Crustaceans,2010,13443
+Europe,Ireland,Export,Fish,2010,180781
+Europe,Ireland,Import,Crustaceans,2010,8614
+Europe,Ireland,Import,Fish,2010,64846
+Europe,Italy,Export,Crustaceans,2010,4710
+Europe,Italy,Export,Fish,2010,91557
+Europe,Italy,Import,Crustaceans,2010,101542
+Europe,Italy,Import,Fish,2010,561883
+Europe,Latvia,Export,Crustaceans,2010,223
+Europe,Latvia,Export,Fish,2010,106822
+Europe,Latvia,Import,Crustaceans,2010,892
+Europe,Latvia,Import,Fish,2010,49336
+Europe,Lithuania,Export,Crustaceans,2010,292
+Europe,Lithuania,Export,Fish,2010,89027
+Europe,Lithuania,Import,Crustaceans,2010,903
+Europe,Lithuania,Import,Fish,2010,102849
+Europe,Luxembourg,Export,Crustaceans,2010,274
+Europe,Luxembourg,Export,Fish,2010,1406
+Europe,Luxembourg,Import,Crustaceans,2010,1707
+Europe,Luxembourg,Import,Fish,2010,6816
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2010,2
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2010,300
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2010,33
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2010,6560
+Europe,Malta,Export,Crustaceans,2010,1
+Europe,Malta,Export,Fish,2010,7290
+Europe,Malta,Import,Crustaceans,2010,287
+Europe,Malta,Import,Fish,2010,7411
+Europe,"Moldova, Republic of",Export,Crustaceans,2010,0
+Europe,"Moldova, Republic of",Export,Fish,2010,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2010,264
+Europe,"Moldova, Republic of",Import,Fish,2010,26963
+Europe,Montenegro,Export,Crustaceans,2010,0
+Europe,Montenegro,Export,Fish,2010,118
+Europe,Montenegro,Import,Crustaceans,2010,108
+Europe,Montenegro,Import,Fish,2010,2507
+Europe,Netherlands,Export,Crustaceans,2010,98874
+Europe,Netherlands,Export,Fish,2010,687119
+Europe,Netherlands,Import,Crustaceans,2010,84998
+Europe,Netherlands,Import,Fish,2010,777613
+Europe,Norway,Export,Crustaceans,2010,18813
+Europe,Norway,Export,Fish,2010,2441416
+Europe,Norway,Import,Crustaceans,2010,21184
+Europe,Norway,Import,Fish,2010,142680
+Europe,Poland,Export,Crustaceans,2010,6415
+Europe,Poland,Export,Fish,2010,291041
+Europe,Poland,Import,Crustaceans,2010,7313
+Europe,Poland,Import,Fish,2010,435099
+Europe,Portugal,Export,Crustaceans,2010,8046
+Europe,Portugal,Export,Fish,2010,127353
+Europe,Portugal,Import,Crustaceans,2010,33767
+Europe,Portugal,Import,Fish,2010,292306
+Europe,Romania,Export,Crustaceans,2010,9
+Europe,Romania,Export,Fish,2010,2965
+Europe,Romania,Import,Crustaceans,2010,609
+Europe,Romania,Import,Fish,2010,83728
+Europe,Russian Federation,Export,Crustaceans,2010,34320
+Europe,Russian Federation,Export,Fish,2010,1597138
+Europe,Russian Federation,Import,Crustaceans,2010,65845
+Europe,Russian Federation,Import,Fish,2010,899374
+Europe,Serbia,Export,Crustaceans,2010,0
+Europe,Serbia,Export,Fish,2010,544
+Europe,Serbia,Import,Crustaceans,2010,117
+Europe,Serbia,Import,Fish,2010,23865
+Europe,Serbia and Montenegro,Export,Crustaceans,2010,0
+Europe,Serbia and Montenegro,Export,Fish,2010,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2010,0
+Europe,Serbia and Montenegro,Import,Fish,2010,0
+Europe,Slovakia,Export,Crustaceans,2010,16
+Europe,Slovakia,Export,Fish,2010,1450
+Europe,Slovakia,Import,Crustaceans,2010,512
+Europe,Slovakia,Import,Fish,2010,24308
+Europe,Slovenia,Export,Crustaceans,2010,32
+Europe,Slovenia,Export,Fish,2010,4660
+Europe,Slovenia,Import,Crustaceans,2010,571
+Europe,Slovenia,Import,Fish,2010,13352
+Europe,Spain,Export,Crustaceans,2010,36312
+Europe,Spain,Export,Fish,2010,775086
+Europe,Spain,Import,Crustaceans,2010,207015
+Europe,Spain,Import,Fish,2010,960381
+Europe,Sweden,Export,Crustaceans,2010,4460
+Europe,Sweden,Export,Fish,2010,571566
+Europe,Sweden,Import,Crustaceans,2010,36976
+Europe,Sweden,Import,Fish,2010,511076
+Europe,Switzerland,Export,Crustaceans,2010,29
+Europe,Switzerland,Export,Fish,2010,283
+Europe,Switzerland,Import,Crustaceans,2010,9428
+Europe,Switzerland,Import,Fish,2010,53270
+Europe,Ukraine,Export,Crustaceans,2010,107
+Europe,Ukraine,Export,Fish,2010,55869
+Europe,Ukraine,Import,Crustaceans,2010,8337
+Europe,Ukraine,Import,Fish,2010,345123
+Europe,United Kingdom,Export,Crustaceans,2010,60769
+Europe,United Kingdom,Export,Fish,2010,602204
+Europe,United Kingdom,Import,Crustaceans,2010,94654
+Europe,United Kingdom,Import,Fish,2010,590119
+Europe,Albania,Export,Crustaceans,2011,107
+Europe,Albania,Export,Fish,2011,3031
+Europe,Albania,Import,Crustaceans,2011,482
+Europe,Albania,Import,Fish,2011,8640
+Europe,Andorra,Export,Crustaceans,2011,0
+Europe,Andorra,Export,Fish,2011,2
+Europe,Andorra,Import,Crustaceans,2011,185
+Europe,Andorra,Import,Fish,2011,1668
+Europe,Austria,Export,Crustaceans,2011,603
+Europe,Austria,Export,Fish,2011,8401
+Europe,Austria,Import,Crustaceans,2011,4887
+Europe,Austria,Import,Fish,2011,62169
+Europe,Belarus,Export,Crustaceans,2011,1876
+Europe,Belarus,Export,Fish,2011,30525
+Europe,Belarus,Import,Crustaceans,2011,3687
+Europe,Belarus,Import,Fish,2011,115490
+Europe,Belgium,Export,Crustaceans,2011,61614
+Europe,Belgium,Export,Fish,2011,73537
+Europe,Belgium,Import,Crustaceans,2011,83064
+Europe,Belgium,Import,Fish,2011,165379
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2011,0
+Europe,Bosnia and Herzegovina,Export,Fish,2011,2981
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2011,42
+Europe,Bosnia and Herzegovina,Import,Fish,2011,9746
+Europe,Bulgaria,Export,Crustaceans,2011,1058
+Europe,Bulgaria,Export,Fish,2011,5366
+Europe,Bulgaria,Import,Crustaceans,2011,494
+Europe,Bulgaria,Import,Fish,2011,26177
+Europe,Croatia,Export,Crustaceans,2011,110
+Europe,Croatia,Export,Fish,2011,36980
+Europe,Croatia,Import,Crustaceans,2011,1113
+Europe,Croatia,Import,Fish,2011,27220
+Europe,Czechia,Export,Crustaceans,2011,96
+Europe,Czechia,Export,Fish,2011,24221
+Europe,Czechia,Import,Crustaceans,2011,1011
+Europe,Czechia,Import,Fish,2011,57780
+Europe,Denmark,Export,Crustaceans,2011,106894
+Europe,Denmark,Export,Fish,2011,553339
+Europe,Denmark,Import,Crustaceans,2011,99923
+Europe,Denmark,Import,Fish,2011,508371
+Europe,Estonia,Export,Crustaceans,2011,12894
+Europe,Estonia,Export,Fish,2011,105848
+Europe,Estonia,Import,Crustaceans,2011,4314
+Europe,Estonia,Import,Fish,2011,37642
+Europe,Faroe Islands,Export,Crustaceans,2011,6178
+Europe,Faroe Islands,Export,Fish,2011,280249
+Europe,Faroe Islands,Import,Crustaceans,2011,51
+Europe,Faroe Islands,Import,Fish,2011,1416
+Europe,Finland,Export,Crustaceans,2011,204
+Europe,Finland,Export,Fish,2011,47415
+Europe,Finland,Import,Crustaceans,2011,4109
+Europe,Finland,Import,Fish,2011,72229
+Europe,France,Export,Crustaceans,2011,16822
+Europe,France,Export,Fish,2011,199544
+Europe,France,Import,Crustaceans,2011,143950
+Europe,France,Import,Fish,2011,766235
+Europe,Germany,Export,Crustaceans,2011,29652
+Europe,Germany,Export,Fish,2011,579577
+Europe,Germany,Import,Crustaceans,2011,67212
+Europe,Germany,Import,Fish,2011,860237
+Europe,Greece,Export,Crustaceans,2011,2434
+Europe,Greece,Export,Fish,2011,100752
+Europe,Greece,Import,Crustaceans,2011,7067
+Europe,Greece,Import,Fish,2011,60588
+Europe,Hungary,Export,Crustaceans,2011,8
+Europe,Hungary,Export,Fish,2011,3624
+Europe,Hungary,Import,Crustaceans,2011,452
+Europe,Hungary,Import,Fish,2011,17897
+Europe,Iceland,Export,Crustaceans,2011,13693
+Europe,Iceland,Export,Fish,2011,484944
+Europe,Iceland,Import,Crustaceans,2011,22492
+Europe,Iceland,Import,Fish,2011,16580
+Europe,Ireland,Export,Crustaceans,2011,13289
+Europe,Ireland,Export,Fish,2011,138304
+Europe,Ireland,Import,Crustaceans,2011,7495
+Europe,Ireland,Import,Fish,2011,41184
+Europe,Italy,Export,Crustaceans,2011,4515
+Europe,Italy,Export,Fish,2011,82793
+Europe,Italy,Import,Crustaceans,2011,101877
+Europe,Italy,Import,Fish,2011,573963
+Europe,Latvia,Export,Crustaceans,2011,395
+Europe,Latvia,Export,Fish,2011,104181
+Europe,Latvia,Import,Crustaceans,2011,1216
+Europe,Latvia,Import,Fish,2011,60007
+Europe,Lithuania,Export,Crustaceans,2011,287
+Europe,Lithuania,Export,Fish,2011,90743
+Europe,Lithuania,Import,Crustaceans,2011,889
+Europe,Lithuania,Import,Fish,2011,99427
+Europe,Luxembourg,Export,Crustaceans,2011,240
+Europe,Luxembourg,Export,Fish,2011,1252
+Europe,Luxembourg,Import,Crustaceans,2011,1740
+Europe,Luxembourg,Import,Fish,2011,7182
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2011,3
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2011,291
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2011,35
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2011,7120
+Europe,Malta,Export,Crustaceans,2011,0
+Europe,Malta,Export,Fish,2011,4442
+Europe,Malta,Import,Crustaceans,2011,263
+Europe,Malta,Import,Fish,2011,11674
+Europe,"Moldova, Republic of",Export,Crustaceans,2011,0
+Europe,"Moldova, Republic of",Export,Fish,2011,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2011,322
+Europe,"Moldova, Republic of",Import,Fish,2011,24897
+Europe,Montenegro,Export,Crustaceans,2011,0
+Europe,Montenegro,Export,Fish,2011,31
+Europe,Montenegro,Import,Crustaceans,2011,137
+Europe,Montenegro,Import,Fish,2011,2411
+Europe,Netherlands,Export,Crustaceans,2011,100505
+Europe,Netherlands,Export,Fish,2011,618264
+Europe,Netherlands,Import,Crustaceans,2011,84119
+Europe,Netherlands,Import,Fish,2011,685007
+Europe,Norway,Export,Crustaceans,2011,17938
+Europe,Norway,Export,Fish,2011,2255818
+Europe,Norway,Import,Crustaceans,2011,20841
+Europe,Norway,Import,Fish,2011,178394
+Europe,Poland,Export,Crustaceans,2011,4607
+Europe,Poland,Export,Fish,2011,312616
+Europe,Poland,Import,Crustaceans,2011,6613
+Europe,Poland,Import,Fish,2011,428735
+Europe,Portugal,Export,Crustaceans,2011,9839
+Europe,Portugal,Export,Fish,2011,140546
+Europe,Portugal,Import,Crustaceans,2011,29913
+Europe,Portugal,Import,Fish,2011,300207
+Europe,Romania,Export,Crustaceans,2011,35
+Europe,Romania,Export,Fish,2011,5010
+Europe,Romania,Import,Crustaceans,2011,699
+Europe,Romania,Import,Fish,2011,65590
+Europe,Russian Federation,Export,Crustaceans,2011,38339
+Europe,Russian Federation,Export,Fish,2011,1713603
+Europe,Russian Federation,Import,Crustaceans,2011,63923
+Europe,Russian Federation,Import,Fish,2011,828420
+Europe,Serbia,Export,Crustaceans,2011,0
+Europe,Serbia,Export,Fish,2011,443
+Europe,Serbia,Import,Crustaceans,2011,136
+Europe,Serbia,Import,Fish,2011,32935
+Europe,Serbia and Montenegro,Export,Crustaceans,2011,0
+Europe,Serbia and Montenegro,Export,Fish,2011,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2011,0
+Europe,Serbia and Montenegro,Import,Fish,2011,0
+Europe,Slovakia,Export,Crustaceans,2011,12
+Europe,Slovakia,Export,Fish,2011,2181
+Europe,Slovakia,Import,Crustaceans,2011,413
+Europe,Slovakia,Import,Fish,2011,23473
+Europe,Slovenia,Export,Crustaceans,2011,56
+Europe,Slovenia,Export,Fish,2011,4322
+Europe,Slovenia,Import,Crustaceans,2011,538
+Europe,Slovenia,Import,Fish,2011,12998
+Europe,Spain,Export,Crustaceans,2011,44754
+Europe,Spain,Export,Fish,2011,806489
+Europe,Spain,Import,Crustaceans,2011,213800
+Europe,Spain,Import,Fish,2011,958528
+Europe,Sweden,Export,Crustaceans,2011,4040
+Europe,Sweden,Export,Fish,2011,566575
+Europe,Sweden,Import,Crustaceans,2011,35775
+Europe,Sweden,Import,Fish,2011,546657
+Europe,Switzerland,Export,Crustaceans,2011,45
+Europe,Switzerland,Export,Fish,2011,261
+Europe,Switzerland,Import,Crustaceans,2011,10201
+Europe,Switzerland,Import,Fish,2011,53278
+Europe,Ukraine,Export,Crustaceans,2011,131
+Europe,Ukraine,Export,Fish,2011,48623
+Europe,Ukraine,Import,Crustaceans,2011,10182
+Europe,Ukraine,Import,Fish,2011,371921
+Europe,United Kingdom,Export,Crustaceans,2011,52953
+Europe,United Kingdom,Export,Fish,2011,527257
+Europe,United Kingdom,Import,Crustaceans,2011,98073
+Europe,United Kingdom,Import,Fish,2011,594704
+Europe,Albania,Export,Crustaceans,2012,88
+Europe,Albania,Export,Fish,2012,3929
+Europe,Albania,Import,Crustaceans,2012,432
+Europe,Albania,Import,Fish,2012,7439
+Europe,Andorra,Export,Crustaceans,2012,0
+Europe,Andorra,Export,Fish,2012,1
+Europe,Andorra,Import,Crustaceans,2012,171
+Europe,Andorra,Import,Fish,2012,1649
+Europe,Austria,Export,Crustaceans,2012,795
+Europe,Austria,Export,Fish,2012,10083
+Europe,Austria,Import,Crustaceans,2012,5130
+Europe,Austria,Import,Fish,2012,64231
+Europe,Belarus,Export,Crustaceans,2012,2163
+Europe,Belarus,Export,Fish,2012,36246
+Europe,Belarus,Import,Crustaceans,2012,3630
+Europe,Belarus,Import,Fish,2012,130596
+Europe,Belgium,Export,Crustaceans,2012,50231
+Europe,Belgium,Export,Fish,2012,72052
+Europe,Belgium,Import,Crustaceans,2012,67983
+Europe,Belgium,Import,Fish,2012,163273
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2012,1
+Europe,Bosnia and Herzegovina,Export,Fish,2012,2332
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2012,43
+Europe,Bosnia and Herzegovina,Import,Fish,2012,9241
+Europe,Bulgaria,Export,Crustaceans,2012,1293
+Europe,Bulgaria,Export,Fish,2012,6028
+Europe,Bulgaria,Import,Crustaceans,2012,435
+Europe,Bulgaria,Import,Fish,2012,26780
+Europe,Croatia,Export,Crustaceans,2012,123
+Europe,Croatia,Export,Fish,2012,31118
+Europe,Croatia,Import,Crustaceans,2012,1435
+Europe,Croatia,Import,Fish,2012,22703
+Europe,Czechia,Export,Crustaceans,2012,165
+Europe,Czechia,Export,Fish,2012,24663
+Europe,Czechia,Import,Crustaceans,2012,1204
+Europe,Czechia,Import,Fish,2012,55986
+Europe,Denmark,Export,Crustaceans,2012,103671
+Europe,Denmark,Export,Fish,2012,588827
+Europe,Denmark,Import,Crustaceans,2012,96233
+Europe,Denmark,Import,Fish,2012,490286
+Europe,Estonia,Export,Crustaceans,2012,10299
+Europe,Estonia,Export,Fish,2012,110503
+Europe,Estonia,Import,Crustaceans,2012,2420
+Europe,Estonia,Import,Fish,2012,57412
+Europe,Faroe Islands,Export,Crustaceans,2012,5479
+Europe,Faroe Islands,Export,Fish,2012,286859
+Europe,Faroe Islands,Import,Crustaceans,2012,45
+Europe,Faroe Islands,Import,Fish,2012,6943
+Europe,Finland,Export,Crustaceans,2012,7
+Europe,Finland,Export,Fish,2012,53123
+Europe,Finland,Import,Crustaceans,2012,4135
+Europe,Finland,Import,Fish,2012,73242
+Europe,France,Export,Crustaceans,2012,17211
+Europe,France,Export,Fish,2012,232969
+Europe,France,Import,Crustaceans,2012,143489
+Europe,France,Import,Fish,2012,751651
+Europe,Germany,Export,Crustaceans,2012,29234
+Europe,Germany,Export,Fish,2012,621491
+Europe,Germany,Import,Crustaceans,2012,65980
+Europe,Germany,Import,Fish,2012,833014
+Europe,Greece,Export,Crustaceans,2012,1614
+Europe,Greece,Export,Fish,2012,110396
+Europe,Greece,Import,Crustaceans,2012,6625
+Europe,Greece,Import,Fish,2012,57546
+Europe,Hungary,Export,Crustaceans,2012,14
+Europe,Hungary,Export,Fish,2012,3648
+Europe,Hungary,Import,Crustaceans,2012,547
+Europe,Hungary,Import,Fish,2012,16437
+Europe,Iceland,Export,Crustaceans,2012,11413
+Europe,Iceland,Export,Fish,2012,528384
+Europe,Iceland,Import,Crustaceans,2012,14941
+Europe,Iceland,Import,Fish,2012,9718
+Europe,Ireland,Export,Crustaceans,2012,15421
+Europe,Ireland,Export,Fish,2012,244302
+Europe,Ireland,Import,Crustaceans,2012,7204
+Europe,Ireland,Import,Fish,2012,95916
+Europe,Italy,Export,Crustaceans,2012,4106
+Europe,Italy,Export,Fish,2012,78489
+Europe,Italy,Import,Crustaceans,2012,90206
+Europe,Italy,Import,Fish,2012,557518
+Europe,Latvia,Export,Crustaceans,2012,596
+Europe,Latvia,Export,Fish,2012,113605
+Europe,Latvia,Import,Crustaceans,2012,1709
+Europe,Latvia,Import,Fish,2012,60424
+Europe,Lithuania,Export,Crustaceans,2012,297
+Europe,Lithuania,Export,Fish,2012,91680
+Europe,Lithuania,Import,Crustaceans,2012,949
+Europe,Lithuania,Import,Fish,2012,108509
+Europe,Luxembourg,Export,Crustaceans,2012,189
+Europe,Luxembourg,Export,Fish,2012,1056
+Europe,Luxembourg,Import,Crustaceans,2012,1833
+Europe,Luxembourg,Import,Fish,2012,7983
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2012,8
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2012,117
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2012,31
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2012,6242
+Europe,Malta,Export,Crustaceans,2012,1
+Europe,Malta,Export,Fish,2012,5999
+Europe,Malta,Import,Crustaceans,2012,300
+Europe,Malta,Import,Fish,2012,18734
+Europe,"Moldova, Republic of",Export,Crustaceans,2012,4
+Europe,"Moldova, Republic of",Export,Fish,2012,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2012,339
+Europe,"Moldova, Republic of",Import,Fish,2012,26051
+Europe,Montenegro,Export,Crustaceans,2012,0
+Europe,Montenegro,Export,Fish,2012,2
+Europe,Montenegro,Import,Crustaceans,2012,148
+Europe,Montenegro,Import,Fish,2012,2252
+Europe,Netherlands,Export,Crustaceans,2012,87377
+Europe,Netherlands,Export,Fish,2012,711251
+Europe,Netherlands,Import,Crustaceans,2012,79031
+Europe,Netherlands,Import,Fish,2012,767331
+Europe,Norway,Export,Crustaceans,2012,13299
+Europe,Norway,Export,Fish,2012,2373215
+Europe,Norway,Import,Crustaceans,2012,21394
+Europe,Norway,Import,Fish,2012,183327
+Europe,Poland,Export,Crustaceans,2012,2004
+Europe,Poland,Export,Fish,2012,273263
+Europe,Poland,Import,Crustaceans,2012,7255
+Europe,Poland,Import,Fish,2012,438688
+Europe,Portugal,Export,Crustaceans,2012,12881
+Europe,Portugal,Export,Fish,2012,172622
+Europe,Portugal,Import,Crustaceans,2012,32001
+Europe,Portugal,Import,Fish,2012,338421
+Europe,Romania,Export,Crustaceans,2012,31
+Europe,Romania,Export,Fish,2012,4308
+Europe,Romania,Import,Crustaceans,2012,841
+Europe,Romania,Import,Fish,2012,71327
+Europe,Russian Federation,Export,Crustaceans,2012,35634
+Europe,Russian Federation,Export,Fish,2012,1662334
+Europe,Russian Federation,Import,Crustaceans,2012,59395
+Europe,Russian Federation,Import,Fish,2012,873306
+Europe,Serbia,Export,Crustaceans,2012,0
+Europe,Serbia,Export,Fish,2012,490
+Europe,Serbia,Import,Crustaceans,2012,124
+Europe,Serbia,Import,Fish,2012,32428
+Europe,Serbia and Montenegro,Export,Crustaceans,2012,0
+Europe,Serbia and Montenegro,Export,Fish,2012,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2012,0
+Europe,Serbia and Montenegro,Import,Fish,2012,0
+Europe,Slovakia,Export,Crustaceans,2012,17
+Europe,Slovakia,Export,Fish,2012,1660
+Europe,Slovakia,Import,Crustaceans,2012,313
+Europe,Slovakia,Import,Fish,2012,21628
+Europe,Slovenia,Export,Crustaceans,2012,48
+Europe,Slovenia,Export,Fish,2012,3350
+Europe,Slovenia,Import,Crustaceans,2012,512
+Europe,Slovenia,Import,Fish,2012,11637
+Europe,Spain,Export,Crustaceans,2012,41963
+Europe,Spain,Export,Fish,2012,747947
+Europe,Spain,Import,Crustaceans,2012,184810
+Europe,Spain,Import,Fish,2012,869937
+Europe,Sweden,Export,Crustaceans,2012,3495
+Europe,Sweden,Export,Fish,2012,629913
+Europe,Sweden,Import,Crustaceans,2012,36012
+Europe,Sweden,Import,Fish,2012,627994
+Europe,Switzerland,Export,Crustaceans,2012,52
+Europe,Switzerland,Export,Fish,2012,318
+Europe,Switzerland,Import,Crustaceans,2012,9142
+Europe,Switzerland,Import,Fish,2012,52745
+Europe,Ukraine,Export,Crustaceans,2012,29
+Europe,Ukraine,Export,Fish,2012,55451
+Europe,Ukraine,Import,Crustaceans,2012,9310
+Europe,Ukraine,Import,Fish,2012,407367
+Europe,United Kingdom,Export,Crustaceans,2012,51800
+Europe,United Kingdom,Export,Fish,2012,590690
+Europe,United Kingdom,Import,Crustaceans,2012,94166
+Europe,United Kingdom,Import,Fish,2012,635871
+Europe,Albania,Export,Crustaceans,2013,14
+Europe,Albania,Export,Fish,2013,4881
+Europe,Albania,Import,Crustaceans,2013,407
+Europe,Albania,Import,Fish,2013,8101
+Europe,Andorra,Export,Crustaceans,2013,0
+Europe,Andorra,Export,Fish,2013,0
+Europe,Andorra,Import,Crustaceans,2013,161
+Europe,Andorra,Import,Fish,2013,1671
+Europe,Austria,Export,Crustaceans,2013,695
+Europe,Austria,Export,Fish,2013,10029
+Europe,Austria,Import,Crustaceans,2013,4814
+Europe,Austria,Import,Fish,2013,67072
+Europe,Belarus,Export,Crustaceans,2013,1813
+Europe,Belarus,Export,Fish,2013,49596
+Europe,Belarus,Import,Crustaceans,2013,3933
+Europe,Belarus,Import,Fish,2013,153123
+Europe,Belgium,Export,Crustaceans,2013,48743
+Europe,Belgium,Export,Fish,2013,74608
+Europe,Belgium,Import,Crustaceans,2013,61641
+Europe,Belgium,Import,Fish,2013,166697
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2013,2
+Europe,Bosnia and Herzegovina,Export,Fish,2013,1976
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2013,40
+Europe,Bosnia and Herzegovina,Import,Fish,2013,9543
+Europe,Bulgaria,Export,Crustaceans,2013,1047
+Europe,Bulgaria,Export,Fish,2013,6748
+Europe,Bulgaria,Import,Crustaceans,2013,1032
+Europe,Bulgaria,Import,Fish,2013,28436
+Europe,Croatia,Export,Crustaceans,2013,162
+Europe,Croatia,Export,Fish,2013,32239
+Europe,Croatia,Import,Crustaceans,2013,1194
+Europe,Croatia,Import,Fish,2013,20202
+Europe,Czechia,Export,Crustaceans,2013,355
+Europe,Czechia,Export,Fish,2013,24269
+Europe,Czechia,Import,Crustaceans,2013,1577
+Europe,Czechia,Import,Fish,2013,56604
+Europe,Denmark,Export,Crustaceans,2013,108059
+Europe,Denmark,Export,Fish,2013,651031
+Europe,Denmark,Import,Crustaceans,2013,97985
+Europe,Denmark,Import,Fish,2013,552690
+Europe,Estonia,Export,Crustaceans,2013,6987
+Europe,Estonia,Export,Fish,2013,103665
+Europe,Estonia,Import,Crustaceans,2013,2586
+Europe,Estonia,Import,Fish,2013,55453
+Europe,Faroe Islands,Export,Crustaceans,2013,2997
+Europe,Faroe Islands,Export,Fish,2013,311955
+Europe,Faroe Islands,Import,Crustaceans,2013,42
+Europe,Faroe Islands,Import,Fish,2013,8255
+Europe,Finland,Export,Crustaceans,2013,18
+Europe,Finland,Export,Fish,2013,52890
+Europe,Finland,Import,Crustaceans,2013,3823
+Europe,Finland,Import,Fish,2013,72276
+Europe,France,Export,Crustaceans,2013,18190
+Europe,France,Export,Fish,2013,216691
+Europe,France,Import,Crustaceans,2013,138733
+Europe,France,Import,Fish,2013,763382
+Europe,Germany,Export,Crustaceans,2013,29189
+Europe,Germany,Export,Fish,2013,662234
+Europe,Germany,Import,Crustaceans,2013,59731
+Europe,Germany,Import,Fish,2013,815619
+Europe,Greece,Export,Crustaceans,2013,2476
+Europe,Greece,Export,Fish,2013,108821
+Europe,Greece,Import,Crustaceans,2013,6644
+Europe,Greece,Import,Fish,2013,54625
+Europe,Hungary,Export,Crustaceans,2013,33
+Europe,Hungary,Export,Fish,2013,3899
+Europe,Hungary,Import,Crustaceans,2013,492
+Europe,Hungary,Import,Fish,2013,17499
+Europe,Iceland,Export,Crustaceans,2013,10165
+Europe,Iceland,Export,Fish,2013,562256
+Europe,Iceland,Import,Crustaceans,2013,11464
+Europe,Iceland,Import,Fish,2013,9281
+Europe,Ireland,Export,Crustaceans,2013,13849
+Europe,Ireland,Export,Fish,2013,203872
+Europe,Ireland,Import,Crustaceans,2013,7010
+Europe,Ireland,Import,Fish,2013,63182
+Europe,Italy,Export,Crustaceans,2013,4286
+Europe,Italy,Export,Fish,2013,85965
+Europe,Italy,Import,Crustaceans,2013,89153
+Europe,Italy,Import,Fish,2013,563107
+Europe,Latvia,Export,Crustaceans,2013,532
+Europe,Latvia,Export,Fish,2013,120705
+Europe,Latvia,Import,Crustaceans,2013,2217
+Europe,Latvia,Import,Fish,2013,65364
+Europe,Lithuania,Export,Crustaceans,2013,358
+Europe,Lithuania,Export,Fish,2013,102401
+Europe,Lithuania,Import,Crustaceans,2013,1090
+Europe,Lithuania,Import,Fish,2013,120548
+Europe,Luxembourg,Export,Crustaceans,2013,163
+Europe,Luxembourg,Export,Fish,2013,1034
+Europe,Luxembourg,Import,Crustaceans,2013,1614
+Europe,Luxembourg,Import,Fish,2013,7912
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2013,7
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2013,127
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2013,26
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2013,6598
+Europe,Malta,Export,Crustaceans,2013,1
+Europe,Malta,Export,Fish,2013,8371
+Europe,Malta,Import,Crustaceans,2013,297
+Europe,Malta,Import,Fish,2013,22670
+Europe,"Moldova, Republic of",Export,Crustaceans,2013,0
+Europe,"Moldova, Republic of",Export,Fish,2013,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2013,230
+Europe,"Moldova, Republic of",Import,Fish,2013,28698
+Europe,Montenegro,Export,Crustaceans,2013,0
+Europe,Montenegro,Export,Fish,2013,2
+Europe,Montenegro,Import,Crustaceans,2013,160
+Europe,Montenegro,Import,Fish,2013,2533
+Europe,Netherlands,Export,Crustaceans,2013,70086
+Europe,Netherlands,Export,Fish,2013,704249
+Europe,Netherlands,Import,Crustaceans,2013,67180
+Europe,Netherlands,Import,Fish,2013,706527
+Europe,Norway,Export,Crustaceans,2013,23749
+Europe,Norway,Export,Fish,2013,2300316
+Europe,Norway,Import,Crustaceans,2013,21082
+Europe,Norway,Import,Fish,2013,158249
+Europe,Poland,Export,Crustaceans,2013,2137
+Europe,Poland,Export,Fish,2013,285609
+Europe,Poland,Import,Crustaceans,2013,7442
+Europe,Poland,Import,Fish,2013,470554
+Europe,Portugal,Export,Crustaceans,2013,10436
+Europe,Portugal,Export,Fish,2013,194074
+Europe,Portugal,Import,Crustaceans,2013,27845
+Europe,Portugal,Import,Fish,2013,369927
+Europe,Romania,Export,Crustaceans,2013,2
+Europe,Romania,Export,Fish,2013,4405
+Europe,Romania,Import,Crustaceans,2013,902
+Europe,Romania,Import,Fish,2013,71813
+Europe,Russian Federation,Export,Crustaceans,2013,37774
+Europe,Russian Federation,Export,Fish,2013,1848868
+Europe,Russian Federation,Import,Crustaceans,2013,68622
+Europe,Russian Federation,Import,Fish,2013,916176
+Europe,Serbia,Export,Crustaceans,2013,0
+Europe,Serbia,Export,Fish,2013,666
+Europe,Serbia,Import,Crustaceans,2013,129
+Europe,Serbia,Import,Fish,2013,26631
+Europe,Serbia and Montenegro,Export,Crustaceans,2013,0
+Europe,Serbia and Montenegro,Export,Fish,2013,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2013,0
+Europe,Serbia and Montenegro,Import,Fish,2013,0
+Europe,Slovakia,Export,Crustaceans,2013,32
+Europe,Slovakia,Export,Fish,2013,1804
+Europe,Slovakia,Import,Crustaceans,2013,400
+Europe,Slovakia,Import,Fish,2013,24396
+Europe,Slovenia,Export,Crustaceans,2013,36
+Europe,Slovenia,Export,Fish,2013,3980
+Europe,Slovenia,Import,Crustaceans,2013,495
+Europe,Slovenia,Import,Fish,2013,12048
+Europe,Spain,Export,Crustaceans,2013,42273
+Europe,Spain,Export,Fish,2013,698055
+Europe,Spain,Import,Crustaceans,2013,179429
+Europe,Spain,Import,Fish,2013,869366
+Europe,Sweden,Export,Crustaceans,2013,3572
+Europe,Sweden,Export,Fish,2013,661474
+Europe,Sweden,Import,Crustaceans,2013,38584
+Europe,Sweden,Import,Fish,2013,646730
+Europe,Switzerland,Export,Crustaceans,2013,67
+Europe,Switzerland,Export,Fish,2013,500
+Europe,Switzerland,Import,Crustaceans,2013,9415
+Europe,Switzerland,Import,Fish,2013,57246
+Europe,Ukraine,Export,Crustaceans,2013,76
+Europe,Ukraine,Export,Fish,2013,51073
+Europe,Ukraine,Import,Crustaceans,2013,9252
+Europe,Ukraine,Import,Fish,2013,443498
+Europe,United Kingdom,Export,Crustaceans,2013,54479
+Europe,United Kingdom,Export,Fish,2013,573220
+Europe,United Kingdom,Import,Crustaceans,2013,99357
+Europe,United Kingdom,Import,Fish,2013,612203
+Europe,Albania,Export,Crustaceans,2014,91
+Europe,Albania,Export,Fish,2014,4575
+Europe,Albania,Import,Crustaceans,2014,595
+Europe,Albania,Import,Fish,2014,8014
+Europe,Andorra,Export,Crustaceans,2014,0
+Europe,Andorra,Export,Fish,2014,0
+Europe,Andorra,Import,Crustaceans,2014,171
+Europe,Andorra,Import,Fish,2014,1673
+Europe,Austria,Export,Crustaceans,2014,430
+Europe,Austria,Export,Fish,2014,8981
+Europe,Austria,Import,Crustaceans,2014,5345
+Europe,Austria,Import,Fish,2014,65798
+Europe,Belarus,Export,Crustaceans,2014,1633
+Europe,Belarus,Export,Fish,2014,57816
+Europe,Belarus,Import,Crustaceans,2014,3549
+Europe,Belarus,Import,Fish,2014,165338
+Europe,Belgium,Export,Crustaceans,2014,47086
+Europe,Belgium,Export,Fish,2014,81322
+Europe,Belgium,Import,Crustaceans,2014,64644
+Europe,Belgium,Import,Fish,2014,181640
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2014,3
+Europe,Bosnia and Herzegovina,Export,Fish,2014,1673
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2014,55
+Europe,Bosnia and Herzegovina,Import,Fish,2014,10623
+Europe,Bulgaria,Export,Crustaceans,2014,1194
+Europe,Bulgaria,Export,Fish,2014,5390
+Europe,Bulgaria,Import,Crustaceans,2014,1740
+Europe,Bulgaria,Import,Fish,2014,27373
+Europe,Croatia,Export,Crustaceans,2014,257
+Europe,Croatia,Export,Fish,2014,44289
+Europe,Croatia,Import,Crustaceans,2014,1312
+Europe,Croatia,Import,Fish,2014,19247
+Europe,Czechia,Export,Crustaceans,2014,298
+Europe,Czechia,Export,Fish,2014,26342
+Europe,Czechia,Import,Crustaceans,2014,2409
+Europe,Czechia,Import,Fish,2014,59397
+Europe,Denmark,Export,Crustaceans,2014,103413
+Europe,Denmark,Export,Fish,2014,676476
+Europe,Denmark,Import,Crustaceans,2014,96809
+Europe,Denmark,Import,Fish,2014,546460
+Europe,Estonia,Export,Crustaceans,2014,5037
+Europe,Estonia,Export,Fish,2014,98934
+Europe,Estonia,Import,Crustaceans,2014,2848
+Europe,Estonia,Import,Fish,2014,51605
+Europe,Faroe Islands,Export,Crustaceans,2014,4772
+Europe,Faroe Islands,Export,Fish,2014,312230
+Europe,Faroe Islands,Import,Crustaceans,2014,40
+Europe,Faroe Islands,Import,Fish,2014,10862
+Europe,Finland,Export,Crustaceans,2014,13
+Europe,Finland,Export,Fish,2014,55877
+Europe,Finland,Import,Crustaceans,2014,3462
+Europe,Finland,Import,Fish,2014,73909
+Europe,France,Export,Crustaceans,2014,18299
+Europe,France,Export,Fish,2014,188570
+Europe,France,Import,Crustaceans,2014,138051
+Europe,France,Import,Fish,2014,755692
+Europe,Germany,Export,Crustaceans,2014,27642
+Europe,Germany,Export,Fish,2014,690688
+Europe,Germany,Import,Crustaceans,2014,63245
+Europe,Germany,Import,Fish,2014,866836
+Europe,Greece,Export,Crustaceans,2014,2671
+Europe,Greece,Export,Fish,2014,96368
+Europe,Greece,Import,Crustaceans,2014,6907
+Europe,Greece,Import,Fish,2014,60744
+Europe,Hungary,Export,Crustaceans,2014,17
+Europe,Hungary,Export,Fish,2014,4470
+Europe,Hungary,Import,Crustaceans,2014,481
+Europe,Hungary,Import,Fish,2014,19542
+Europe,Iceland,Export,Crustaceans,2014,10581
+Europe,Iceland,Export,Fish,2014,497004
+Europe,Iceland,Import,Crustaceans,2014,15318
+Europe,Iceland,Import,Fish,2014,34271
+Europe,Ireland,Export,Crustaceans,2014,16605
+Europe,Ireland,Export,Fish,2014,224499
+Europe,Ireland,Import,Crustaceans,2014,7858
+Europe,Ireland,Import,Fish,2014,58865
+Europe,Italy,Export,Crustaceans,2014,3818
+Europe,Italy,Export,Fish,2014,90553
+Europe,Italy,Import,Crustaceans,2014,96107
+Europe,Italy,Import,Fish,2014,599726
+Europe,Latvia,Export,Crustaceans,2014,603
+Europe,Latvia,Export,Fish,2014,106981
+Europe,Latvia,Import,Crustaceans,2014,1644
+Europe,Latvia,Import,Fish,2014,72063
+Europe,Lithuania,Export,Crustaceans,2014,394
+Europe,Lithuania,Export,Fish,2014,114455
+Europe,Lithuania,Import,Crustaceans,2014,1240
+Europe,Lithuania,Import,Fish,2014,136571
+Europe,Luxembourg,Export,Crustaceans,2014,191
+Europe,Luxembourg,Export,Fish,2014,1001
+Europe,Luxembourg,Import,Crustaceans,2014,1616
+Europe,Luxembourg,Import,Fish,2014,8286
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2014,8
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2014,151
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2014,44
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2014,7504
+Europe,Malta,Export,Crustaceans,2014,0
+Europe,Malta,Export,Fish,2014,8487
+Europe,Malta,Import,Crustaceans,2014,298
+Europe,Malta,Import,Fish,2014,24534
+Europe,"Moldova, Republic of",Export,Crustaceans,2014,0
+Europe,"Moldova, Republic of",Export,Fish,2014,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2014,255
+Europe,"Moldova, Republic of",Import,Fish,2014,27742
+Europe,Montenegro,Export,Crustaceans,2014,0
+Europe,Montenegro,Export,Fish,2014,9
+Europe,Montenegro,Import,Crustaceans,2014,146
+Europe,Montenegro,Import,Fish,2014,2405
+Europe,Netherlands,Export,Crustaceans,2014,80472
+Europe,Netherlands,Export,Fish,2014,903758
+Europe,Netherlands,Import,Crustaceans,2014,87075
+Europe,Netherlands,Import,Fish,2014,779698
+Europe,Norway,Export,Crustaceans,2014,30965
+Europe,Norway,Export,Fish,2014,2476603
+Europe,Norway,Import,Crustaceans,2014,19072
+Europe,Norway,Import,Fish,2014,221227
+Europe,Poland,Export,Crustaceans,2014,2148
+Europe,Poland,Export,Fish,2014,283801
+Europe,Poland,Import,Crustaceans,2014,8113
+Europe,Poland,Import,Fish,2014,499711
+Europe,Portugal,Export,Crustaceans,2014,11555
+Europe,Portugal,Export,Fish,2014,199328
+Europe,Portugal,Import,Crustaceans,2014,34277
+Europe,Portugal,Import,Fish,2014,365710
+Europe,Romania,Export,Crustaceans,2014,10
+Europe,Romania,Export,Fish,2014,3413
+Europe,Romania,Import,Crustaceans,2014,819
+Europe,Romania,Import,Fish,2014,82685
+Europe,Russian Federation,Export,Crustaceans,2014,53634
+Europe,Russian Federation,Export,Fish,2014,1654901
+Europe,Russian Federation,Import,Crustaceans,2014,55993
+Europe,Russian Federation,Import,Fish,2014,791276
+Europe,Serbia,Export,Crustaceans,2014,0
+Europe,Serbia,Export,Fish,2014,1061
+Europe,Serbia,Import,Crustaceans,2014,179
+Europe,Serbia,Import,Fish,2014,29940
+Europe,Serbia and Montenegro,Export,Crustaceans,2014,0
+Europe,Serbia and Montenegro,Export,Fish,2014,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2014,0
+Europe,Serbia and Montenegro,Import,Fish,2014,0
+Europe,Slovakia,Export,Crustaceans,2014,11
+Europe,Slovakia,Export,Fish,2014,2130
+Europe,Slovakia,Import,Crustaceans,2014,150
+Europe,Slovakia,Import,Fish,2014,25039
+Europe,Slovenia,Export,Crustaceans,2014,70
+Europe,Slovenia,Export,Fish,2014,4867
+Europe,Slovenia,Import,Crustaceans,2014,557
+Europe,Slovenia,Import,Fish,2014,13084
+Europe,Spain,Export,Crustaceans,2014,39676
+Europe,Spain,Export,Fish,2014,800267
+Europe,Spain,Import,Crustaceans,2014,186623
+Europe,Spain,Import,Fish,2014,951333
+Europe,Sweden,Export,Crustaceans,2014,4055
+Europe,Sweden,Export,Fish,2014,695091
+Europe,Sweden,Import,Crustaceans,2014,37083
+Europe,Sweden,Import,Fish,2014,692965
+Europe,Switzerland,Export,Crustaceans,2014,12
+Europe,Switzerland,Export,Fish,2014,659
+Europe,Switzerland,Import,Crustaceans,2014,9643
+Europe,Switzerland,Import,Fish,2014,55503
+Europe,Ukraine,Export,Crustaceans,2014,116
+Europe,Ukraine,Export,Fish,2014,39349
+Europe,Ukraine,Import,Crustaceans,2014,5328
+Europe,Ukraine,Import,Fish,2014,330122
+Europe,United Kingdom,Export,Crustaceans,2014,51472
+Europe,United Kingdom,Export,Fish,2014,710251
+Europe,United Kingdom,Import,Crustaceans,2014,90935
+Europe,United Kingdom,Import,Fish,2014,584623
+Europe,Albania,Export,Crustaceans,2015,189
+Europe,Albania,Export,Fish,2015,5749
+Europe,Albania,Import,Crustaceans,2015,635
+Europe,Albania,Import,Fish,2015,9990
+Europe,Andorra,Export,Crustaceans,2015,0
+Europe,Andorra,Export,Fish,2015,5
+Europe,Andorra,Import,Crustaceans,2015,378
+Europe,Andorra,Import,Fish,2015,1584
+Europe,Austria,Export,Crustaceans,2015,472
+Europe,Austria,Export,Fish,2015,8787
+Europe,Austria,Import,Crustaceans,2015,5594
+Europe,Austria,Import,Fish,2015,65420
+Europe,Belarus,Export,Crustaceans,2015,1483
+Europe,Belarus,Export,Fish,2015,54642
+Europe,Belarus,Import,Crustaceans,2015,2058
+Europe,Belarus,Import,Fish,2015,156394
+Europe,Belgium,Export,Crustaceans,2015,43418
+Europe,Belgium,Export,Fish,2015,87561
+Europe,Belgium,Import,Crustaceans,2015,57351
+Europe,Belgium,Import,Fish,2015,179707
+Europe,Bosnia and Herzegovina,Export,Crustaceans,2015,2
+Europe,Bosnia and Herzegovina,Export,Fish,2015,2105
+Europe,Bosnia and Herzegovina,Import,Crustaceans,2015,67
+Europe,Bosnia and Herzegovina,Import,Fish,2015,10309
+Europe,Bulgaria,Export,Crustaceans,2015,1414
+Europe,Bulgaria,Export,Fish,2015,6184
+Europe,Bulgaria,Import,Crustaceans,2015,2499
+Europe,Bulgaria,Import,Fish,2015,29178
+Europe,Croatia,Export,Crustaceans,2015,282
+Europe,Croatia,Export,Fish,2015,49485
+Europe,Croatia,Import,Crustaceans,2015,1435
+Europe,Croatia,Import,Fish,2015,22274
+Europe,Czechia,Export,Crustaceans,2015,150
+Europe,Czechia,Export,Fish,2015,28196
+Europe,Czechia,Import,Crustaceans,2015,2036
+Europe,Czechia,Import,Fish,2015,62569
+Europe,Denmark,Export,Crustaceans,2015,89902
+Europe,Denmark,Export,Fish,2015,678250
+Europe,Denmark,Import,Crustaceans,2015,84819
+Europe,Denmark,Import,Fish,2015,572690
+Europe,Estonia,Export,Crustaceans,2015,4421
+Europe,Estonia,Export,Fish,2015,93380
+Europe,Estonia,Import,Crustaceans,2015,1773
+Europe,Estonia,Import,Fish,2015,42974
+Europe,Faroe Islands,Export,Crustaceans,2015,4236
+Europe,Faroe Islands,Export,Fish,2015,319717
+Europe,Faroe Islands,Import,Crustaceans,2015,270
+Europe,Faroe Islands,Import,Fish,2015,20161
+Europe,Finland,Export,Crustaceans,2015,6
+Europe,Finland,Export,Fish,2015,46283
+Europe,Finland,Import,Crustaceans,2015,3036
+Europe,Finland,Import,Fish,2015,69958
+Europe,France,Export,Crustaceans,2015,18653
+Europe,France,Export,Fish,2015,206038
+Europe,France,Import,Crustaceans,2015,138074
+Europe,France,Import,Fish,2015,758046
+Europe,Germany,Export,Crustaceans,2015,27409
+Europe,Germany,Export,Fish,2015,698517
+Europe,Germany,Import,Crustaceans,2015,59296
+Europe,Germany,Import,Fish,2015,850488
+Europe,Greece,Export,Crustaceans,2015,3289
+Europe,Greece,Export,Fish,2015,97038
+Europe,Greece,Import,Crustaceans,2015,6436
+Europe,Greece,Import,Fish,2015,56818
+Europe,Hungary,Export,Crustaceans,2015,23
+Europe,Hungary,Export,Fish,2015,6391
+Europe,Hungary,Import,Crustaceans,2015,477
+Europe,Hungary,Import,Fish,2015,22036
+Europe,Iceland,Export,Crustaceans,2015,10510
+Europe,Iceland,Export,Fish,2015,409810
+Europe,Iceland,Import,Crustaceans,2015,24498
+Europe,Iceland,Import,Fish,2015,41143
+Europe,Ireland,Export,Crustaceans,2015,17070
+Europe,Ireland,Export,Fish,2015,212755
+Europe,Ireland,Import,Crustaceans,2015,7980
+Europe,Ireland,Import,Fish,2015,58690
+Europe,Italy,Export,Crustaceans,2015,3724
+Europe,Italy,Export,Fish,2015,97567
+Europe,Italy,Import,Crustaceans,2015,94551
+Europe,Italy,Import,Fish,2015,613830
+Europe,Latvia,Export,Crustaceans,2015,631
+Europe,Latvia,Export,Fish,2015,95269
+Europe,Latvia,Import,Crustaceans,2015,1696
+Europe,Latvia,Import,Fish,2015,62698
+Europe,Lithuania,Export,Crustaceans,2015,532
+Europe,Lithuania,Export,Fish,2015,111189
+Europe,Lithuania,Import,Crustaceans,2015,1394
+Europe,Lithuania,Import,Fish,2015,129317
+Europe,Luxembourg,Export,Crustaceans,2015,150
+Europe,Luxembourg,Export,Fish,2015,1142
+Europe,Luxembourg,Import,Crustaceans,2015,1580
+Europe,Luxembourg,Import,Fish,2015,12748
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,2015,6
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,2015,113
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,2015,37
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,2015,8047
+Europe,Malta,Export,Crustaceans,2015,1
+Europe,Malta,Export,Fish,2015,11104
+Europe,Malta,Import,Crustaceans,2015,283
+Europe,Malta,Import,Fish,2015,28441
+Europe,"Moldova, Republic of",Export,Crustaceans,2015,0
+Europe,"Moldova, Republic of",Export,Fish,2015,0
+Europe,"Moldova, Republic of",Import,Crustaceans,2015,184
+Europe,"Moldova, Republic of",Import,Fish,2015,22318
+Europe,Montenegro,Export,Crustaceans,2015,0
+Europe,Montenegro,Export,Fish,2015,1
+Europe,Montenegro,Import,Crustaceans,2015,163
+Europe,Montenegro,Import,Fish,2015,2564
+Europe,Netherlands,Export,Crustaceans,2015,85505
+Europe,Netherlands,Export,Fish,2015,893194
+Europe,Netherlands,Import,Crustaceans,2015,82438
+Europe,Netherlands,Import,Fish,2015,700996
+Europe,Norway,Export,Crustaceans,2015,33804
+Europe,Norway,Export,Fish,2015,2356433
+Europe,Norway,Import,Crustaceans,2015,19520
+Europe,Norway,Import,Fish,2015,201101
+Europe,Poland,Export,Crustaceans,2015,1703
+Europe,Poland,Export,Fish,2015,301615
+Europe,Poland,Import,Crustaceans,2015,8448
+Europe,Poland,Import,Fish,2015,498029
+Europe,Portugal,Export,Crustaceans,2015,13638
+Europe,Portugal,Export,Fish,2015,198746
+Europe,Portugal,Import,Crustaceans,2015,33850
+Europe,Portugal,Import,Fish,2015,363555
+Europe,Romania,Export,Crustaceans,2015,19
+Europe,Romania,Export,Fish,2015,3872
+Europe,Romania,Import,Crustaceans,2015,1108
+Europe,Romania,Import,Fish,2015,89187
+Europe,Russian Federation,Export,Crustaceans,2015,55233
+Europe,Russian Federation,Export,Fish,2015,1727337
+Europe,Russian Federation,Import,Crustaceans,2015,25498
+Europe,Russian Federation,Import,Fish,2015,502925
+Europe,Serbia,Export,Crustaceans,2015,1
+Europe,Serbia,Export,Fish,2015,1136
+Europe,Serbia,Import,Crustaceans,2015,123
+Europe,Serbia,Import,Fish,2015,24724
+Europe,Serbia and Montenegro,Export,Crustaceans,2015,0
+Europe,Serbia and Montenegro,Export,Fish,2015,0
+Europe,Serbia and Montenegro,Import,Crustaceans,2015,0
+Europe,Serbia and Montenegro,Import,Fish,2015,0
+Europe,Slovakia,Export,Crustaceans,2015,21
+Europe,Slovakia,Export,Fish,2015,1864
+Europe,Slovakia,Import,Crustaceans,2015,149
+Europe,Slovakia,Import,Fish,2015,27528
+Europe,Slovenia,Export,Crustaceans,2015,68
+Europe,Slovenia,Export,Fish,2015,4850
+Europe,Slovenia,Import,Crustaceans,2015,551
+Europe,Slovenia,Import,Fish,2015,13307
+Europe,Spain,Export,Crustaceans,2015,45948
+Europe,Spain,Export,Fish,2015,758771
+Europe,Spain,Import,Crustaceans,2015,193619
+Europe,Spain,Import,Fish,2015,979813
+Europe,Sweden,Export,Crustaceans,2015,2871
+Europe,Sweden,Export,Fish,2015,793065
+Europe,Sweden,Import,Crustaceans,2015,33554
+Europe,Sweden,Import,Fish,2015,764660
+Europe,Switzerland,Export,Crustaceans,2015,11
+Europe,Switzerland,Export,Fish,2015,473
+Europe,Switzerland,Import,Crustaceans,2015,8721
+Europe,Switzerland,Import,Fish,2015,57290
+Europe,Ukraine,Export,Crustaceans,2015,211
+Europe,Ukraine,Export,Fish,2015,8196
+Europe,Ukraine,Import,Crustaceans,2015,1006
+Europe,Ukraine,Import,Fish,2015,222846
+Europe,United Kingdom,Export,Crustaceans,2015,46091
+Europe,United Kingdom,Export,Fish,2015,637823
+Europe,United Kingdom,Import,Crustaceans,2015,84698
+Europe,United Kingdom,Import,Fish,2015,552023
