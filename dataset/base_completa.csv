@@ -1,0 +1,1624 @@
+Continente,Localidae,Fluxo Comercial,Mercadoria,Medida,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015
+Africa,Algeria,Export,Crustaceans,Quantidade,854,819,916,871,862,1057,922,709,643,525,364,411,286,219,218,211
+Africa,Algeria,Export,Fish,Quantidade,187,259,977,307,215,223,500,618,994,793,457,109,277,317,339,308
+Africa,Algeria,Import,Crustaceans,Quantidade,23,21,128,176,415,448,304,612,597,953,1009,1269,1619,1835,1932,1518
+Africa,Algeria,Import,Fish,Quantidade,7434,7426,10389,20923,22053,19481,22280,19508,16719,26442,28127,27081,26391,29121,39576,41075
+Africa,Angola,Export,Crustaceans,Quantidade,630,834,1951,346,363,1189,1562,1405,899,916,1059,619,1388,1609,1365,1683
+Africa,Angola,Export,Fish,Quantidade,2896,9746,6272,4149,3223,1818,1786,2742,5019,6005,4508,2769,8718,8210,7010,5334
+Africa,Angola,Import,Crustaceans,Quantidade,6,12,31,18,23,65,84,151,113,518,878,937,1227,871,1656,758
+Africa,Angola,Import,Fish,Quantidade,7981,7800,8778,11888,19988,14490,24566,27974,41103,48844,64206,96017,160369,131669,183804,143389
+Africa,Benin,Export,Crustaceans,Quantidade,423,609,703,408,151,128,82,12,0,3,0,24,26,2,0,1
+Africa,Benin,Export,Fish,Quantidade,64,3,3,9,29,0,247,630,65,112,1149,1082,505,479,1174,280
+Africa,Benin,Import,Crustaceans,Quantidade,19,1,69,3,0,44,42,1,1,0,1,5,33,7,6,1
+Africa,Benin,Import,Fish,Quantidade,20888,10974,20267,27393,26857,44286,56019,65853,79810,74332,77472,80149,78594,84313,77142,94629
+Africa,Botswana,Export,Crustaceans,Quantidade,4,13,1,2,1,0,0,4,1,1,0,0,0,0,0,0
+Africa,Botswana,Export,Fish,Quantidade,13,33,35,39,24,27,42,32,7,112,36,59,190,221,234,267
+Africa,Botswana,Import,Crustaceans,Quantidade,314,501,236,48,73,19,40,60,36,44,32,77,34,49,31,63
+Africa,Botswana,Import,Fish,Quantidade,3574,2669,2397,2485,2445,3318,2582,2919,2987,4063,4105,3273,4873,4391,4545,4563
+Africa,Burkina Faso,Export,Fish,Quantidade,9,15,0,0,0,688,1500,2507,3387,4384,3260,2674,2833,2160,2100,3301
+Africa,Burkina Faso,Import,Crustaceans,Quantidade,59,42,21,27,48,37,1,292,6,91,173,155,226,381,210,30
+Africa,Burkina Faso,Import,Fish,Quantidade,12250,7551,8143,8405,11398,22282,25146,26891,26914,42973,50805,60181,60611,62763,65551,75271
+Africa,Burundi,Export,Fish,Quantidade,2,4,6,13,6,8,13,13,12,11,9,11,31,158,118,47
+Africa,Burundi,Import,Crustaceans,Quantidade,0,0,1,1,0,0,0,1,1,0,1,1,3,1,0,0
+Africa,Burundi,Import,Fish,Quantidade,63,79,52,111,57,24,84,35,38,88,514,1316,2722,3014,2998,2076
+Africa,Cabo Verde,Export,Crustaceans,Quantidade,12,0,23,18,26,12,10,8,1,8,8,17,49,27,7,5
+Africa,Cabo Verde,Export,Fish,Quantidade,322,246,238,44,324,9111,18172,9807,10081,13380,15909,17997,14163,16717,28419,30255
+Africa,Cabo Verde,Import,Crustaceans,Quantidade,12,10,12,21,21,36,56,67,68,60,67,101,101,117,113,108
+Africa,Cabo Verde,Import,Fish,Quantidade,61,173,79,88,93,106,232,258,335,423,328,440,576,573,513,453
+Africa,Cameroon,Export,Crustaceans,Quantidade,375,110,94,77,2,3,1,2,1,10,4,5,5,2,5,1
+Africa,Cameroon,Export,Fish,Quantidade,62,217,12,71,70,87,1419,2013,1659,3016,4237,1770,3291,3124,3881,3358
+Africa,Cameroon,Import,Crustaceans,Quantidade,5,4,9,22,14,11,29,21,1140,2909,3376,201,75,84,82,90
+Africa,Cameroon,Import,Fish,Quantidade,81469,97843,78800,125394,120277,106740,101375,139323,150586,201060,163788,216046,183609,207663,208586,216592
+Africa,Central African Republic,Export,Fish,Quantidade,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Africa,Central African Republic,Import,Crustaceans,Quantidade,2,0,0,44,0,0,0,0,0,0,0,0,0,3,1,2
+Africa,Central African Republic,Import,Fish,Quantidade,580,568,501,1416,1580,1741,1625,3010,2568,3679,5354,5198,5387,4951,5545,6076
+Africa,Chad,Export,Fish,Quantidade,4,2,0,0,0,13,0,290,45,40,51,52,55,66,66,61
+Africa,Chad,Import,Crustaceans,Quantidade,0,0,1,1,8,11,13,6,33,22,8,2,0,5,10,8
+Africa,Chad,Import,Fish,Quantidade,1,32,466,560,75,98,1188,367,413,536,424,432,716,717,1042,364
+Africa,Comoros,Export,Fish,Quantidade,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Africa,Comoros,Import,Crustaceans,Quantidade,7,7,0,0,0,0,0,0,0,0,1,1,0,0,1,2
+Africa,Comoros,Import,Fish,Quantidade,445,256,283,357,300,259,293,251,2748,519,803,443,603,455,679,520
+Africa,Congo,Export,Crustaceans,Quantidade,13,227,565,698,835,24,550,48,10,0,0,0,0,198,158,130
+Africa,Congo,Export,Fish,Quantidade,31,40,52,35,29,266,24,125,324,269,266,23,153,13,426,360
+Africa,Congo,Import,Crustaceans,Quantidade,0,1,0,0,12,2,6,9,7,49,12,49,77,35,33,25
+Africa,Congo,Import,Fish,Quantidade,10730,17615,9914,7635,13023,11941,9304,7094,25234,22918,9304,16436,16141,28299,39459,29600
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,Quantidade,0,0,1,1,5,0,0,0,0,7,6,0,0,0,0,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,Quantidade,19,18,2,8,1,1,0,0,0,76,259,116,125,608,282,132
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,Quantidade,0,1,2,5,514,23,22,11,12,38,150,77,32,86,129,34
+Africa,"Congo, Dem. Rep. of the",Import,Fish,Quantidade,61508,70323,66842,63896,65824,66936,71648,74477,71468,71747,77218,85660,91676,95747,109157,107883
+Africa,Côte d'Ivoire,Export,Crustaceans,Quantidade,911,861,422,313,227,119,233,91,128,696,213,72,21,91,138,46
+Africa,Côte d'Ivoire,Export,Fish,Quantidade,63504,49877,54945,47410,52834,32970,36941,47343,46988,51261,31637,23137,36134,37271,27498,37061
+Africa,Côte d'Ivoire,Import,Crustaceans,Quantidade,323,464,759,567,835,473,593,716,843,933,867,506,601,740,557,415
+Africa,Côte d'Ivoire,Import,Fish,Quantidade,235242,239505,255956,272620,245561,267840,261001,280040,327520,368198,285267,287749,286727,292908,326399,390313
+Africa,Djibouti,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Africa,Djibouti,Export,Fish,Quantidade,6,30,18,20,0,7,8,2,0,1,18,1,0,0,0,2
+Africa,Djibouti,Import,Crustaceans,Quantidade,8,2,2,3,3,19,5,10,20,47,7,7,6,3,45,23
+Africa,Djibouti,Import,Fish,Quantidade,492,285,395,262,505,299,652,603,461,375,324,468,522,824,520,1186
+Africa,Egypt,Export,Crustaceans,Quantidade,45,8,2,9,16,4,19,87,6,51,65,26,73,660,1779,1252
+Africa,Egypt,Export,Fish,Quantidade,636,668,1630,2414,3209,4431,3333,3587,5743,4381,10071,9856,14903,19850,25184,30607
+Africa,Egypt,Import,Crustaceans,Quantidade,46,576,235,196,925,1639,3092,7108,10137,11416,29816,16838,16100,10015,11696,12594
+Africa,Egypt,Import,Fish,Quantidade,208963,206315,153250,162674,223095,221703,244448,244222,194125,223514,281400,243861,302601,260680,555037,458382
+Africa,Equatorial Guinea,Export,Crustaceans,Quantidade,0,0,0,2,12,3,0,0,0,0,0,0,0,0,0,0
+Africa,Equatorial Guinea,Export,Fish,Quantidade,395,144,29,18,16,3,26,30,20,30,10,21,30,24,23,24
+Africa,Equatorial Guinea,Import,Crustaceans,Quantidade,0,0,7,8,7,11,30,33,50,35,84,107,90,84,101,82
+Africa,Equatorial Guinea,Import,Fish,Quantidade,2476,4312,3295,4438,6138,5884,7735,7507,6269,10385,7740,9480,12296,11925,9540,6259
+Africa,Eritrea,Export,Crustaceans,Quantidade,73,28,69,3,65,0,2,50,29,0,0,0,10,1,0,0
+Africa,Eritrea,Export,Fish,Quantidade,442,134,121,425,53,53,24,134,34,7,0,1,20,0,0,0
+Africa,Eritrea,Import,Crustaceans,Quantidade,0,9,5,0,3,6,4,0,0,2,1,1,0,0,0,0
+Africa,Eritrea,Import,Fish,Quantidade,46,76,99,987,153,66,201,80,89,10,47,1,80,28,67,12
+Africa,Ethiopia,Export,Fish,Quantidade,8,11,32,32,6,1,337,585,394,489,850,826,927,798,904,921
+Africa,Ethiopia,Import,Crustaceans,Quantidade,0,0,0,0,5,3,0,2,10,14,12,16,27,110,23,14
+Africa,Ethiopia,Import,Fish,Quantidade,53,24,273,330,202,329,779,369,713,318,396,532,607,1004,1019,1149
+Africa,Gabon,Export,Crustaceans,Quantidade,1990,2245,2132,1589,2252,2050,1531,1145,529,56,21,0,49,4,2,0
+Africa,Gabon,Export,Fish,Quantidade,1305,622,1619,438,2621,2772,2852,1082,2342,1459,1284,1178,1172,1183,1307,1163
+Africa,Gabon,Import,Crustaceans,Quantidade,30,5,7,12,91,20,21,44,71,80,19,17,63,67,102,57
+Africa,Gabon,Import,Fish,Quantidade,11012,11556,1831,3880,7634,7913,10430,8816,9758,11903,11063,15891,15896,18895,24101,24492
+Africa,Gambia,Export,Crustaceans,Quantidade,779,272,141,134,60,260,7,117,2,5,26,0,8,14,38,15
+Africa,Gambia,Export,Fish,Quantidade,584,364,606,440,207,565,67,1595,1743,3906,5911,2367,1911,1323,1450,860
+Africa,Gambia,Import,Crustaceans,Quantidade,8,61,38,1,3,1,0,0,43,0,0,32,11,2,114,160
+Africa,Gambia,Import,Fish,Quantidade,826,650,1559,2050,1882,1158,1937,2356,2712,3496,5972,3602,2105,1686,951,1263
+Africa,Ghana,Export,Crustaceans,Quantidade,355,321,105,234,948,129,300,504,172,46,18,158,18,65,67,177
+Africa,Ghana,Export,Fish,Quantidade,53786,59712,45057,45629,43797,35482,23422,24907,23442,19226,21631,20085,22176,21665,21064,26395
+Africa,Ghana,Import,Crustaceans,Quantidade,12,3,24,59,18,31,26,127,32,50,22,115,46,48,97,85
+Africa,Ghana,Import,Fish,Quantidade,169302,170533,222028,104590,279438,260149,290273,362510,279387,248530,211422,320725,231447,347408,271762,297402
+Africa,Guinea,Export,Crustaceans,Quantidade,175,96,71,131,13,35,0,0,0,417,220,199,191,66,4,3
+Africa,Guinea,Export,Fish,Quantidade,2142,3161,4001,4953,7840,17009,14334,7923,7964,6445,7472,7629,9024,9527,10607,11268
+Africa,Guinea,Import,Crustaceans,Quantidade,0,3,0,0,0,0,0,0,0,3,1,5,21,26,7,4
+Africa,Guinea,Import,Fish,Quantidade,898,1187,830,1213,634,979,428,772,738,1402,1471,1494,1854,1849,3400,2332
+Africa,Guinea-Bissau,Export,Crustaceans,Quantidade,77,159,141,203,107,152,61,0,0,0,0,0,0,0,0,0
+Africa,Guinea-Bissau,Export,Fish,Quantidade,1698,2301,3817,1628,3855,4021,5373,4976,3377,3771,5666,4401,3716,4579,5280,5500
+Africa,Guinea-Bissau,Import,Crustaceans,Quantidade,0,0,0,0,0,0,20,55,0,0,0,0,0,0,0,0
+Africa,Guinea-Bissau,Import,Fish,Quantidade,147,167,199,276,338,366,331,644,913,771,305,444,415,562,442,582
+Africa,Kenya,Export,Crustaceans,Quantidade,412,570,329,534,584,530,536,325,373,131,323,170,113,211,449,227
+Africa,Kenya,Export,Fish,Quantidade,16242,17785,23643,18414,16688,17190,14098,15699,19719,14431,16757,14359,16478,10986,14167,9991
+Africa,Kenya,Import,Crustaceans,Quantidade,4,4,19,26,31,15,6,1,0,102,11,22,86,104,126,115
+Africa,Kenya,Import,Fish,Quantidade,11273,17077,8980,7301,13572,21026,27112,23918,17696,11432,14399,16010,17044,14640,22997,22284
+Africa,Lesotho,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Africa,Lesotho,Export,Fish,Quantidade,0,0,7,4,3,0,0,0,25,183,413,388,136,194,528,627
+Africa,Lesotho,Import,Crustaceans,Quantidade,8,14,4,7,0,0,0,0,5,13,49,34,12,5,10,2
+Africa,Lesotho,Import,Fish,Quantidade,991,1231,2290,1668,1013,744,721,745,846,1121,1020,2200,1575,1493,3213,3183
+Africa,Liberia,Export,Crustaceans,Quantidade,0,18,0,28,42,3,7,2,0,0,0,0,11,0,0,0
+Africa,Liberia,Export,Fish,Quantidade,32,47,151,55,9,75,229,125,65,91,96,91,96,98,102,101
+Africa,Liberia,Import,Crustaceans,Quantidade,24,1,18,1,5,20,13,18,17,19,10,5,6,8,43,30
+Africa,Liberia,Import,Fish,Quantidade,3746,1903,1132,2623,1163,1412,2275,1130,4044,3320,6076,6861,7079,11491,14366,12557
+Africa,Libya,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,17,8,0,0,0,0,0
+Africa,Libya,Export,Fish,Quantidade,1868,1375,1695,2216,3120,3836,2000,1137,959,579,616,363,980,1024,921,1060
+Africa,Libya,Import,Crustaceans,Quantidade,6,11,21,38,73,22,3,6,0,140,307,136,110,306,265,164
+Africa,Libya,Import,Fish,Quantidade,4442,4587,4119,4346,4617,9197,13575,17058,16768,27554,43098,39003,54926,56063,50870,40764
+Africa,Madagascar,Export,Crustaceans,Quantidade,2156,12538,15282,6358,7333,11941,12013,13443,11473,9479,7715,10642,7372,8207,10452,7117
+Africa,Madagascar,Export,Fish,Quantidade,10621,16809,15581,23645,19252,10154,17804,13193,8267,6688,11201,12047,8154,8297,10982,11197
+Africa,Madagascar,Import,Crustaceans,Quantidade,9,38,1,1,1,881,138,223,104,3,18,216,51,23,1,23
+Africa,Madagascar,Import,Fish,Quantidade,13521,12637,17641,22733,16160,14728,29963,22379,14409,14752,18038,20289,14374,16816,20220,14949
+Africa,Malawi,Export,Fish,Quantidade,42,34,26,43,42,128,585,32,34,15,21,67,49,23,14,12
+Africa,Malawi,Import,Crustaceans,Quantidade,0,3,2,1,0,0,0,0,0,0,3,1,7,9,23,39
+Africa,Malawi,Import,Fish,Quantidade,1485,345,244,583,703,426,1740,1734,3224,2103,1916,1316,1180,1669,2498,2628
+Africa,Mali,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0
+Africa,Mali,Export,Fish,Quantidade,761,950,1136,425,456,371,337,634,496,301,278,879,174,259,695,186
+Africa,Mali,Import,Crustaceans,Quantidade,41,37,19,60,34,38,37,7,45,77,97,16,200,97,191,613
+Africa,Mali,Import,Fish,Quantidade,2696,2923,2704,5500,6989,11014,12912,14606,15378,16246,23196,21902,20556,22137,32470,32461
+Africa,Mauritania,Export,Crustaceans,Quantidade,781,1657,1286,1417,1041,1212,1201,1154,788,350,2955,4062,2226,1065,3163,2151
+Africa,Mauritania,Export,Fish,Quantidade,66340,65376,79185,73287,53860,80540,72419,89426,119491,55580,99624,209019,288267,180262,219231,253061
+Africa,Mauritania,Import,Crustaceans,Quantidade,0,0,0,0,0,0,11,0,3,0,0,3,0,37,100,51
+Africa,Mauritania,Import,Fish,Quantidade,120,173,414,457,78,543,296,569,681,1433,2332,1921,2915,3104,4320,3770
+Africa,Mauritius,Export,Crustaceans,Quantidade,0,0,0,210,1,0,8,5,0,0,0,0,0,1,0,0
+Africa,Mauritius,Export,Fish,Quantidade,18152,27380,28940,32021,33266,36763,50027,49809,49060,50567,61195,54867,59053,59219,70009,63348
+Africa,Mauritius,Import,Crustaceans,Quantidade,1243,1440,1190,1465,1450,1487,1341,1570,1593,1449,1483,1788,1766,1720,1714,1663
+Africa,Mauritius,Import,Fish,Quantidade,39835,49428,81312,61120,78317,101705,148735,126327,147537,142573,139934,158800,146731,166243,178953,175715
+Africa,Mayotte,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Africa,Mayotte,Export,Fish,Quantidade,4,28,127,201,125,124,122,122,95,83,80,85,76,63,50,0
+Africa,Mayotte,Import,Crustaceans,Quantidade,9,23,18,30,21,46,29,42,45,56,22,4,5,2,0,0
+Africa,Mayotte,Import,Fish,Quantidade,591,797,1063,1088,956,1151,1227,1040,1656,1308,1209,1419,1208,1238,1229,1031
+Africa,Morocco,Export,Crustaceans,Quantidade,12959,11420,10959,9639,7147,9279,9756,15876,14079,14547,14156,17398,16393,15965,17430,18930
+Africa,Morocco,Export,Fish,Quantidade,129286,163860,193397,191453,174105,197415,270967,256940,286893,288770,279834,213072,278013,313393,311004,357348
+Africa,Morocco,Import,Crustaceans,Quantidade,8351,5997,7079,8180,7358,8011,10641,22408,20240,19095,28881,35012,32824,32892,35972,39262
+Africa,Morocco,Import,Fish,Quantidade,3939,5407,9888,11782,23499,22460,30808,23077,44698,24806,19397,19397,11958,15680,29638,30499
+Africa,Mozambique,Export,Crustaceans,Quantidade,7265,6450,8835,6444,6205,7361,14617,10034,10041,8520,8315,4745,2510,4421,5889,3578
+Africa,Mozambique,Export,Fish,Quantidade,3244,1946,2532,4265,6648,6669,1814,2249,1212,1033,1197,2825,4249,4816,8366,7831
+Africa,Mozambique,Import,Crustaceans,Quantidade,80,1,1,1808,7,2,11,33,2,2,1,5,9,29,27,21
+Africa,Mozambique,Import,Fish,Quantidade,5820,4274,6242,9220,12969,18721,16638,14411,19118,18394,16723,27350,26978,44928,50035,52352
+Africa,Namibia,Export,Crustaceans,Quantidade,1346,1545,1389,1389,1645,1546,1306,1195,1503,2234,2126,2119,1802,1334,2476,2337
+Africa,Namibia,Export,Fish,Quantidade,384992,311379,312572,308263,291353,253834,396990,323827,319026,337595,306847,348288,334441,386157,386445,416349
+Africa,Namibia,Import,Crustaceans,Quantidade,47,43,65,42,64,187,378,452,428,1335,317,496,254,305,298,257
+Africa,Namibia,Import,Fish,Quantidade,89079,33530,12854,15532,18025,14445,13937,19393,20543,31389,20641,13710,13175,14816,16119,20015
+Africa,Niger,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Africa,Niger,Export,Fish,Quantidade,1618,6676,8025,5905,3684,2260,681,287,449,405,556,815,831,1228,1367,658
+Africa,Niger,Import,Crustaceans,Quantidade,2,1,0,5,0,1,0,1,1,2,5,3,2,2,3,20
+Africa,Niger,Import,Fish,Quantidade,895,676,586,514,564,1244,2237,1542,2664,3409,3657,2856,3894,4814,5813,7462
+Africa,Nigeria,Export,Crustaceans,Quantidade,2195,2340,2496,2114,3631,6902,15730,19956,10853,24690,23725,9399,9044,18350,11708,8576
+Africa,Nigeria,Export,Fish,Quantidade,224,628,597,246,605,754,813,1169,688,204,300,22415,9270,63571,4040,3053
+Africa,Nigeria,Import,Crustaceans,Quantidade,12,0,18,3,14,1,22,24,0,81,90,1671,385,1511,220,811
+Africa,Nigeria,Import,Fish,Quantidade,311871,633387,543822,622965,778731,841741,1247871,999824,1042398,1108631,1330691,1589401,1083208,868036,992591,886643
+Africa,Rwanda,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,0,1,43,0
+Africa,Rwanda,Export,Fish,Quantidade,0,0,0,0,0,38,0,92,310,555,253,120,317,173,1208,2098
+Africa,Rwanda,Import,Crustaceans,Quantidade,5,0,1,3,0,0,0,0,1,3,3,2,3,2,5,2
+Africa,Rwanda,Import,Fish,Quantidade,130,102,197,109,7,58,1342,2718,3599,4875,6897,11915,13300,12119,15205,23616
+Africa,Saint Helena,Export,Crustaceans,Quantidade,145,192,196,97,144,160,150,131,171,264,339,186,249,300,244,281
+Africa,Saint Helena,Export,Fish,Quantidade,160,355,309,229,336,572,478,596,790,510,372,694,387,419,428,624
+Africa,Saint Helena,Import,Crustaceans,Quantidade,0,4,0,25,4,0,21,0,0,0,0,0,0,0,7,1
+Africa,Saint Helena,Import,Fish,Quantidade,57,55,46,31,19,101,166,57,16,8,22,12,6,26,29,43
+Africa,Sao Tome and Principe,Export,Crustaceans,Quantidade,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Africa,Sao Tome and Principe,Export,Fish,Quantidade,53,300,82,0,0,0,0,0,0,0,1,0,0,0,2,2
+Africa,Sao Tome and Principe,Import,Crustaceans,Quantidade,0,0,0,0,0,1,2,1,8,4,4,4,8,8,6,7
+Africa,Sao Tome and Principe,Import,Fish,Quantidade,19,0,3,7,5,3,29,19,33,27,28,51,43,45,44,28
+Africa,Senegal,Export,Crustaceans,Quantidade,6909,7687,5970,5480,10684,9790,8695,7809,4741,4284,3551,4309,5284,4789,4249,4378
+Africa,Senegal,Export,Fish,Quantidade,66526,63266,60109,68138,95012,74208,65782,87440,73125,78367,78034,92458,90520,124112,134315,173157
+Africa,Senegal,Import,Crustaceans,Quantidade,66,49,120,24,35,69,21,6,14,80,74,77,104,146,19,65
+Africa,Senegal,Import,Fish,Quantidade,606,392,158,265,447,438,375,880,1120,304,6354,14087,8437,8545,9470,19121
+Africa,Seychelles,Export,Crustaceans,Quantidade,331,316,213,901,1111,786,619,364,331,23,1,0,0,0,0,8
+Africa,Seychelles,Export,Fish,Quantidade,42096,62891,65520,128334,102306,114356,99635,94997,72241,72560,82478,105684,107426,97456,77485,106393
+Africa,Seychelles,Import,Crustaceans,Quantidade,39,16,12,44,47,40,54,130,273,51,511,895,677,374,623,805
+Africa,Seychelles,Import,Fish,Quantidade,19003,18770,32020,85882,81573,87331,91984,115920,35709,64103,70006,69927,62961,60914,67178,67708
+Africa,Sierra Leone,Export,Crustaceans,Quantidade,1082,1154,2515,3299,2429,2536,1916,1721,1615,1591,1675,1583,1752,1550,1230,1200
+Africa,Sierra Leone,Export,Fish,Quantidade,5496,5031,5080,3008,3080,3404,3552,3853,3768,3944,3942,4079,4310,3848,4209,4787
+Africa,Sierra Leone,Import,Crustaceans,Quantidade,14,83,29,29,11,1,3,0,1,0,0,1,7,1,81,25
+Africa,Sierra Leone,Import,Fish,Quantidade,726,955,645,1679,1249,1162,918,1754,1525,2038,972,1365,1072,1370,1622,915
+Africa,Somalia,Export,Crustaceans,Quantidade,18,2,19,0,9,69,15,0,231,0,5,77,34,17,3,26
+Africa,Somalia,Export,Fish,Quantidade,1101,1642,2867,1378,2243,2692,2010,2217,3152,4147,1133,1396,936,1235,1462,2106
+Africa,Somalia,Import,Crustaceans,Quantidade,0,0,0,0,0,0,18,0,0,1,1,0,8,0,1,4
+Africa,Somalia,Import,Fish,Quantidade,71,15,111,142,225,283,1117,684,907,1426,899,1365,1141,2004,2415,3734
+Africa,South Africa,Export,Crustaceans,Quantidade,2271,2155,2611,2359,3351,4397,4204,2857,2412,3327,2690,2542,2930,3210,3306,2505
+Africa,South Africa,Export,Fish,Quantidade,127000,136172,130521,118739,106464,123422,98084,94365,93436,111280,105576,108188,101227,105545,114387,92914
+Africa,South Africa,Import,Crustaceans,Quantidade,2870,2990,2987,3157,5568,7941,8685,9534,8236,9472,7764,11215,10692,11391,10024,8025
+Africa,South Africa,Import,Fish,Quantidade,16798,22255,21619,27254,35379,33663,38357,56368,70673,87184,75783,68809,111814,115984,166483,139926
+Africa,South Sudan,Export,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,0
+Africa,South Sudan,Import,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Africa,South Sudan,Import,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,144,289,252,179
+Africa,Sudan,Export,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,155,193,654,1120
+Africa,Sudan,Import,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,23,76,11,0
+Africa,Sudan,Import,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,2802,2856,2097,3033
+Africa,Sudan (former),Export,Crustaceans,Quantidade,0,0,1,1,2,0,0,0,5,2,0,2,0,0,0,0
+Africa,Sudan (former),Export,Fish,Quantidade,99,132,1159,1595,2556,2345,59,74,563,591,19,230,0,0,0,0
+Africa,Sudan (former),Import,Crustaceans,Quantidade,0,0,0,0,0,1,19,3,40,76,129,67,0,0,0,0
+Africa,Sudan (former),Import,Fish,Quantidade,240,169,446,266,46,125,1906,1676,1327,2324,2367,3257,0,0,0,0
+Africa,Swaziland,Export,Crustaceans,Quantidade,453,400,438,512,919,536,36,0,0,0,0,0,1,0,0,0
+Africa,Swaziland,Export,Fish,Quantidade,1110,724,731,492,908,457,96,69,59,24,20,20,2,0,1,1
+Africa,Swaziland,Import,Crustaceans,Quantidade,558,306,415,624,712,375,236,90,62,0,1,31,17,29,26,24
+Africa,Swaziland,Import,Fish,Quantidade,5169,3390,3040,4812,5887,3812,2287,1909,1169,1139,1114,1118,1106,1695,3026,2941
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,Quantidade,1767,2067,2432,2874,2787,4004,1261,943,569,494,639,442,2454,888,673,1366
+Africa,"Tanzania, United Rep. of",Export,Fish,Quantidade,40529,41531,38546,44173,49217,42896,37216,47677,54467,39465,39611,39704,42004,33687,38342,33119
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,Quantidade,21,54,5,8,16,44,11,31,4,4,3,7,4,7,3,6
+Africa,"Tanzania, United Rep. of",Import,Fish,Quantidade,297,221,150,291,370,450,2919,6822,6817,6243,5913,3883,6367,9267,19486,19605
+Africa,Togo,Export,Crustaceans,Quantidade,215,230,0,0,16,0,0,0,91,0,0,0,8,10,0,25
+Africa,Togo,Export,Fish,Quantidade,6181,9038,8968,7051,6948,6121,5018,259,2146,3603,485,834,36,108,190,179
+Africa,Togo,Import,Crustaceans,Quantidade,3,35,146,317,111,1,3,79,0,38,0,10,13,1,3,6
+Africa,Togo,Import,Fish,Quantidade,29880,27893,17672,19769,12845,21541,15357,13934,10933,15524,39471,53175,53845,51069,48533,59978
+Africa,Tunisia,Export,Crustaceans,Quantidade,7058,4448,3649,3683,3885,4531,3706,3118,3540,2865,2941,3350,2689,3289,3732,4258
+Africa,Tunisia,Export,Fish,Quantidade,2297,3498,5144,3199,5183,8395,9692,11999,10709,9852,9732,14182,12733,11561,9743,10455
+Africa,Tunisia,Import,Crustaceans,Quantidade,143,38,80,83,34,185,174,459,431,962,1433,1007,770,237,63,55
+Africa,Tunisia,Import,Fish,Quantidade,11232,16982,17379,27722,25611,36368,37972,37479,43732,44926,43026,41737,45155,36069,38163,25388
+Africa,Uganda,Export,Crustaceans,Quantidade,0,9,0,12,0,25,0,0,6,0,18,0,3,10,1,0
+Africa,Uganda,Export,Fish,Quantidade,14499,17013,25125,25406,31327,38371,36120,30872,26552,22535,22711,19421,21182,20183,17530,17814
+Africa,Uganda,Import,Crustaceans,Quantidade,6,6,7,9,14,10,11,15,20,17,12,10,18,29,72,45
+Africa,Uganda,Import,Fish,Quantidade,64,10,89,639,167,310,261,322,710,474,780,1299,1242,948,1846,2111
+Africa,Zambia,Export,Crustaceans,Quantidade,0,0,0,0,1,0,0,0,0,0,0,4,0,1,0,0
+Africa,Zambia,Export,Fish,Quantidade,710,980,765,613,582,1032,254,240,1817,686,430,75,53,145,228,334
+Africa,Zambia,Import,Crustaceans,Quantidade,7,10,7,2,4,0,5,9,4,18,33,42,66,132,107,97
+Africa,Zambia,Import,Fish,Quantidade,1327,906,2120,3407,3961,5796,3867,4635,3435,3261,4426,8412,17902,33017,55642,78047
+Africa,Zimbabwe,Export,Crustaceans,Quantidade,1,2,2,0,2,0,0,2,0,0,0,0,3,0,0,0
+Africa,Zimbabwe,Export,Fish,Quantidade,816,936,712,520,708,563,805,1439,1487,966,1137,2056,2516,3255,5878,4972
+Africa,Zimbabwe,Import,Crustaceans,Quantidade,79,41,61,28,53,171,48,29,16,11,19,32,32,67,63,83
+Africa,Zimbabwe,Import,Fish,Quantidade,7453,3062,1494,952,2636,825,3472,1939,2273,3379,9968,13572,15513,17277,18053,21148
+Americas,Antigua and Barbuda,Export,Crustaceans,Quantidade,21,9,12,8,5,1,4,2,2,6,2,13,13,18,1,4
+Americas,Antigua and Barbuda,Export,Fish,Quantidade,6,111,61,83,67,49,103,34,84,50,56,102,101,62,56,40
+Americas,Antigua and Barbuda,Import,Crustaceans,Quantidade,183,7,74,829,305,159,208,172,101,187,167,161,153,169,197,186
+Americas,Antigua and Barbuda,Import,Fish,Quantidade,1377,432,660,821,1114,1327,1548,1914,1454,1325,1294,1399,1465,1417,1361,1513
+Americas,Argentina,Export,Crustaceans,Quantidade,32865,61712,52547,47728,27914,7478,39585,45254,43395,52118,64597,79630,80650,93501,109815,122989
+Americas,Argentina,Export,Fish,Quantidade,227595,210108,274687,312840,368083,351486,362127,306225,289190,328673,307480,287628,252139,240276,244148,219928
+Americas,Argentina,Import,Crustaceans,Quantidade,1024,550,46,81,115,391,629,502,555,557,933,951,729,759,585,649
+Americas,Argentina,Import,Fish,Quantidade,36547,34179,6854,15531,25191,29556,30856,37171,29149,27420,34490,38897,37129,34550,29831,40286
+Americas,Aruba,Export,Fish,Quantidade,81,110,335,242,190,106,13,10,4,2,3,0,0,23,1,5
+Americas,Aruba,Import,Crustaceans,Quantidade,116,39,49,32,59,62,68,54,62,542,470,425,565,561,633,735
+Americas,Aruba,Import,Fish,Quantidade,1589,1479,1516,1854,1824,1603,1999,1863,1985,1621,1612,1435,1813,1750,1783,1981
+Americas,Bahamas,Export,Crustaceans,Quantidade,3675,2324,2624,3423,2683,2085,2345,2104,2125,2370,2186,2133,2285,2746,1945,2184
+Americas,Bahamas,Export,Fish,Quantidade,39,73,46,110,31,15,43,82,51,130,71,95,79,142,73,51
+Americas,Bahamas,Import,Crustaceans,Quantidade,556,606,495,423,373,404,428,470,507,450,477,382,446,291,441,411
+Americas,Bahamas,Import,Fish,Quantidade,3633,3147,2967,3151,2837,2969,3354,3406,3789,3046,2514,3322,3479,3430,3463,3509
+Americas,Barbados,Export,Crustaceans,Quantidade,1,0,1,3,5,7,5,6,3,2,1,2,1,2,1,1
+Americas,Barbados,Export,Fish,Quantidade,276,327,206,238,234,382,232,230,165,50,100,122,129,151,174,187
+Americas,Barbados,Import,Crustaceans,Quantidade,213,241,225,226,122,256,239,237,270,225,231,248,217,235,247,309
+Americas,Barbados,Import,Fish,Quantidade,3400,3923,4383,4498,4154,7682,6142,5949,5546,5140,5026,5553,5779,4740,5483,5872
+Americas,Belize,Export,Crustaceans,Quantidade,2378,550,657,6592,8048,8865,7403,2686,3692,5147,5384,4869,4903,6863,7600,10043
+Americas,Belize,Export,Fish,Quantidade,29,1076,38,80,175,228,310,225,1307,972,1306,726,228,276,174,265
+Americas,Belize,Import,Crustaceans,Quantidade,134,8,7,12,3,18,3,2,2,1,112,5,2,2,19,25
+Americas,Belize,Import,Fish,Quantidade,233,406,636,686,219,271,284,212,356,266,432,167,287,280,252,592
+Americas,Bermuda,Export,Crustaceans,Quantidade,11,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0
+Americas,Bermuda,Export,Fish,Quantidade,4,0,3,0,0,0,21,2,20,25,19,0,0,2,2,1
+Americas,Bermuda,Import,Crustaceans,Quantidade,206,210,226,207,181,331,351,321,257,201,252,237,181,234,218,175
+Americas,Bermuda,Import,Fish,Quantidade,704,938,815,741,774,1570,1743,1768,1600,1453,1065,1229,1602,1788,1790,1940
+Americas,Bolivia (Plurinat.State),Export,Fish,Quantidade,29,85,7,19,0,1,0,12,32,33,3,0,0,0,0,0
+Americas,Bolivia (Plurinat.State),Import,Crustaceans,Quantidade,43,29,21,15,15,17,9,8,4,5,9,9,14,22,23,42
+Americas,Bolivia (Plurinat.State),Import,Fish,Quantidade,10735,6621,6404,4653,6152,7999,7930,4826,9513,8970,7614,10983,10787,10973,12179,13727
+Americas,Brazil,Export,Crustaceans,Quantidade,16031,26688,44062,64953,58311,48370,36795,19503,13663,8797,5171,3451,2393,3355,2784,2775
+Americas,Brazil,Export,Fish,Quantidade,40960,45137,50026,45776,45033,42743,39373,37785,29978,27235,27898,34336,38376,31868,29396,31950
+Americas,Brazil,Import,Crustaceans,Quantidade,604,539,270,35,78,37,27,99,39,113,42,56,32,57,43,30
+Americas,Brazil,Import,Fish,Quantidade,192984,166009,146873,151483,157793,145619,178149,206856,215524,235132,275051,338665,358605,410160,392935,321619
+Americas,Canada,Export,Crustaceans,Quantidade,142603,166249,197883,199212,218557,210998,223098,228811,196808,197919,219145,212546,218892,233017,231151,237430
+Americas,Canada,Export,Fish,Quantidade,304080,321201,341808,353941,381478,418809,409213,374548,369975,343640,362657,331520,310644,295989,276186,308336
+Americas,Canada,Import,Crustaceans,Quantidade,94447,100708,82398,64436,72659,75940,82695,84511,75963,83966,93946,101871,103889,93698,102471,93623
+Americas,Canada,Import,Fish,Quantidade,224256,230655,241465,238191,236746,232584,231269,237519,230636,242283,236468,249937,251025,268284,262453,256856
+Americas,Cayman Islands,Export,Fish,Quantidade,100,62,60,8,34,46,58,34,50,91,40,30,0,0,0,21
+Americas,Cayman Islands,Import,Crustaceans,Quantidade,52,66,74,75,62,32,109,90,83,93,82,46,78,80,98,101
+Americas,Cayman Islands,Import,Fish,Quantidade,87,148,165,163,199,118,348,542,322,435,519,501,535,396,355,289
+Americas,Chile,Export,Crustaceans,Quantidade,6729,5207,3779,3203,3391,4182,3928,3409,3873,3305,4639,5495,5610,6181,6701,6693
+Americas,Chile,Export,Fish,Quantidade,483256,687117,623033,563254,654330,717208,688900,719748,634266,604114,444353,521167,635122,701191,729992,709058
+Americas,Chile,Import,Crustaceans,Quantidade,449,370,369,422,536,744,983,1426,1829,2026,3215,4182,5208,5629,6665,7403
+Americas,Chile,Import,Fish,Quantidade,9471,7562,9864,11244,16167,17055,18909,47902,23213,17578,26598,52004,40453,40900,39033,49989
+Americas,Colombia,Export,Crustaceans,Quantidade,10981,13074,13598,14321,13841,17513,17877,16637,17747,17459,12954,8150,9082,3174,2500,2661
+Americas,Colombia,Export,Fish,Quantidade,81683,66406,58923,53040,62475,59550,48241,55819,72683,62159,46855,57230,50810,52904,64281,50937
+Americas,Colombia,Import,Crustaceans,Quantidade,178,234,173,297,509,856,1305,1773,2234,2296,3041,3744,4284,5957,5627,5532
+Americas,Colombia,Import,Fish,Quantidade,54940,59189,67459,75014,86123,96809,99928,98578,101161,91158,95657,103818,111939,135720,145636,141451
+Americas,Costa Rica,Export,Crustaceans,Quantidade,2096,2740,3349,2199,2457,2281,1649,1029,726,619,516,709,813,1278,1419,1486
+Americas,Costa Rica,Export,Fish,Quantidade,30828,41715,43958,38113,30313,32074,26573,24204,27934,23654,20824,24004,24800,25813,22960,20614
+Americas,Costa Rica,Import,Crustaceans,Quantidade,209,450,347,467,339,277,492,502,490,577,748,1189,1371,1093,1597,1794
+Americas,Costa Rica,Import,Fish,Quantidade,16263,19969,26892,23695,23263,22295,20533,20046,26340,26108,23436,36528,28434,30701,42711,46617
+Americas,Cuba,Export,Crustaceans,Quantidade,7271,6143,7234,4747,5701,6304,6590,6396,5688,5438,5182,3930,3221,3390,3081,5182
+Americas,Cuba,Export,Fish,Quantidade,317,665,1480,1459,4530,393,591,678,405,437,503,391,363,374,339,324
+Americas,Cuba,Import,Crustaceans,Quantidade,15,76,41,27,54,68,38,78,50,14,14,4,11,10,11,26
+Americas,Cuba,Import,Fish,Quantidade,29947,28089,15697,27863,53661,42368,21050,24076,30015,19717,12462,13086,9800,9090,11367,14547
+Americas,Curaçao,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,116,0,0,1,7
+Americas,Curaçao,Export,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,0,12707,15329,16334,18146,19815
+Americas,Curaçao,Import,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,281,65,186,182,140
+Americas,Curaçao,Import,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,0,1604,1514,1461,1306,1491
+Americas,Dominica,Export,Fish,Quantidade,0,0,0,1,0,3,0,1,1,0,0,0,0,0,0,0
+Americas,Dominica,Import,Crustaceans,Quantidade,5,2,4,3,3,8,4,8,7,28,16,22,16,10,2,2
+Americas,Dominica,Import,Fish,Quantidade,671,569,570,507,580,509,427,547,515,689,307,421,371,394,935,1026
+Americas,Dominican Republic,Export,Crustaceans,Quantidade,39,45,76,57,25,136,123,168,167,99,244,475,289,461,392,586
+Americas,Dominican Republic,Export,Fish,Quantidade,1510,1499,2152,4319,1231,1519,826,768,1156,1249,1968,4887,3148,3351,4270,2978
+Americas,Dominican Republic,Import,Crustaceans,Quantidade,172,228,695,817,847,1155,2392,1995,2349,4319,2307,2616,2139,1628,2284,2137
+Americas,Dominican Republic,Import,Fish,Quantidade,27563,27163,39804,34370,31998,33023,35060,35267,41832,41123,40714,42524,43769,34042,31324,35249
+Americas,Ecuador,Export,Crustaceans,Quantidade,35069,45539,46937,53882,69870,91448,119370,126138,125131,135337,149009,188454,210325,225201,300732,358028
+Americas,Ecuador,Export,Fish,Quantidade,170314,196161,193642,215668,199129,218781,257604,247183,262531,258741,259272,322927,311722,343073,365157,342297
+Americas,Ecuador,Import,Crustaceans,Quantidade,9,30,55,141,141,109,73,111,101,62,80,111,762,617,382,20
+Americas,Ecuador,Import,Fish,Quantidade,1983,5726,25510,27061,17202,5380,8805,38203,132318,163239,152399,168316,88507,53001,80910,69548
+Americas,El Salvador,Export,Crustaceans,Quantidade,1989,2505,1662,1892,1251,1256,934,1079,377,651,590,144,57,180,92,72
+Americas,El Salvador,Export,Fish,Quantidade,1061,445,6328,10249,12849,16842,14450,18648,19055,19245,14963,15422,18547,21106,20913,19758
+Americas,El Salvador,Import,Crustaceans,Quantidade,311,287,378,655,821,980,1652,2585,1567,6716,3083,937,948,633,3527,495
+Americas,El Salvador,Import,Fish,Quantidade,4317,5982,3921,7307,10932,31539,18267,25109,10811,34657,21370,13204,16283,22262,20904,20738
+Americas,Falkland Is.(Malvinas),Export,Fish,Quantidade,13982,13248,17888,18805,21117,19653,20363,12040,16937,21925,38027,24666,7561,24569,21851,5263
+Americas,Falkland Is.(Malvinas),Import,Crustaceans,Quantidade,1,2,1,5,2,4,23,19,6,7,7,8,2,0,0,1
+Americas,Falkland Is.(Malvinas),Import,Fish,Quantidade,52,102,3,7,54,23,10,20,25,26,27,27,23,24,28,26
+Americas,Greenland,Export,Crustaceans,Quantidade,55274,57363,63741,73797,74011,84422,75783,49856,72641,65637,68897,67272,63277,56501,55326,41715
+Americas,Greenland,Export,Fish,Quantidade,48076,54209,63044,69696,46143,53724,59944,60707,46551,39267,45129,44349,68465,139569,170571,142613
+Americas,Greenland,Import,Crustaceans,Quantidade,53,51,139,110,61,60,458,24,49,1443,923,164,62,67,345,610
+Americas,Greenland,Import,Fish,Quantidade,182,214,231,496,1457,330,405,208,333,316,347,525,501,626,378,440
+Americas,Grenada,Export,Crustaceans,Quantidade,3,19,1,11,6,7,6,1,4,5,5,2,4,5,16,7
+Americas,Grenada,Export,Fish,Quantidade,1140,690,623,613,448,490,513,529,432,643,775,699,649,891,1095,750
+Americas,Grenada,Import,Crustaceans,Quantidade,13,12,9,19,16,19,44,49,54,29,15,18,9,12,10,11
+Americas,Grenada,Import,Fish,Quantidade,636,915,909,1002,1048,1030,1047,1179,1031,854,584,566,602,475,612,465
+Americas,Guatemala,Export,Crustaceans,Quantidade,3471,2130,6986,9956,9033,5475,11576,15409,14627,13081,9689,8631,11158,11094,12367,11612
+Americas,Guatemala,Export,Fish,Quantidade,28037,19756,4139,1523,5557,7798,7966,9558,6223,17485,25650,24455,11433,11648,12123,7425
+Americas,Guatemala,Import,Crustaceans,Quantidade,392,363,978,1020,1830,843,1187,2048,1840,2114,2768,3676,2987,4020,7904,7603
+Americas,Guatemala,Import,Fish,Quantidade,3422,4214,8215,6750,14738,24576,19863,20401,10128,17433,21741,17043,26637,23684,24806,18687
+Americas,Guyana,Export,Crustaceans,Quantidade,12523,16261,12278,14981,14091,16843,15210,20842,22700,13152,11946,10478,17982,14514,5678,7500
+Americas,Guyana,Export,Fish,Quantidade,9165,9848,10243,9861,13478,12800,13154,13669,13832,10076,7762,9921,9783,11565,15634,13295
+Americas,Guyana,Import,Crustaceans,Quantidade,0,32,27,25,7,2,0,170,1,1,3,1,3,2,1,8
+Americas,Guyana,Import,Fish,Quantidade,725,606,1231,804,1082,1034,976,1654,543,807,873,1212,1406,1311,1247,1171
+Americas,Haiti,Export,Crustaceans,Quantidade,146,146,177,165,136,155,142,185,168,141,153,235,151,163,133,181
+Americas,Haiti,Export,Fish,Quantidade,278,270,221,160,261,150,136,210,301,400,270,287,224,152,180,174
+Americas,Haiti,Import,Crustaceans,Quantidade,1,0,1,0,18,15,15,16,18,16,29,33,32,25,39,65
+Americas,Haiti,Import,Fish,Quantidade,9045,10990,6652,8827,10408,9409,13518,14468,15055,16372,12467,16882,10194,20134,19291,21578
+Americas,Honduras,Export,Crustaceans,Quantidade,11295,12637,16917,20438,23324,24196,29711,21041,19352,23842,21976,16152,31134,40524,55636,52608
+Americas,Honduras,Export,Fish,Quantidade,1657,2348,4192,3432,5048,8346,8925,9134,9269,6176,3566,5350,8604,12449,12697,12252
+Americas,Honduras,Import,Crustaceans,Quantidade,1111,1076,1028,1183,1287,1065,1199,1436,2614,1374,2290,2514,1986,2265,2044,3226
+Americas,Honduras,Import,Fish,Quantidade,3129,2888,2718,3211,2736,4667,4064,4633,4840,5117,4527,6877,7563,6591,4834,6870
+Americas,Jamaica,Export,Crustaceans,Quantidade,308,919,141,625,1017,917,933,545,733,556,632,803,595,648,397,301
+Americas,Jamaica,Export,Fish,Quantidade,503,433,359,279,224,458,667,564,515,179,251,327,212,154,120,28
+Americas,Jamaica,Import,Crustaceans,Quantidade,368,419,390,371,484,703,703,1081,940,947,1030,891,879,762,827,805
+Americas,Jamaica,Import,Fish,Quantidade,22547,26739,27221,27792,27023,29132,30436,33894,29474,26088,25039,26817,26497,26699,26726,25959
+Americas,Mexico,Export,Crustaceans,Quantidade,44582,46516,31914,31559,34405,32836,41438,46047,41128,49681,27480,38802,33458,25499,26700,36461
+Americas,Mexico,Export,Fish,Quantidade,85860,100328,84029,103368,44141,57328,59050,73163,78879,85988,89038,182106,121025,72711,90922,63089
+Americas,Mexico,Import,Crustaceans,Quantidade,7495,10194,9375,11055,9968,14902,15758,22442,25033,17935,22077,19855,21314,32267,35967,20756
+Americas,Mexico,Import,Fish,Quantidade,47511,63338,46217,60226,99227,94869,132241,153866,145818,110844,149041,156475,160077,166878,193488,217744
+Americas,Montserrat,Import,Crustaceans,Quantidade,0,0,0,1,0,1,1,1,2,2,2,2,3,3,3,4
+Americas,Montserrat,Import,Fish,Quantidade,71,72,73,61,67,66,61,76,62,62,49,48,61,67,59,68
+Americas,Netherlands Antilles,Export,Crustaceans,Quantidade,122,55,0,57,122,40,2,0,0,0,2,0,0,0,0,0
+Americas,Netherlands Antilles,Export,Fish,Quantidade,7201,7793,6588,8155,8845,2157,3110,1990,10200,15519,12800,0,0,0,0,0
+Americas,Netherlands Antilles,Import,Crustaceans,Quantidade,247,123,91,94,130,292,374,316,909,304,393,0,0,0,0,0
+Americas,Netherlands Antilles,Import,Fish,Quantidade,2089,2036,1317,1579,1839,1832,2424,2100,2621,3103,2703,0,0,0,0,0
+Americas,Nicaragua,Export,Crustaceans,Quantidade,9400,4974,6076,9342,12193,13922,12159,14022,15966,16724,17574,16674,28143,31165,33971,31931
+Americas,Nicaragua,Export,Fish,Quantidade,2617,2664,3361,3619,4082,5023,4738,5301,4720,5220,5775,5583,5154,5446,6339,5338
+Americas,Nicaragua,Import,Crustaceans,Quantidade,608,494,369,82,22,12,12,100,194,37,13,431,463,153,143,170
+Americas,Nicaragua,Import,Fish,Quantidade,3065,2571,3373,3167,2699,3714,3712,3744,2552,3281,2907,3961,4836,4733,5090,7419
+Americas,Panama,Export,Crustaceans,Quantidade,7927,10910,8761,9420,9689,10468,9763,10054,6862,7577,7485,5770,6938,9299,11761,11785
+Americas,Panama,Export,Fish,Quantidade,52553,65687,66894,82863,84250,84665,83949,77816,94231,91265,50274,27142,21862,23915,30290,31399
+Americas,Panama,Import,Crustaceans,Quantidade,78,78,134,143,120,106,94,196,264,163,179,295,345,558,802,746
+Americas,Panama,Import,Fish,Quantidade,7527,7522,7772,9793,8005,10249,9478,10050,11052,11315,11778,13129,15634,15715,16559,18463
+Americas,Paraguay,Export,Fish,Quantidade,26,29,44,117,271,320,260,143,89,33,8,5,6,5,6,6
+Americas,Paraguay,Import,Crustaceans,Quantidade,29,15,14,9,11,13,24,15,33,46,42,98,26,103,71,103
+Americas,Paraguay,Import,Fish,Quantidade,653,719,444,380,654,777,582,917,1451,1341,1705,1545,1756,1869,2293,1875
+Americas,Peru,Export,Crustaceans,Quantidade,1133,1816,3020,3505,5276,7207,8614,10450,10854,11799,10670,13226,14071,13898,16082,18724
+Americas,Peru,Export,Fish,Quantidade,77333,93034,46190,46822,48846,41237,97787,107196,106049,89301,56720,139327,132256,92359,85515,67502
+Americas,Peru,Import,Crustaceans,Quantidade,5,36,85,223,247,156,106,71,406,164,403,660,773,1183,1487,3486
+Americas,Peru,Import,Fish,Quantidade,26785,35332,38872,30934,33064,63429,23448,37581,41135,59654,109452,65712,59502,100782,94246,111799
+Americas,Saint Kitts and Nevis,Export,Crustaceans,Quantidade,71,43,3,7,5,0,62,89,101,82,136,164,100,90,90,100
+Americas,Saint Kitts and Nevis,Export,Fish,Quantidade,2,0,0,0,0,0,0,6,6,7,5,4,4,9,6,1
+Americas,Saint Kitts and Nevis,Import,Crustaceans,Quantidade,22,13,18,18,39,36,44,41,86,48,75,48,47,46,44,68
+Americas,Saint Kitts and Nevis,Import,Fish,Quantidade,790,454,736,597,581,521,750,678,684,763,798,636,396,572,550,647
+Americas,Saint Lucia,Export,Crustaceans,Quantidade,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Americas,Saint Lucia,Export,Fish,Quantidade,0,0,13,0,0,0,0,0,25,0,0,0,14,0,0,1
+Americas,Saint Lucia,Import,Crustaceans,Quantidade,62,77,64,104,245,295,139,192,134,102,86,86,98,35,160,118
+Americas,Saint Lucia,Import,Fish,Quantidade,1108,1003,1226,1354,1657,2305,1607,1592,1677,1236,1097,1071,1298,1050,1577,1587
+Americas,Saint Vincent/Grenadines,Export,Crustaceans,Quantidade,47,64,110,41,55,41,20,13,21,31,73,21,21,22,54,48
+Americas,Saint Vincent/Grenadines,Export,Fish,Quantidade,199,74,29,53,18,11,29,33,30,18,21,17,31,28,23,33
+Americas,Saint Vincent/Grenadines,Import,Crustaceans,Quantidade,13,38,27,21,16,17,16,49,44,28,39,16,29,28,26,56
+Americas,Saint Vincent/Grenadines,Import,Fish,Quantidade,402,386,393,448,444,460,456,445,537,428,419,345,419,398,389,502
+Americas,St. Pierre and Miquelon,Export,Crustaceans,Quantidade,18,78,1,1,113,130,165,136,98,120,116,128,325,250,90,45
+Americas,St. Pierre and Miquelon,Export,Fish,Quantidade,1754,1087,1025,894,1036,1255,1328,1656,1637,936,807,475,403,485,398,219
+Americas,St. Pierre and Miquelon,Import,Crustaceans,Quantidade,2,3,2,2,3,1,1,19,1,4,3,4,6,3,3,6
+Americas,St. Pierre and Miquelon,Import,Fish,Quantidade,37,21,82,11,15,4,30,26,19,4,6,25,19,27,26,37
+Americas,Suriname,Export,Crustaceans,Quantidade,7630,8710,6147,6581,6806,5674,5579,5472,4002,5083,3808,3123,3265,3653,3028,2935
+Americas,Suriname,Export,Fish,Quantidade,8595,8484,4511,4623,4797,4531,5388,5756,10554,12154,12002,12599,13715,14543,14194,15409
+Americas,Suriname,Import,Crustaceans,Quantidade,196,20,525,500,18,6,2,2,2,3,5,2,55,180,53,85
+Americas,Suriname,Import,Fish,Quantidade,1683,1533,1558,1912,2207,2451,1639,2217,1357,1763,2098,1321,1752,1942,1962,2208
+Americas,Trinidad and Tobago,Export,Crustaceans,Quantidade,155,234,170,193,140,153,134,83,77,87,48,68,43,33,29,9
+Americas,Trinidad and Tobago,Export,Fish,Quantidade,4204,4856,4892,3810,2948,2910,6357,3844,3763,4250,3439,3788,3562,4008,3773,5423
+Americas,Trinidad and Tobago,Import,Crustaceans,Quantidade,40,68,91,79,205,569,344,464,723,624,734,959,1325,1444,1578,1054
+Americas,Trinidad and Tobago,Import,Fish,Quantidade,3438,5264,8438,6863,8066,12115,8412,8466,7731,8146,7836,9986,11608,13814,11515,12513
+Americas,Turks and Caicos Is.,Export,Crustaceans,Quantidade,100,157,131,121,194,253,266,242,101,96,63,79,87,49,74,84
+Americas,Turks and Caicos Is.,Export,Fish,Quantidade,0,1,0,8,0,13,18,4,6,0,0,0,0,28,41,0
+Americas,Turks and Caicos Is.,Import,Crustaceans,Quantidade,85,128,93,121,117,183,292,382,363,366,231,276,275,173,347,402
+Americas,Turks and Caicos Is.,Import,Fish,Quantidade,195,206,215,211,231,531,853,927,950,1019,686,955,1215,1125,1055,1063
+Americas,United States of America,Export,Crustaceans,Quantidade,67079,60730,66599,67547,56772,59444,57223,57907,62806,58645,68344,87887,96583,91214,100192,100661
+Americas,United States of America,Export,Fish,Quantidade,783804,970365,922380,962389,1132819,1171988,1153878,1153546,1046338,963093,1022960,1245714,1173520,1230275,1235369,1175860
+Americas,United States of America,Import,Crustaceans,Quantidade,476320,553940,590505,672545,693370,709059,777372,752002,736856,723676,733985,731240,704366,696274,757216,773515
+Americas,United States of America,Import,Fish,Quantidade,1074345,1062632,1149612,1240652,1264154,1320874,1348617,1365235,1339658,1354942,1430527,1416432,1474375,1486740,1494973,1516759
+Americas,Uruguay,Export,Crustaceans,Quantidade,2078,1311,1544,2092,1540,1413,1830,1889,1167,1306,1432,976,446,654,685,385
+Americas,Uruguay,Export,Fish,Quantidade,64391,62620,63375,76940,86722,77859,69592,67076,98267,84998,77347,91337,76580,54511,61854,51685
+Americas,Uruguay,Import,Crustaceans,Quantidade,117,147,81,133,61,232,185,345,257,217,264,353,284,383,438,372
+Americas,Uruguay,Import,Fish,Quantidade,6810,10565,10835,13973,14541,13836,20902,28106,32097,33330,35017,28082,25860,22875,19650,14907
+Americas,"Venezuela, Boliv Rep of",Export,Crustaceans,Quantidade,19088,13726,13600,16612,24644,18169,9654,17239,17436,10476,10764,10472,11116,11757,11475,16526
+Americas,"Venezuela, Boliv Rep of",Export,Fish,Quantidade,23958,48715,36089,46066,59336,43894,1708,1886,470,143,205,173,38,14,99,9
+Americas,"Venezuela, Boliv Rep of",Import,Crustaceans,Quantidade,363,399,658,515,635,344,269,296,358,464,1035,665,617,665,434,235
+Americas,"Venezuela, Boliv Rep of",Import,Fish,Quantidade,20525,34642,21520,10308,18080,15545,18057,37224,46311,55130,41524,44182,59508,52962,58064,11175
+Asia,Afghanistan,Import,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Asia,Armenia,Export,Crustaceans,Quantidade,20,5,391,761,804,716,968,797,906,639,898,1346,2087,4618,4009,2786
+Asia,Armenia,Export,Fish,Quantidade,11,97,53,28,68,131,80,70,81,23,432,1313,1844,2269,1733,1649
+Asia,Armenia,Import,Crustaceans,Quantidade,4,0,1,4,0,0,1,0,8,14,14,11,34,47,25,49
+Asia,Armenia,Import,Fish,Quantidade,799,1080,1239,870,833,6729,1791,1739,3436,3798,2595,3658,3539,2946,2604,2578
+Asia,Azerbaijan,Export,Fish,Quantidade,1738,364,59,336,2300,3055,538,856,517,493,246,270,0,32,0,0
+Asia,Azerbaijan,Import,Crustaceans,Quantidade,1,2,6,8,3,15,20,25,26,38,118,193,165,200,278,136
+Asia,Azerbaijan,Import,Fish,Quantidade,2827,2344,3932,4180,5076,6977,7413,7870,10998,11678,12412,13417,14957,17480,10713,7635
+Asia,Bahrain,Export,Crustaceans,Quantidade,3362,4023,4012,3757,5545,4405,3879,4086,4704,4951,4326,6920,6032,6520,5392,5910
+Asia,Bahrain,Export,Fish,Quantidade,1342,1687,2365,2701,2357,1271,2907,2200,2434,3030,1761,1547,2598,1782,1430,3087
+Asia,Bahrain,Import,Crustaceans,Quantidade,159,182,582,309,444,832,777,438,578,1010,610,831,1035,1002,2413,2980
+Asia,Bahrain,Import,Fish,Quantidade,2553,2898,3073,2930,2881,4422,3952,4074,7133,6906,6422,8309,8780,8618,10208,9473
+Asia,Bangladesh,Export,Crustaceans,Quantidade,28813,33583,29712,34510,42096,40900,45364,67817,58062,44030,51864,53827,34207,50194,52680,37730
+Asia,Bangladesh,Export,Fish,Quantidade,9728,7196,7678,6644,8161,15797,14170,19682,26149,20347,26313,32621,18303,19453,16724,15127
+Asia,Bangladesh,Import,Crustaceans,Quantidade,186,41,184,55,569,219,238,141,116,1069,259,557,231,377,363,360
+Asia,Bangladesh,Import,Fish,Quantidade,1680,2518,7517,3057,3627,1876,3544,7744,5473,9796,24229,18136,27692,62470,83591,109796
+Asia,Bhutan,Export,Fish,Quantidade,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+Asia,Bhutan,Import,Crustaceans,Quantidade,0,0,0,0,0,0,1,1,1,36,2,3,14,3,0,1
+Asia,Bhutan,Import,Fish,Quantidade,0,0,0,0,0,1775,2131,2100,1723,1776,1932,2136,2630,2790,2770,2668
+Asia,Brunei Darussalam,Export,Crustaceans,Quantidade,17,43,61,110,273,437,655,512,215,194,198,81,82,220,269,223
+Asia,Brunei Darussalam,Export,Fish,Quantidade,268,105,8,28,6,15,79,35,83,183,335,563,1167,966,1168,1090
+Asia,Brunei Darussalam,Import,Crustaceans,Quantidade,764,1517,860,808,1540,598,1338,601,500,440,470,386,1579,1820,1597,1634
+Asia,Brunei Darussalam,Import,Fish,Quantidade,4367,5189,4339,5432,6631,5945,5638,4965,5167,4493,5377,6035,6948,9045,6766,6520
+Asia,Cambodia,Export,Crustaceans,Quantidade,684,840,399,391,5202,3593,829,273,173,167,306,347,289,221,192,137
+Asia,Cambodia,Export,Fish,Quantidade,42685,37184,51980,55904,40335,48383,29092,23768,24767,29829,34440,29616,30689,31772,31492,32287
+Asia,Cambodia,Import,Crustaceans,Quantidade,1,2,1,0,51,3898,392,14,15,15,173,63,58,94,312,144
+Asia,Cambodia,Import,Fish,Quantidade,3162,1069,1241,2137,2978,2745,3307,2703,2093,4382,2926,3815,2773,1363,10211,6315
+Asia,China,Export,Crustaceans,Quantidade,142393,166994,198285,272915,323157,324760,389068,363523,331750,327930,623141,527895,381593,378423,345563,297373
+Asia,China,Export,Fish,Quantidade,1028335,1366368,1348747,1346943,1550707,1699608,2001687,2068960,2038431,2041639,2302025,2755111,2678625,2760685,2881463,2780461
+Asia,China,Import,Crustaceans,Quantidade,80582,84824,92419,104819,98834,95749,99835,93864,84754,90456,117506,120209,128311,144566,153482,176069
+Asia,China,Import,Fish,Quantidade,921631,1018412,1032095,1126992,1390275,1629824,1768799,1857213,1851089,1841380,2063526,2216891,2030365,2193973,2231108,2027055
+Asia,"China, Hong Kong SAR",Export,Crustaceans,Quantidade,621,265,188,129,118,53,92,40,46,73,30,106,81,46,32,60
+Asia,"China, Hong Kong SAR",Export,Fish,Quantidade,47870,43603,44178,39378,39554,38237,37350,33878,34196,35149,35338,37017,33935,37153,35496,32120
+Asia,"China, Hong Kong SAR",Import,Crustaceans,Quantidade,60379,55255,56103,50440,46965,48863,58895,59123,56240,66791,69572,68999,80279,81470,80062,72788
+Asia,"China, Hong Kong SAR",Import,Fish,Quantidade,180241,215780,218301,221014,227962,218042,226935,216257,193906,198639,243380,242602,252392,271959,277795,294298
+Asia,"China, Macao SAR",Export,Crustaceans,Quantidade,301,280,261,193,183,89,24,20,19,27,0,0,0,0,0,0
+Asia,"China, Macao SAR",Export,Fish,Quantidade,11,0,0,0,75,71,130,77,105,473,0,0,0,0,0,0
+Asia,"China, Macao SAR",Import,Crustaceans,Quantidade,1190,1794,2410,3164,2834,2448,2720,3125,3146,3210,3374,3315,3440,3657,4283,5111
+Asia,"China, Macao SAR",Import,Fish,Quantidade,8833,9843,10501,14021,12944,13024,14213,13935,13607,13991,14163,14355,14345,13965,15989,16061
+Asia,Cyprus,Export,Crustaceans,Quantidade,37,79,60,14,6,24,1,1,0,0,0,0,0,8,0,24
+Asia,Cyprus,Export,Fish,Quantidade,687,666,657,574,2490,2988,2700,2562,2646,2166,2686,3303,3107,4339,3541,4549
+Asia,Cyprus,Import,Crustaceans,Quantidade,484,680,438,540,695,882,1044,1236,1438,1390,1485,1519,1440,1182,1354,1317
+Asia,Cyprus,Import,Fish,Quantidade,5354,5959,5866,6941,11031,11813,9598,11538,11716,8049,8436,8562,7963,8207,8303,8281
+Asia,Georgia,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,2,8,0,1
+Asia,Georgia,Export,Fish,Quantidade,831,2971,342,7781,3263,16303,6235,7035,14054,20533,21830,8245,1293,1666,4314,12232
+Asia,Georgia,Import,Crustaceans,Quantidade,0,1,0,0,53,73,55,46,89,25,26,63,54,58,60,90
+Asia,Georgia,Import,Fish,Quantidade,2794,2668,3516,5036,9186,14767,18625,20818,25068,18703,20687,21345,20899,23003,21227,21253
+Asia,India,Export,Crustaceans,Quantidade,140974,150921,188470,201931,204923,215902,200538,165851,157489,163593,200236,272344,289388,300071,368553,400376
+Asia,India,Export,Fish,Quantidade,307428,246443,261302,142982,185636,238141,311644,235070,195742,363979,399212,481879,482228,444938,449256,366673
+Asia,India,Import,Crustaceans,Quantidade,114,300,823,629,741,1286,862,1188,1355,1205,882,1336,1108,731,851,1405
+Asia,India,Import,Fish,Quantidade,3770,4292,2448,3064,4782,9542,9179,11659,11917,9940,19186,25246,18861,16238,21861,23586
+Asia,Indonesia,Export,Crustaceans,Quantidade,128567,140485,135990,149675,160351,170169,185184,176259,189323,166755,163981,178844,182722,193204,216390,211210
+Asia,Indonesia,Export,Fish,Quantidade,312271,257179,334326,591161,624533,539955,551742,474816,507629,511978,687238,653585,743574,731585,714987,494232
+Asia,Indonesia,Import,Crustaceans,Quantidade,3342,1999,2552,2802,13379,2334,1655,3828,4442,5952,4335,6949,8916,9054,7571,6500
+Asia,Indonesia,Import,Fish,Quantidade,26542,16101,20469,21155,28214,25298,45533,56492,110950,159216,217174,226657,147252,142546,132987,127417
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,Quantidade,1784,769,4576,7529,8129,1044,3255,0,0,4062,2996,4197,9899,11707,11676,13121
+Asia,Iran (Islamic Rep. of),Export,Fish,Quantidade,4987,4284,9109,9794,11045,18854,26543,12491,15355,26756,37164,48921,49197,60030,54638,58120
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,4,16,3,0,0,0,0,0
+Asia,Iran (Islamic Rep. of),Import,Fish,Quantidade,4913,3130,8421,30799,14524,17317,8014,11907,18038,32328,79422,60753,42705,38541,62415,58054
+Asia,Iraq,Export,Fish,Quantidade,104,155,111,110,90,10,104,100,100,100,150,203,230,235,265,120
+Asia,Iraq,Import,Crustaceans,Quantidade,0,0,0,7,5,1,4,9,3,10,2,11,47,123,204,204
+Asia,Iraq,Import,Fish,Quantidade,56,18,128,1850,7800,8797,19178,24257,34162,38536,38494,39922,39649,38682,38012,36983
+Asia,Israel,Export,Fish,Quantidade,291,395,319,333,450,532,664,782,1281,1093,711,223,648,908,686,373
+Asia,Israel,Import,Crustaceans,Quantidade,285,429,378,500,514,631,763,973,1386,1494,1742,2420,1501,1917,2453,2310
+Asia,Israel,Import,Fish,Quantidade,45759,50764,48418,52895,64007,55478,41802,55896,54350,54229,65914,71580,72206,82608,86809,83923
+Asia,Japan,Export,Crustaceans,Quantidade,3671,5691,4712,4384,6317,7180,7103,7937,4477,3960,4330,3135,2591,2490,2967,2958
+Asia,Japan,Export,Fish,Quantidade,171505,219415,231336,289749,347964,400915,532569,540387,437580,419721,479942,341388,343994,444741,365530,417559
+Asia,Japan,Import,Crustaceans,Quantidade,435178,418837,425284,359054,438248,421473,424884,374489,358433,349733,347281,354500,364430,329623,289456,268306
+Asia,Japan,Import,Fish,Quantidade,2125207,2264241,2271741,1953832,2061470,1971499,1766063,1656178,1636757,1508926,1588017,1582772,1596021,1455000,1493485,1536948
+Asia,Jordan,Export,Fish,Quantidade,1158,100,115,128,34,16,2,0,43,0,0,0,2,0,0,0
+Asia,Jordan,Import,Crustaceans,Quantidade,47,66,42,95,167,201,301,353,405,459,512,525,647,530,607,582
+Asia,Jordan,Import,Fish,Quantidade,12386,13596,14316,14822,19251,17255,20970,20349,26874,28135,26629,24227,31871,29364,28383,32383
+Asia,Kazakhstan,Export,Crustaceans,Quantidade,0,1,0,1,5,127,192,643,1173,689,89,628,938,111,57,32
+Asia,Kazakhstan,Export,Fish,Quantidade,17706,21494,25680,30553,30340,32942,32313,34564,35231,37185,24178,20980,22402,19835,21728,23487
+Asia,Kazakhstan,Import,Crustaceans,Quantidade,39,29,40,54,85,181,264,467,492,465,555,663,843,716,921,881
+Asia,Kazakhstan,Import,Fish,Quantidade,37033,33938,33083,33398,32443,41477,43549,55840,63653,57875,54254,55929,55295,54326,43943,42243
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,Quantidade,5459,8564,20184,20565,18941,7524,3595,438,509,1630,1718,1607,1043,1075,2749,4005
+Asia,"Korea, Dem. People's Rep",Export,Fish,Quantidade,8226,4350,6361,9438,21842,19834,18310,11326,10811,9818,12901,10841,9176,9753,12018,13630
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,Quantidade,967,1075,2702,2101,2154,2852,3277,4077,6351,4557,2669,1766,1840,3166,545,463
+Asia,"Korea, Dem. People's Rep",Import,Fish,Quantidade,4665,12471,13721,12469,13694,12604,12309,11340,9809,12856,14196,21230,35069,43096,37773,34698
+Asia,"Korea, Republic of",Export,Crustaceans,Quantidade,4517,5188,9141,10402,7462,10645,18311,15305,16966,15988,14186,19960,12740,9764,9755,10359
+Asia,"Korea, Republic of",Export,Fish,Quantidade,288219,234701,245086,237230,217045,226507,220146,272794,323926,409920,561274,428508,476229,429935,441764,400625
+Asia,"Korea, Republic of",Import,Crustaceans,Quantidade,46393,58895,87014,92641,114890,105970,129457,131839,111389,106184,101268,109669,107320,94630,101776,126751
+Asia,"Korea, Republic of",Import,Fish,Quantidade,544997,813910,890846,924117,899330,877237,941218,969756,765069,781216,823589,892134,834079,807391,860863,891475
+Asia,Kuwait,Export,Crustaceans,Quantidade,510,403,460,315,199,97,254,138,275,204,107,67,50,65,1,71
+Asia,Kuwait,Export,Fish,Quantidade,0,48,27,138,26,41,681,209,300,568,427,245,188,213,6,172
+Asia,Kuwait,Import,Crustaceans,Quantidade,440,359,482,1168,832,853,1441,2117,1853,1887,3274,3669,3367,4077,5416,5896
+Asia,Kuwait,Import,Fish,Quantidade,10509,10128,9563,12987,11484,14245,17169,19911,19124,28794,22094,23110,32143,26109,28995,32801
+Asia,Kyrgyzstan,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,4,14,0,0,0,0,0,0
+Asia,Kyrgyzstan,Export,Fish,Quantidade,52,0,0,0,34,0,11,235,346,156,71,1,0,0,0,29
+Asia,Kyrgyzstan,Import,Crustaceans,Quantidade,2,0,0,5,7,14,22,25,15,63,13,19,23,24,33,3
+Asia,Kyrgyzstan,Import,Fish,Quantidade,3253,2662,3156,4558,4846,5095,6416,8697,8819,7253,7726,8640,9949,10120,11075,7062
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,4
+Asia,Lao People's Dem. Rep.,Export,Fish,Quantidade,3,27,1,19,10,0,1,0,1,2,6,5,0,0,0,2
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,Quantidade,242,183,214,245,22,126,114,27,73,19,18,25,67,101,146,218
+Asia,Lao People's Dem. Rep.,Import,Fish,Quantidade,2251,2646,2185,2555,2554,2619,2263,2518,2380,2243,2519,2986,2967,2892,3581,4622
+Asia,Lebanon,Export,Crustaceans,Quantidade,1,2,2,1,7,2,2,2,8,21,6,16,21,25,9,10
+Asia,Lebanon,Export,Fish,Quantidade,36,35,76,182,128,164,222,424,709,1127,369,442,430,516,656,663
+Asia,Lebanon,Import,Crustaceans,Quantidade,521,764,836,997,1163,1242,1100,1502,1619,2270,2299,2668,2437,1985,2823,2633
+Asia,Lebanon,Import,Fish,Quantidade,12817,17988,14427,15874,19694,18147,20444,20033,20357,23768,25686,24678,24986,27734,29821,27286
+Asia,Malaysia,Export,Crustaceans,Quantidade,19697,26631,45016,30175,66122,72252,65402,74869,75202,69256,87788,87960,69805,58607,58663,46384
+Asia,Malaysia,Export,Fish,Quantidade,36882,40425,65467,59354,105761,109040,109970,135042,134276,121042,125374,133596,123357,115541,106349,131126
+Asia,Malaysia,Import,Crustaceans,Quantidade,21340,29063,62962,37910,54268,46323,35887,38118,26031,36313,44113,49532,56840,45883,53556,37851
+Asia,Malaysia,Import,Fish,Quantidade,282655,304527,369853,329017,248065,326747,365372,361208,320184,324023,321614,271738,309372,365078,354875,317996
+Asia,Maldives,Export,Fish,Quantidade,28796,29224,44625,69545,75416,81292,110581,65813,65122,39813,33934,38795,40711,42605,49434,45409
+Asia,Maldives,Import,Crustaceans,Quantidade,0,125,145,167,203,174,309,391,381,366,448,528,572,664,776,1025
+Asia,Maldives,Import,Fish,Quantidade,0,106,199,95,106,62,129,239,250,206,719,1731,882,980,2164,1470
+Asia,Mongolia,Export,Crustaceans,Quantidade,0,0,0,23,0,0,0,0,0,0,0,0,11,0,0,0
+Asia,Mongolia,Export,Fish,Quantidade,427,150,263,359,172,392,321,135,54,45,176,210,108,34,61,93
+Asia,Mongolia,Import,Crustaceans,Quantidade,0,0,0,0,20,2,0,1,0,10,2,1,6,10,1,4
+Asia,Mongolia,Import,Fish,Quantidade,322,482,383,429,201,331,319,643,798,669,936,1287,1927,1312,1303,843
+Asia,Myanmar,Export,Crustaceans,Quantidade,44399,52321,63416,76963,80847,75721,98015,85862,61493,43316,35221,41080,41762,47338,51044,44343
+Asia,Myanmar,Export,Fish,Quantidade,72210,92302,138251,136036,124616,192808,190056,185056,265965,264511,313894,302202,318797,302364,273666,257910
+Asia,Myanmar,Import,Crustaceans,Quantidade,7,14,25,109,112,106,79,124,517,743,1437,1444,1335,987,1871,3115
+Asia,Myanmar,Import,Fish,Quantidade,372,78,260,681,835,825,994,1314,1556,1953,3250,4468,5598,8268,6628,13472
+Asia,Nepal,Export,Fish,Quantidade,33,25,0,9,41,18,0,0,0,9,0,6,14,8,4,6
+Asia,Nepal,Import,Crustaceans,Quantidade,1,23,15,0,5,15,2,4,9,18,0,0,1,8,8,5
+Asia,Nepal,Import,Fish,Quantidade,181,152,68,296,269,258,621,994,1793,4092,3545,6924,6626,6171,7467,7603
+Asia,Oman,Export,Crustaceans,Quantidade,676,1662,466,408,220,78,66,38,99,145,179,425,113,106,34,206
+Asia,Oman,Export,Fish,Quantidade,35009,27805,46210,47707,77869,53974,47826,35632,51940,62823,84798,61644,64302,83741,76608,96414
+Asia,Oman,Import,Crustaceans,Quantidade,357,664,463,947,756,747,1121,1856,1761,1936,1187,1708,2172,1893,2046,2011
+Asia,Oman,Import,Fish,Quantidade,10722,12137,9182,9340,5346,13475,9503,9939,12932,14021,11975,16721,17982,12854,19597,25463
+Asia,Pakistan,Export,Crustaceans,Quantidade,17602,16552,15191,13011,16094,14088,15077,17123,19707,15870,22709,23317,23480,21417,17966,15872
+Asia,Pakistan,Export,Fish,Quantidade,60766,61028,67485,79994,86887,82497,113235,104807,111575,111495,94632,110847,116239,116502,127653,114365
+Asia,Pakistan,Import,Crustaceans,Quantidade,54,13,14,12,52,65,0,47,1,0,2,0,7,22,20,55
+Asia,Pakistan,Import,Fish,Quantidade,38,46,72,354,1003,1434,1850,2206,1589,1375,1096,1688,2378,4208,4290,8587
+Asia,"Palestine, Occupied Tr.",Export,Fish,Quantidade,0,0,0,0,0,0,0,102,50,59,19,96,42,85,0,119
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,Quantidade,0,0,0,0,0,0,0,5,2,0,1,2,29,13,8,28
+Asia,"Palestine, Occupied Tr.",Import,Fish,Quantidade,0,0,0,0,0,0,0,3792,4234,3578,3605,4207,2273,4098,4521,4678
+Asia,Philippines,Export,Crustaceans,Quantidade,26589,27864,23743,25584,21046,18247,18930,16554,13509,15455,17015,23610,20372,20807,29062,24069
+Asia,Philippines,Export,Fish,Quantidade,118524,89455,94384,110284,106038,72425,90297,109778,145843,143817,147472,148415,183549,243682,202581,172880
+Asia,Philippines,Import,Crustaceans,Quantidade,204,323,1766,2525,1870,1494,1661,2214,2100,1859,2098,2453,3048,2879,4106,2926
+Asia,Philippines,Import,Fish,Quantidade,140733,75800,127138,89107,69700,114057,108728,124458,130598,203724,147612,163654,217887,205973,239202,310653
+Asia,Qatar,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,37,21,20,0,0,7
+Asia,Qatar,Export,Fish,Quantidade,1509,2187,2269,2260,2319,4962,3143,2496,2450,3246,5749,3860,1579,2001,1753,1632
+Asia,Qatar,Import,Crustaceans,Quantidade,176,156,431,479,488,923,1019,1725,2818,3064,4330,2700,2443,2276,2656,4257
+Asia,Qatar,Import,Fish,Quantidade,2806,3610,3528,2290,3814,6449,8740,9879,15392,18587,18888,21520,28349,26594,28715,30833
+Asia,Saudi Arabia,Export,Crustaceans,Quantidade,573,660,1127,6292,4098,6302,6329,8346,9349,10507,19278,12175,8768,4900,9526,13215
+Asia,Saudi Arabia,Export,Fish,Quantidade,1705,1633,1718,2781,4837,7754,8188,8640,10281,12638,13863,19505,16561,19056,24152,20687
+Asia,Saudi Arabia,Import,Crustaceans,Quantidade,3897,4642,6964,2821,3227,3845,5430,5723,3813,3759,7965,9760,13864,12602,14061,13466
+Asia,Saudi Arabia,Import,Fish,Quantidade,66611,79387,77490,83949,112109,125311,138360,138658,102889,108671,181828,187781,211546,209848,216349,212109
+Asia,Singapore,Export,Crustaceans,Quantidade,10522,9473,7581,5576,11086,6765,5783,3704,3477,3981,3636,3485,4032,4570,3822,3973
+Asia,Singapore,Export,Fish,Quantidade,84415,70952,56077,57964,60796,69396,68849,60540,53890,45794,50120,41268,38925,32139,24083,30522
+Asia,Singapore,Import,Crustaceans,Quantidade,20311,18453,19661,27644,34329,32292,32412,32333,32217,33389,33344,33685,33655,35951,39675,34208
+Asia,Singapore,Import,Fish,Quantidade,127029,119562,122503,150568,156938,168130,170125,163477,157420,153234,152268,152803,148246,137345,135621,139075
+Asia,Sri Lanka,Export,Crustaceans,Quantidade,5705,4861,4963,6566,4377,3876,3537,3363,2386,3614,3293,3722,2757,3835,4225,3285
+Asia,Sri Lanka,Export,Fish,Quantidade,13202,10052,8589,8653,9325,12189,17111,17320,16802,15146,14430,13967,14257,18157,19865,12915
+Asia,Sri Lanka,Import,Crustaceans,Quantidade,586,524,385,321,1238,464,430,177,639,345,394,537,618,622,991,941
+Asia,Sri Lanka,Import,Fish,Quantidade,79886,76079,74139,74863,65991,76026,77115,86321,75499,74280,81528,82496,70158,77083,77145,117756
+Asia,Syrian Arab Republic,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,9,0,4,5,4,2,0
+Asia,Syrian Arab Republic,Export,Fish,Quantidade,27,2,69,0,1,73,92,216,32,118,71,81,29,21,10,41
+Asia,Syrian Arab Republic,Import,Crustaceans,Quantidade,3,1,0,10,0,30,26,52,164,94,163,120,82,68,33,15
+Asia,Syrian Arab Republic,Import,Fish,Quantidade,7850,6236,12115,12813,14732,13129,21810,23476,20970,31441,28780,31137,21999,22215,23630,13904
+Asia,Taiwan Province of China,Export,Crustaceans,Quantidade,2626,2382,6629,4349,2413,2062,1613,1261,1455,1336,1485,1812,1376,1685,2710,2639
+Asia,Taiwan Province of China,Export,Fish,Quantidade,599330,618046,682606,658306,635379,657175,596999,661244,559637,634118,642328,630685,663220,676758,649656,628021
+Asia,Taiwan Province of China,Import,Crustaceans,Quantidade,32517,25544,23229,18333,16870,15804,14666,22777,44592,42778,49273,46590,45622,49759,44956,47427
+Asia,Taiwan Province of China,Import,Fish,Quantidade,84256,68754,77551,78223,69290,70546,62986,77655,115956,148996,159752,160241,177035,154317,161765,169382
+Asia,Tajikistan,Import,Crustaceans,Quantidade,0,0,0,0,0,4,6,2,5,7,16,15,6,5,4,14
+Asia,Tajikistan,Import,Fish,Quantidade,75,189,344,576,568,500,1139,1108,1414,1012,941,1670,1866,1712,2175,1855
+Asia,Thailand,Export,Crustaceans,Quantidade,269759,275811,229898,254021,259351,304147,366130,376491,375146,402260,441147,405898,361394,220766,175697,179340
+Asia,Thailand,Export,Fish,Quantidade,752920,838377,885382,1023426,1000520,1092188,1153738,1197463,1217032,1171639,1187153,1167410,1225595,1147571,1194308,1105444
+Asia,Thailand,Import,Crustaceans,Quantidade,28603,35443,42745,40225,35907,36402,30978,26057,29095,25756,26648,34959,31649,30104,30528,33942
+Asia,Thailand,Import,Fish,Quantidade,601743,737435,860776,958328,1116726,1304910,1336473,1298110,1417375,1449270,1446704,1509539,1496811,1462148,1397654,1338007
+Asia,Timor-Leste,Export,Crustaceans,Quantidade,0,0,0,0,0,0,24,10,27,29,24,26,25,25,15,15
+Asia,Timor-Leste,Export,Fish,Quantidade,0,0,0,0,0,1,0,0,0,0,0,0,2,12,0,21
+Asia,Timor-Leste,Import,Crustaceans,Quantidade,0,0,0,0,2,0,0,2,1,43,87,63,42,21,47,12
+Asia,Timor-Leste,Import,Fish,Quantidade,0,0,0,0,96,98,105,137,209,527,1153,1729,2252,2250,2801,2653
+Asia,Turkey,Export,Crustaceans,Quantidade,3885,3850,4840,5148,4946,4583,3320,2963,2656,1880,1853,1684,1278,1199,1206,1427
+Asia,Turkey,Export,Fish,Quantidade,25292,17746,21016,22715,28027,34531,36305,42249,49889,50266,50849,62855,71188,93082,107951,113548
+Asia,Turkey,Import,Crustaceans,Quantidade,120,14,79,151,426,948,731,819,1025,892,1670,1808,1407,1282,2315,1913
+Asia,Turkey,Import,Fish,Quantidade,42345,12056,20235,40028,55385,44186,50969,56446,58679,69425,75516,59959,59225,61669,70458,103098
+Asia,Turkmenistan,Export,Crustaceans,Quantidade,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Turkmenistan,Export,Fish,Quantidade,2222,790,592,114,520,142,94,71,78,0,0,0,0,0,0,0
+Asia,Turkmenistan,Import,Crustaceans,Quantidade,1,0,0,1,0,0,1,0,8,1,1,2,2,8,48,15
+Asia,Turkmenistan,Import,Fish,Quantidade,20,119,139,367,395,659,527,632,917,1080,2118,1530,2363,2257,2391,2603
+Asia,United Arab Emirates,Export,Crustaceans,Quantidade,490,600,2006,1899,2128,6557,7645,6525,5436,5109,5438,8724,6375,5791,7013,7532
+Asia,United Arab Emirates,Export,Fish,Quantidade,12599,16692,2631,4922,6551,8717,12297,6437,7480,10746,13621,17865,7546,11304,9265,9927
+Asia,United Arab Emirates,Import,Crustaceans,Quantidade,13020,16460,15685,12135,11089,8066,11290,19762,19733,21816,23458,23716,32130,32966,43111,36477
+Asia,United Arab Emirates,Import,Fish,Quantidade,27802,33655,33751,58137,50960,40990,44018,62831,79109,108797,131528,99248,133583,171461,173914,188892
+Asia,Uzbekistan,Export,Fish,Quantidade,0,65,124,48,48,613,621,1081,819,663,1119,613,107,18,21,10
+Asia,Uzbekistan,Import,Crustaceans,Quantidade,1,1,25,0,1,2,0,2,21,1,14,17,17,32,32,26
+Asia,Uzbekistan,Import,Fish,Quantidade,453,992,881,922,1575,2002,1415,2109,3833,1524,3526,5205,6501,6607,7928,7077
+Asia,Viet Nam,Export,Crustaceans,Quantidade,87770,150943,205575,215873,216837,241106,251302,254770,254147,251244,332929,374375,266319,369407,467079,370663
+Asia,Viet Nam,Export,Fish,Quantidade,143094,179271,237076,196643,237978,278514,455686,455221,614080,436985,629029,728324,857604,876308,914401,934163
+Asia,Viet Nam,Import,Crustaceans,Quantidade,3430,4170,9533,10808,15175,11349,9306,9205,13051,9163,10087,24998,20421,29022,57769,52492
+Asia,Viet Nam,Import,Fish,Quantidade,1474,2739,5800,15659,24782,48252,64922,88854,95708,80967,112962,166042,176656,161166,186340,205067
+Asia,Yemen,Export,Crustaceans,Quantidade,784,778,1160,1306,3328,2694,5032,859,1027,936,765,556,1122,1167,1365,878
+Asia,Yemen,Export,Fish,Quantidade,18698,37019,50067,53050,45266,65213,77101,88600,97621,84019,101021,102562,95793,93116,75374,47141
+Asia,Yemen,Import,Crustaceans,Quantidade,0,0,3,52,22,66,31,457,41,50,14,29,83,41,42,53
+Asia,Yemen,Import,Fish,Quantidade,3725,3867,3096,4282,3563,6079,9773,8239,11249,9568,14751,13065,18053,15208,13665,10406
+Europe,Albania,Export,Crustaceans,Quantidade,10,59,6,8,1,0,10,3,0,122,70,107,88,14,91,189
+Europe,Albania,Export,Fish,Quantidade,1534,1795,1971,2561,2693,511,547,300,360,3156,3528,3031,3929,4881,4575,5749
+Europe,Albania,Import,Crustaceans,Quantidade,9,5,5,8,5,33,151,146,202,180,315,482,432,407,595,635
+Europe,Albania,Import,Fish,Quantidade,4498,5377,6720,7352,7807,7740,7946,7944,8509,9156,7972,8640,7439,8101,8014,9990
+Europe,Andorra,Export,Crustaceans,Quantidade,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Europe,Andorra,Export,Fish,Quantidade,0,0,0,0,0,8,0,0,0,2,0,2,1,0,0,5
+Europe,Andorra,Import,Crustaceans,Quantidade,332,251,200,190,182,173,181,194,239,206,194,185,171,161,171,378
+Europe,Andorra,Import,Fish,Quantidade,1722,1870,1927,1890,2022,2080,2020,1996,1686,1607,1626,1668,1649,1671,1673,1584
+Europe,Austria,Export,Crustaceans,Quantidade,11,19,8,20,15,16,186,250,344,328,246,603,795,695,430,472
+Europe,Austria,Export,Fish,Quantidade,4311,3062,5673,8240,10740,4158,2821,3964,4749,5445,6674,8401,10083,10029,8981,8787
+Europe,Austria,Import,Crustaceans,Quantidade,1767,1988,1747,2196,3393,4464,3801,4160,4102,5101,4963,4887,5130,4814,5345,5594
+Europe,Austria,Import,Fish,Quantidade,39814,44228,44874,50707,55150,54011,53492,61022,58835,55833,56676,62169,64231,67072,65798,65420
+Europe,Belarus,Export,Crustaceans,Quantidade,522,188,166,301,254,376,339,338,287,751,1176,1876,2163,1813,1633,1483
+Europe,Belarus,Export,Fish,Quantidade,13475,10873,9461,13818,17036,20912,28132,33863,38229,22120,24988,30525,36246,49596,57816,54642
+Europe,Belarus,Import,Crustaceans,Quantidade,1637,616,648,937,1149,1472,1319,1570,1719,2115,3306,3687,3630,3933,3549,2058
+Europe,Belarus,Import,Fish,Quantidade,84179,109113,122330,119605,127768,131849,132597,138024,147239,136158,130910,115490,130596,153123,165338,156394
+Europe,Belgium,Export,Crustaceans,Quantidade,25085,26579,31115,41583,45665,50430,60880,62740,65817,56486,56768,61614,50231,48743,47086,43418
+Europe,Belgium,Export,Fish,Quantidade,61262,75119,73841,84568,86087,83886,90379,82996,87734,78778,80807,73537,72052,74608,81322,87561
+Europe,Belgium,Import,Crustaceans,Quantidade,39965,39868,46761,61680,64652,69668,80857,83687,87091,72444,75543,83064,67983,61641,64644,57351
+Europe,Belgium,Import,Fish,Quantidade,139166,148293,146200,163373,166367,165149,172489,167494,178871,165483,168544,165379,163273,166697,181640,179707
+Europe,Bosnia and Herzegovina,Export,Crustaceans,Quantidade,16,10,0,0,3,5,5,2,2,0,0,0,1,2,3,2
+Europe,Bosnia and Herzegovina,Export,Fish,Quantidade,60,35,155,468,2313,2375,2795,2488,2776,3033,3146,2981,2332,1976,1673,2105
+Europe,Bosnia and Herzegovina,Import,Crustaceans,Quantidade,46,42,169,19,43,52,40,45,64,46,42,42,43,40,55,67
+Europe,Bosnia and Herzegovina,Import,Fish,Quantidade,4479,5972,6360,8149,12406,13206,11027,11361,11728,11378,10869,9746,9241,9543,10623,10309
+Europe,Bulgaria,Export,Crustaceans,Quantidade,0,0,0,0,0,1,0,28,4,11,143,1058,1293,1047,1194,1414
+Europe,Bulgaria,Export,Fish,Quantidade,1783,2054,2916,2985,2979,1800,2175,2499,3228,4184,6398,5366,6028,6748,5390,6184
+Europe,Bulgaria,Import,Crustaceans,Quantidade,74,64,47,112,119,172,225,315,461,418,415,494,435,1032,1740,2499
+Europe,Bulgaria,Import,Fish,Quantidade,16554,18244,17451,22830,23221,24219,29198,22122,29266,28980,27666,26177,26780,28436,27373,29178
+Europe,Croatia,Export,Crustaceans,Quantidade,138,123,147,149,185,160,170,150,153,124,119,110,123,162,257,282
+Europe,Croatia,Export,Fish,Quantidade,17117,20148,20959,21524,21971,22719,27792,28969,27570,30901,32407,36980,31118,32239,44289,49485
+Europe,Croatia,Import,Crustaceans,Quantidade,363,492,463,578,626,673,720,926,1067,892,1150,1113,1435,1194,1312,1435
+Europe,Croatia,Import,Fish,Quantidade,20877,35866,49591,50578,31329,46080,43408,37628,43631,34645,31548,27220,22703,20202,19247,22274
+Europe,Czechia,Export,Crustaceans,Quantidade,35,59,32,51,26,37,40,102,58,84,74,96,165,355,298,150
+Europe,Czechia,Export,Fish,Quantidade,12130,13312,12787,13374,14780,16916,18801,19646,18549,21523,23205,24221,24663,24269,26342,28196
+Europe,Czechia,Import,Crustaceans,Quantidade,277,318,349,456,444,492,511,740,795,926,844,1011,1204,1577,2409,2036
+Europe,Czechia,Import,Fish,Quantidade,49473,49342,47427,49194,54739,57518,56431,60166,62863,60766,59579,57780,55986,56604,59397,62569
+Europe,Denmark,Export,Crustaceans,Quantidade,108531,101313,116350,126947,164205,173056,178423,148301,136458,127694,126480,106894,103671,108059,103413,89902
+Europe,Denmark,Export,Fish,Quantidade,637646,650058,649867,662694,661030,572849,550500,549724,585764,596224,593963,553339,588827,651031,676476,678250
+Europe,Denmark,Import,Crustaceans,Quantidade,99965,99130,111644,122891,143353,154888,162764,137534,120639,112614,107576,99923,96233,97985,96809,84819
+Europe,Denmark,Import,Fish,Quantidade,578474,580996,569124,586158,572902,546761,537693,531771,533654,554290,526485,508371,490286,552690,546460,572690
+Europe,Estonia,Export,Crustaceans,Quantidade,9812,1571,1735,2834,2382,3489,7258,9302,9291,7993,15527,12894,10299,6987,5037,4421
+Europe,Estonia,Export,Fish,Quantidade,86655,153377,137614,121656,93981,123390,110943,104266,113022,111809,114965,105848,110503,103665,98934,93380
+Europe,Estonia,Import,Crustaceans,Quantidade,641,662,945,1889,1926,2710,4395,7256,4891,3739,5057,4314,2420,2586,2848,1773
+Europe,Estonia,Import,Fish,Quantidade,50429,60684,55435,52442,34958,34674,31046,38225,47966,36051,33119,37642,57412,55453,51605,42974
+Europe,Faroe Islands,Export,Crustaceans,Quantidade,9216,14515,10808,9871,5954,4690,5188,6842,9230,8597,6914,6178,5479,2997,4772,4236
+Europe,Faroe Islands,Export,Fish,Quantidade,149818,195159,210749,192765,162454,172224,167338,207937,195085,236238,259319,280249,286859,311955,312230,319717
+Europe,Faroe Islands,Import,Crustaceans,Quantidade,94,255,267,32,1538,27,67,71,45,41,49,51,45,42,40,270
+Europe,Faroe Islands,Import,Fish,Quantidade,6767,3456,5775,1765,3075,4215,2241,1453,1955,826,1292,1416,6943,8255,10862,20161
+Europe,Finland,Export,Crustaceans,Quantidade,27,14,29,32,37,8,15,7,4,22,37,204,7,18,13,6
+Europe,Finland,Export,Fish,Quantidade,15851,15770,13528,10359,18789,24636,26130,37998,41647,41916,42963,47415,53123,52890,55877,46283
+Europe,Finland,Import,Crustaceans,Quantidade,2593,2973,2639,2859,2922,2835,3139,3500,3319,3500,4101,4109,4135,3823,3462,3036
+Europe,Finland,Import,Fish,Quantidade,33228,38630,40150,46105,52755,47015,52393,61249,61329,61723,64678,72229,73242,72276,73909,69958
+Europe,France,Export,Crustaceans,Quantidade,16833,16919,14588,19782,21655,23378,22632,23953,19823,18855,20720,16822,17211,18190,18299,18653
+Europe,France,Export,Fish,Quantidade,332238,303427,275985,340487,374640,288301,282566,261631,293192,225498,207341,199544,232969,216691,188570,206038
+Europe,France,Import,Crustaceans,Quantidade,104052,111858,119147,131915,140925,139788,140350,142710,139884,144655,152046,143950,143489,138733,138051,138074
+Europe,France,Import,Fish,Quantidade,631373,679123,679278,688189,728864,736996,745955,730988,731542,747165,757451,766235,751651,763382,755692,758046
+Europe,Germany,Export,Crustaceans,Quantidade,19660,12789,16674,20105,22374,19683,23948,25958,21102,20629,25437,29652,29234,29189,27642,27409
+Europe,Germany,Export,Fish,Quantidade,387165,426217,433098,410514,459957,460729,476489,609588,623013,536188,623057,579577,621491,662234,690688,698517
+Europe,Germany,Import,Crustaceans,Quantidade,33784,34332,29214,33324,36874,43560,47208,57479,55899,62870,68501,67212,65980,59731,63245,59296
+Europe,Germany,Import,Fish,Quantidade,700552,727511,716161,708348,702242,742415,775840,797007,816553,786247,810232,860237,833014,815619,866836,850488
+Europe,Greece,Export,Crustaceans,Quantidade,509,681,755,738,2705,1842,3406,2510,1620,2495,2137,2434,1614,2476,2671,3289
+Europe,Greece,Export,Fish,Quantidade,57284,61048,53442,65650,68402,69073,84895,111048,99575,106194,117585,100752,110396,108821,96368,97038
+Europe,Greece,Import,Crustaceans,Quantidade,3111,4222,4340,4819,5261,5115,6140,7392,6807,7932,7827,7067,6625,6644,6907,6436
+Europe,Greece,Import,Fish,Quantidade,68318,64449,52842,58466,63935,63924,68369,72209,71203,66158,67076,60588,57546,54625,60744,56818
+Europe,Hungary,Export,Crustaceans,Quantidade,0,0,0,0,0,3,0,0,0,0,4,8,14,33,17,23
+Europe,Hungary,Export,Fish,Quantidade,3274,3055,2226,2539,1716,4162,1046,852,502,514,2127,3624,3648,3899,4470,6391
+Europe,Hungary,Import,Crustaceans,Quantidade,153,178,174,217,142,166,183,163,270,333,365,452,547,492,481,477
+Europe,Hungary,Import,Fish,Quantidade,13860,14485,15735,16798,15805,18915,15959,14557,17671,16350,17449,17897,16437,17499,19542,22036
+Europe,Iceland,Export,Crustaceans,Quantidade,24900,28260,31899,32200,31292,23434,20742,16372,29705,24745,16339,13693,11413,10165,10581,10510
+Europe,Iceland,Export,Fish,Quantidade,291409,310407,337200,355163,429650,453442,442061,411182,432772,416948,464392,484944,528384,562256,497004,409810
+Europe,Iceland,Import,Crustaceans,Quantidade,34780,37563,41813,43227,53270,46101,38425,35963,30839,24886,29968,22492,14941,11464,15318,24498
+Europe,Iceland,Import,Fish,Quantidade,7845,6160,10091,8580,5282,15004,9803,12452,17909,8245,17137,16580,9718,9281,34271,41143
+Europe,Ireland,Export,Crustaceans,Quantidade,12350,13413,14269,14394,13611,13083,12653,16608,13155,12488,13443,13289,15421,13849,16605,17070
+Europe,Ireland,Export,Fish,Quantidade,162282,238391,246271,199306,186047,131333,97661,113872,127225,136851,180781,138304,244302,203872,224499,212755
+Europe,Ireland,Import,Crustaceans,Quantidade,6099,5937,3904,3893,4851,5724,5464,6979,5117,6906,8614,7495,7204,7010,7858,7980
+Europe,Ireland,Import,Fish,Quantidade,18247,28367,59206,22607,20264,23353,26533,32295,29198,40589,64846,41184,95916,63182,58865,58690
+Europe,Italy,Export,Crustaceans,Quantidade,4352,4105,4991,3530,3795,3901,4491,3997,3989,4035,4710,4515,4106,4286,3818,3724
+Europe,Italy,Export,Fish,Quantidade,91943,84371,84556,80885,87107,94245,102842,97072,90627,93995,91557,82793,78489,85965,90553,97567
+Europe,Italy,Import,Crustaceans,Quantidade,68923,78126,69906,77411,81221,87078,97941,100596,93662,95874,101542,101877,90206,89153,96107,94551
+Europe,Italy,Import,Fish,Quantidade,431315,458071,464906,491978,505386,519616,533903,542402,535893,550377,561883,573963,557518,563107,599726,613830
+Europe,Latvia,Export,Crustaceans,Quantidade,9,3,5,67,228,207,440,477,357,85,223,395,596,532,603,631
+Europe,Latvia,Export,Fish,Quantidade,91873,124366,115932,105299,104204,106247,112441,112367,120255,100836,106822,104181,113605,120705,106981,95269
+Europe,Latvia,Import,Crustaceans,Quantidade,158,251,290,509,793,729,1251,1546,1249,608,892,1216,1709,2217,1644,1696
+Europe,Latvia,Import,Fish,Quantidade,30790,38838,33977,29583,25211,30135,35142,42290,51743,43455,49336,60007,60424,65364,72063,62698
+Europe,Lithuania,Export,Crustaceans,Quantidade,2,28,65,54,117,201,184,404,316,240,292,287,297,358,394,532
+Europe,Lithuania,Export,Fish,Quantidade,28964,56028,63410,78592,72230,92400,86813,100217,91044,102700,89027,90743,91680,102401,114455,111189
+Europe,Lithuania,Import,Crustaceans,Quantidade,162,242,503,530,523,1361,766,1247,1245,821,903,889,949,1090,1240,1394
+Europe,Lithuania,Import,Fish,Quantidade,59331,78408,71115,74713,72190,90363,79931,90563,95461,98657,102849,99427,108509,120548,136571,129317
+Europe,Luxembourg,Export,Crustaceans,Quantidade,1139,1272,574,477,561,284,74,289,282,211,274,240,189,163,191,150
+Europe,Luxembourg,Export,Fish,Quantidade,4886,2903,2402,2029,1461,1137,773,468,751,1027,1406,1252,1056,1034,1001,1142
+Europe,Luxembourg,Import,Crustaceans,Quantidade,1999,1972,1060,2130,1505,1150,1152,1298,1246,1313,1707,1740,1833,1614,1616,1580
+Europe,Luxembourg,Import,Fish,Quantidade,9743,7684,7367,6287,6113,5805,5815,5650,5730,6025,6816,7182,7983,7912,8286,12748
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,2,3,8,7,8,6
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,Quantidade,41,23,9,59,59,61,28,195,296,378,300,291,117,127,151,113
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,Quantidade,23,19,17,16,17,29,28,28,53,36,33,35,31,26,44,37
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,Quantidade,4921,4620,6129,5953,6865,5909,7299,7752,7174,6951,6560,7120,6242,6598,7504,8047
+Europe,Malta,Export,Crustaceans,Quantidade,0,0,5,8,0,1,0,6,19,0,1,0,1,1,0,1
+Europe,Malta,Export,Fish,Quantidade,1992,2267,3145,3306,1470,1376,4353,3160,4609,2423,7290,4442,5999,8371,8487,11104
+Europe,Malta,Import,Crustaceans,Quantidade,332,325,360,1204,362,803,409,342,276,334,287,263,300,297,298,283
+Europe,Malta,Import,Fish,Quantidade,5119,13731,11794,21105,22665,11956,10024,21631,21575,16810,7411,11674,18734,22670,24534,28441
+Europe,"Moldova, Republic of",Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+Europe,"Moldova, Republic of",Export,Fish,Quantidade,3,19,114,0,0,12,0,0,0,0,0,0,0,0,0,0
+Europe,"Moldova, Republic of",Import,Crustaceans,Quantidade,7,9,20,30,61,94,135,178,258,192,264,322,339,230,255,184
+Europe,"Moldova, Republic of",Import,Fish,Quantidade,12597,20009,19295,19263,24341,28549,27119,26070,33679,27794,26963,24897,26051,28698,27742,22318
+Europe,Montenegro,Export,Crustaceans,Quantidade,0,0,0,0,0,0,7,0,4,5,0,0,0,0,0,0
+Europe,Montenegro,Export,Fish,Quantidade,0,0,0,0,0,0,267,236,31,236,118,31,2,2,9,1
+Europe,Montenegro,Import,Crustaceans,Quantidade,0,0,0,0,0,0,68,105,114,105,108,137,148,160,146,163
+Europe,Montenegro,Import,Fish,Quantidade,0,0,0,0,0,0,1986,2587,2395,2545,2507,2411,2252,2533,2405,2564
+Europe,Netherlands,Export,Crustaceans,Quantidade,61826,57488,62025,72618,75798,81355,84101,88591,80804,98377,98874,100505,87377,70086,80472,85505
+Europe,Netherlands,Export,Fish,Quantidade,545276,587869,630742,711154,844680,905132,792928,762286,669438,613811,687119,618264,711251,704249,903758,893194
+Europe,Netherlands,Import,Crustaceans,Quantidade,43996,46737,53606,81764,57148,60056,60285,62432,72630,87568,84998,84119,79031,67180,87075,82438
+Europe,Netherlands,Import,Fish,Quantidade,472942,479252,487651,537815,522265,632767,652650,688323,591964,676503,777613,685007,767331,706527,779698,700996
+Europe,Norway,Export,Crustaceans,Quantidade,44687,36133,34458,33504,32218,36746,32614,19917,26962,18510,18813,17938,13299,23749,30965,33804
+Europe,Norway,Export,Fish,Quantidade,1769324,1689923,1687569,1671594,1590320,1634014,1611695,1866600,2017941,2334702,2441416,2255818,2373215,2300316,2476603,2356433
+Europe,Norway,Import,Crustaceans,Quantidade,29387,20493,20638,15869,28528,21298,13979,22999,20809,20349,21184,20841,21394,21082,19072,19520
+Europe,Norway,Import,Fish,Quantidade,379505,344638,285949,177275,176348,120819,134949,156223,147773,196966,142680,178394,183327,158249,221227,201101
+Europe,Poland,Export,Crustaceans,Quantidade,14426,9189,9552,7284,7643,6031,7698,7724,2634,7105,6415,4607,2004,2137,2148,1703
+Europe,Poland,Export,Fish,Quantidade,135024,154421,147062,147462,169244,176356,181648,197627,209205,238556,291041,312616,273263,285609,283801,301615
+Europe,Poland,Import,Crustaceans,Quantidade,4596,4009,4158,5132,7087,5978,6788,6829,6218,6125,7313,6613,7255,7442,8113,8448
+Europe,Poland,Import,Fish,Quantidade,266751,253039,215338,228793,282191,288182,325130,350638,387836,393659,435099,428735,438688,470554,499711,498029
+Europe,Portugal,Export,Crustaceans,Quantidade,5417,4351,3445,3617,2656,4289,3894,5080,7667,7564,8046,9839,12881,10436,11555,13638
+Europe,Portugal,Export,Fish,Quantidade,79075,78436,82597,87183,102670,98155,112276,118732,112796,106476,127353,140546,172622,194074,199328,198746
+Europe,Portugal,Import,Crustaceans,Quantidade,14743,16868,17966,18562,20015,23168,24206,25657,26912,31353,33767,29913,32001,27845,34277,33850
+Europe,Portugal,Import,Fish,Quantidade,253057,262929,269531,274076,278665,285664,314355,327432,296211,306509,292306,300207,338421,369927,365710,363555
+Europe,Romania,Export,Crustaceans,Quantidade,3,0,5,0,3,2,3,19,16,19,9,35,31,2,10,19
+Europe,Romania,Export,Fish,Quantidade,112,24,118,38,378,189,69,350,624,2824,2965,5010,4308,4405,3413,3872
+Europe,Romania,Import,Crustaceans,Quantidade,763,589,290,102,196,289,315,504,706,552,609,699,841,902,819,1108
+Europe,Romania,Import,Fish,Quantidade,34811,43516,50042,59446,66262,79185,79590,73568,86654,88132,83728,65590,71327,71813,82685,89187
+Europe,Russian Federation,Export,Crustaceans,Quantidade,52242,44150,40305,37342,29368,29112,27964,33497,31538,30336,34320,38339,35634,37774,53634,55233
+Europe,Russian Federation,Export,Fish,Quantidade,1119706,1157093,1176822,1170756,1183614,1318849,1315462,1276910,1327950,1342309,1597138,1713603,1662334,1848868,1654901,1727337
+Europe,Russian Federation,Import,Crustaceans,Quantidade,8236,14559,22323,31800,36587,47359,48325,71041,69875,55691,65845,63923,59395,68622,55993,25498
+Europe,Russian Federation,Import,Fish,Quantidade,459862,593962,579383,671860,778066,903688,800941,985869,998153,878905,899374,828420,873306,916176,791276,502925
+Europe,Serbia,Export,Crustaceans,Quantidade,0,0,0,0,0,0,1,0,1,3,0,0,0,0,0,1
+Europe,Serbia,Export,Fish,Quantidade,0,0,0,0,0,0,350,414,467,475,544,443,490,666,1061,1136
+Europe,Serbia,Import,Crustaceans,Quantidade,0,0,0,0,0,0,85,114,148,98,117,136,124,129,179,123
+Europe,Serbia,Import,Fish,Quantidade,0,0,0,0,0,0,27679,33944,33299,26653,23865,32935,32428,26631,29940,24724
+Europe,Serbia and Montenegro,Export,Crustaceans,Quantidade,21,17,0,7,1,0,0,0,0,0,0,0,0,0,0,0
+Europe,Serbia and Montenegro,Export,Fish,Quantidade,119,180,159,81,217,205,0,0,0,0,0,0,0,0,0,0
+Europe,Serbia and Montenegro,Import,Crustaceans,Quantidade,22,39,44,40,82,91,0,0,0,0,0,0,0,0,0,0
+Europe,Serbia and Montenegro,Import,Fish,Quantidade,10129,18988,23849,18315,30294,27124,0,0,0,0,0,0,0,0,0,0
+Europe,Slovakia,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,3,6,20,16,12,17,32,11,21
+Europe,Slovakia,Export,Fish,Quantidade,669,531,758,903,1523,1502,2313,1389,1333,1058,1450,2181,1660,1804,2130,1864
+Europe,Slovakia,Import,Crustaceans,Quantidade,50,27,51,75,82,348,630,1117,808,449,512,413,313,400,150,149
+Europe,Slovakia,Import,Fish,Quantidade,21585,20085,21762,20790,21205,20644,24169,21117,22454,21355,24308,23473,21628,24396,25039,27528
+Europe,Slovenia,Export,Crustaceans,Quantidade,10,9,4,16,20,17,32,86,48,55,32,56,48,36,70,68
+Europe,Slovenia,Export,Fish,Quantidade,2067,2081,2018,2052,2572,6545,3906,2898,3834,4002,4660,4322,3350,3980,4867,4850
+Europe,Slovenia,Import,Crustaceans,Quantidade,374,338,350,357,405,430,486,593,636,601,571,538,512,495,557,551
+Europe,Slovenia,Import,Fish,Quantidade,6731,7515,7999,8861,10245,13676,12431,10987,11963,12337,13352,12998,11637,12048,13084,13307
+Europe,Spain,Export,Crustaceans,Quantidade,17012,21390,28621,25602,25830,21030,25539,35452,27811,35683,36312,44754,41963,42273,39676,45948
+Europe,Spain,Export,Fish,Quantidade,591265,683892,583437,641545,646342,707838,683553,688820,708689,772201,775086,806489,747947,698055,800267,758771
+Europe,Spain,Import,Crustaceans,Quantidade,142341,156708,155731,174634,176785,188989,215943,218095,206204,196401,207015,213800,184810,179429,186623,193619
+Europe,Spain,Import,Fish,Quantidade,744496,860104,852893,953337,873584,870978,907342,947684,875031,933319,960381,958528,869937,869366,951333,979813
+Europe,Sweden,Export,Crustaceans,Quantidade,4040,3539,4281,4366,5032,4608,3681,4438,4235,3593,4460,4040,3495,3572,4055,2871
+Europe,Sweden,Export,Fish,Quantidade,254857,256377,255623,272257,312599,350017,426016,426368,458130,521772,571566,566575,629913,661474,695091,793065
+Europe,Sweden,Import,Crustaceans,Quantidade,25754,27407,26302,29839,32010,34531,32892,35077,32565,33877,36976,35775,36012,38584,37083,33554
+Europe,Sweden,Import,Fish,Quantidade,166410,178191,191502,237843,280332,316524,351770,413577,446178,474950,511076,546657,627994,646730,692965,764660
+Europe,Switzerland,Export,Crustaceans,Quantidade,23,8,16,10,12,10,5,10,71,86,29,45,52,67,12,11
+Europe,Switzerland,Export,Fish,Quantidade,79,82,122,148,169,179,188,210,176,245,283,261,318,500,659,473
+Europe,Switzerland,Import,Crustaceans,Quantidade,6046,6430,5031,5883,6469,6625,7663,8639,8613,8827,9428,10201,9142,9415,9643,8721
+Europe,Switzerland,Import,Fish,Quantidade,44903,46129,44831,45030,45954,45418,48577,48960,50747,52996,53270,53278,52745,57246,55503,57290
+Europe,Ukraine,Export,Crustaceans,Quantidade,259,6448,186,592,872,567,498,726,382,157,107,131,29,76,116,211
+Europe,Ukraine,Export,Fish,Quantidade,83452,50157,37794,31029,16320,19723,20411,24222,23521,59993,55869,48623,55451,51073,39349,8196
+Europe,Ukraine,Import,Crustaceans,Quantidade,1610,318,643,1450,1518,4082,9174,14387,14519,7852,8337,10182,9310,9252,5328,1006
+Europe,Ukraine,Import,Fish,Quantidade,232907,317739,295542,287564,296447,406307,382972,442048,549432,432584,345123,371921,407367,443498,330122,222846
+Europe,United Kingdom,Export,Crustaceans,Quantidade,58887,61469,65250,67720,66835,65357,65508,66424,56734,57438,60769,52953,51800,54479,51472,46091
+Europe,United Kingdom,Export,Fish,Quantidade,550326,567946,505910,543167,538108,546144,490971,512391,487417,565143,602204,527257,590690,573220,710251,637823
+Europe,United Kingdom,Import,Crustaceans,Quantidade,83566,87693,91298,96255,95630,98910,99024,97125,90322,95218,94654,98073,94166,99357,90935,84698
+Europe,United Kingdom,Import,Fish,Quantidade,453551,522982,513740,514375,546892,587591,642607,623825,641575,598380,590119,594704,635871,612203,584623,552023
+Oceania,Australia,Export,Crustaceans,Quantidade,29353,28925,24458,24004,25430,23858,20850,16082,16667,14340,14396,13159,11776,13941,16596,15527
+Oceania,Australia,Export,Fish,Quantidade,29558,32528,33459,29571,26403,26100,24380,23644,23162,24818,22341,22196,18916,17698,20663,31456
+Oceania,Australia,Import,Crustaceans,Quantidade,15943,18574,18457,24757,28040,31343,35451,33645,28739,33435,35934,36635,40657,38909,40263,34964
+Oceania,Australia,Import,Fish,Quantidade,101337,109051,112850,125541,151767,125529,130210,135254,140530,131452,144639,143955,152873,162312,162793,154433
+Oceania,Cook Islands,Export,Fish,Quantidade,14,6,631,771,464,1265,740,900,500,400,1300,1100,1774,1056,1203,1378
+Oceania,Cook Islands,Import,Crustaceans,Quantidade,4,5,3,3,2,6,6,10,24,25,30,34,23,27,19,21
+Oceania,Cook Islands,Import,Fish,Quantidade,135,52,23,194,49,151,93,152,99,95,129,79,117,110,270,292
+Oceania,Fiji,Export,Crustaceans,Quantidade,8,20,8,8,1,16,2,0,0,0,5,58,3,1,2,1
+Oceania,Fiji,Export,Fish,Quantidade,10424,13120,15091,17530,19452,21187,23961,28892,36823,31993,43782,36216,6973,19150,20555,20499
+Oceania,Fiji,Import,Crustaceans,Quantidade,41,165,112,126,177,183,163,198,157,155,242,160,241,256,197,311
+Oceania,Fiji,Import,Fish,Quantidade,8865,16129,19515,35085,37262,33738,23523,23710,24446,22607,37943,71989,80106,63903,121406,67013
+Oceania,French Polynesia,Export,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+Oceania,French Polynesia,Export,Fish,Quantidade,1751,2801,1919,1211,770,586,634,857,442,793,943,912,1556,1230,1473,1776
+Oceania,French Polynesia,Import,Crustaceans,Quantidade,388,379,473,606,579,712,729,848,719,806,758,393,428,330,438,296
+Oceania,French Polynesia,Import,Fish,Quantidade,1526,1575,1500,1574,1604,1974,1543,1762,1877,1784,1696,1935,2120,1876,1937,1756
+Oceania,Kiribati,Export,Crustaceans,Quantidade,2,5,7,5,1,16,6,0,0,0,0,15,0,0,0,0
+Oceania,Kiribati,Export,Fish,Quantidade,7552,3511,4900,4111,4531,5864,5076,12241,12598,23550,26819,42298,54432,60870,98079,101862
+Oceania,Kiribati,Import,Crustaceans,Quantidade,22,0,0,2,0,0,3,4,0,0,0,0,4,0,2,1
+Oceania,Kiribati,Import,Fish,Quantidade,372,189,301,550,303,598,349,307,285,549,462,687,241,141,220,177
+Oceania,Marshall Islands,Export,Crustaceans,Quantidade,0,0,22,0,0,0,0,5,0,1,1,3,4,3,15,1
+Oceania,Marshall Islands,Export,Fish,Quantidade,3989,11130,16476,14985,21620,25528,15170,20366,25489,36006,40122,53219,54561,57739,61576,56096
+Oceania,Marshall Islands,Import,Crustaceans,Quantidade,1,2,3,2,18,0,0,0,0,0,100,1,2,10,10,4
+Oceania,Marshall Islands,Import,Fish,Quantidade,119,101,186,247,339,267,392,410,447,716,1301,1150,2897,1688,2702,1407
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,Quantidade,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,Quantidade,17398,14290,16975,25431,23227,23233,8667,12933,16481,16694,19350,22428,30331,19721,30934,43697
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,Quantidade,7,2,0,0,16,4,0,1,1,1,0,2,0,4,0,6
+Oceania,"Micronesia, Fed.States of",Import,Fish,Quantidade,1011,1412,1136,1571,1506,1170,928,933,1064,1046,1613,2097,3160,2618,2315,2390
+Oceania,New Caledonia,Export,Crustaceans,Quantidade,1253,1755,1411,1284,1516,1712,1789,1307,1297,1079,746,708,817,868,959,642
+Oceania,New Caledonia,Export,Fish,Quantidade,967,1140,1102,1650,1124,1181,631,665,735,961,1139,861,809,805,655,611
+Oceania,New Caledonia,Import,Crustaceans,Quantidade,35,34,26,29,27,46,34,52,61,38,38,43,33,29,28,23
+Oceania,New Caledonia,Import,Fish,Quantidade,1095,1432,1134,1354,1255,1309,1407,1479,1822,1416,1602,1529,1674,1541,1387,1249
+Oceania,New Zealand,Export,Crustaceans,Quantidade,3852,3043,3043,2923,2575,3143,3263,3089,3126,2981,4110,3473,4260,4260,3412,3501
+Oceania,New Zealand,Export,Fish,Quantidade,199170,196943,211210,196075,198071,194841,192943,190425,175139,185387,222276,201195,225498,223584,211958,213938
+Oceania,New Zealand,Import,Crustaceans,Quantidade,2202,1766,2261,2352,2788,3773,3983,4980,4336,3736,5589,5067,6987,5886,5243,4999
+Oceania,New Zealand,Import,Fish,Quantidade,13658,13931,12989,12523,13182,15708,16276,18764,20411,19385,25897,22694,23110,21183,21108,21316
+Oceania,Palau,Export,Fish,Quantidade,58,74,40,17,14,109,221,292,151,124,212,102,90,106,159,135
+Oceania,Palau,Import,Crustaceans,Quantidade,2,4,2,0,11,1,33,53,35,36,48,59,60,59,98,97
+Oceania,Palau,Import,Fish,Quantidade,62,86,109,100,107,110,187,341,371,346,257,261,279,323,276,413
+Oceania,Papua New Guinea,Export,Crustaceans,Quantidade,1012,1151,739,811,478,689,450,521,474,239,460,360,192,164,448,611
+Oceania,Papua New Guinea,Export,Fish,Quantidade,27462,37058,43133,58373,39598,36751,52804,59480,49821,45974,59265,59205,60372,55019,51649,61669
+Oceania,Papua New Guinea,Import,Crustaceans,Quantidade,1,183,25,6,9,3,4,4,5,17,9,10,31,79,25,69
+Oceania,Papua New Guinea,Import,Fish,Quantidade,8538,7025,10763,12244,13716,14183,14496,19067,17837,18411,15803,10461,12845,16463,19461,26099
+Oceania,Samoa,Export,Crustaceans,Quantidade,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+Oceania,Samoa,Export,Fish,Quantidade,2154,1538,1573,874,1959,1191,1769,2711,3713,3364,4097,1455,2397,3184,1364,5462
+Oceania,Samoa,Import,Crustaceans,Quantidade,0,11,11,41,47,39,124,107,116,59,79,29,34,90,176,158
+Oceania,Samoa,Import,Fish,Quantidade,7674,4451,4310,5545,3325,2165,2761,3283,4478,3445,4253,2999,3974,2769,3524,4634
+Oceania,Solomon Islands,Export,Crustaceans,Quantidade,3,4,0,1,0,1,1,4,6,3,2,0,0,0,0,0
+Oceania,Solomon Islands,Export,Fish,Quantidade,13567,12521,12199,20721,17487,13929,21373,13793,12144,13851,14255,16096,22254,21647,34012,25024
+Oceania,Solomon Islands,Import,Crustaceans,Quantidade,16,1,2,1,6,3,20,13,0,0,0,6,9,9,25,14
+Oceania,Solomon Islands,Import,Fish,Quantidade,101,334,587,213,508,475,1300,1778,1204,1024,1488,851,721,1464,802,521
+Oceania,Tonga,Export,Crustaceans,Quantidade,131,0,36,12,23,0,1,0,2,0,9,0,0,0,0,0
+Oceania,Tonga,Export,Fish,Quantidade,993,346,2550,2363,826,746,1036,1004,434,224,366,480,634,517,878,618
+Oceania,Tonga,Import,Crustaceans,Quantidade,39,23,15,19,15,19,16,24,61,66,52,64,40,62,58,22
+Oceania,Tonga,Import,Fish,Quantidade,628,837,800,858,1041,873,620,1126,774,1087,699,805,431,716,675,640
+Oceania,Tuvalu,Export,Crustaceans,Quantidade,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oceania,Tuvalu,Export,Fish,Quantidade,100,100,395,640,1501,1640,1980,2320,2674,2970,8812,4879,5308,9687,5325,4337
+Oceania,Tuvalu,Import,Crustaceans,Quantidade,0,0,0,0,0,0,0,0,1,0,2,3,1,0,1,2
+Oceania,Tuvalu,Import,Fish,Quantidade,5,0,19,12,36,36,16,29,44,21,74,62,10,41,10,99
+Oceania,Vanuatu,Export,Crustaceans,Quantidade,2,1,0,1,0,0,0,0,0,0,1,1,0,5,1,0
+Oceania,Vanuatu,Export,Fish,Quantidade,54825,27281,34308,44786,63509,79032,69305,71873,48308,48011,39282,29967,33386,31546,34682,34011
+Oceania,Vanuatu,Import,Crustaceans,Quantidade,10,3,3,2,6,5,6,17,17,28,32,51,16,55,55,15
+Oceania,Vanuatu,Import,Fish,Quantidade,978,457,513,1253,864,972,1371,1461,1735,1687,1699,2489,2160,2512,2284,3103
+Africa,Algeria,Export,Crustaceans,valor,3591,4052,4415,4850,7089,9167,8867,8786,8074,5335,3584,4049,2771,2277,2849,2278
+Africa,Algeria,Export,Fish,valor,382,585,983,859,530,903,1677,1754,3154,2209,1357,443,1039,1755,1558,1486
+Africa,Algeria,Import,Crustaceans,valor,71,44,471,498,903,1178,796,1291,1407,2918,3135,4286,5138,6713,8239,7124
+Africa,Algeria,Import,Fish,valor,11990,13600,8206,15345,21798,19350,28950,25414,28891,49736,46003,52055,56841,81094,124682,99293
+Africa,Angola,Export,Crustaceans,valor,3425,4070,9755,2166,2347,9951,11648,7420,7876,7694,10559,6184,12125,14692,14774,16421
+Africa,Angola,Export,Fish,valor,4291,8007,6632,1937,1676,1522,6054,12913,25207,32468,28617,25652,44525,49679,49149,46693
+Africa,Angola,Import,Crustaceans,valor,95,156,399,287,277,718,889,1491,1127,3715,3030,4802,10197,5768,10838,5032
+Africa,Angola,Import,Fish,valor,16180,17751,17674,19950,31703,32338,59713,67985,121561,111642,119547,198178,331732,248574,306945,218737
+Africa,Benin,Export,Crustaceans,valor,1446,2337,3098,1862,627,945,1003,50,0,13,0,132,26,3,0,0
+Africa,Benin,Export,Fish,valor,21,13,15,30,25,0,141,334,33,79,1342,1130,347,373,919,243
+Africa,Benin,Import,Crustaceans,valor,11,3,42,1,0,163,228,0,1,0,1,8,28,13,14,1
+Africa,Benin,Import,Fish,valor,8577,4760,7872,10184,11235,15930,18794,24294,31851,27482,27322,32312,35186,38847,54557,61056
+Africa,Botswana,Export,Crustaceans,valor,8,8,1,5,6,0,0,6,3,8,3,0,0,0,0,46
+Africa,Botswana,Export,Fish,valor,26,53,64,44,26,80,42,10,19,271,131,192,458,504,215,631
+Africa,Botswana,Import,Crustaceans,valor,1197,725,320,225,207,87,137,192,135,170,163,326,85,126,242,292
+Africa,Botswana,Import,Fish,valor,8580,3410,3578,6309,6895,6821,6037,6732,8094,8987,12842,10765,13082,11426,13644,10879
+Africa,Burkina Faso,Export,Fish,valor,2,11,0,0,0,224,450,801,1159,1025,654,625,756,650,626,838
+Africa,Burkina Faso,Import,Crustaceans,valor,23,12,7,14,21,36,24,159,41,102,204,139,110,141,100,36
+Africa,Burkina Faso,Import,Fish,valor,1328,686,742,1124,1851,3816,4826,5594,6418,8606,8441,9536,10344,10414,11353,11071
+Africa,Burundi,Export,Fish,valor,132,183,163,137,162,173,214,228,207,226,184,217,180,320,324,215
+Africa,Burundi,Import,Crustaceans,valor,0,0,0,3,2,0,3,9,4,7,9,6,10,8,1,2
+Africa,Burundi,Import,Fish,valor,51,97,87,67,54,35,122,31,29,149,412,1241,2199,2469,2022,1712
+Africa,Cabo Verde,Export,Crustaceans,valor,243,4,332,403,766,388,464,385,22,431,438,903,1079,1262,262,159
+Africa,Cabo Verde,Export,Fish,valor,595,294,169,90,477,6771,10595,6624,8038,25013,36594,55147,43398,56967,67706,56636
+Africa,Cabo Verde,Import,Crustaceans,valor,35,37,42,92,97,168,217,282,433,316,315,561,530,721,816,605
+Africa,Cabo Verde,Import,Fish,valor,207,500,336,391,385,447,732,981,1789,1907,1404,2148,2381,2853,2644,2236
+Africa,Cameroon,Export,Crustaceans,valor,862,220,100,198,1,4,1,1,2,10,4,5,5,5,22,1
+Africa,Cameroon,Export,Fish,valor,76,145,29,113,50,97,896,1389,1355,2180,2855,1257,2404,2148,2582,1966
+Africa,Cameroon,Import,Crustaceans,valor,14,9,11,38,29,24,47,45,196,385,381,537,229,348,338,339
+Africa,Cameroon,Import,Fish,valor,27343,28552,23284,37269,44712,63251,76641,125716,176346,240923,185702,319592,247287,299051,303518,292535
+Africa,Central African Republic,Export,Fish,valor,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Africa,Central African Republic,Import,Crustaceans,valor,2,0,0,4,0,3,0,0,0,2,0,0,0,4,27,48
+Africa,Central African Republic,Import,Fish,valor,215,259,352,1069,1091,1079,1317,1750,1999,2956,4033,3104,3020,2605,5677,7201
+Africa,Chad,Export,Fish,valor,2,0,1,0,0,9,0,263,35,30,49,43,45,53,54,49
+Africa,Chad,Import,Crustaceans,valor,1,0,8,18,45,43,54,89,16,22,78,18,4,56,128,88
+Africa,Chad,Import,Fish,valor,4,71,753,1104,169,142,624,419,259,579,746,687,1114,1085,1589,652
+Africa,Comoros,Export,Crustaceans,valor,0,0,0,2,1,0,0,0,2,0,0,0,0,0,0,0
+Africa,Comoros,Export,Fish,valor,0,0,1,2,0,0,0,0,1,0,0,0,1,0,0,0
+Africa,Comoros,Import,Crustaceans,valor,21,9,0,0,0,0,0,0,0,0,1,0,1,1,10,11
+Africa,Comoros,Import,Fish,valor,314,425,229,623,859,709,728,463,1744,890,1167,535,1104,862,1352,1052
+Africa,Congo,Export,Crustaceans,valor,71,735,2144,3292,4331,46,2515,99,23,0,0,0,0,409,303,260
+Africa,Congo,Export,Fish,valor,2090,627,694,1012,809,1233,551,490,1040,918,893,831,415,313,566,676
+Africa,Congo,Import,Crustaceans,valor,0,9,0,0,23,10,17,43,44,356,120,499,792,270,236,201
+Africa,Congo,Import,Fish,valor,20567,24605,12263,9893,18013,10716,16298,11685,29936,20701,16727,33357,38380,64928,84103,70646
+Africa,"Congo, Dem. Rep. of the",Export,Crustaceans,valor,1,0,10,10,36,0,5,1,0,75,67,0,0,0,0,0
+Africa,"Congo, Dem. Rep. of the",Export,Fish,valor,585,334,316,423,410,419,388,401,390,514,650,700,767,787,1111,839
+Africa,"Congo, Dem. Rep. of the",Import,Crustaceans,valor,0,10,19,38,769,141,146,67,115,170,818,495,346,708,698,177
+Africa,"Congo, Dem. Rep. of the",Import,Fish,valor,26204,35629,38537,38584,44622,54291,62300,84939,93466,80694,111902,143916,141845,144325,159749,147421
+Africa,Côte d'Ivoire,Export,Crustaceans,valor,3309,3193,1439,1080,1031,519,791,527,1042,2588,897,700,110,581,919,258
+Africa,Côte d'Ivoire,Export,Fish,valor,124805,103672,138328,138587,157691,101906,123491,170228,195813,166000,101553,76061,114024,109672,93099,142987
+Africa,Côte d'Ivoire,Import,Crustaceans,valor,731,1041,1695,1429,2463,1433,1866,2763,3354,3683,3414,2113,2453,3260,2491,1446
+Africa,Côte d'Ivoire,Import,Fish,valor,131289,149112,178499,199603,186650,202213,228228,274757,391996,356475,254224,309381,323071,361120,392535,389841
+Africa,Djibouti,Export,Crustaceans,valor,0,0,0,0,0,0,0,4,0,0,0,0,0,2,0,0
+Africa,Djibouti,Export,Fish,valor,18,73,64,88,3,11,94,4,0,2,28,6,2,4,1,3
+Africa,Djibouti,Import,Crustaceans,valor,43,20,15,22,15,158,31,47,269,384,54,63,69,36,215,199
+Africa,Djibouti,Import,Fish,valor,1436,882,606,612,1379,1103,2231,1934,2007,2384,1321,2201,2740,4772,2749,5057
+Africa,Egypt,Export,Crustaceans,valor,51,9,3,17,14,3,14,116,16,148,205,72,329,1405,2933,2957
+Africa,Egypt,Export,Fish,valor,911,794,1393,2181,2770,3222,2677,3664,9210,12307,12524,18134,15599,21997,28895,26686
+Africa,Egypt,Import,Crustaceans,valor,227,1244,729,320,2097,5337,10386,23695,45994,69350,70562,75676,118208,65583,84882,85184
+Africa,Egypt,Import,Fish,valor,134667,132230,92734,102314,122199,129395,150312,187276,313987,384549,407352,433562,597066,504884,628767,638461
+Africa,Equatorial Guinea,Export,Crustaceans,valor,0,0,2,20,75,27,0,0,0,0,0,0,0,0,0,0
+Africa,Equatorial Guinea,Export,Fish,valor,1588,596,49,88,94,19,73,80,63,80,26,38,57,46,44,46
+Africa,Equatorial Guinea,Import,Crustaceans,valor,2,3,63,130,133,90,266,342,354,323,659,944,887,864,1163,901
+Africa,Equatorial Guinea,Import,Fish,valor,2626,5036,4626,8874,12215,11224,15810,17012,15615,25120,18302,21918,30494,28037,25201,17072
+Africa,Eritrea,Export,Crustaceans,valor,572,163,380,9,340,0,6,248,110,0,0,0,124,3,0,0
+Africa,Eritrea,Export,Fish,valor,1530,686,451,1533,148,45,73,201,248,160,12,7,66,0,0,0
+Africa,Eritrea,Import,Crustaceans,valor,0,34,29,3,12,22,15,3,0,15,10,13,0,6,0,7
+Africa,Eritrea,Import,Fish,valor,117,204,276,819,368,166,467,228,315,84,229,32,278,131,208,52
+Africa,Ethiopia,Export,Fish,valor,13,16,49,51,14,4,296,597,394,263,446,424,476,406,486,524
+Africa,Ethiopia,Import,Crustaceans,valor,0,0,0,0,3,5,5,20,90,145,135,184,200,686,288,158
+Africa,Ethiopia,Import,Fish,valor,101,39,420,551,274,489,1002,751,1569,898,1088,1395,1898,2739,3464,3386
+Africa,Gabon,Export,Crustaceans,valor,11305,8994,8821,9105,16989,21986,13526,12169,4380,432,137,0,491,12,6,0
+Africa,Gabon,Export,Fish,valor,1279,731,1675,691,2382,2298,2324,2633,3036,1708,1470,1639,2569,2716,3003,3314
+Africa,Gabon,Import,Crustaceans,valor,63,14,28,54,36,66,44,126,209,218,188,198,530,617,955,437
+Africa,Gabon,Import,Fish,valor,9670,10429,1611,7386,9724,11062,12919,13391,17056,19064,21381,33020,37421,40412,59053,53318
+Africa,Gambia,Export,Crustaceans,valor,1935,696,232,92,73,439,55,416,30,14,55,0,34,36,93,37
+Africa,Gambia,Export,Fish,valor,1353,584,737,201,206,463,260,2438,2198,5041,6429,2833,2230,1517,1745,1183
+Africa,Gambia,Import,Crustaceans,valor,18,405,12,0,9,11,0,0,13,0,0,8,3,1,117,180
+Africa,Gambia,Import,Fish,valor,471,683,433,278,475,344,556,845,787,775,1477,748,429,373,224,389
+Africa,Ghana,Export,Crustaceans,valor,935,947,528,1088,276,824,1217,2069,620,89,21,680,19,390,521,164
+Africa,Ghana,Export,Fish,valor,76795,82431,75355,119106,92478,95718,49484,57427,43394,53653,54758,55492,61451,59695,59279,70468
+Africa,Ghana,Import,Crustaceans,valor,3,4,32,189,105,193,130,333,134,259,60,627,308,217,374,190
+Africa,Ghana,Import,Fish,valor,82848,90611,120384,55746,116504,180676,121129,163987,121274,115997,141579,266918,232386,360111,253611,255438
+Africa,Guinea,Export,Crustaceans,valor,675,588,365,799,120,22,11,0,0,998,509,455,456,200,49,5
+Africa,Guinea,Export,Fish,valor,4103,4040,2469,3600,6767,9960,7004,4583,5482,6049,6933,7039,8256,7822,13263,10585
+Africa,Guinea,Import,Crustaceans,valor,2,4,1,0,0,0,0,0,0,6,1,7,19,13,11,2
+Africa,Guinea,Import,Fish,valor,291,1164,862,1408,514,613,314,606,917,1591,1901,1995,2520,2458,2161,1982
+Africa,Guinea-Bissau,Export,Crustaceans,valor,204,443,553,748,362,480,234,0,0,0,0,0,1,0,0,0
+Africa,Guinea-Bissau,Export,Fish,valor,1876,1990,3240,1784,2487,3021,2986,2883,2232,2059,3438,2681,2229,3102,3960,4748
+Africa,Guinea-Bissau,Import,Crustaceans,valor,0,0,0,0,0,0,64,79,0,0,0,0,0,3,6,3
+Africa,Guinea-Bissau,Import,Fish,valor,283,155,138,229,282,404,321,1373,1684,1456,708,1246,1210,1263,918,774
+Africa,Kenya,Export,Crustaceans,valor,1268,2411,1327,3961,2808,2464,2297,1131,1626,295,339,625,285,460,1229,818
+Africa,Kenya,Export,Fish,valor,36839,46283,53599,50950,48472,56596,51539,58776,71672,55001,61135,50666,59811,37098,44789,30232
+Africa,Kenya,Import,Crustaceans,valor,11,16,103,105,57,30,14,4,0,59,43,168,450,663,732,722
+Africa,Kenya,Import,Fish,valor,4096,4851,2194,2596,3819,5891,5979,8313,5790,6325,7530,11258,11398,14427,20885,18718
+Africa,Lesotho,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+Africa,Lesotho,Export,Fish,valor,0,1,12,8,9,0,0,0,56,370,685,614,488,722,2017,2660
+Africa,Lesotho,Import,Crustaceans,valor,32,15,22,85,6,0,0,0,62,183,466,251,110,34,68,14
+Africa,Lesotho,Import,Fish,valor,7752,2176,3634,4035,2594,1979,1957,1975,2525,3742,3384,6255,5919,5469,10628,8898
+Africa,Liberia,Export,Crustaceans,valor,0,38,0,140,216,22,46,13,3,0,0,0,39,0,4,0
+Africa,Liberia,Export,Fish,valor,49,43,80,38,167,369,593,617,639,996,1199,693,601,541,417,436
+Africa,Liberia,Import,Crustaceans,valor,223,13,103,8,34,92,71,160,156,171,91,56,93,105,445,278
+Africa,Liberia,Import,Fish,valor,2531,2201,1298,2197,2122,3014,3816,2757,5965,3373,5301,6260,9899,11581,16697,11966
+Africa,Libya,Export,Crustaceans,valor,0,0,1,0,0,0,1,0,0,85,12,0,0,0,1,0
+Africa,Libya,Export,Fish,valor,11786,7479,10543,10470,11802,14371,7646,8987,7581,5428,6457,3988,8959,9979,14023,16875
+Africa,Libya,Import,Crustaceans,valor,39,49,73,93,148,82,39,10,0,351,810,412,519,1330,1651,796
+Africa,Libya,Import,Fish,valor,8990,9214,9583,6715,7254,19700,33047,33119,35009,38973,69837,80637,144123,147188,157974,141533
+Africa,Madagascar,Export,Crustaceans,valor,13150,91700,117708,39179,29726,102822,109595,133589,118274,84028,66991,103974,66427,76753,98855,66410
+Africa,Madagascar,Export,Fish,valor,21292,32858,31532,44766,41393,25103,47121,46675,36164,25848,41277,48849,41346,47991,53683,41873
+Africa,Madagascar,Import,Crustaceans,valor,24,310,3,2,1,4685,966,1350,995,9,127,2331,398,172,10,131
+Africa,Madagascar,Import,Fish,valor,6632,8293,13641,16512,13623,12918,30973,55444,24870,17570,25936,38793,31811,39280,31729,20096
+Africa,Malawi,Export,Fish,valor,143,61,122,560,733,354,1554,259,294,198,276,451,270,254,156,136
+Africa,Malawi,Import,Crustaceans,valor,0,7,4,5,1,1,1,0,0,2,17,7,20,65,96,164
+Africa,Malawi,Import,Fish,valor,515,278,240,703,522,331,1061,991,1218,2027,1298,1377,967,1772,2471,2283
+Africa,Mali,Export,Fish,valor,416,251,200,92,115,62,281,926,130,165,84,249,60,102,204,68
+Africa,Mali,Import,Crustaceans,valor,26,16,11,49,37,38,12,4,9,41,111,7,130,63,369,766
+Africa,Mali,Import,Fish,valor,1698,1131,649,2366,3424,5217,6478,6832,7786,9601,11538,11042,11247,13008,24304,19592
+Africa,Mauritania,Export,Crustaceans,valor,3400,5381,5548,5052,3626,1070,1683,5554,5300,1770,12081,21831,12801,6400,24308,17763
+Africa,Mauritania,Export,Fish,valor,36988,35521,39590,32630,27083,35042,37061,56829,65239,33684,71179,119067,142248,143185,186394,203316
+Africa,Mauritania,Import,Crustaceans,valor,0,0,0,0,0,0,19,0,0,0,0,0,0,16,36,30
+Africa,Mauritania,Import,Fish,valor,29,29,57,61,12,105,120,161,191,430,827,665,737,938,1284,1265
+Africa,Mauritius,Export,Crustaceans,valor,1,1,0,295,42,0,42,37,1,0,0,1,0,3,0,0
+Africa,Mauritius,Export,Fish,valor,36607,63188,68396,74388,83797,109301,158128,194651,213734,215488,252987,270101,337159,369271,351611,270489
+Africa,Mauritius,Import,Crustaceans,valor,5110,6050,4393,5665,6994,7057,8472,11153,12646,9939,10870,12904,14611,13030,14112,12853
+Africa,Mauritius,Import,Fish,valor,33459,44762,121212,84206,105693,133376,200247,211284,285827,220740,218350,281264,366599,364567,317464,242975
+Africa,Mayotte,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0
+Africa,Mayotte,Export,Fish,valor,10,165,674,1055,746,689,851,837,868,748,741,762,634,588,450,0
+Africa,Mayotte,Import,Crustaceans,valor,111,181,128,242,177,227,238,350,425,319,182,51,74,28,0,0
+Africa,Mayotte,Import,Fish,valor,885,1184,1533,1759,1811,2095,2592,2508,4037,2940,2478,3351,3380,3469,3002,2662
+Africa,Morocco,Export,Crustaceans,valor,55810,53249,55693,62062,58360,89051,106168,154237,153437,150026,173999,199791,203296,191806,205307,182848
+Africa,Morocco,Export,Fish,valor,307915,356523,383094,508526,503125,585712,697899,718563,858728,853439,810069,723105,879252,947687,981028,908832
+Africa,Morocco,Import,Crustaceans,valor,2723,1844,2461,3810,3401,3960,11938,21553,30608,40385,70289,90872,91307,96632,103233,93137
+Africa,Morocco,Import,Fish,valor,4590,6211,8954,14718,26813,29543,43518,35065,35651,45477,41760,46355,35073,50792,81391,68896
+Africa,Mozambique,Export,Crustaceans,valor,95903,94028,117069,79036,94746,77975,90816,65824,68668,60392,52319,44962,19779,35896,50770,30651
+Africa,Mozambique,Export,Fish,valor,3482,5229,4807,16518,4843,5359,5299,3907,6566,4799,4113,5121,5288,6014,8034,5679
+Africa,Mozambique,Import,Crustaceans,valor,557,2,5,16596,17,13,107,220,23,15,4,61,70,174,216,160
+Africa,Mozambique,Import,Fish,valor,7958,7680,10494,15736,26932,30306,30809,25902,38097,39362,35387,57727,49510,93198,91658,85165
+Africa,Namibia,Export,Crustaceans,valor,6785,9616,10609,3347,7330,9020,9902,9067,12287,13485,10950,14476,9223,10801,17513,15005
+Africa,Namibia,Export,Fish,valor,268733,306824,257317,312975,332507,349726,422650,465366,542235,671125,734466,721239,712322,745375,672896,573700
+Africa,Namibia,Import,Crustaceans,valor,302,272,113,87,194,347,1516,1020,1480,4577,1608,1423,990,1904,1853,1288
+Africa,Namibia,Import,Fish,valor,19290,11194,6626,8817,16536,18040,17819,32627,31925,44650,33498,28658,25011,24906,27574,28803
+Africa,Niger,Export,Fish,valor,1599,4330,4344,4841,3308,2229,547,309,386,326,563,789,773,1112,1037,260
+Africa,Niger,Import,Crustaceans,valor,4,4,3,2,3,3,7,6,4,6,11,15,14,15,9,23
+Africa,Niger,Import,Fish,valor,497,614,249,428,493,572,784,749,1293,1341,1784,1168,1993,2249,2032,5839
+Africa,Nigeria,Export,Crustaceans,valor,11387,10579,14882,15140,26300,53496,42895,46310,70180,152830,160282,82509,78822,175644,93563,69142
+Africa,Nigeria,Export,Fish,valor,1085,1809,1778,2015,3567,2676,844,3089,1983,433,533,18002,20938,87466,8075,8710
+Africa,Nigeria,Import,Crustaceans,valor,8,0,31,11,96,40,140,179,0,135,180,8765,1285,8163,972,2586
+Africa,Nigeria,Import,Fish,valor,179520,447538,360586,480368,499011,607887,765042,884338,609944,772156,928752,1951132,1419637,1174951,1310608,1198997
+Africa,Rwanda,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0
+Africa,Rwanda,Export,Fish,valor,0,0,0,0,0,57,1,21,91,287,200,83,231,149,1179,2064
+Africa,Rwanda,Import,Crustaceans,valor,29,4,0,17,0,3,2,3,4,8,5,11,7,5,39,27
+Africa,Rwanda,Import,Fish,valor,82,112,173,118,27,34,453,3022,1783,2358,3786,6643,8203,8729,17966,21973
+Africa,Saint Helena,Export,Crustaceans,valor,3806,4899,4436,4247,3462,3163,2969,3143,5615,5436,6353,4223,5982,6116,4896,5682
+Africa,Saint Helena,Export,Fish,valor,189,1273,2493,1214,1949,1839,2259,4640,7670,3975,3328,6972,4038,3663,5983,11931
+Africa,Saint Helena,Import,Crustaceans,valor,0,58,0,195,111,7,90,5,8,5,1,3,3,15,81,28
+Africa,Saint Helena,Import,Fish,valor,220,78,75,126,35,197,421,110,51,35,79,40,24,90,117,96
+Africa,Sao Tome and Principe,Export,Crustaceans,valor,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Africa,Sao Tome and Principe,Export,Fish,valor,57,270,77,0,0,0,16,6,1,2,2,0,0,1,3,4
+Africa,Sao Tome and Principe,Import,Crustaceans,valor,0,1,0,2,2,3,9,10,39,30,26,43,55,85,86,83
+Africa,Sao Tome and Principe,Import,Fish,valor,63,6,15,26,18,14,64,131,123,125,117,249,262,282,259,170
+Africa,Senegal,Export,Crustaceans,valor,53603,75090,29159,41280,44710,45912,39597,31516,18554,20602,28519,26645,22288,26521,30554,28963
+Africa,Senegal,Export,Fish,valor,152136,156250,120283,139838,196807,155348,153569,200877,155116,171538,166681,198064,175546,227059,306758,259976
+Africa,Senegal,Import,Crustaceans,valor,269,151,235,43,116,99,56,50,67,52,74,80,78,190,26,103
+Africa,Senegal,Import,Fish,valor,1010,636,353,482,1243,1015,898,1812,2536,953,5480,16861,14069,18641,14467,19525
+Africa,Seychelles,Export,Crustaceans,valor,3208,2158,1308,7643,7765,5859,4575,2600,2416,208,3,0,0,0,0,55
+Africa,Seychelles,Export,Fish,valor,109941,142740,164825,286569,262203,288904,282871,277589,313959,303074,275240,351742,493120,479558,414363,360499
+Africa,Seychelles,Import,Crustaceans,valor,398,251,152,483,648,537,796,1547,1445,467,1971,2653,2211,1457,2302,3059
+Africa,Seychelles,Import,Fish,valor,9817,13941,22404,65601,73871,76962,94100,79405,61366,86205,94602,128688,145268,140867,127088,92943
+Africa,Sierra Leone,Export,Crustaceans,valor,3472,3742,8107,10997,8154,8318,6348,5522,4920,4812,5015,4750,5269,4650,3700,3600
+Africa,Sierra Leone,Export,Fish,valor,7488,7145,5229,4261,4313,4738,4733,5069,5046,5556,5541,5795,6068,6087,6141,6607
+Africa,Sierra Leone,Import,Crustaceans,valor,69,400,43,207,67,10,9,2,7,4,3,12,70,44,612,256
+Africa,Sierra Leone,Import,Fish,valor,929,1672,764,3131,1785,1945,1632,3557,3380,4048,2798,3309,2660,3344,4090,3518
+Africa,Somalia,Export,Crustaceans,valor,18,8,145,1,171,364,124,0,2286,3,113,644,337,132,22,109
+Africa,Somalia,Export,Fish,valor,2280,2960,2073,1113,2590,2276,2094,2639,2127,3064,1268,1460,686,943,1699,3217
+Africa,Somalia,Import,Crustaceans,valor,0,0,0,0,0,0,80,0,0,11,8,0,96,0,6,33
+Africa,Somalia,Import,Fish,valor,100,29,313,392,772,830,3970,2666,3745,5488,2849,6163,6301,11489,12038,15265
+Africa,South Africa,Export,Crustaceans,valor,34039,38654,45243,50662,66645,71128,62777,84163,75622,75530,88208,94846,89210,95877,103297,66326
+Africa,South Africa,Export,Fish,valor,190702,205281,211179,244797,238624,267883,236574,292138,316398,268698,283605,323177,302262,307399,356184,273069
+Africa,South Africa,Import,Crustaceans,valor,13020,13779,11674,15140,27697,40795,46305,49509,44150,48247,44502,74369,57616,74268,68420,43747
+Africa,South Africa,Import,Fish,valor,28431,30231,26911,44058,53690,58943,80921,115279,157881,181348,165281,159521,263633,265207,320346,248382
+Africa,South Sudan,Export,Fish,valor,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+Africa,South Sudan,Import,Fish,valor,0,0,0,0,0,0,0,0,0,0,0,0,366,1011,575,604
+Africa,Sudan,Export,Fish,valor,0,0,0,0,0,0,0,0,0,0,0,0,169,223,772,1061
+Africa,Sudan,Import,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,0,97,262,54,0
+Africa,Sudan,Import,Fish,valor,0,0,0,0,0,0,0,0,0,0,0,0,5174,7074,5697,6308
+Africa,Sudan (former),Export,Crustaceans,valor,0,0,5,2,7,0,0,3,8,3,0,3,0,0,0,0
+Africa,Sudan (former),Export,Fish,valor,79,167,384,459,791,639,53,187,313,143,23,171,0,0,0,0
+Africa,Sudan (former),Import,Crustaceans,valor,0,0,0,0,0,5,48,22,124,182,291,120,0,0,0,0
+Africa,Sudan (former),Import,Fish,valor,328,226,405,276,137,373,2145,2835,1803,4382,3286,7719,0,0,0,0
+Africa,Swaziland,Export,Crustaceans,valor,1312,715,930,1158,3875,1085,49,0,0,0,0,0,7,0,0,0
+Africa,Swaziland,Export,Fish,valor,1259,842,1660,713,1512,768,130,32,167,178,152,110,9,0,5,0
+Africa,Swaziland,Import,Crustaceans,valor,1611,667,876,1305,3236,976,457,141,418,1,18,220,158,94,142,138
+Africa,Swaziland,Import,Fish,valor,6442,4651,4965,7866,10414,9224,5724,5005,3650,3502,3350,3371,3985,4766,8141,7352
+Africa,"Tanzania, United Rep. of",Export,Crustaceans,valor,8704,10733,11597,13075,11085,15069,5780,4804,3935,2181,1511,1691,2934,2602,4440,5377
+Africa,"Tanzania, United Rep. of",Export,Fish,valor,84748,98730,104043,116889,102107,124189,121880,153526,171022,137855,101178,88807,97792,75953,155175,150466
+Africa,"Tanzania, United Rep. of",Import,Crustaceans,valor,89,414,4,6,38,130,10,16,1,22,3,5,1,7,2,26
+Africa,"Tanzania, United Rep. of",Import,Fish,valor,355,349,116,574,548,403,1021,2269,3852,3958,3253,2146,3913,5869,18113,17251
+Africa,Togo,Export,Crustaceans,valor,311,190,0,0,22,0,13,0,90,0,0,0,4,12,0,20
+Africa,Togo,Export,Fish,valor,2677,5297,10120,2724,10300,4187,4211,2321,3539,5356,4401,4335,2900,1153,2181,1899
+Africa,Togo,Import,Crustaceans,valor,6,7,20,75,31,0,27,132,0,4,0,3,5,0,2,14
+Africa,Togo,Import,Fish,valor,11703,13437,6862,7521,4921,8672,7707,7667,7150,10083,24336,32562,32207,31974,29924,37278
+Africa,Tunisia,Export,Crustaceans,valor,54094,38503,32647,42051,44124,47611,49976,44509,50556,38142,37248,41423,30206,43318,47739,51930
+Africa,Tunisia,Export,Fish,valor,18481,24973,29361,22469,41846,66813,72868,91536,105545,78802,65757,90860,79375,89437,71754,68832
+Africa,Tunisia,Import,Crustaceans,valor,327,230,445,514,185,622,512,1241,1502,3172,4784,3623,3253,1232,522,782
+Africa,Tunisia,Import,Fish,valor,11023,18089,17326,35041,27482,39083,45618,49834,64386,61897,60154,68144,76276,71854,72754,52320
+Africa,Uganda,Export,Crustaceans,valor,0,40,0,52,0,1,2,0,56,0,7,0,34,5,0,0
+Africa,Uganda,Export,Fish,valor,28722,49591,85781,84593,99996,138911,140694,118084,118985,109167,124825,125856,122049,123929,134489,117060
+Africa,Uganda,Import,Crustaceans,valor,20,13,18,17,18,22,40,83,118,100,117,81,90,135,166,225
+Africa,Uganda,Import,Fish,valor,65,21,64,1000,121,531,139,576,720,654,1358,2580,3648,2219,3444,2176
+Africa,Zambia,Export,Crustaceans,valor,0,0,0,0,7,0,0,0,0,0,0,13,0,0,0,0
+Africa,Zambia,Export,Fish,valor,418,308,858,897,997,3418,357,384,1295,1090,905,530,465,431,725,501
+Africa,Zambia,Import,Crustaceans,valor,16,53,30,34,22,18,49,86,21,31,90,194,318,457,697,368
+Africa,Zambia,Import,Fish,valor,1196,984,1737,3337,2935,5093,5386,8423,5260,6259,8024,16945,31887,51001,77625,113357
+Africa,Zimbabwe,Export,Crustaceans,valor,6,16,2,0,4,0,0,1,0,0,0,0,3,0,0,0
+Africa,Zimbabwe,Export,Fish,valor,4299,3462,2387,2495,2459,1819,4673,3020,1453,2157,3246,4826,6596,8776,15321,12518
+Africa,Zimbabwe,Import,Crustaceans,valor,455,181,187,103,97,1361,148,185,50,112,188,238,194,633,512,581
+Africa,Zimbabwe,Import,Fish,valor,7210,2962,1801,1432,2563,494,3280,2035,2871,4653,17878,22833,23457,27840,24998,25749
+Americas,Antigua and Barbuda,Export,Crustaceans,valor,150,74,117,74,57,36,52,33,21,43,30,135,206,207,8,52
+Americas,Antigua and Barbuda,Export,Fish,valor,40,106,136,168,113,292,158,226,199,302,370,755,801,416,282,200
+Americas,Antigua and Barbuda,Import,Crustaceans,valor,603,112,391,2523,799,720,780,764,710,778,724,814,798,871,1183,998
+Americas,Antigua and Barbuda,Import,Fish,valor,3217,1500,2204,2842,3342,3899,5418,6804,5877,4762,5005,5286,5588,5319,5062,5391
+Americas,Argentina,Export,Crustaceans,valor,247849,376041,251544,388461,218293,88464,374959,291152,384248,323482,472443,528603,495691,634659,776839,780253
+Americas,Argentina,Export,Fish,valor,358548,329740,342766,374117,467718,486903,592668,619742,675952,662185,657656,709988,604064,559762,569476,509083
+Americas,Argentina,Import,Crustaceans,valor,7715,3792,327,455,460,2346,2947,2837,3190,3245,5353,6330,5323,6343,5257,5471
+Americas,Argentina,Import,Fish,valor,67030,61091,12402,24986,41626,53182,67535,89645,87219,86085,107839,139497,153710,168681,135020,148608
+Americas,Aruba,Export,Crustaceans,valor,0,0,0,0,0,1,0,0,0,1,4,1,0,0,6,0
+Americas,Aruba,Export,Fish,valor,241,358,777,435,1017,250,70,82,23,15,13,0,3,48,11,32
+Americas,Aruba,Import,Crustaceans,valor,475,266,266,235,489,513,442,462,509,4533,4707,5542,6173,6406,8088,9089
+Americas,Aruba,Import,Fish,valor,9451,9083,9711,10948,11721,11142,12064,13262,13898,9137,9839,9759,11215,10878,11271,12297
+Americas,Bahamas,Export,Crustaceans,valor,106808,69399,89810,107198,86616,75040,91025,81371,78865,60978,70503,70508,78469,86866,65435,59082
+Americas,Bahamas,Export,Fish,valor,356,421,628,728,175,156,289,537,396,975,1001,942,602,1152,504,355
+Americas,Bahamas,Import,Crustaceans,valor,3566,3852,4190,3327,3040,3557,3874,4083,4950,4488,4967,3899,4745,3253,5278,4479
+Americas,Bahamas,Import,Fish,valor,10420,9305,9554,9281,10877,12398,13412,13079,15817,15204,14035,16714,19056,17952,18023,18242
+Americas,Barbados,Export,Crustaceans,valor,6,2,4,16,26,34,36,30,18,17,6,11,9,10,8,8
+Americas,Barbados,Export,Fish,valor,1239,1321,892,844,791,1311,652,869,711,322,586,520,523,345,376,457
+Americas,Barbados,Import,Crustaceans,valor,1625,1758,1772,1531,979,1557,1829,2054,2318,1615,1561,2058,1878,1990,2247,2982
+Americas,Barbados,Import,Fish,valor,8823,10094,11135,11599,10250,14991,16254,16201,17227,15854,15844,19374,23312,19489,21816,22062
+Americas,Belize,Export,Crustaceans,valor,30196,8242,7700,53199,50291,38483,38224,17521,18265,20976,22709,19382,21989,49145,52083,39561
+Americas,Belize,Export,Fish,valor,112,1078,85,59,711,699,665,627,2359,1353,3873,1174,737,856,529,568
+Americas,Belize,Import,Crustaceans,valor,1443,5,19,19,17,47,7,7,10,2,380,26,4,5,161,258
+Americas,Belize,Import,Fish,valor,376,272,408,424,388,439,487,427,694,465,497,333,603,575,956,500
+Americas,Bermuda,Export,Crustaceans,valor,254,0,0,0,0,94,0,0,0,0,0,0,3,16,14,8
+Americas,Bermuda,Export,Fish,valor,18,46,46,0,0,0,44,15,280,356,61,0,8,27,17,14
+Americas,Bermuda,Import,Crustaceans,valor,2431,2545,2761,2900,2300,3667,3816,3305,2896,2268,2230,2165,2131,2895,2991,2330
+Americas,Bermuda,Import,Fish,valor,3901,4865,4497,4329,4982,7893,8888,8915,7762,7059,5707,6549,7958,9134,8833,8420
+Americas,Bolivia (Plurinat.State),Export,Fish,valor,24,35,3,22,0,1,0,14,49,18,0,0,0,0,0,0
+Americas,Bolivia (Plurinat.State),Import,Crustaceans,valor,188,114,92,63,80,72,41,33,29,33,49,52,76,124,150,222
+Americas,Bolivia (Plurinat.State),Import,Fish,valor,8842,5271,5302,3440,2504,3195,4736,5235,9875,10169,9824,17608,16265,17716,18667,21465
+Americas,Brazil,Export,Crustaceans,valor,157288,189528,248370,313951,304876,273073,242097,168060,144169,82571,102828,86506,57619,78385,74289,74597
+Americas,Brazil,Export,Fish,valor,81544,93576,93135,103585,115759,126952,122781,138509,118342,107153,113437,134872,152119,139503,132926,145512
+Americas,Brazil,Import,Crustaceans,valor,1362,1077,569,148,332,407,331,621,462,773,793,1236,588,907,872,597
+Americas,Brazil,Import,Fish,valor,317030,257406,211225,201459,266141,296319,461269,556155,677237,705095,1028376,1227332,1215400,1428518,1510546,1162792
+Americas,Canada,Export,Crustaceans,valor,1316187,1306512,1520599,1709836,1797845,1762043,1766123,1894487,1836435,1553216,1872380,2217390,2263490,2398346,2660986,2788642
+Americas,Canada,Export,Fish,valor,1244067,1251891,1272123,1311330,1381107,1530628,1570640,1486789,1544957,1388725,1620304,1565595,1553878,1530908,1421755,1440926
+Americas,Canada,Import,Crustaceans,valor,568194,547567,499958,483252,527152,570942,626256,656978,602699,604418,720632,883611,848259,902053,1097427,943161
+Americas,Canada,Import,Fish,valor,654213,647117,672780,751128,801378,855536,922784,1061693,1127306,1122862,1188181,1350945,1403007,1501259,1441821,1333270
+Americas,Cayman Islands,Export,Fish,valor,180,94,108,50,200,130,346,76,130,426,172,140,0,3,5,185
+Americas,Cayman Islands,Import,Crustaceans,valor,545,753,995,958,702,389,1113,934,951,994,871,789,1150,1328,1395,1287
+Americas,Cayman Islands,Import,Fish,valor,391,722,872,892,920,452,1855,2717,1763,2240,2539,2596,2952,2294,2146,1774
+Americas,Chile,Export,Crustaceans,valor,59186,48357,37786,34621,38199,45479,45785,43182,49942,43144,61733,84936,86436,91296,111794,111596
+Americas,Chile,Export,Fish,valor,1333735,1412501,1320666,1560806,1866012,2201711,2692743,2769494,2883495,2604159,2453268,3358631,3297259,3955591,4716791,3811185
+Americas,Chile,Import,Crustaceans,valor,4232,3285,2762,2733,3254,4907,6384,9126,12615,12123,20200,30061,37554,46374,58649,55461
+Americas,Chile,Import,Fish,valor,18458,17753,19033,21593,31758,38105,45460,53195,75123,55749,89941,163223,145427,164597,140334,148692
+Americas,Colombia,Export,Crustaceans,valor,100004,95232,84765,78944,66387,84892,82245,69374,85035,68906,57993,45243,47397,26915,23157,22729
+Americas,Colombia,Export,Fish,valor,89790,79155,80802,80661,92645,95264,82649,118730,154294,137110,120073,142676,153070,164635,195570,144094
+Americas,Colombia,Import,Crustaceans,valor,471,1076,600,756,1264,1901,3425,5017,5842,5947,10480,13463,16836,32682,43340,33719
+Americas,Colombia,Import,Fish,valor,55037,55288,64447,69063,82921,109800,120362,150445,209729,194921,217630,270983,321561,392167,429045,366294
+Americas,Costa Rica,Export,Crustaceans,valor,20123,18495,19378,10942,13036,13456,11167,7211,5965,4959,3691,3514,7014,12648,15624,15619
+Americas,Costa Rica,Export,Fish,valor,97498,115020,118977,121217,102187,108306,94242,99949,121069,111074,101198,124800,165822,142405,127719,119584
+Americas,Costa Rica,Import,Crustaceans,valor,1581,2473,2130,2026,1309,1026,1244,1755,1329,2383,2719,5472,4122,3084,7413,8789
+Americas,Costa Rica,Import,Fish,valor,15111,17344,26691,23117,26438,26655,31576,38729,55118,47705,42046,61813,77764,86214,117037,125685
+Americas,Cuba,Export,Crustaceans,valor,85656,77335,89338,60833,84327,75031,67229,85662,78851,44646,58873,64292,46332,43184,41182,52179
+Americas,Cuba,Export,Fish,valor,894,1666,2780,3503,4017,1130,1216,1303,796,813,557,931,853,767,671,642
+Americas,Cuba,Import,Crustaceans,valor,97,514,300,145,392,919,230,872,481,70,81,64,122,121,112,411
+Americas,Cuba,Import,Fish,valor,37659,29943,18458,26219,48268,49538,35015,40090,52105,34547,23079,28398,26271,24072,27997,36266
+Americas,Curaçao,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,193,0,0,10,58
+Americas,Curaçao,Export,Fish,valor,0,0,0,0,0,0,0,0,0,0,0,20425,35862,37956,32282,25986
+Americas,Curaçao,Import,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,2784,740,1345,2034,1250
+Americas,Curaçao,Import,Fish,valor,0,0,0,0,0,0,0,0,0,0,0,7777,7813,6767,5955,6648
+Americas,Dominica,Export,Fish,valor,0,0,1,4,1,32,1,6,6,2,0,6,0,5,2,3
+Americas,Dominica,Import,Crustaceans,valor,30,17,30,27,28,46,42,71,52,157,114,195,111,69,21,39
+Americas,Dominica,Import,Fish,valor,1544,1231,1374,1279,1516,1593,1617,1736,1897,2202,1699,1986,1939,2091,3538,3186
+Americas,Dominican Republic,Export,Crustaceans,valor,55,63,160,178,437,1817,1636,1793,1509,1624,2611,4155,2571,2672,2502,3859
+Americas,Dominican Republic,Export,Fish,valor,2497,2055,3003,5088,2296,4942,1960,1514,2709,2743,4422,10489,6194,9988,11176,10345
+Americas,Dominican Republic,Import,Crustaceans,valor,1737,1825,1931,2167,2066,3059,5875,8133,9973,10564,12070,16309,13293,10186,17312,13286
+Americas,Dominican Republic,Import,Fish,valor,49055,53649,66452,52035,56218,66388,72553,78779,101613,110297,118318,132536,144004,116039,126104,133886
+Americas,Ecuador,Export,Crustaceans,valor,279596,291524,260954,283213,339528,456446,601073,606933,685768,661517,838499,1186235,1290807,1805654,2600534,2318003
+Americas,Ecuador,Export,Fish,valor,287126,351201,424337,473626,434083,517998,687257,718676,996648,860228,838783,1171667,1425459,1619623,1535196,1183046
+Americas,Ecuador,Import,Crustaceans,valor,102,308,416,1011,1754,1395,390,451,551,295,548,796,4979,4631,3683,179
+Americas,Ecuador,Import,Fish,valor,1147,3941,22913,27682,17950,3684,7018,52208,226466,217229,219728,282524,181349,111442,123505,83586
+Americas,El Salvador,Export,Crustaceans,valor,19829,20651,12608,15154,9942,12257,11591,13387,4387,7775,4563,788,458,928,731,542
+Americas,El Salvador,Export,Fish,valor,6737,3967,8978,18219,39039,61589,56441,95807,113002,84024,70474,75949,103122,114621,103124,80747
+Americas,El Salvador,Import,Crustaceans,valor,1139,562,786,1238,1654,1964,3295,5495,3942,7794,3991,2587,2652,2310,1923,2608
+Americas,El Salvador,Import,Fish,valor,6672,7585,5197,8259,15215,43699,32873,48045,24801,68628,38197,28283,40986,58396,47775,33475
+Americas,Falkland Is.(Malvinas),Export,Fish,valor,21340,23190,26090,27470,36710,36915,40320,31000,52210,55880,88975,78358,29364,71040,49300,26286
+Americas,Falkland Is.(Malvinas),Import,Crustaceans,valor,16,15,18,48,25,54,72,66,79,56,59,71,14,7,4,15
+Americas,Falkland Is.(Malvinas),Import,Fish,valor,163,141,13,43,158,135,143,67,104,160,152,188,154,134,255,174
+Americas,Greenland,Export,Crustaceans,valor,194902,179059,172987,218835,220302,238169,211035,149918,255712,203627,207600,265117,252152,240591,247474,173216
+Americas,Greenland,Export,Fish,valor,66766,54561,68533,127154,114484,120712,134268,140170,160239,113961,146304,183476,179000,209160,270003,211790
+Americas,Greenland,Import,Crustaceans,valor,337,489,803,707,677,513,1736,363,754,2990,1565,1012,808,897,1858,2561
+Americas,Greenland,Import,Fish,valor,814,875,987,2059,2789,2295,2741,1848,3531,3127,3248,4036,3793,7893,3863,3311
+Americas,Grenada,Export,Crustaceans,valor,19,109,7,67,114,182,80,7,23,91,45,63,94,81,117,153
+Americas,Grenada,Export,Fish,valor,3389,3943,3856,3190,2968,3334,3654,4108,2934,4828,6419,5338,5465,6546,7964,5204
+Americas,Grenada,Import,Crustaceans,valor,104,120,70,90,120,107,228,358,341,250,146,136,112,144,258,243
+Americas,Grenada,Import,Fish,valor,2045,2411,2473,2387,2488,2708,3446,4217,4203,3429,2774,2650,3114,2329,2680,1979
+Americas,Guatemala,Export,Crustaceans,valor,21275,10089,28663,40491,38104,24975,39394,47972,55882,50337,45748,48497,56600,62595,74593,58054
+Americas,Guatemala,Export,Fish,valor,13786,12315,4749,2394,14889,24202,28049,41080,21972,36380,52609,57570,66475,60610,55173,33679
+Americas,Guatemala,Import,Crustaceans,valor,1407,1705,6182,7244,8810,3047,4196,4929,7172,7819,12090,19487,14687,23714,59168,40286
+Americas,Guatemala,Import,Fish,valor,5203,6452,8617,8789,17347,27312,26589,31459,21717,29463,54031,51065,73028,65910,62157,41538
+Americas,Guyana,Export,Crustaceans,valor,33061,43134,34807,34956,35553,40845,38037,37694,41041,30650,29414,24964,48609,53425,33254,42873
+Americas,Guyana,Export,Fish,valor,18233,18822,19665,19154,26438,23246,26744,26047,26889,22515,19762,28601,27883,36088,40133,44427
+Americas,Guyana,Import,Crustaceans,valor,12,94,58,109,68,5,2,384,7,2,4,4,17,10,17,41
+Americas,Guyana,Import,Fish,valor,889,930,1542,952,1382,1417,1455,2276,1238,1625,1677,2543,2915,2811,2800,2452
+Americas,Haiti,Export,Crustaceans,valor,3115,2861,3506,3087,2798,3658,3404,4353,4049,3524,3749,5676,4060,3988,4067,4151
+Americas,Haiti,Export,Fish,valor,423,409,336,260,373,234,215,307,497,667,421,456,357,650,1089,1904
+Americas,Haiti,Import,Crustaceans,valor,7,0,4,1,140,75,80,92,135,122,190,328,261,325,509,392
+Americas,Haiti,Import,Fish,valor,5931,7051,4678,7887,8487,9729,16394,16920,21720,26442,20095,34205,21543,42270,41687,44598
+Americas,Honduras,Export,Crustaceans,valor,177336,203256,115754,133441,136172,144619,162580,132948,129669,119223,146459,111877,197731,281321,345340,316075
+Americas,Honduras,Export,Fish,valor,8850,8134,18332,15790,23535,43392,49245,51117,55035,48956,20234,30462,60348,69104,71121,73594
+Americas,Honduras,Import,Crustaceans,valor,11664,7512,5817,4865,4142,3871,4329,4803,5827,4965,6003,6100,4630,5539,6241,7920
+Americas,Honduras,Import,Fish,valor,3465,2625,2664,3558,3590,5429,4741,6716,8054,8349,9118,10806,11913,12197,11191,13862
+Americas,Jamaica,Export,Crustaceans,valor,6964,9607,3819,7082,6399,7233,6804,4663,5234,4078,6874,8606,8303,9938,8144,5957
+Americas,Jamaica,Export,Fish,valor,3037,2210,1712,1095,1012,2266,4014,3605,3000,554,536,1318,613,512,402,174
+Americas,Jamaica,Import,Crustaceans,valor,3494,4072,2833,2966,3623,3886,4631,6337,5345,5555,7951,5942,7713,8238,9374,7857
+Americas,Jamaica,Import,Fish,valor,47386,54810,54308,55451,54835,71466,74650,86401,95759,81627,80838,97470,100440,95646,97682,92534
+Americas,Mexico,Export,Crustaceans,valor,526839,503389,371669,379151,392223,381544,413716,462751,427376,433530,306916,443111,388663,416545,491946,463362
+Americas,Mexico,Export,Fish,valor,106531,103370,119960,189496,138187,160875,159714,197503,197806,184008,220525,334775,348887,322584,378165,353497
+Americas,Mexico,Import,Crustaceans,valor,22266,36939,46885,55706,49555,74677,78106,98281,124466,75257,102428,105087,107700,203471,290736,130187
+Americas,Mexico,Import,Fish,valor,74995,101151,112015,137453,208399,231547,315850,391578,415742,270846,382328,465870,501231,533076,593903,587259
+Americas,Montserrat,Import,Crustaceans,valor,12,8,5,9,7,11,16,16,19,18,20,21,33,30,31,30
+Americas,Montserrat,Import,Fish,valor,232,205,207,219,199,256,317,301,343,368,305,321,334,353,303,274
+Americas,Netherlands Antilles,Export,Crustaceans,valor,67,31,1,47,91,131,32,5,2,8,34,0,0,0,0,0
+Americas,Netherlands Antilles,Export,Fish,valor,5611,5870,5229,8752,9033,2353,3226,2529,18954,17207,14725,0,0,0,0,0
+Americas,Netherlands Antilles,Import,Crustaceans,valor,1918,1332,812,935,1286,1492,1851,2032,2485,2654,3675,0,0,0,0,0
+Americas,Netherlands Antilles,Import,Fish,valor,5460,4455,3425,4751,5715,6600,8365,8675,10767,14937,13744,0,0,0,0,0
+Americas,Nicaragua,Export,Crustaceans,valor,118187,33118,35703,55734,85377,89192,70883,74938,104623,82639,107622,115203,175385,225490,262020,226552
+Americas,Nicaragua,Export,Fish,valor,9555,9342,11482,11830,12822,16259,17085,20357,21470,21357,23615,23798,24278,26927,34670,29944
+Americas,Nicaragua,Import,Crustaceans,valor,3393,2900,2561,314,128,59,55,216,508,111,79,320,310,201,104,121
+Americas,Nicaragua,Import,Fish,valor,3790,3150,3859,3300,3228,4168,4453,4853,5106,5064,5119,7059,9086,10458,11562,16438
+Americas,Panama,Export,Crustaceans,valor,79958,106024,97281,89899,92835,87349,69087,64385,45605,46095,37311,38370,42660,75278,80903,68662
+Americas,Panama,Export,Fish,valor,163383,205046,225177,308093,342435,334569,296028,284187,340503,314980,150286,72891,61700,68052,85979,87121
+Americas,Panama,Import,Crustaceans,valor,512,471,789,877,670,447,296,870,1166,660,701,1094,1569,2917,5523,4479
+Americas,Panama,Import,Fish,valor,13305,10333,13441,15443,13579,19545,17520,20521,26770,28054,32087,38485,48040,50029,55818,62101
+Americas,Paraguay,Export,Fish,valor,45,70,39,98,206,201,230,170,95,45,19,14,15,14,14,12
+Americas,Paraguay,Import,Crustaceans,valor,126,59,52,46,49,35,117,82,245,346,348,829,229,944,671,997
+Americas,Paraguay,Import,Fish,valor,1389,1462,909,708,1261,1376,1243,2154,3396,3550,5179,5384,6372,6216,7823,6552
+Americas,Peru,Export,Crustaceans,valor,9004,13010,17810,19150,26596,40332,48703,57014,65812,63695,69698,92721,94390,130983,165510,145229
+Americas,Peru,Export,Fish,valor,107232,128182,80653,81492,97583,102817,163276,200472,237330,213616,190293,348384,388148,301211,303447,294076
+Americas,Peru,Import,Crustaceans,valor,42,387,740,807,1405,1473,1953,2993,3701,2288,2943,4340,4116,7113,10367,21647
+Americas,Peru,Import,Fish,valor,15332,20879,23297,23616,24829,44582,24671,30108,56672,73173,148854,123642,131380,193413,162190,204870
+Americas,Saint Kitts and Nevis,Export,Crustaceans,valor,245,131,23,41,36,0,239,411,458,465,466,659,300,295,290,290
+Americas,Saint Kitts and Nevis,Export,Fish,valor,0,0,0,0,0,0,3,9,24,27,27,30,26,61,49,4
+Americas,Saint Kitts and Nevis,Import,Crustaceans,valor,343,143,142,177,448,154,676,687,683,431,473,374,430,605,574,621
+Americas,Saint Kitts and Nevis,Import,Fish,valor,2117,1624,1629,1667,2075,784,3343,3152,2923,3270,3291,2809,2076,3197,2561,3058
+Americas,Saint Lucia,Export,Crustaceans,valor,0,0,0,30,0,0,0,0,0,0,0,0,0,0,22,0
+Americas,Saint Lucia,Export,Fish,valor,0,37,83,0,0,0,1,0,107,0,0,0,31,0,1,0
+Americas,Saint Lucia,Import,Crustaceans,valor,786,930,593,993,884,837,778,862,860,983,1319,1107,1392,412,1676,2493
+Americas,Saint Lucia,Import,Fish,valor,3777,3012,3491,3844,4513,4935,5182,5653,7198,5201,5099,6051,7937,6345,8123,7784
+Americas,Saint Vincent/Grenadines,Export,Crustaceans,valor,334,388,573,294,346,410,158,135,375,355,401,182,193,177,392,359
+Americas,Saint Vincent/Grenadines,Export,Fish,valor,623,240,138,215,62,21,80,134,135,50,64,83,82,91,112,104
+Americas,Saint Vincent/Grenadines,Import,Crustaceans,valor,54,126,105,86,52,106,152,288,370,181,198,240,291,276,220,306
+Americas,Saint Vincent/Grenadines,Import,Fish,valor,1076,1151,1239,1297,1527,1754,1847,1866,2087,1727,1723,1695,1942,1869,1862,1980
+Americas,St. Pierre and Miquelon,Export,Crustaceans,valor,77,403,25,44,855,752,867,1079,748,665,834,860,1207,968,383,208
+Americas,St. Pierre and Miquelon,Export,Fish,valor,6844,4382,4045,3306,4484,5199,5795,7447,8617,4394,2981,1592,1593,1018,962,705
+Americas,St. Pierre and Miquelon,Import,Crustaceans,valor,25,27,20,30,39,21,14,132,23,46,53,60,78,68,50,79
+Americas,St. Pierre and Miquelon,Import,Fish,valor,130,112,90,80,57,24,122,89,67,48,96,154,182,162,142,200
+Americas,Suriname,Export,Crustaceans,valor,36028,34546,26232,32360,35129,29454,27215,28528,18743,25593,20281,17911,20538,21609,18532,17348
+Americas,Suriname,Export,Fish,valor,4829,5153,11310,13608,16846,16271,19044,21330,34540,37617,42245,46860,58638,65050,70441,72637
+Americas,Suriname,Import,Crustaceans,valor,3501,378,409,446,22,30,6,26,2,10,14,7,184,464,270,346
+Americas,Suriname,Import,Fish,valor,2684,2469,2309,3052,3252,4003,2996,3822,3173,4081,4705,2932,4056,4756,4105,5155
+Americas,Trinidad and Tobago,Export,Crustaceans,valor,1281,1520,979,1091,809,730,449,333,260,568,266,428,247,204,249,60
+Americas,Trinidad and Tobago,Export,Fish,valor,9327,8945,10430,8867,6068,8205,9938,8914,11835,11501,10153,11221,10597,12433,12789,20689
+Americas,Trinidad and Tobago,Import,Crustaceans,valor,142,178,233,230,442,973,1625,2459,3778,3337,3941,5811,8061,9639,10983,8794
+Americas,Trinidad and Tobago,Import,Fish,valor,6383,8198,11357,11679,13173,20783,17658,22968,22373,24899,23528,28908,30307,38805,37426,39650
+Americas,Turks and Caicos Is.,Export,Crustaceans,valor,1425,1983,1759,1575,2756,2852,3002,2899,1149,1055,954,1028,1059,964,1549,1724
+Americas,Turks and Caicos Is.,Export,Fish,valor,0,2,1,24,0,41,19,4,6,0,0,0,0,177,292,0
+Americas,Turks and Caicos Is.,Import,Crustaceans,valor,882,1006,954,1108,990,980,1176,1361,1251,1202,872,1163,1081,843,1554,1740
+Americas,Turks and Caicos Is.,Import,Fish,valor,978,1019,1052,1114,1157,1299,2138,2468,2559,2512,1790,2251,2430,2870,2881,3133
+Americas,United States of America,Export,Crustaceans,valor,592662,520254,572908,622330,531232,608406,597007,663732,690352,658774,760457,960987,916972,963994,1163263,1179063
+Americas,United States of America,Export,Fish,valor,2090472,2442560,2334007,2435902,2709887,3127276,3050755,3259080,3189282,2882985,3205657,3988126,3658353,3744719,3683358,3591359
+Americas,United States of America,Import,Crustaceans,valor,5542717,5553676,5510043,6044872,6043386,6157991,6698227,6695080,6809294,6041314,6852836,7868512,7250772,8233126,9972540,8759933
+Americas,United States of America,Import,Fish,valor,4249670,4179916,4488223,4888097,5185430,5736944,6410353,6839276,7165723,6912643,7617620,8353384,9098438,9382943,9926427,9657909
+Americas,Uruguay,Export,Crustaceans,valor,10189,5572,6316,8101,7797,7573,10978,11957,8814,9238,9554,7444,3417,5016,5110,2946
+Americas,Uruguay,Export,Fish,valor,86514,82867,84198,90458,113273,117861,123971,139234,183360,158418,167317,219839,180336,134666,146177,108059
+Americas,Uruguay,Import,Crustaceans,valor,750,802,251,648,442,1557,1297,2714,2275,1717,1834,2574,2199,3187,3812,3021
+Americas,Uruguay,Import,Fish,valor,10166,14178,10835,13899,14907,15170,24465,37588,45123,45976,54973,54807,47511,51210,51593,39345
+Americas,"Venezuela, Boliv Rep of",Export,Crustaceans,valor,135453,104652,81428,44712,55501,105125,22552,31091,27174,29719,10867,13795,13188,14287,18513,29688
+Americas,"Venezuela, Boliv Rep of",Export,Fish,valor,17446,32925,49413,30098,43259,58931,2450,4312,7314,8095,7173,9698,9933,11924,7810,10021
+Americas,"Venezuela, Boliv Rep of",Import,Crustaceans,valor,655,536,1192,598,669,368,574,418,9335,325,1025,555,567,1169,645,203
+Americas,"Venezuela, Boliv Rep of",Import,Fish,valor,33791,47304,33749,10343,40227,45479,55628,132332,317547,419768,213338,249812,326839,306763,326650,60243
+Asia,Afghanistan,Import,Fish,valor,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Asia,Armenia,Export,Crustaceans,valor,81,15,1665,3079,2752,2705,3992,4152,4720,3403,3785,5984,7510,15703,13523,3355
+Asia,Armenia,Export,Fish,valor,14,143,42,92,183,475,567,531,678,124,3898,10189,14977,17897,17906,11603
+Asia,Armenia,Import,Crustaceans,valor,10,0,2,9,2,1,3,22,126,173,185,112,248,351,219,278
+Asia,Armenia,Import,Fish,valor,661,1307,767,603,597,3001,2310,2695,7362,6894,4761,6436,6061,5457,5812,5084
+Asia,Azerbaijan,Export,Fish,valor,2101,798,1148,4083,4638,7252,659,5851,5601,5954,1021,226,0,24,0,23
+Asia,Azerbaijan,Import,Crustaceans,valor,3,4,14,7,5,49,29,52,77,48,198,212,240,334,336,199
+Asia,Azerbaijan,Import,Fish,valor,1439,1309,1943,2111,2306,4755,2867,5725,11032,16002,11185,11595,12428,15192,12964,10843
+Asia,Bahrain,Export,Crustaceans,valor,8014,7213,7867,7217,10914,8958,9091,9050,10828,10688,10585,17149,15794,17211,18897,21451
+Asia,Bahrain,Export,Fish,valor,1502,2229,2758,3095,2312,1940,2267,2367,5985,4630,2828,2748,4173,2534,1960,3721
+Asia,Bahrain,Import,Crustaceans,valor,895,851,2928,1057,1574,2835,2125,1514,2195,3143,3237,3793,6647,4063,11623,10790
+Asia,Bahrain,Import,Fish,valor,3747,5615,6392,5700,5273,7835,6023,7210,14256,10749,12605,16550,22980,21791,24101,25358
+Asia,Bangladesh,Export,Crustaceans,valor,311879,333821,275975,303051,345482,551840,401277,569351,461399,321969,441332,502920,412195,464340,540746,396282
+Asia,Bangladesh,Export,Fish,valor,30698,22011,25305,21796,24734,79815,46440,57511,96665,72215,96872,135459,82564,68374,57651,49535
+Asia,Bangladesh,Import,Crustaceans,valor,300,194,565,166,5186,2802,429,272,768,11623,2654,3769,1719,3822,2975,2498
+Asia,Bangladesh,Import,Fish,valor,2875,5875,9210,5291,7990,1118,2048,5086,4203,6453,13705,11316,15301,27647,41404,52878
+Asia,Bhutan,Export,Fish,valor,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1
+Asia,Bhutan,Import,Crustaceans,valor,0,0,0,0,0,7,7,11,20,19,23,26,46,25,0,3
+Asia,Bhutan,Import,Fish,valor,0,0,0,0,0,1859,1997,3029,2251,2433,3102,3509,4574,5013,5171,4822
+Asia,Brunei Darussalam,Export,Crustaceans,valor,132,196,380,531,917,2894,4976,4969,2331,1337,1246,567,585,1558,2056,1482
+Asia,Brunei Darussalam,Export,Fish,valor,164,137,52,167,200,159,326,63,143,263,513,1013,1752,2332,1803,1642
+Asia,Brunei Darussalam,Import,Crustaceans,valor,2751,3206,2273,2194,3646,2173,6185,3192,3112,3016,3153,2894,8973,11467,10499,8479
+Asia,Brunei Darussalam,Import,Fish,valor,9200,8354,8394,7584,10263,12460,17351,13226,13246,13216,18508,23720,27830,31746,28426,26700
+Asia,Cambodia,Export,Crustaceans,valor,2009,1916,955,876,10548,7164,1688,579,420,451,1199,2135,1231,868,572,419
+Asia,Cambodia,Export,Fish,valor,32102,29941,35024,36519,30922,40641,24963,22595,24118,29894,38539,57808,59728,61609,63328,65475
+Asia,Cambodia,Import,Crustaceans,valor,1,9,3,0,108,6737,674,15,21,31,299,179,271,621,2155,997
+Asia,Cambodia,Import,Fish,valor,2708,448,550,3000,3036,2780,3443,3037,2365,4201,2667,3180,4314,2692,12500,5681
+Asia,China,Export,Crustaceans,valor,596458,720868,901035,1332283,1559312,1624675,1974696,1863190,2033962,2091114,2548852,3259444,3640354,3980309,4179094,3432246
+Asia,China,Export,Fish,valor,2353628,2582783,2734797,3001901,3896131,4558666,5509643,5896162,6472323,6410499,8148211,10205801,10683258,11045046,11538511,10991570
+Asia,China,Import,Crustaceans,valor,216386,193917,193348,299464,324714,294756,303701,323183,322451,347908,526205,840449,1133958,1437524,1671382,1861078
+Asia,China,Import,Fish,valor,816667,948065,1102870,1319372,1700576,2333056,2539572,2777207,2894591,2884290,3358114,4039108,3686876,3806353,4166967,3697215
+Asia,"China, Hong Kong SAR",Export,Crustaceans,valor,4053,1502,1047,863,942,314,1182,332,562,867,355,1562,1435,896,462,775
+Asia,"China, Hong Kong SAR",Export,Fish,valor,66962,48654,47529,42313,41805,40154,38954,33836,33669,34604,34723,38612,35705,43637,36921,32753
+Asia,"China, Hong Kong SAR",Import,Crustaceans,valor,453708,411342,364988,329422,310967,305799,389879,426236,492710,563062,615701,705535,878649,859023,795623,686023
+Asia,"China, Hong Kong SAR",Import,Fish,valor,954290,862565,847893,855139,933833,900414,909748,970918,1118051,1095983,1306255,1468789,1521588,1548894,1612277,1702904
+Asia,"China, Macao SAR",Export,Crustaceans,valor,2577,2371,2330,1440,262,238,242,244,185,222,0,0,0,0,0,0
+Asia,"China, Macao SAR",Export,Fish,valor,31,0,0,0,437,471,576,830,1131,2930,0,0,0,0,0,0
+Asia,"China, Macao SAR",Import,Crustaceans,valor,1924,2308,3027,3538,3200,3391,4065,5784,7176,8510,11924,15653,19173,22860,27160,34349
+Asia,"China, Macao SAR",Import,Fish,valor,9789,11715,14527,18893,17720,19072,20922,24498,30907,36493,39612,43884,50441,53198,67537,68303
+Asia,Cyprus,Export,Crustaceans,valor,307,601,383,108,44,184,12,19,1,0,1,0,0,69,0,194
+Asia,Cyprus,Export,Fish,valor,5991,6052,4980,4285,27265,30514,25079,31478,42609,13524,16830,27593,20889,32518,29212,31262
+Asia,Cyprus,Import,Crustaceans,valor,3150,4379,2732,3698,4885,5895,7506,9925,11577,10440,11096,13639,12123,11021,14083,11825
+Asia,Cyprus,Import,Fish,valor,16909,18491,17915,19491,30196,32726,34998,51461,58547,42922,44139,46417,42416,43892,47981,43008
+Asia,Georgia,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,1,0,1,22,65,0,1
+Asia,Georgia,Export,Fish,valor,108,288,50,298,247,981,903,1947,6024,4525,6639,3291,1806,2435,2668,7830
+Asia,Georgia,Import,Crustaceans,valor,6,22,4,8,135,105,159,239,349,233,233,503,515,583,724,576
+Asia,Georgia,Import,Fish,valor,1378,1162,1422,2148,6033,11429,26631,33498,41147,30892,34325,41306,43706,46743,42734,39263
+Asia,India,Export,Crustaceans,valor,977753,847056,973725,981507,987324,1035137,1075822,998195,939965,913020,1234456,1846390,1842457,2967319,3943727,3360311
+Asia,India,Export,Fish,valor,332596,284035,308683,186331,246395,334811,448172,428178,400020,743643,843207,1058800,977156,1019899,999564,888155
+Asia,India,Import,Crustaceans,valor,677,1932,3512,4019,3656,6554,5555,7274,8602,6130,4881,9217,9508,7797,11643,14655
+Asia,India,Import,Fish,valor,9094,6328,5307,5974,9097,13768,17289,24406,39713,29618,66549,92097,51929,36752,45644,49434
+Asia,Indonesia,Export,Crustaceans,valor,1070333,1022419,926912,942139,1021482,1073177,1244876,1200387,1374105,1158413,1260462,1566554,1617689,2023398,2534716,1946471
+Asia,Indonesia,Export,Fish,valor,485348,478826,531672,572783,636343,669475,651600,802088,980750,989593,1163940,1407508,1746477,1598281,1506401,1391707
+Asia,Indonesia,Import,Crustaceans,valor,11487,11408,10990,11352,57454,8087,6071,9193,16367,16388,25355,55797,65917,69631,66091,52863
+Asia,Indonesia,Import,Fish,valor,18928,13951,14213,17240,25577,22791,32789,39084,93803,129506,189814,196907,149809,155923,159961,157836
+Asia,Iran (Islamic Rep. of),Export,Crustaceans,valor,6162,3425,17742,33692,34046,4784,13714,0,0,19338,13340,20536,46414,51183,50838,56781
+Asia,Iran (Islamic Rep. of),Export,Fish,valor,43793,40041,32789,46782,39635,36725,45792,31621,51831,74272,133262,177843,190975,180968,194793,151777
+Asia,Iran (Islamic Rep. of),Import,Crustaceans,valor,0,0,0,0,0,0,0,0,309,116,69,1,0,0,0,0
+Asia,Iran (Islamic Rep. of),Import,Fish,valor,5995,3179,7030,26786,13516,16913,10375,13589,18748,34855,82763,67985,59836,96689,166716,146687
+Asia,Iraq,Export,Fish,valor,242,193,99,100,75,10,40,70,70,70,90,115,94,96,110,50
+Asia,Iraq,Import,Crustaceans,valor,0,0,0,121,66,13,48,110,103,16,30,150,618,1027,1950,2126
+Asia,Iraq,Import,Fish,valor,99,25,163,2510,8911,9519,21502,22078,31562,25410,43126,36395,34613,37634,41086,39352
+Asia,Israel,Export,Crustaceans,valor,0,0,0,0,1,0,0,0,2,1,2,3,2,1,0,3
+Asia,Israel,Export,Fish,valor,7159,7932,7318,10090,12222,12832,13984,17278,20933,21066,21385,21126,21977,21861,21174,16353
+Asia,Israel,Import,Crustaceans,valor,2594,3635,2605,4065,4317,5591,5802,7339,10049,10181,10911,17166,12363,16574,24266,19030
+Asia,Israel,Import,Fish,valor,117219,129682,121624,129331,135305,148470,146664,171918,221391,206614,277892,354870,357713,416285,440572,408512
+Asia,Japan,Export,Crustaceans,valor,25600,28581,25484,29367,47980,52293,50638,58554,35053,34729,39043,31834,30664,29823,36116,26270
+Asia,Japan,Export,Fish,valor,502236,486894,474660,532034,671192,752173,894586,1016652,1017371,905567,1072220,914344,924529,938350,887688,876019
+Asia,Japan,Import,Crustaceans,valor,4600083,3726810,3693171,3085936,3696959,3477049,3496107,3222258,3498969,3146638,3455204,4155138,4181629,3857380,3707487,3092497
+Asia,Japan,Import,Fish,valor,8666195,7795565,7800323,7454599,8704014,8801198,8254025,7839071,9266376,8120696,9069369,10559977,11023982,9031143,8818736,8160351
+Asia,Jordan,Export,Fish,valor,1664,223,238,339,39,43,10,0,151,0,0,0,6,0,0,1
+Asia,Jordan,Import,Crustaceans,valor,238,353,348,872,1581,1859,3325,3584,4130,3951,4723,5393,6339,5183,6863,6766
+Asia,Jordan,Import,Fish,valor,20438,22174,22024,24837,33072,33580,43225,50962,72319,78640,72755,75210,107551,98403,106896,103695
+Asia,Kazakhstan,Export,Crustaceans,valor,0,19,0,1,9,127,310,782,928,535,207,478,642,92,31,16
+Asia,Kazakhstan,Export,Fish,valor,11765,18822,17702,21388,33064,53449,50276,78459,82473,85362,92782,79910,68277,78397,80335,53761
+Asia,Kazakhstan,Import,Crustaceans,valor,186,271,208,206,324,564,903,1862,2195,2061,2157,3246,4532,5139,6317,4672
+Asia,Kazakhstan,Import,Fish,valor,19067,15651,11613,13723,14706,21794,29485,49437,69948,59559,50823,80462,78547,79131,73093,62142
+Asia,"Korea, Dem. People's Rep",Export,Crustaceans,valor,13340,16043,54388,88148,81695,22791,7533,639,867,2555,4003,4908,5030,6656,16695,25406
+Asia,"Korea, Dem. People's Rep",Export,Fish,valor,8901,9041,14565,26976,28074,25716,13866,11399,10556,8861,13956,13842,11057,13055,18876,18077
+Asia,"Korea, Dem. People's Rep",Import,Crustaceans,valor,4132,8250,14514,12316,8905,9955,18024,24476,31886,32753,15240,5552,6614,20523,4158,3670
+Asia,"Korea, Dem. People's Rep",Import,Fish,valor,6525,13959,20229,25271,18486,20572,25597,27743,31240,43403,29541,44147,63770,81377,70330,65874
+Asia,"Korea, Republic of",Export,Crustaceans,valor,48278,37846,37306,52629,58190,54501,65732,59093,76255,70968,77228,122843,124805,84750,96602,108402
+Asia,"Korea, Republic of",Export,Fish,valor,895404,723428,710355,649076,729940,684986,639538,737361,889505,960687,1141243,1389535,1466842,1277185,1200514,1027776
+Asia,"Korea, Republic of",Import,Crustaceans,valor,158855,197337,280495,309869,412460,403602,511147,584345,520258,478247,503557,630489,672378,683665,914137,927186
+Asia,"Korea, Republic of",Import,Fish,valor,996186,1176287,1298986,1311418,1437050,1507074,1682532,1859266,1814522,1649344,1981074,2363599,2197365,2131932,2259573,2346617
+Asia,Kuwait,Export,Crustaceans,valor,5014,3096,4426,1616,2122,748,2925,1898,1999,1871,872,537,201,167,2,752
+Asia,Kuwait,Export,Fish,valor,0,49,40,306,43,41,1000,334,610,673,1088,865,565,926,29,572
+Asia,Kuwait,Import,Crustaceans,valor,2304,1831,2828,10114,5920,4558,10495,16843,13917,12634,21093,28499,24425,33109,51350,53528
+Asia,Kuwait,Import,Fish,valor,23244,21704,20545,32133,27089,32598,45942,56658,61387,77396,69018,81487,96056,103812,119050,145644
+Asia,Kyrgyzstan,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,6,24,0,0,0,0,0,0
+Asia,Kyrgyzstan,Export,Fish,valor,48,0,1,0,12,0,18,218,357,375,123,2,0,0,1,87
+Asia,Kyrgyzstan,Import,Crustaceans,valor,15,1,29,12,24,54,64,32,29,82,29,44,35,70,154,18
+Asia,Kyrgyzstan,Import,Fish,valor,1851,1166,1208,1689,1921,1915,2967,4547,6459,7632,8903,11583,14604,15769,17529,9999
+Asia,Lao People's Dem. Rep.,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,0,20,7,0,48
+Asia,Lao People's Dem. Rep.,Export,Fish,valor,23,64,12,12,12,17,3,3,6,7,12,10,7,13,20,40
+Asia,Lao People's Dem. Rep.,Import,Crustaceans,valor,269,400,154,239,33,159,173,76,439,54,86,169,375,482,605,692
+Asia,Lao People's Dem. Rep.,Import,Fish,valor,1790,1628,1465,2020,2194,2666,2659,3204,3074,3310,3313,4942,5571,5870,7113,10345
+Asia,Lebanon,Export,Crustaceans,valor,35,11,12,8,52,16,22,52,132,203,90,104,242,297,102,65
+Asia,Lebanon,Export,Fish,valor,77,99,209,717,583,959,1619,2680,4296,6023,2588,2516,2047,2462,2511,2620
+Asia,Lebanon,Import,Crustaceans,valor,5152,7138,6699,6968,7553,8675,7258,10860,11710,15898,17040,22175,20203,17482,27065,24516
+Asia,Lebanon,Import,Fish,valor,35399,44422,36015,35826,44183,44746,53296,60096,71945,77568,92066,96169,107931,117558,122950,112750
+Asia,Malaysia,Export,Crustaceans,valor,105274,116978,208200,127631,338305,358820,319605,368610,383003,313535,439173,494660,419281,376027,443156,273291
+Asia,Malaysia,Export,Fish,valor,53278,61632,94855,73272,130793,154317,182678,217368,249122,240620,265238,281907,285092,272577,280064,266361
+Asia,Malaysia,Import,Crustaceans,valor,58402,69852,80125,90799,197992,171483,150162,178749,118605,155885,206495,260206,277417,228694,321296,190865
+Asia,Malaysia,Import,Fish,valor,220024,234404,279630,252884,301463,316242,371929,403004,403449,441996,479691,613844,671766,692104,651313,566224
+Asia,Maldives,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+Asia,Maldives,Export,Fish,valor,37662,40238,51830,72029,86634,99249,131180,104129,122687,73596,69965,116835,157318,137785,140746,139443
+Asia,Maldives,Import,Crustaceans,valor,0,1470,1677,1897,2451,1752,3158,4696,4391,4045,5064,6187,9329,10910,12820,12756
+Asia,Maldives,Import,Fish,valor,0,608,679,722,986,822,1546,2455,2900,2969,4345,8620,7343,8612,10313,8790
+Asia,Mongolia,Export,Crustaceans,valor,0,0,0,10,0,0,0,0,0,0,0,0,72,0,0,0
+Asia,Mongolia,Export,Fish,valor,222,75,147,152,95,249,231,118,89,70,205,193,144,75,109,134
+Asia,Mongolia,Import,Crustaceans,valor,1,2,3,2,36,6,1,9,0,83,8,11,80,138,12,83
+Asia,Mongolia,Import,Fish,valor,224,354,353,339,208,326,394,775,1102,1087,2673,3912,6129,4269,2823,2409
+Asia,Myanmar,Export,Crustaceans,valor,114942,137546,147927,174236,191287,261662,178155,177408,194082,151645,121008,135730,158445,169157,153591,149462
+Asia,Myanmar,Export,Fish,valor,68765,80745,103607,143146,127227,190295,199796,190417,348070,319357,357751,392885,468453,457554,365814,309045
+Asia,Myanmar,Import,Crustaceans,valor,14,70,144,548,615,696,640,268,1073,1608,2179,3222,2498,2202,4404,5293
+Asia,Myanmar,Import,Fish,valor,421,77,307,789,1137,1341,1619,2284,3174,4163,7612,10966,14020,18822,16036,29139
+Asia,Nepal,Export,Fish,valor,71,27,0,16,42,33,0,0,0,3,4,5,9,4,5,5
+Asia,Nepal,Import,Crustaceans,valor,22,103,122,1,11,25,6,27,34,25,4,3,3,7,20,11
+Asia,Nepal,Import,Fish,valor,283,247,169,343,292,276,571,992,1819,2697,2308,4632,5636,5784,8801,7830
+Asia,Oman,Export,Crustaceans,valor,2342,4520,1524,1011,1059,557,323,245,367,364,945,3147,628,693,404,901
+Asia,Oman,Export,Fish,valor,46559,43098,73800,69247,94342,90837,88623,81070,74454,72848,109856,98490,107692,116413,127274,118116
+Asia,Oman,Import,Crustaceans,valor,1358,2017,2074,2873,2789,3898,4039,4875,5552,6024,6304,8913,10887,9616,11270,10282
+Asia,Oman,Import,Fish,valor,4020,5900,8283,7715,6873,9053,15702,19934,23527,23940,28071,35130,41333,31225,46895,55719
+Asia,Pakistan,Export,Crustaceans,valor,83810,64223,57165,49673,54113,42950,46712,54126,56775,55745,79258,87480,89288,102072,98332,83122
+Asia,Pakistan,Export,Fish,valor,58052,59059,70640,86225,96922,95507,145843,131561,133200,170190,180006,227125,228168,238757,259712,252928
+Asia,Pakistan,Import,Crustaceans,valor,189,116,41,56,214,152,0,191,3,0,9,3,25,71,102,253
+Asia,Pakistan,Import,Fish,valor,61,58,106,240,816,1220,1754,2141,1821,1599,2530,4313,5955,11887,14844,16591
+Asia,"Palestine, Occupied Tr.",Export,Fish,valor,0,0,0,0,0,0,0,244,162,188,83,350,188,370,0,545
+Asia,"Palestine, Occupied Tr.",Import,Crustaceans,valor,0,0,0,0,0,0,0,35,19,2,7,11,245,96,60,212
+Asia,"Palestine, Occupied Tr.",Import,Fish,valor,0,0,0,0,0,0,0,7147,10490,12575,11282,14195,10108,15027,18455,18314
+Asia,Philippines,Export,Crustaceans,valor,169863,161549,179358,163157,150739,139519,141475,136480,113429,105172,128491,138157,128462,155553,229541,166652
+Asia,Philippines,Export,Fish,valor,183025,164451,185097,204189,205866,157958,202837,292058,480785,425968,452516,425879,620419,942865,697772,563426
+Asia,Philippines,Import,Crustaceans,valor,371,1019,2508,1976,4512,3346,2787,1839,3372,3677,4715,9316,13306,13431,18639,11660
+Asia,Philippines,Import,Fish,valor,56342,28809,48198,53506,34693,62120,61431,88166,109478,151288,105406,148971,199525,209236,193326,294209
+Asia,Qatar,Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,249,190,155,0,0,105
+Asia,Qatar,Export,Fish,valor,1586,1907,1983,2019,1625,3350,1993,1434,1325,2292,5271,2816,1159,1875,1417,1675
+Asia,Qatar,Import,Crustaceans,valor,1231,1144,1746,1920,1723,2572,4468,7157,8501,10775,16591,18156,17953,17157,21957,28133
+Asia,Qatar,Import,Fish,valor,4245,5015,5545,4637,5203,9460,13521,16005,30185,36325,41028,39731,58007,49833,55484,64727
+Asia,Saudi Arabia,Export,Crustaceans,valor,4967,6870,5693,19849,20856,34711,34399,46074,48534,54871,95897,44199,28843,18323,48700,68593
+Asia,Saudi Arabia,Export,Fish,valor,3386,3366,3506,5521,7011,10300,11874,13416,12999,16271,20873,26098,22324,20476,20479,20316
+Asia,Saudi Arabia,Import,Crustaceans,valor,12692,15536,13749,12587,12135,16312,20921,22628,15074,19765,33600,51337,71493,70540,104448,90987
+Asia,Saudi Arabia,Import,Fish,valor,91578,111346,111904,114124,160387,177428,207635,210498,207065,198109,314961,412088,545837,543052,555231,520971
+Asia,Singapore,Export,Crustaceans,valor,75891,56427,38943,26415,75805,38416,35392,25311,23319,23346,23257,28878,32877,40318,40796,44505
+Asia,Singapore,Export,Fish,valor,325146,272917,219241,232445,263062,302117,294363,285113,306678,245001,293349,315425,263377,222496,195852,231361
+Asia,Singapore,Import,Crustaceans,valor,103474,80030,84403,104243,171100,132005,143111,154461,168174,165080,183812,218862,221353,251349,276260,257472
+Asia,Singapore,Import,Fish,valor,321408,291731,286137,356511,394960,469726,468122,485917,566954,501506,588806,691136,624965,575539,576658,574054
+Asia,Sri Lanka,Export,Crustaceans,valor,70835,53163,41741,50353,32707,28809,29568,30817,20109,27025,25790,36418,29085,44379,55134,35590
+Asia,Sri Lanka,Export,Fish,valor,61547,45228,38779,45095,56111,73332,107404,134679,148594,150192,137886,147615,161183,181160,197872,135997
+Asia,Sri Lanka,Import,Crustaceans,valor,489,560,533,366,1774,1738,1014,398,608,711,690,812,989,973,1619,1412
+Asia,Sri Lanka,Import,Fish,valor,66900,68997,65662,63264,56595,68404,92204,108326,115437,120034,128594,148764,134775,162695,142103,220306
+Asia,Syrian Arab Republic,Export,Crustaceans,valor,0,0,0,0,0,0,3,0,0,78,0,24,30,28,12,0
+Asia,Syrian Arab Republic,Export,Fish,valor,48,17,47,1,7,65,185,212,266,554,136,581,208,130,200,290
+Asia,Syrian Arab Republic,Import,Crustaceans,valor,28,28,0,39,0,85,110,83,266,391,422,307,315,298,137,27
+Asia,Syrian Arab Republic,Import,Fish,valor,33250,10080,19078,20618,24914,22945,36527,42230,39949,67390,57673,64919,47629,50248,74890,41726
+Asia,Taiwan Province of China,Export,Crustaceans,valor,29318,31428,44490,37488,29127,22546,18337,15511,20557,15272,18827,25723,21763,26365,34180,32548
+Asia,Taiwan Province of China,Export,Fish,valor,1653041,1707972,1518367,1204356,1701734,1562170,1355136,1536710,1438817,1468565,1836930,2149785,2146771,1851040,1635485,1428243
+Asia,Taiwan Province of China,Import,Crustaceans,valor,149857,133101,101336,90512,88125,92349,107328,133007,205887,173127,196709,203044,203938,237004,276977,301782
+Asia,Taiwan Province of China,Import,Fish,valor,178870,156935,147190,155306,149920,166214,161552,192588,256420,292488,337662,375863,414615,403048,486994,515703
+Asia,Tajikistan,Import,Crustaceans,valor,0,0,0,0,1,5,16,2,4,7,21,72,5,2,1,26
+Asia,Tajikistan,Import,Fish,valor,84,199,258,377,368,512,830,998,1309,1060,2928,2793,2805,2043,2515,2135
+Asia,Thailand,Export,Crustaceans,valor,2820540,2366841,1868134,1873015,1827426,1943554,2429817,2526002,2664760,2836435,3312009,3734106,3195863,2328851,2093786,1746493
+Asia,Thailand,Export,Fish,valor,1130997,1297274,1395637,1590381,1701995,2033601,2233250,2493365,3271146,2881502,3166457,3719652,4281170,4040047,3763981,3251305
+Asia,Thailand,Import,Crustaceans,valor,182191,198417,215096,192707,143884,122557,110960,73739,128364,78151,70825,71863,107161,136597,152303,143472
+Asia,Thailand,Import,Fish,valor,465643,675794,729239,794670,993211,1192009,1308879,1538337,2143876,1715797,1880645,2406652,2747010,2652914,2177404,1960937
+Asia,Timor-Leste,Export,Crustaceans,valor,0,0,0,0,2,0,65,60,276,138,160,170,163,163,100,100
+Asia,Timor-Leste,Export,Fish,valor,0,0,0,0,0,2,0,0,3,0,0,4,9,75,0,28
+Asia,Timor-Leste,Import,Crustaceans,valor,0,0,0,0,13,13,11,14,14,193,967,739,332,174,425,66
+Asia,Timor-Leste,Import,Fish,valor,0,0,0,0,305,243,306,424,731,857,2276,3911,4914,4483,5875,4626
+Asia,Turkey,Export,Crustaceans,valor,16458,16429,19926,28303,33575,33949,20593,20613,28417,18411,18047,16880,10997,11321,10919,11457
+Asia,Turkey,Export,Fish,valor,58775,46894,77132,93731,152437,182899,159276,173773,348480,296006,290408,372250,392571,514068,624448,645612
+Asia,Turkey,Import,Crustaceans,valor,338,46,168,407,1161,2854,1925,2474,2223,2672,4298,9740,7053,5697,9335,7522
+Asia,Turkey,Import,Fish,valor,35067,10720,16619,28552,51283,62818,80100,91807,112948,101670,126680,151198,153579,166549,172144,222725
+Asia,Turkmenistan,Export,Crustaceans,valor,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Asia,Turkmenistan,Export,Fish,valor,389,130,176,19,214,103,27,34,115,0,0,0,1,0,0,0
+Asia,Turkmenistan,Import,Crustaceans,valor,9,0,0,1,0,4,4,2,60,13,21,18,26,88,540,198
+Asia,Turkmenistan,Import,Fish,valor,75,130,162,421,520,833,601,857,1840,1465,3572,3962,5505,6624,7997,7074
+Asia,United Arab Emirates,Export,Crustaceans,valor,7882,8915,5983,7804,21876,101205,46120,28690,24065,21898,31584,41585,32807,34845,46368,46133
+Asia,United Arab Emirates,Export,Fish,valor,31820,27314,17545,19695,21488,69989,34137,22919,26324,41182,47840,54215,26620,36255,26813,32026
+Asia,United Arab Emirates,Import,Crustaceans,valor,33252,41626,51449,63140,56500,41838,69438,104009,108112,108253,118513,151523,204735,203554,307269,242983
+Asia,United Arab Emirates,Import,Fish,valor,48724,60671,62914,118602,91789,73951,113284,141790,176006,190755,240840,252699,279847,337711,378326,352497
+Asia,Uzbekistan,Export,Fish,valor,2,71,193,9,28,337,684,3248,2820,3296,4871,3171,663,102,103,45
+Asia,Uzbekistan,Import,Crustaceans,valor,16,9,265,5,7,5,0,3,113,4,54,19,29,98,84,73
+Asia,Uzbekistan,Import,Fish,valor,1305,1348,1163,1050,1395,1929,1065,1875,4101,1349,3426,4631,5777,7564,8480,6999
+Asia,Viet Nam,Export,Crustaceans,valor,732024,1078628,1236890,1425557,1431780,1543197,1612832,1674711,1757453,1775457,2206008,2528035,2321084,3115767,3993537,2984166
+Asia,Viet Nam,Export,Fish,valor,426413,355607,459527,476947,624172,787838,1272510,1620486,2252801,2011584,2322008,2948031,3159924,3030808,3206660,3053099
+Asia,Viet Nam,Import,Crustaceans,valor,22461,28120,76983,77665,107893,86377,67189,64321,94642,74076,68817,167247,178342,252550,498776,447458
+Asia,Viet Nam,Import,Fish,valor,3863,7168,12395,27619,50575,94151,120138,162974,193433,188342,244523,329969,438140,417281,509248,573551
+Asia,Yemen,Export,Crustaceans,valor,2247,2346,2797,9079,5942,5975,17406,3214,3711,1975,1352,2045,3644,5838,6486,3487
+Asia,Yemen,Export,Fish,valor,12010,43098,105535,139367,63141,89078,111362,140059,162683,149963,187690,175869,158784,159700,158750,103356
+Asia,Yemen,Import,Crustaceans,valor,0,1,38,131,40,83,19,2193,46,36,16,35,90,67,65,50
+Asia,Yemen,Import,Fish,valor,5043,5642,6847,4214,3346,5427,8102,7104,10069,8840,14482,13618,21216,31243,30030,20419
+Europe,Albania,Export,Crustaceans,valor,29,354,20,58,6,1,32,33,1,1030,554,961,829,78,947,1453
+Europe,Albania,Export,Fish,valor,4387,5990,8329,13379,16896,1631,1671,1809,2254,28967,30514,31189,31096,34891,32499,33989
+Europe,Albania,Import,Crustaceans,valor,15,13,19,28,18,78,512,615,1351,1171,1625,2803,2308,1980,3203,3583
+Europe,Albania,Import,Fish,valor,4075,5173,9605,11092,13275,14957,15141,15953,22370,24095,22892,25958,22004,27862,28940,30991
+Europe,Andorra,Export,Crustaceans,valor,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,1
+Europe,Andorra,Export,Fish,valor,0,0,0,1,0,46,0,0,1,24,0,20,3,4,0,7
+Europe,Andorra,Import,Crustaceans,valor,2241,1743,1632,2121,2090,1989,1900,1969,2681,2260,2120,2121,1732,1910,2229,4254
+Europe,Andorra,Import,Fish,valor,7517,8426,9834,12113,14034,15647,15438,16147,15244,13199,12831,13905,12650,13450,14008,12721
+Europe,Austria,Export,Crustaceans,valor,182,211,137,186,219,401,2216,3585,4939,4575,2806,7275,8656,8072,5466,4685
+Europe,Austria,Export,Fish,valor,7836,6533,17916,30934,41967,17220,13895,22031,31093,36878,45112,67647,77492,80955,75330,64929
+Europe,Austria,Import,Crustaceans,valor,19435,19413,18005,22408,27547,27403,32724,47178,47323,45470,50070,54299,54169,55188,71075,66750
+Europe,Austria,Import,Fish,valor,127970,147371,162952,204720,241322,228189,265571,351972,378666,364870,367393,442941,434442,487711,499154,427740
+Europe,Belarus,Export,Crustaceans,valor,4920,1930,1692,2725,3406,4030,3368,3622,3014,5161,7327,14417,17188,14291,13334,9018
+Europe,Belarus,Export,Fish,valor,13956,13502,18787,35889,47895,56391,79645,102909,133629,92257,104574,133651,165907,245912,299061,244636
+Europe,Belarus,Import,Crustaceans,valor,4770,2090,1995,2870,3957,4377,4040,5185,6311,7118,10749,15738,17559,21095,20495,10897
+Europe,Belarus,Import,Fish,valor,65912,80018,91493,100380,133398,182328,224768,258433,307521,271167,245128,258784,314898,430820,454709,351834
+Europe,Belgium,Export,Crustaceans,valor,194848,194632,225370,308873,351165,374471,479201,523859,556322,445892,477660,585043,456891,486299,548058,455102
+Europe,Belgium,Export,Fish,valor,242944,299381,314392,408044,452097,481364,524042,549087,585109,518884,532371,549026,489151,499925,535266,506840
+Europe,Belgium,Import,Crustaceans,valor,347015,326160,362059,497101,519891,562460,677279,777786,831425,642083,689678,838684,694747,707909,837431,665969
+Europe,Belgium,Import,Fish,valor,550871,557562,581938,721606,802504,865401,979839,1059148,1148676,1032982,1058522,1148572,1069426,1165244,1264407,1095598
+Europe,Bosnia and Herzegovina,Export,Crustaceans,valor,66,39,0,1,21,23,32,18,21,5,7,4,7,15,40,41
+Europe,Bosnia and Herzegovina,Export,Fish,valor,47,17,141,1080,4326,5341,7046,7566,9826,10315,9650,10078,8220,7622,6379,6739
+Europe,Bosnia and Herzegovina,Import,Crustaceans,valor,565,491,826,126,213,275,254,287,382,297,296,331,308,275,402,469
+Europe,Bosnia and Herzegovina,Import,Fish,valor,8704,12962,14652,16125,19068,26763,25725,30015,35201,32956,29986,30294,31145,31714,35555,28072
+Europe,Bulgaria,Export,Crustaceans,valor,3,1,4,7,25,11,4,271,30,58,369,2412,2837,4352,8963,13079
+Europe,Bulgaria,Export,Fish,valor,1544,2372,2597,4586,3654,4430,8231,7005,8077,10494,19569,19493,19487,24571,21729,22694
+Europe,Bulgaria,Import,Crustaceans,valor,253,322,221,464,554,768,1219,1645,3097,2458,2820,3401,2847,5633,9533,13051
+Europe,Bulgaria,Import,Fish,valor,9110,12251,11211,15902,16655,21383,30502,31754,54958,53477,54856,61621,62201,71741,72842,71272
+Europe,Croatia,Export,Crustaceans,valor,731,816,1088,1477,2034,1932,2265,2459,2812,2601,2207,2284,2107,2360,3952,3560
+Europe,Croatia,Export,Fish,valor,41609,61202,76660,110449,98457,91058,153745,144890,140293,155064,127463,168657,145412,142157,167580,175483
+Europe,Croatia,Import,Crustaceans,valor,2061,2843,3178,4092,4422,4937,5616,8373,8766,6812,7764,10421,12139,9992,11600,11784
+Europe,Croatia,Import,Fish,valor,23160,44462,62371,63075,46775,69560,78748,86372,100614,72724,69779,78694,71208,71075,80644,81127
+Europe,Czechia,Export,Crustaceans,valor,132,255,211,315,251,342,434,901,947,968,1012,1530,2013,2112,2217,2611
+Europe,Czechia,Export,Fish,valor,25329,30426,35129,43433,52681,61899,68637,84171,102391,81611,95969,123976,120543,141205,162584,149926
+Europe,Czechia,Import,Crustaceans,valor,1833,2141,2366,3121,3368,3674,4251,6465,7629,7084,7248,9682,9889,11924,12531,11755
+Europe,Czechia,Import,Fish,valor,63839,73858,77697,84722,99828,122636,138691,164363,204861,180037,190016,225310,227902,256524,281082,256043
+Europe,Denmark,Export,Crustaceans,valor,501875,434583,477678,563354,691135,772584,807122,824041,891000,706909,713233,736648,776766,828183,857462,769561
+Europe,Denmark,Export,Fish,valor,2002252,1942854,2052010,2336661,2501106,2531540,2685785,2854955,3162800,2757270,2840025,3038028,2735199,3129324,3211402,2821984
+Europe,Denmark,Import,Crustaceans,valor,366825,313702,337639,399639,469924,527652,537955,550409,605180,487403,475475,557903,547722,584870,647510,582210
+Europe,Denmark,Import,Fish,valor,1340986,1309372,1331486,1494974,1634818,1803770,1981067,1972485,2141796,1959824,2161035,2223248,2026050,2423629,2521564,2206393
+Europe,Estonia,Export,Crustaceans,valor,12679,3257,4103,6559,5182,7895,16135,19406,23764,20820,42786,51034,51600,38869,28654,27121
+Europe,Estonia,Export,Fish,valor,63225,121724,123494,133992,110218,117167,111847,111594,118456,113752,135755,160668,191273,211326,211888,159588
+Europe,Estonia,Import,Crustaceans,valor,1456,1813,2606,4892,4696,8004,11634,19078,16804,11072,15310,18581,12624,15167,17683,12600
+Europe,Estonia,Import,Fish,valor,27855,40573,56766,71128,53000,63353,69115,97895,112771,80654,83408,120762,150124,182292,175390,140279
+Europe,Faroe Islands,Export,Crustaceans,valor,30300,41960,32378,34197,25665,17432,17403,21030,27027,22665,18162,19484,19123,12232,20159,20080
+Europe,Faroe Islands,Export,Fish,valor,364085,421056,455843,500723,490985,499850,523683,591321,638235,661742,663026,790175,792628,949089,1017263,926955
+Europe,Faroe Islands,Import,Crustaceans,valor,167,435,858,171,2923,224,467,613,516,422,445,528,476,482,474,1666
+Europe,Faroe Islands,Import,Fish,valor,13595,6430,7071,2956,3672,8612,5906,4604,7392,3533,5130,6819,12278,14603,18654,24756
+Europe,Finland,Export,Crustaceans,valor,333,271,334,421,390,169,188,105,66,219,417,1315,139,268,257,207
+Europe,Finland,Export,Fish,valor,16373,13913,13829,12335,13065,16833,25140,46807,46031,45616,41938,46582,55351,54900,51305,35231
+Europe,Finland,Import,Crustaceans,valor,14693,14527,12871,16284,18776,18342,20284,27559,29658,28745,33086,39345,41511,41655,40850,38664
+Europe,Finland,Import,Fish,valor,86481,93708,108109,132632,160447,168217,209510,259021,279883,280467,325881,387406,363783,442331,436129,339842
+Europe,France,Export,Crustaceans,valor,143583,147856,123625,183923,216905,229223,227734,243507,223991,197913,206842,192305,188660,211737,233207,217871
+Europe,France,Export,Fish,valor,780992,694851,761361,893129,1032522,1095758,1135075,1303925,1413132,1087888,1047725,1142619,1191710,1249733,1128060,1019205
+Europe,France,Import,Crustaceans,valor,776347,773732,792156,938238,1021514,1059457,1092231,1175707,1224812,1109040,1253175,1361082,1256166,1328308,1448721,1229613
+Europe,France,Import,Fish,valor,1869829,1901653,2023152,2361655,2633427,2911075,3276400,3530239,3878165,3779953,3896627,4277439,4004701,4435761,4410577,3824139
+Europe,Germany,Export,Crustaceans,valor,87865,75692,92729,108741,124835,121336,143094,201099,193247,151722,186455,219606,230307,268172,272199,244508
+Europe,Germany,Export,Fish,valor,892748,830892,903388,994055,1107379,1156955,1406447,1769671,1992435,1828181,1912990,2281909,2097919,2260878,2511474,2174541
+Europe,Germany,Import,Crustaceans,valor,289572,288149,232263,270304,309681,350733,384704,502680,510598,528279,600395,676783,667972,672449,811751,678650
+Europe,Germany,Import,Fish,valor,1778927,1893548,1970822,2143864,2269550,2612022,3012572,3392463,3663069,3582266,3640126,4386938,4015447,4290747,4667617,4038179
+Europe,Greece,Export,Crustaceans,valor,3706,4384,5434,6292,15321,14611,17704,17361,14967,10324,14470,15430,10276,14951,16511,18998
+Europe,Greece,Export,Fish,valor,200480,180451,191253,278498,351300,370525,448088,553794,580856,605607,654015,775760,732285,686967,695631,599275
+Europe,Greece,Import,Crustaceans,valor,24891,29728,30405,41964,45311,45655,54460,70009,63101,65199,60216,59819,48274,55154,66665,54068
+Europe,Greece,Import,Fish,valor,162797,159476,185189,219564,275184,267323,315266,376656,382387,345573,321106,342827,308226,297315,316621,255514
+Europe,Hungary,Export,Crustaceans,valor,0,0,0,0,0,12,0,0,0,3,34,63,150,177,232,294
+Europe,Hungary,Export,Fish,valor,4337,4076,3096,4773,3320,16542,2867,1952,1696,1548,6242,10197,13515,13967,19791,19799
+Europe,Hungary,Import,Crustaceans,valor,655,745,821,1272,1142,1134,1372,1572,2665,2826,3065,4064,4509,4682,5543,4549
+Europe,Hungary,Import,Fish,valor,20803,25062,28897,34124,33920,54016,44701,47902,65740,54935,59210,65764,63861,69279,83246,79713
+Europe,Iceland,Export,Crustaceans,valor,136931,142753,153236,171146,179367,145239,123445,120587,236119,180193,121845,127241,111181,96160,116747,125316
+Europe,Iceland,Export,Fish,valor,935752,943492,1023660,1102344,1356106,1456642,1503045,1675991,1684827,1405002,1526629,1827186,1781483,1834026,1792460,1613157
+Europe,Iceland,Import,Crustaceans,valor,48921,42931,49249,55627,81921,65638,56162,66267,56490,46160,52537,59997,39547,32028,53019,88011
+Europe,Iceland,Import,Fish,valor,14034,8718,15948,9653,10833,14720,17254,23332,29448,16279,20875,33805,21520,22756,31664,35429
+Europe,Ireland,Export,Crustaceans,valor,58787,61585,64686,79034,92162,97934,104661,129733,116921,92097,99529,122666,126696,128234,144719,135570
+Europe,Ireland,Export,Fish,valor,205025,270099,274955,269925,288974,260424,239102,274675,296622,291171,311628,361882,459363,396300,458265,397011
+Europe,Ireland,Import,Crustaceans,valor,26727,25992,21499,20365,26545,32115,37825,47292,40040,41686,40958,44959,43738,47014,57341,53418
+Europe,Ireland,Import,Fish,valor,60294,78022,92254,82801,96525,120591,142730,188530,186926,155994,171828,206740,215527,218305,241810,229553
+Europe,Italy,Export,Crustaceans,valor,32857,33963,41369,42043,49063,51022,62375,55186,51387,43694,52168,55297,41539,48603,49707,44902
+Europe,Italy,Export,Fish,valor,243086,238942,271841,288845,345012,399202,471950,507976,534506,477600,454543,495997,445884,515557,547785,505000
+Europe,Italy,Import,Crustaceans,valor,508682,528866,479852,636759,651564,706875,840311,841441,865639,759046,828401,897523,746400,806064,945890,803906
+Europe,Italy,Import,Fish,valor,1531339,1631517,1742426,2126684,2397132,2592451,2868366,3168160,3407872,3270821,3354821,3784930,3480487,3706800,3807179,3438559
+Europe,Latvia,Export,Crustaceans,valor,40,43,42,641,850,438,2660,3168,2702,685,1328,3844,5434,6621,6733,6269
+Europe,Latvia,Export,Fish,valor,47569,102343,117594,128747,104705,128189,154704,150459,206326,159467,158818,192918,232651,261661,212801,164287
+Europe,Latvia,Import,Crustaceans,valor,1321,1703,1993,3530,2836,2887,5060,7917,8158,3783,5068,9154,11265,14206,12530,11761
+Europe,Latvia,Import,Fish,valor,33315,40531,42478,49025,31053,50915,63004,95606,128832,104726,120106,151785,174928,183957,172339,135412
+Europe,Lithuania,Export,Crustaceans,valor,17,53,180,264,582,970,1018,2929,2846,1701,1754,2061,2127,2878,3085,3344
+Europe,Lithuania,Export,Fish,valor,33129,56368,73727,107565,132035,182310,203776,243515,276993,317227,371091,406597,377922,445037,547152,508777
+Europe,Lithuania,Import,Crustaceans,valor,653,963,1856,1948,1747,4063,2762,6338,6856,4350,4797,6272,6752,8429,9910,9651
+Europe,Lithuania,Import,Fish,valor,52704,79101,78011,95086,109964,163829,168023,213963,263225,273998,330900,337645,343383,407854,483240,423895
+Europe,Luxembourg,Export,Crustaceans,valor,7960,6605,4650,4729,5655,3102,1250,4643,4498,3543,3607,4150,3007,2819,3442,2597
+Europe,Luxembourg,Export,Fish,valor,14076,11352,18949,16831,13618,11627,13109,7560,11607,13858,13835,12886,10092,11749,12478,10135
+Europe,Luxembourg,Import,Crustaceans,valor,16349,16219,11684,19504,17326,14987,15853,17435,19327,19745,20207,22590,22483,21882,24097,20565
+Europe,Luxembourg,Import,Fish,valor,45044,41703,46103,51513,55527,54809,59223,61643,69761,67410,69271,76393,73800,80496,88168,75745
+Europe,"Macedonia, Fmr Yug Rp of",Export,Crustaceans,valor,0,1,0,0,0,0,0,0,0,0,6,21,55,55,89,52
+Europe,"Macedonia, Fmr Yug Rp of",Export,Fish,valor,77,57,27,151,151,87,33,412,793,822,612,735,299,336,420,253
+Europe,"Macedonia, Fmr Yug Rp of",Import,Crustaceans,valor,168,140,99,139,181,263,222,302,566,377,387,399,314,278,542,387
+Europe,"Macedonia, Fmr Yug Rp of",Import,Fish,valor,6310,6135,8599,9496,10911,10974,14987,18903,21219,18698,17379,21481,19688,20336,22360,20566
+Europe,Malta,Export,Crustaceans,valor,0,18,12,61,1,36,12,37,361,0,14,0,6,23,15,40
+Europe,Malta,Export,Fish,valor,7708,13174,40925,36214,17127,11698,64194,49742,93497,20487,89228,77518,104312,139399,129852,132681
+Europe,Malta,Import,Crustaceans,valor,1478,1505,1475,2048,2033,2343,2477,2627,2362,2430,1987,1986,2032,2465,2863,2328
+Europe,Malta,Import,Fish,valor,12294,17312,15782,23317,24006,21337,23088,30309,43819,41359,33950,43454,79774,51138,84075,58009
+Europe,"Moldova, Republic of",Export,Crustaceans,valor,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0
+Europe,"Moldova, Republic of",Export,Fish,valor,5,9,440,0,0,41,3,3,6,4,8,5,4,0,0,0
+Europe,"Moldova, Republic of",Import,Crustaceans,valor,13,20,46,92,164,339,475,723,1336,902,1149,1631,1948,1613,1786,1404
+Europe,"Moldova, Republic of",Import,Fish,valor,3468,8128,9111,8540,12710,17558,21425,30264,46416,37048,39626,44606,48725,50979,47370,34585
+Europe,Montenegro,Export,Crustaceans,valor,0,0,0,0,0,0,104,0,149,149,1,3,0,0,0,0
+Europe,Montenegro,Export,Fish,valor,0,0,0,0,0,0,808,792,205,1298,589,224,18,10,41,3
+Europe,Montenegro,Import,Crustaceans,valor,0,0,0,0,0,0,644,1016,1230,1005,1008,1299,1276,1640,1701,1467
+Europe,Montenegro,Import,Fish,valor,0,0,0,0,0,0,5417,8716,10280,9366,9431,10383,9712,12321,12403,10593
+Europe,Netherlands,Export,Crustaceans,valor,306581,364476,376128,461432,522491,551330,609765,709154,723658,761634,793613,847709,810394,726281,859562,711649
+Europe,Netherlands,Export,Fish,valor,875160,887318,1235650,1442153,1629313,1990523,1871261,2221352,2304466,2028186,2040758,2289045,2269398,2366386,2721255,2515351
+Europe,Netherlands,Import,Crustaceans,valor,284940,289319,288538,339730,316438,360307,388287,445482,593057,637942,657182,712186,694199,627833,874034,657153
+Europe,Netherlands,Import,Fish,valor,783850,810775,903526,1183093,1349138,1553312,1702874,1962278,2082705,1929268,1920173,2274020,2218329,2293187,2528387,2167554
+Europe,Norway,Export,Crustaceans,valor,184194,149003,142224,147100,158660,162984,148481,134962,192741,135767,132049,155697,136324,76917,94356,116881
+Europe,Norway,Export,Fish,valor,3259537,3133741,3301445,3364762,3860791,4614956,5230820,5928749,6556499,6783816,8508859,9102041,8585265,10101144,10502451,8823532
+Europe,Norway,Import,Crustaceans,valor,74571,61223,63669,64795,89410,85209,76826,115691,116130,104716,117076,149684,152171,159826,171705,161086
+Europe,Norway,Import,Fish,valor,356692,409849,367163,263142,303275,295301,352324,442881,451413,398037,348712,498267,455728,359410,423866,360462
+Europe,Poland,Export,Crustaceans,valor,21656,18339,18029,21946,26189,24618,25439,32781,29564,23831,20004,17700,18008,23048,22547,16016
+Europe,Poland,Export,Fish,valor,212955,218837,222241,283622,406050,595245,770341,899227,1126611,1067214,1357299,1535140,1502181,1710360,1930811,1669001
+Europe,Poland,Import,Crustaceans,valor,14169,14160,14001,18370,26788,20039,22003,29779,35179,26993,33459,33880,39593,47043,59517,55962
+Europe,Poland,Import,Fish,valor,278730,338488,304293,347651,530747,660426,808344,934557,1177421,1129001,1441948,1531138,1520977,1886387,2039748,1738819
+Europe,Portugal,Export,Crustaceans,valor,53634,40642,33386,39108,37211,45610,46469,65983,102176,68227,94323,106891,90112,79064,106436,129357
+Europe,Portugal,Export,Fish,valor,209755,204437,227839,262361,348663,352573,459800,517179,535342,473431,624345,729184,729475,807403,830499,733127
+Europe,Portugal,Import,Crustaceans,valor,108414,111958,114914,130398,143918,158636,170088,188565,217402,206335,233381,237642,213784,213260,300266,256580
+Europe,Portugal,Import,Fish,valor,680786,738961,741861,846964,997419,1030612,1188508,1453911,1447509,1167968,1300745,1474076,1402609,1485213,1502517,1409652
+Europe,Romania,Export,Crustaceans,valor,3,0,7,0,27,7,13,101,149,86,72,323,246,12,121,259
+Europe,Romania,Export,Fish,valor,2270,1741,1654,1277,1607,1377,289,1277,1917,5299,6166,12244,10602,14187,14872,13207
+Europe,Romania,Import,Crustaceans,valor,437,560,484,641,1098,1996,2308,4544,6446,4735,5403,6827,7292,8791,10138,9826
+Europe,Romania,Import,Fish,valor,18959,24793,30291,45007,58549,84695,104791,124467,178265,163609,158247,154414,165834,188852,206982,195416
+Europe,Russian Federation,Export,Crustaceans,valor,252459,239469,240964,269891,190629,211295,214976,319014,288822,262437,269012,316281,305039,355298,560929,550202
+Europe,Russian Federation,Export,Fish,valor,1224218,1275407,1129435,1176792,1294713,1676403,1840524,1975730,2228682,1965404,2467495,2860210,2827770,3088185,3104594,2940880
+Europe,Russian Federation,Import,Crustaceans,valor,4534,14164,29001,41103,45133,86750,126869,203963,246697,187418,239181,309664,291685,390848,388481,158148
+Europe,Russian Federation,Import,Fish,valor,167400,280707,364993,466192,685666,982937,1209216,1655124,1961353,1655983,1961794,2218814,2341625,2751661,2425049,1369578
+Europe,Serbia,Export,Crustaceans,valor,0,0,0,0,0,0,7,0,8,13,3,5,1,0,1,10
+Europe,Serbia,Export,Fish,valor,0,0,0,0,0,0,1044,1545,1862,1926,2024,1971,2801,3657,5766,4943
+Europe,Serbia,Import,Crustaceans,valor,0,0,0,0,0,0,625,1007,1252,788,730,1048,913,1020,1341,911
+Europe,Serbia,Import,Fish,valor,0,0,0,0,0,0,57936,79202,93360,71025,60267,91488,89326,78578,81678,60895
+Europe,Serbia and Montenegro,Export,Crustaceans,valor,93,92,0,39,36,0,0,0,0,0,0,0,0,0,0,0
+Europe,Serbia and Montenegro,Export,Fish,valor,204,273,301,155,604,677,0,0,0,0,0,0,0,0,0,0
+Europe,Serbia and Montenegro,Import,Crustaceans,valor,124,244,250,292,560,672,0,0,0,0,0,0,0,0,0,0
+Europe,Serbia and Montenegro,Import,Fish,valor,10985,23033,29448,27510,50201,50539,0,0,0,0,0,0,0,0,0,0
+Europe,Slovakia,Export,Crustaceans,valor,1,0,0,0,2,0,0,30,43,22,93,172,129,163,79,118
+Europe,Slovakia,Export,Fish,valor,1764,1630,2317,3213,5457,4623,5613,6464,7550,4813,9285,12275,9279,15953,25397,11016
+Europe,Slovakia,Import,Crustaceans,valor,177,143,233,295,330,595,1035,2317,2401,1703,1103,1099,1690,1856,1563,1541
+Europe,Slovakia,Import,Fish,valor,25180,27152,31093,32567,38850,44404,64033,56561,66996,64607,75993,85330,83941,92070,117592,97993
+Europe,Slovenia,Export,Crustaceans,valor,73,35,25,99,116,147,309,707,509,1008,331,418,560,479,782,687
+Europe,Slovenia,Export,Fish,valor,5563,5257,5878,6930,9376,31092,16660,13822,21286,21650,20993,23951,22052,24375,27531,22159
+Europe,Slovenia,Import,Crustaceans,valor,2663,2592,2918,3226,3646,4172,4979,6656,7714,6889,5704,6170,5467,5541,7591,6710
+Europe,Slovenia,Import,Fish,valor,16881,19126,22292,25521,34532,56234,46687,49925,62563,61326,59522,69940,64213,70444,72298,63991
+Europe,Spain,Export,Crustaceans,valor,152127,177685,196279,247209,248612,187808,240527,303112,274400,298653,310934,366784,334486,379432,406152,403248
+Europe,Spain,Export,Fish,valor,1133729,1275677,1298699,1494686,1773896,1842333,2037985,2266045,2500662,2226990,2321330,2982501,2787130,2816567,2767891,2463542
+Europe,Spain,Import,Crustaceans,valor,965723,971659,940115,1213292,1254796,1376410,1627970,1617133,1650745,1273039,1490428,1613501,1272749,1335206,1548530,1417944
+Europe,Spain,Import,Fish,valor,1683791,1914603,2042506,2546239,2687497,2881753,3317248,3799678,3848716,3412961,3481264,3839280,3551862,3684368,3830541,3482270
+Europe,Sweden,Export,Crustaceans,valor,20313,19634,25511,28021,34369,33606,32522,46024,45955,33105,38980,42305,36781,41034,46000,33488
+Europe,Sweden,Export,Fish,valor,435532,435338,489343,661388,863828,1121419,1500659,1586113,1825092,1976470,2597908,2787913,2816902,3517625,3811066,3623920
+Europe,Sweden,Import,Crustaceans,valor,132375,127264,127058,162036,174125,192036,196125,248288,251988,229644,268684,302821,317842,364148,380366,333030
+Europe,Sweden,Import,Fish,valor,565908,593074,665457,863403,1095442,1364666,1786698,2225226,2449702,2332554,2969046,3270107,3247841,4062138,4340416,4031820
+Europe,Switzerland,Export,Crustaceans,valor,137,126,160,195,266,134,74,185,856,963,428,572,632,1279,261,236
+Europe,Switzerland,Export,Fish,valor,2208,2018,2555,3164,4326,3767,4622,5976,6193,6038,6222,8037,6918,8629,7318,6316
+Europe,Switzerland,Import,Crustaceans,valor,68027,72973,52512,65541,72347,73056,82226,101418,102437,100849,111805,137294,121771,132695,166527,130532
+Europe,Switzerland,Import,Fish,valor,260983,265841,269776,298409,334144,350584,391040,432531,475974,462239,487809,552066,531726,610336,605934,557779
+Europe,Ukraine,Export,Crustaceans,valor,2549,7725,965,2325,2674,3077,2888,3503,2867,1257,869,1454,330,993,858,1066
+Europe,Ukraine,Export,Fish,valor,39491,24444,18928,14635,15416,19867,17935,28451,35594,57989,52626,58206,64620,62652,46950,16223
+Europe,Ukraine,Import,Crustaceans,valor,1485,948,1520,2225,2078,8093,20301,31878,40864,23054,25997,37564,38947,43222,27233,6763
+Europe,Ukraine,Import,Fish,valor,109510,95572,86154,105383,129713,261145,420617,492086,671451,504067,416555,548088,737505,911156,629638,307708
+Europe,United Kingdom,Export,Crustaceans,valor,343852,334171,366729,395928,432976,454670,488186,565349,479100,405784,454797,474333,438557,455294,478204,395712
+Europe,United Kingdom,Export,Fish,valor,776742,833689,847804,1073843,1141685,1178785,1206945,1351393,1366370,1436082,1630259,1917637,1758354,1862348,2169639,1666646
+Europe,United Kingdom,Import,Crustaceans,valor,589457,549562,543235,624542,662773,689453,699096,732596,697896,686534,730006,900722,876514,975565,1081740,1005438
+Europe,United Kingdom,Import,Fish,valor,1412679,1485684,1571775,1655944,1920262,2252187,2742357,3137610,3260124,2613149,2668313,3040647,3079108,3230800,3171716,2810551
+Oceania,Australia,Export,Crustaceans,valor,526335,449185,433929,422722,461796,465285,481745,437915,471572,388895,442081,463107,484039,565442,701459,635745
+Oceania,Australia,Export,Fish,valor,269080,267243,288397,274653,234399,233641,216797,270104,251692,236323,265120,306394,277912,216830,216893,243733
+Oceania,Australia,Import,Crustaceans,valor,134996,135362,129594,165568,183458,208941,245875,259264,236254,254438,302080,364809,389475,412424,503517,359092
+Oceania,Australia,Import,Fish,valor,289245,292242,325909,376995,399631,468628,492222,628762,674487,617870,703398,824891,880861,931663,939817,802564
+Oceania,Cook Islands,Export,Fish,valor,115,41,1182,2558,2014,2470,785,1116,794,632,1859,1617,3473,2330,2931,2615
+Oceania,Cook Islands,Import,Crustaceans,valor,22,66,37,55,38,72,78,137,179,180,220,245,323,335,424,300
+Oceania,Cook Islands,Import,Fish,valor,243,351,286,618,310,578,449,538,429,437,604,371,400,489,945,741
+Oceania,Fiji,Export,Crustaceans,valor,27,33,49,57,2,14,25,6,0,2,12,675,23,18,19,16
+Oceania,Fiji,Export,Fish,valor,27111,34016,30717,40150,45151,46026,51293,57489,79080,71568,93487,93310,23564,40279,41441,39956
+Oceania,Fiji,Import,Crustaceans,valor,369,470,457,627,852,1053,920,925,1041,1057,1771,1037,1603,1392,1232,1405
+Oceania,Fiji,Import,Fish,valor,7736,20502,16368,38942,38023,35723,33546,32420,39017,35310,56790,125763,154474,110074,203217,102218
+Oceania,French Polynesia,Export,Crustaceans,valor,0,0,8,0,0,0,0,0,0,0,0,0,0,0,64,0
+Oceania,French Polynesia,Export,Fish,valor,5762,10866,9095,6269,4095,4393,5235,5604,3322,5995,7048,6962,14225,11639,12933,13977
+Oceania,French Polynesia,Import,Crustaceans,valor,4073,3864,4091,5283,4918,6276,7543,7409,6875,6868,6773,4197,4526,3351,5238,2825
+Oceania,French Polynesia,Import,Fish,valor,4032,4398,4908,5638,6166,7575,8155,7974,8942,8348,7731,8146,9507,8309,8931,7422
+Oceania,Kiribati,Export,Crustaceans,valor,42,93,110,61,28,161,120,3,0,0,0,216,0,0,0,0
+Oceania,Kiribati,Export,Fish,valor,5571,3262,3622,3489,3994,4524,5198,13087,15526,25470,28503,46973,63010,72449,133276,121362
+Oceania,Kiribati,Import,Crustaceans,valor,57,0,1,11,3,6,14,7,0,4,0,0,25,0,16,19
+Oceania,Kiribati,Import,Fish,valor,312,128,309,798,389,1113,784,1103,642,566,534,1082,876,650,676,424
+Oceania,Marshall Islands,Export,Crustaceans,valor,0,2,9,0,3,1,1,18,0,14,13,29,41,33,90,12
+Oceania,Marshall Islands,Export,Fish,valor,2696,8090,16055,16098,28866,30041,17761,27602,44614,44857,53684,89134,126088,119719,96006,72163
+Oceania,Marshall Islands,Import,Crustaceans,valor,3,4,21,42,95,1,1,12,3,4,364,11,21,134,188,50
+Oceania,Marshall Islands,Import,Fish,valor,188,184,328,665,728,617,526,922,1392,1612,1958,1906,5314,3605,5598,2634
+Oceania,"Micronesia, Fed.States of",Export,Crustaceans,valor,0,0,12,1,0,0,0,0,0,0,0,0,0,1,0,0
+Oceania,"Micronesia, Fed.States of",Export,Fish,valor,27137,27040,26112,28017,29338,24910,9995,20638,26566,24178,27932,39180,63045,36024,54070,67294
+Oceania,"Micronesia, Fed.States of",Import,Crustaceans,valor,125,5,1,5,126,6,3,7,8,10,11,14,7,34,20,84
+Oceania,"Micronesia, Fed.States of",Import,Fish,valor,2103,2149,2439,3275,3686,2656,1893,1781,3137,3932,5223,7940,15406,13160,9143,7803
+Oceania,New Caledonia,Export,Crustaceans,valor,12757,14610,16500,17006,23365,24800,27466,17544,19727,15487,11906,10556,12331,14509,15938,11198
+Oceania,New Caledonia,Export,Fish,valor,4675,6204,4528,7615,4538,4196,2740,2620,3624,5228,5416,4780,4839,3380,3195,4417
+Oceania,New Caledonia,Import,Crustaceans,valor,193,168,153,208,207,481,300,410,574,367,285,433,320,379,393,246
+Oceania,New Caledonia,Import,Fish,valor,3143,3767,3830,5000,5579,6177,7762,7667,10088,6809,9564,8866,10180,10059,9826,9258
+Oceania,New Zealand,Export,Crustaceans,valor,70358,64732,71454,77515,75450,94851,98492,105824,135006,128457,177664,192504,200412,222214,241942,232042
+Oceania,New Zealand,Export,Fish,valor,424194,410396,445010,433816,474463,471946,492095,525337,496589,513625,598151,644104,709000,682628,653591,590946
+Oceania,New Zealand,Import,Crustaceans,valor,12485,10074,12735,14024,16909,22229,22042,29114,28692,24135,32127,38234,40443,46382,56265,45060
+Oceania,New Zealand,Import,Fish,valor,28772,32903,31522,30534,36386,45133,50324,57258,73832,66562,72263,85642,86079,86427,107315,101488
+Oceania,Palau,Export,Fish,valor,341,388,302,206,188,386,652,689,203,131,238,95,159,295,503,458
+Oceania,Palau,Import,Crustaceans,valor,7,11,14,11,95,28,232,399,284,319,387,459,480,516,790,789
+Oceania,Palau,Import,Fish,valor,159,214,233,199,252,278,409,828,1011,968,839,900,1249,1172,1096,1283
+Oceania,Papua New Guinea,Export,Crustaceans,valor,9384,9563,8118,8796,5801,7337,4789,7535,7217,2233,4452,4397,2142,3525,7183,8776
+Oceania,Papua New Guinea,Export,Fish,valor,45446,67622,79470,107060,76945,68339,84529,114519,137403,146457,120995,160257,113595,146828,125222,138717
+Oceania,Papua New Guinea,Import,Crustaceans,valor,14,78,48,52,41,19,24,32,45,122,79,169,219,600,348,766
+Oceania,Papua New Guinea,Import,Fish,valor,10983,5961,8823,9729,12418,10655,17703,21415,27793,26689,24765,25023,21985,31579,37648,44424
+Oceania,Samoa,Export,Crustaceans,valor,4,10,2,1,0,0,0,0,0,0,0,0,0,1,0,0
+Oceania,Samoa,Export,Fish,valor,7418,14916,12793,7084,10548,9419,8126,8735,5581,7624,13147,7793,7989,5542,2520,13428
+Oceania,Samoa,Import,Crustaceans,valor,4,37,64,61,98,112,129,151,145,110,134,178,121,268,347,256
+Oceania,Samoa,Import,Fish,valor,8182,3501,3797,4649,4406,4412,5869,6294,6384,4746,5576,6255,6676,7097,6159,8198
+Oceania,Solomon Islands,Export,Crustaceans,valor,36,65,4,5,6,6,6,45,89,46,24,0,0,0,0,0
+Oceania,Solomon Islands,Export,Fish,valor,11616,12758,8409,13916,13756,11184,22379,20792,19342,18321,18374,21969,39439,34594,48511,37307
+Oceania,Solomon Islands,Import,Crustaceans,valor,226,10,31,18,25,36,110,83,0,0,0,60,124,177,264,131
+Oceania,Solomon Islands,Import,Fish,valor,109,263,1057,311,527,591,1691,2235,2426,2185,3572,2444,1842,4433,2129,1974
+Oceania,Tonga,Export,Crustaceans,valor,661,6,57,23,60,2,5,0,8,0,16,1,0,0,0,1
+Oceania,Tonga,Export,Fish,valor,2915,1184,5151,4399,2919,2158,3466,2198,2200,1991,2530,3998,2572,1448,3328,4112
+Oceania,Tonga,Import,Crustaceans,valor,89,51,21,20,28,59,51,75,181,204,226,261,186,265,200,134
+Oceania,Tonga,Import,Fish,valor,908,1127,1126,1243,1333,1376,1201,2062,1071,1362,1247,1859,1141,1409,1619,1611
+Oceania,Tuvalu,Export,Crustaceans,valor,12,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+Oceania,Tuvalu,Export,Fish,valor,300,300,623,1121,1282,1786,2910,3437,2923,2937,11667,8890,14378,18561,8317,5486
+Oceania,Tuvalu,Import,Crustaceans,valor,0,0,0,0,2,0,0,1,15,0,7,16,7,3,9,8
+Oceania,Tuvalu,Import,Fish,valor,11,2,29,14,76,95,57,102,105,46,158,174,53,168,77,300
+Oceania,Vanuatu,Export,Crustaceans,valor,13,16,2,9,3,2,3,0,0,0,14,1,0,78,26,3
+Oceania,Vanuatu,Export,Fish,valor,58712,33678,44922,51715,74624,83313,72455,84101,67370,69117,60119,45197,67653,60596,73608,89568
+Oceania,Vanuatu,Import,Crustaceans,valor,79,35,36,32,74,77,53,142,166,274,278,288,205,505,681,230
+Oceania,Vanuatu,Import,Fish,valor,1354,388,660,1563,1244,1601,2148,2439,2933,2993,2877,4463,4022,4523,4753,4796
