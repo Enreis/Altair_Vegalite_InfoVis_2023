@@ -4,6 +4,6 @@ Avaliação de trabalho prático utilizando a ferramenta Altair na disciplina In
 ## Conteúdo ##
 
 1. [Apresentação de dataset na fonte Kaggle](https://www.kaggle.com/datasets/zhengtzer/global-fisheries-aquaculture-department)
-2. [visualização no Colab](https://colab.research.google.com/drive/1fRVW-jmoFbuM8uQ3yPExrO81CeWNYVTn?authuser=0#scrollTo=BU5Ndslf64ZA) 
+2. [visualização no Colab](https://colab.research.google.com/drive/1z7iN-qwBqCXkj5ildIgjELxti_LB80zr?usp=sharing) 
 
     
